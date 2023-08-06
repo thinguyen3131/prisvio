@@ -19,17 +19,16 @@ class UserSerializer(serializers.ModelSerializer):
         return user
 
 class UserCloneSerializer(serializers.ModelSerializer):
-    parent_id = serializers.PrimaryKeyRelatedField(queryset=User.objects.all(), required=False)
+    parent_id = serializers.PrimaryKeyRelatedField(queryset=User.objects.all(), required=False, allow_null=True)
 
     class Meta:
         model = User
-        fields = ['id', 'username', 'email', 'phone_number', 'password', 'role', 'gender', 'marital_status', 'parent_id']
+        fields = ['id', 'username', 'email', 'phone_number', 'password', 'role', 'gender', 'marital_status', 'parent_id', 'business_admin']
         extra_kwargs = {'password': {'write_only': True}}
 
     def create(self, validated_data):
         parent_id = validated_data.pop('parent_id', None)
         password = validated_data.get('password')
-
         # Create a new user with the provided data
         user = User.objects.create(**validated_data)
 

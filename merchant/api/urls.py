@@ -1,12 +1,9 @@
 from django.urls import include, path
+from rest_framework.routers import DefaultRouter
+from .views import MerchantViewSet
 
-from rest_framework_extensions.routers import ExtendedSimpleRouter
-
-from merchant.api.viewsets import MerchantViewSet
-
-router = ExtendedSimpleRouter()
-
-router.register(r'merchants', MerchantViewSet, basename='merchant')
+router = DefaultRouter()
+router.register(r'merchants', MerchantViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),

@@ -1,14 +1,16 @@
 from rest_framework import status
-from rest_framework.decorators import api_view
+from rest_framework.decorators import api_view, permission_classes
 from rest_framework.response import Response
 from django.contrib.auth import authenticate, login
 from rest_framework_simplejwt.tokens import RefreshToken
 from django.contrib.auth import get_user_model
-from .serializers import UserSerializer, UserCloneSerializer, ChangePasswordSerializer
+from .serializers import UserSerializer, UserCloneSerializer, ChangePasswordSerializer, ForgotPasswordSerializer
 from django.core.mail import send_mail
 from django.conf import settings
 import jwt
 from datetime import datetime, timedelta
+from prisvio.permissions import IsAdminUserOrReadOnly, IsBusinessAdminOrAdmin
+from rest_framework.permissions import IsAuthenticated
 
 User = get_user_model()
 
@@ -79,6 +81,7 @@ def generate_unique_username(username):
         index += 1
 
 @api_view(['POST'])
+@permission_classes([IsAuthenticated, IsAdminUserOrReadOnly])
 def clone_user(request):
     parent_id = request.data.get('parent_id')
     password = request.data.get('password')
@@ -108,9 +111,9 @@ def clone_user(request):
         'role': parent_user.role,
         'gender': parent_user.gender,
         'marital_status': parent_user.marital_status,
-        'parent_id': parent_user,
+        'parent_id': parent_id,
+        'business_admin': True,
     }
-
     serializer = UserCloneSerializer(data=data)
     if serializer.is_valid():
         user = serializer.save()
@@ -120,55 +123,55 @@ def clone_user(request):
 
     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
-@api_view(['POST'])
-def change_password(request):
-    serializer = ChangePasswordSerializer(data=request.data)
+# @api_view(['POST'])
+# def change_password(request):
+#     serializer = ChangePasswordSerializer(data=request.data)
 
-    if serializer.is_valid():
-        user = request.user
+#     if serializer.is_valid():
+#         user = request.user
 
-        # Check if the old password is correct
-        old_password = serializer.validated_data.get('old_password')
-        if not user.check_password(old_password):
-            return Response({'error': 'Old password is incorrect'}, status=status.HTTP_400_BAD_REQUEST)
+#         # Check if the old password is correct
+#         old_password = serializer.validated_data.get('old_password')
+#         if not user.check_password(old_password):
+#             return Response({'error': 'Old password is incorrect'}, status=status.HTTP_400_BAD_REQUEST)
 
-        # Set the new password and save the user
-        new_password = serializer.validated_data.get('new_password')
-        user.set_password(new_password)
-        user.save()
+#         # Set the new password and save the user
+#         new_password = serializer.validated_data.get('new_password')
+#         user.set_password(new_password)
+#         user.save()
 
-        return Response({'message': 'Password updated successfully'}, status=status.HTTP_200_OK)
+#         return Response({'message': 'Password updated successfully'}, status=status.HTTP_200_OK)
 
-    return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+#     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
-@api_view(['POST'])
-def forgot_password(request):
-    serializer = ForgotPasswordSerializer(data=request.data)
+# @api_view(['POST'])
+# def forgot_password(request):
+#     serializer = ForgotPasswordSerializer(data=request.data)
 
-    if serializer.is_valid():
-        email = serializer.validated_data.get('email')
-        try:
-            user = User.objects.get(email=email)
-        except User.DoesNotExist:
-            return Response({'error': 'User with the given email does not exist'}, status=status.HTTP_404_NOT_FOUND)
+#     if serializer.is_valid():
+#         email = serializer.validated_data.get('email')
+#         try:
+#             user = User.objects.get(email=email)
+#         except User.DoesNotExist:
+#             return Response({'error': 'User with the given email does not exist'}, status=status.HTTP_404_NOT_FOUND)
 
-        # Create a JWT token containing the user's email
-        token_payload = {
-            'email': user.email,
-            'exp': datetime.utcnow() + timedelta(hours=1),  # Token expiration time (1 hour in this case)
-        }
-        token = jwt.encode(token_payload, settings.SECRET_KEY, algorithm='HS256')
+#         # Create a JWT token containing the user's email
+#         token_payload = {
+#             'email': user.email,
+#             'exp': datetime.utcnow() + timedelta(hours=1),  # Token expiration time (1 hour in this case)
+#         }
+#         token = jwt.encode(token_payload, settings.SECRET_KEY, algorithm='HS256')
 
-        # Send the reset password link to the user's email
-        reset_password_link = f'http://your-domain/reset_password?token={token}'
-        send_mail(
-            'Reset Your Password',
-            f'Click the link below to reset your password:\n\n{reset_password_link}',
-            settings.EMAIL_HOST_USER,
-            [user.email],
-            fail_silently=False,
-        )
+#         # Send the reset password link to the user's email
+#         reset_password_link = f'http://your-domain/reset_password?token={token}'
+#         send_mail(
+#             'Reset Your Password',
+#             f'Click the link below to reset your password:\n\n{reset_password_link}',
+#             settings.EMAIL_HOST_USER,
+#             [user.email],
+#             fail_silently=False,
+#         )
 
-        return Response({'message': 'Password reset link has been sent to your email'}, status=status.HTTP_200_OK)
+#         return Response({'message': 'Password reset link has been sent to your email'}, status=status.HTTP_200_OK)
 
-    return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+#     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

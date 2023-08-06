@@ -81,7 +81,7 @@ def generate_unique_username(username):
         index += 1
 
 @api_view(['POST'])
-@permission_classes([IsAuthenticated, IsAdminUserOrReadOnly])
+@permission_classes([IsAuthenticated])
 def clone_user(request):
     parent_id = request.data.get('parent_id')
     password = request.data.get('password')

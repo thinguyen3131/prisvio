@@ -4,7 +4,7 @@ from menuMerchant.api.views import (CategoryListCreateView, CategoryRetrieveUpda
                                 HashtagRetrieveUpdateDestroyView, ProductListCreateView,
                                 ProductRetrieveUpdateDestroyView, PromotionListCreateView,
                                 PromotionRetrieveUpdateDestroyView, ServiceListCreateView,
-                                ServiceRetrieveUpdateDestroyView)
+                                ServiceRetrieveUpdateDestroyView, ParentIDListView)
 
 urlpatterns = [
     path('hashtags/', HashtagListCreateView.as_view(), name='hashtag-list-create'),
@@ -17,4 +17,5 @@ urlpatterns = [
     path('services/<int:pk>/', ServiceRetrieveUpdateDestroyView.as_view(), name='service-detail'),
     path('categories/', CategoryListCreateView.as_view(), name='category-list-create'),
     path('categories/<int:pk>/', CategoryRetrieveUpdateDestroyView.as_view(), name='category-detail'),
+    path('parent_ids/', ParentIDListView.as_view(), name='parent-id-list'),
 ]

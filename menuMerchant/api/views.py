@@ -65,3 +65,8 @@ class CategoryRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
     queryset = Category.objects.all()
     serializer_class = CategorySerializer
     permission_classes = [IsBusinessAdminOrAdmin]
+
+class ParentIDListView(generics.ListAPIView):
+    queryset = Category.objects.filter(parent_id__isnull=False)
+    serializer_class = CategorySerializer
+    permission_classes = [IsBusinessAdminOrAdmin]

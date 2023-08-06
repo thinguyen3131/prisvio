@@ -52,6 +52,8 @@ class User(AbstractBaseUser, PermissionsMixin):
     marital_status = models.CharField(choices=MaritalStatus.choices, max_length=10, null=True)
     is_active = models.BooleanField(default=True)
     is_staff = models.BooleanField(default=False)
+    is_superuser = models.BooleanField(default=False)
+    business_admin = models.BooleanField(default=False)
     date_joined = models.DateTimeField(auto_now_add=True)
     parent = models.ForeignKey('self', on_delete=models.SET_NULL, null=True, blank=True, related_name='users')
 

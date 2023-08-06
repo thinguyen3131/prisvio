@@ -31,6 +31,7 @@ urlpatterns = [
     path('api/schema/redoc/', SpectacularRedocView.as_view(url_name='schema'), name='redoc'),
     path('admin/', admin.site.urls),
     path('users/', include('users.api.urls')),
+    path('merchant/', include('merchant.api.urls')),
 ]
 
 if settings.DEBUG:

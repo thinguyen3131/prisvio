@@ -2,13 +2,9 @@ from django.db import models
 
 # Create your models here.
 from django.conf import settings
-from django.contrib.postgres.fields import ArrayField, JSONField
 from django.db import models
-
 from sonyflake import SonyFlake
 from timezone_field import TimeZoneField
-
-from core.utils import get_machine_id
 from merchant.enums import MerchantCurrency
 
 
@@ -44,26 +40,26 @@ class Merchant(models.Model):
             return self.name
         return f'Merchant ID=[{self.id}]'
 
-    def save(self, *args, **kwargs):
-        if not self.name:
-            self.name = getattr(self.owner, 'brand_name', settings.MERCHANT_DEFAULT_NAME)
+    # def save(self, *args, **kwargs):
+    #     if not self.name:
+    #         self.name = getattr(self.owner, 'brand_name', settings.MERCHANT_DEFAULT_NAME)
 
-        if not self.uid:
-            sf = SonyFlake(machine_id=get_machine_id)
-            self.uid = str(sf.next_id())
+    #     if not self.uid:
+    #         sf = SonyFlake(machine_id=get_machine_id)
+    #         self.uid = str(sf.next_id())
 
-        super().save(*args, **kwargs)
+    #     super().save(*args, **kwargs)
 
 
 class TimeslotCollectionMerchant(models.Model):
-    merchant = models.ForeignKey('merchant.Merchant',
+    merchant = models.ForeignKey(Merchant,
                                  related_name='timeslotcollection',
                                  on_delete=models.CASCADE,
                                  null=True,
                                  blank=True)
-    weekly = ArrayField(JSONField(null=True, blank=True, default=dict), blank=True, null=True, default=list)
-    daily = ArrayField(JSONField(null=True, blank=True, default=dict), blank=True, null=True, default=list)
-    shifts = ArrayField(JSONField(null=True, blank=True, default=dict), blank=True, null=True, default=list)
+    weekly = models.JSONField(default=list, null=True, blank=True)
+    daily = models.JSONField(default=list, null=True, blank=True)
+    shifts = models.JSONField(default=list, null=True, blank=True)
 
     deleted_at = models.DateTimeField(null=True)
     created_at = models.DateTimeField(auto_now_add=True)
@@ -71,13 +67,13 @@ class TimeslotCollectionMerchant(models.Model):
 
 
 class ExclusionDate(models.Model):
-    merchant = models.ForeignKey('merchant.Merchant',
+    merchant = models.ForeignKey(Merchant,
                                  related_name='exclusion_date',
                                  on_delete=models.CASCADE,
                                  null=True,
                                  blank=True)
     note = models.CharField(max_length=255, blank=True, null=True)
-    dates = ArrayField(models.DateField(null=True, blank=True), blank=True, null=True, default=list)
+    dates = models.DateField(default=list, null=True, blank=True)
     start_time = models.TimeField(null=True, blank=True)
     end_time = models.TimeField(null=True, blank=True)
 

@@ -30,8 +30,7 @@ class MerchantViewSet(viewsets.ModelViewSet):
         # update merchant
         serializer.save()
     
-    @action(detail=True, methods=['DELETE'])
-    @permission_classes([CanDeleteMerchant])  # Use custom permission for delete action
+    @action(detail=True, methods=['DELETE'], permission_classes=[CanDeleteMerchant])
     def delete_merchant(self, request, pk=None):
         merchant = self.get_object()
         merchant.delete()

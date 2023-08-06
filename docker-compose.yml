@@ -1,0 +1,18 @@
+version: "3.9"
+services:
+  db:
+    container_name: prisvo_postgres
+    image: postgres:14.6
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: prisvo
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_PORT: 5432
+      DATABASE_HOST: 127.0.0.1
+    restart: always
+volumes:
+  pgdata:

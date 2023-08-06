@@ -32,6 +32,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('users/', include('users.api.urls')),
     path('merchant/', include('merchant.api.urls')),
+    path('menuMerchant/', include('menuMerchant.api.urls')),
 ]
 
 if settings.DEBUG:

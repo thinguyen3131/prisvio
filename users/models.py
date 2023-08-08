@@ -1,5 +1,8 @@
 from django.db import models
 from django.contrib.auth.models import AbstractBaseUser, PermissionsMixin, BaseUserManager
+from django.db.models import JSONField
+import time
+from datetime import datetime, timedelta
 
 class UserManager(BaseUserManager):
     def create_user(self, username=None, email=None, phone_number=None, password=None, **extra_fields):
@@ -65,3 +68,38 @@ class User(AbstractBaseUser, PermissionsMixin):
 
     def __str__(self):
         return self.username
+
+
+class UserSocialAuth(models.Model):
+    """Custom Social Auth association model"""
+
+    SYNC_START_TIMEDELTA = timedelta(weeks=4)
+    SYNC_END_TIMEDELTA = timedelta(weeks=8)
+
+    user = models.ForeignKey('users.User', related_name='social_data',
+                             on_delete=models.CASCADE)
+    provider = models.CharField(max_length=32)
+    uid = models.CharField(max_length=255, blank=True, null=True)
+    extra_data = JSONField()
+    calendar_data = JSONField(default=dict)
+    subscription_id = models.CharField(max_length=255, null=True, db_index=True)
+
+    @property
+    def email(self) -> str:
+        extra_data = self.extra_data
+        return extra_data.get('email')
+
+    def check_expire_access_token(self):
+        extra_data = self.extra_data
+        auth_time = extra_data.get('auth_time')
+        expires_in = extra_data.get('expires_in')
+        if auth_time and expires_in:
+            expire_day = auth_time + expires_in
+            now = int(time.time())
+            return now > expire_day
+
+        return True
+
+    def access_token(self):
+        extra_data = self.extra_data
+        return extra_data.get('access_token')

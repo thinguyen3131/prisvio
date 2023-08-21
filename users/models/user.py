@@ -3,6 +3,7 @@ from django.contrib.auth.models import AbstractBaseUser, PermissionsMixin, BaseU
 from django.db.models import JSONField
 import time
 from datetime import datetime, timedelta
+from django.utils.translation import gettext_lazy as _
 
 class UserManager(BaseUserManager):
     def create_user(self, username=None, email=None, phone_number=None, password=None, **extra_fields):
@@ -50,6 +51,15 @@ class User(AbstractBaseUser, PermissionsMixin):
     username = models.CharField(unique=True, blank=True, null=True, max_length=150)
     email = models.EmailField(blank=True, null=True, unique=True)
     phone_number = models.CharField(max_length=15, blank=True, null=True, unique=True)
+    verified_email_at = models.DateTimeField(_('Verified Email'), null=True,
+                                             blank=True)
+    verified_phone_number_at = models.DateTimeField(_('Verified Phone Number'), null=True,
+                                                    blank=True)
+
+    first_name = models.CharField(max_length=45, null=True, blank=True)
+    middle_name = models.CharField(max_length=45, null=True, blank=True)
+    last_name = models.CharField(max_length=45, null=True, blank=True)
+    full_name = models.CharField(max_length=100, null=True, blank=True)
     role = models.CharField(choices=Role.choices, max_length=10, null=True)
     gender = models.CharField(choices=Gender.choices, max_length=10, null=True)
     marital_status = models.CharField(choices=MaritalStatus.choices, max_length=10, null=True)

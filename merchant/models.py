@@ -19,6 +19,9 @@ class Merchant(models.Model):
     description = models.CharField(default=None, max_length=255, blank=True, null=True)
     email = models.EmailField(max_length=255, null=True, blank=True)
     phone_number = models.CharField(max_length=45, null=True, blank=True)
+    country_code = models.CharField(max_length=4, null=True, blank=True)
+    country_number = models.CharField(max_length=4, null=True, blank=True)
+    platform_number = models.CharField(max_length=45, null=True, blank=True)
     website = models.CharField(null=True, blank=True, max_length=255)
     timezone = TimeZoneField(default='Asia/Ho_Chi_Minh')
     currency = models.CharField(
@@ -31,8 +34,10 @@ class Merchant(models.Model):
     longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
     location = models.CharField(max_length=255, blank=True, null=True)
     is_active = models.BooleanField(default=True)
-
+    total_available_slot = models.IntegerField(default=0, null=True, blank=True)
+    total_available_slots_unit = models.CharField(max_length=45, null=True, blank=True,)
     deleted_at = models.DateTimeField(null=True)
+    deleted_date = models.DateTimeField(null=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 

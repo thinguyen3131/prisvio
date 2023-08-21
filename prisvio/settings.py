@@ -14,10 +14,11 @@ from pathlib import Path
 from datetime import timedelta
 from decouple import config
 import os
+from kombu import Queue
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
+from core.utils import safe_bool
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
@@ -25,6 +26,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 # SECRET_KEY = 'django-insecure-%#5y-yxkjsjlpbeakt&jo3(mrhjr4sb&kfq*@7)m&=)lihihe5'
 SECRET_KEY = config('SECRET_KEY')
+
+BASE_HOST = config('BASE_HOST')
+BASE_HOST_PROTOCOL = config('BASE_HOST_PROTOCOL', 'https')
+BASE_URL = f'{BASE_HOST_PROTOCOL}://{BASE_HOST}'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -41,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
     # set up environment variables
     'drf_spectacular',
     'drf_spectacular_sidecar',
@@ -51,10 +57,13 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
     'rest_framework_simplejwt.token_blacklist',
     'timezone_field',
+    'tinymce',
+    
     # install apps
     'users',
     'merchant',
     'menuMerchant',
+    'system',
 ]
 
 MIDDLEWARE = [
@@ -231,3 +240,46 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:3001",
 ]
+
+# Celery settings
+RABBITMQ_DEFAULT_USER = config('RABBITMQ_DEFAULT_USER')
+RABBITMQ_DEFAULT_PASS = config('RABBITMQ_DEFAULT_PASS')
+RABBITMQ_DEFAULT_VHOST = config('RABBITMQ_DEFAULT_VHOST', '')
+CELERY_BROKER_URL = f'amqp://{RABBITMQ_DEFAULT_USER}:{RABBITMQ_DEFAULT_PASS}@rabbitmq:5672/' \
+                    f'/{RABBITMQ_DEFAULT_VHOST}'
+CELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', 'rpc://')
+CELERY_ACCEPT_CONTENT = ['json']
+CELERY_TASK_SERIALIZER = 'json'
+CELERY_RESULT_SERIALIZER = 'json'
+CELERY_AMQP_TASK_RESULT_EXPIRES = 1000
+CELERY_TIMEZONE = 'UTC'
+CELERY_ENABLE_UTC = True
+
+CELERY_TASK_DEFAULT_QUEUE = 'default'
+
+CELERY_TASK_CREATE_MISSING_QUEUES = False
+
+CELERY_TASK_QUEUES = (
+    # need to define default queue here or exception would be raised
+    Queue(CELERY_TASK_DEFAULT_QUEUE),
+    Queue('events_queue'),
+)
+
+
+def route_task(name, args, kwargs, options, task=None, **kw):
+    if ':' in name:
+        queue, _ = name.split(':')
+        return {'queue': queue}
+    return {'queue': 'default'}
+
+
+CELERY_TASK_ROUTES = (route_task,)
+
+# email settings
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = config('EMAIL_HOST', 'smtp.gmail.com')
+EMAIL_USE_TLS = True
+EMAIL_PORT = config('EMAIL_PORT', 587)
+EMAIL_HOST_USER = config('EMAIL_HOST_USER')
+EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
+EMAIL_VERIFICATION_CODE_TIMEOUT = config('EMAIL_VERIFICATION_CODE_TIMEOUT', 120)  # 2 minutes

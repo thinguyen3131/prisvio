@@ -15,17 +15,7 @@ from django.utils import timezone
 
 import pytz
 from pytracking.html import adapt_html
-
-# from celery_logs.utils import CeleryDatabaseLogger, inner_func_log_exceptions
-# from core.celery import add_task
-# from core.containers import get_container
-# from core.utils import get_random_string, validate_phone_number
-# from core.utils.constants import DEFAULT_USER_SETTINGS
-# from events.models import Event
-# from events.tasks import subscribe_to_google, subscribe_to_outlook
 from prisvio.celery import app
-# from prism.utils.time_utils import milliseconds
-# from profiletemplate.models import Participant, ProfileTemplate
 from system.enum import EmailTemplateLanguage, SystemConfigFolder, SystemConfigName
 from system.models import  EmailTemplate #, SystemConfig, EmailLog
 # from system.models.email_tracking import EmailTracking

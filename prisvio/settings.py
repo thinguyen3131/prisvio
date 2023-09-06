@@ -64,6 +64,7 @@ INSTALLED_APPS = [
     'merchant',
     'menuMerchant',
     'system',
+    'staff',
 ]
 
 MIDDLEWARE = [

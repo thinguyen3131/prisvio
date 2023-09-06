@@ -3,6 +3,7 @@ from django.contrib.postgres.fields import JSONField
 from django.db import models
 
 from merchant.models import Merchant
+from staff.models import Staff
 
 
 # Create your models here.
@@ -24,6 +25,7 @@ class Category(models.Model):
                               null=True,
                               blank=True,
                               on_delete=models.SET_NULL)
+    deleted_at = models.DateTimeField(null=True, blank=True, default=None)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
@@ -38,9 +40,13 @@ class Promotion(models.Model):
     start_time = models.TimeField(null=True, blank=True)
     end_date = models.DateField(null=True, blank=False)
     end_time = models.TimeField(null=True, blank=True)
-    discount = models.FloatField()
+    discount = models.FloatField(null=True, blank=True, default=None)
     unit = models.CharField(max_length=255, null=True, default=None)
-    quantity = models.IntegerField()
+    quantity = models.IntegerField(null=True, blank=True, default=None)
+    type = models.CharField(max_length=255, null=True, blank=True, default="discount")
+    buy_quantity = models.IntegerField(null=True, blank=True)
+    get_quantity = models.IntegerField(null=True, blank=True)
+    images = models.JSONField(default=list, null=True, blank=True)
     owner = models.ForeignKey(settings.AUTH_USER_MODEL,
                               null=True,
                               blank=True,
@@ -48,6 +54,7 @@ class Promotion(models.Model):
     merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, related_name='promotion')
     products = models.ManyToManyField('Products', blank=True, related_name='promotions')
     services = models.ManyToManyField('Services', blank=True, related_name='promotions')
+    total_bookings = models.IntegerField(default=0, null=True, blank=True)
     all_day = models.BooleanField(default=False)
     is_happy_hour = models.BooleanField(default=False)
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
@@ -63,9 +70,9 @@ class Products(models.Model):
     hashtags = models.ManyToManyField('Hashtag', related_name='products', blank=True)
     quantity = models.IntegerField()
     unit = models.CharField(max_length=255, null=True, default=None)
-    description = models.TextField(default=None)
-    original_price = models.DecimalField(max_digits=10, decimal_places=2, default=0.0, null=True, blank=True)
-    discount_price = models.DecimalField(max_digits=10, decimal_places=2, default=0.0, null=True, blank=True)
+    description = models.TextField(default=None, null=True, blank=True)
+    original_price = models.DecimalField(max_digits=12, decimal_places=2, default=0.0, null=True, blank=True)
+    discount_price = models.DecimalField(max_digits=12, decimal_places=2, default=0.0, null=True, blank=True)
     images = models.JSONField(default=list, null=True, blank=True)
     merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, related_name='products')
     category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, related_name='products')
@@ -73,6 +80,7 @@ class Products(models.Model):
                               null=True,
                               blank=True,
                               on_delete=models.SET_NULL)
+    total_bookings = models.IntegerField(default=0, null=True, blank=True)
     hidden = models.BooleanField(default=False)
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
     created_at = models.DateTimeField(auto_now_add=True)
@@ -91,13 +99,22 @@ class Services(models.Model):
     description = models.TextField(default=None, null=True, blank=True)
     time = models.FloatField()
     time_date = models.CharField(max_length=255, null=True, default=None)
-    fixed = models.BooleanField()
-    price = models.FloatField()
-    avalilable = models.IntegerField()
+    require_staff = models.BooleanField(default=False)
+    original_price = models.DecimalField(max_digits=12, decimal_places=2, default=0.0, null=True, blank=True)
+    discount_price = models.DecimalField(max_digits=12, decimal_places=2, default=0.0, null=True, blank=True)
+    available_slots = models.IntegerField()
+    slots_unit = models.CharField(max_length=50, null=False, blank=True)
+    use_total_available_slots = models.BooleanField(default=False)
+    images = models.JSONField(default=list, null=True, blank=True)
+    hidden = models.BooleanField(default=False)
+    flexible_time = models.BooleanField(default=False)
+    deleted_at = models.DateTimeField(null=True, blank=True, default=None)
+    staff = models.ManyToManyField(Staff, blank=True, related_name='service')
     owner = models.ForeignKey(settings.AUTH_USER_MODEL,
                               null=True,
                               blank=True,
                               on_delete=models.SET_NULL)
+    total_bookings = models.IntegerField(default=0, null=True, blank=True)
     merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, related_name='service')
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)

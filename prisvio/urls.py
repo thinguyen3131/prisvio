@@ -33,6 +33,7 @@ urlpatterns = [
     path('users/', include('users.api.urls')),
     path('merchant/', include('merchant.api.urls')),
     path('menuMerchant/', include('menuMerchant.api.urls')),
+    path('api/booking/', include('booking.api.urls')),
     path('system/', include('system.api.urls')),
 ]
 

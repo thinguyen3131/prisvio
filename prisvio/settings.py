@@ -58,6 +58,7 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt.token_blacklist',
     'timezone_field',
     'tinymce',
+    'fcm_django',
     
     # install apps
     'users',
@@ -103,14 +104,6 @@ WSGI_APPLICATION = 'prisvio.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -287,3 +280,11 @@ EMAIL_PORT = config('EMAIL_PORT', 587)
 EMAIL_HOST_USER = config('EMAIL_HOST_USER')
 EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
 EMAIL_VERIFICATION_CODE_TIMEOUT = config('EMAIL_VERIFICATION_CODE_TIMEOUT', 120)  # 2 minutes
+
+# django-fcm settings
+FCM_DJANGO_SETTINGS = {
+    'APP_VERBOSE_NAME': 'prism',
+    'FCM_SERVER_KEY': config('FCM_SERVER_KEY'),
+    'ONE_DEVICE_PER_USER': False,
+    'DELETE_INACTIVE_DEVICES': False,
+}

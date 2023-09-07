@@ -1,7 +1,5 @@
 from django.urls import resolve, reverse
 
-from prismvio.users.models import User
-
 
 def test_user_list():
     assert reverse("api:user-list") == "/api/users/"

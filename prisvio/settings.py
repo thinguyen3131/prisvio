@@ -65,6 +65,9 @@ INSTALLED_APPS = [
     'menuMerchant',
     'system',
     'staff',
+    'booking',
+    'celery_logs',
+    'notifications',
 ]
 
 MIDDLEWARE = [

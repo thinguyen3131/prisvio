@@ -1,5 +1,4 @@
 from django.conf import settings
-from django.contrib.postgres.fields.jsonb import JSONField
 from django.db import models
 from staff.enums import GenderEnum, InviteStatusEnum, LinkStatusEnum
 

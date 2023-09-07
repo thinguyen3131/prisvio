@@ -5,7 +5,7 @@ from rest_framework import serializers
 from staff.enums import InviteStatusEnum, LinkStatusEnum
 from staff.models import Staff
 from users.models import User
-from vio_booking.tasks import create_staff_booking_event_task
+from booking.tasks import create_staff_booking_event_task
 
 
 class UserSerializer(serializers.ModelSerializer):

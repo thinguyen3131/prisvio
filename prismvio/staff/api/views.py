@@ -7,18 +7,18 @@ from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
-from prismvio.api.staff.serializers import (
+from prismvio.staff.api.serializers import (
     CancelInviteSerializer,
     LinkToStaffSerializer,
     StaffAcceptedInviteSerializer,
     StaffSerializer,
     UnlinkStaffSerializer,
 )
-from prismvio.api.users.serializers import EmailPhoneLookupSerializer, UserDetailSerializer
 from prismvio.staff.constants import STAFF_SORT_FIELDS
 from prismvio.staff.enums import InviteStatusEnum, LinkStatusEnum
 from prismvio.staff.exceptions import MerchantIDNotNullException, StaffDoesNotExists
 from prismvio.staff.models import Staff
+from prismvio.users.api.serializers import EmailPhoneLookupSerializer, UserDetailSerializer
 from prismvio.users.models import User
 from prismvio.users.tasks import invite_new_user
 from prismvio.utils.drf_utils import handle_whitespace

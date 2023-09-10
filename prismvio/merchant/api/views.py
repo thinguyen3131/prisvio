@@ -3,7 +3,7 @@ from rest_framework.decorators import action
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 
-from prismvio.api.permissions import CanDeleteMerchant, IsBusinessAdminOrAdmin
+from prismvio.core.permissions import CanDeleteMerchant, IsBusinessAdminOrAdmin
 from prismvio.merchant.models import Merchant
 
 from .serializers import MerchantSerializer

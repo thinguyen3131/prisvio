@@ -1,8 +1,8 @@
 from rest_framework import generics
 
+from prismvio.core.permissions import IsBusinessAdminOrAdmin
 from prismvio.menu_merchant.models import Category, Hashtag, Products, Promotion, Services
 
-from ..permissions import IsBusinessAdminOrAdmin
 from .serializers import (
     CategorySerializer,
     HashtagSerializer,

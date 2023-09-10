@@ -32,7 +32,10 @@ if settings.DEBUG:
 # API URLS
 urlpatterns += [
     # API base url
-    path("api/", include("prismvio.api.urls")),
+    path("api/user", include("prismvio.users.api.urls")),
+    path("api/merchant", include("prismvio.merchant.api.urls")),
+    path("api/menu_merchant", include("prismvio.menu_merchant.api.urls")),
+    path("api/staff", include("prismvio.staff.api.urls")),
     # DRF auth token
     path("auth-token/", obtain_auth_token),
     path("api/schema/", SpectacularAPIView.as_view(), name="api-schema"),

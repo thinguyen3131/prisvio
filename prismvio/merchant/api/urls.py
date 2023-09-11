@@ -12,8 +12,6 @@ else:
 # ViewSets
 router.register(r"merchants", MerchantViewSet)
 
-app_name = "api"
-
 urlpatterns = [
     path("", include(router.urls)),
 ]

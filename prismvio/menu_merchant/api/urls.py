@@ -21,10 +21,6 @@ if settings.DEBUG:
 else:
     router = SimpleRouter()
 
-# ViewSets
-
-app_name = "api"
-
 # menu_merchant
 urlpatterns = [
     path("hashtags/", HashtagListCreateView.as_view(), name="hashtag-list-create"),

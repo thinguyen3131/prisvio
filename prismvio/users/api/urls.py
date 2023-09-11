@@ -1,8 +1,8 @@
 from django.conf import settings
-from django.urls import include, path
+from django.urls import path
 from rest_framework.routers import DefaultRouter, SimpleRouter
 
-from prismvio.users.api.views import UserViewSet
+from prismvio.users.api.views import SendValidateEmailVerificationCode
 
 if settings.DEBUG:
     router = DefaultRouter()
@@ -10,10 +10,9 @@ else:
     router = SimpleRouter()
 
 # ViewSets
-router.register("users", UserViewSet)
-
-app_name = "api"
+# router.register("users", UserViewSet)
 
 urlpatterns = [
-    path("", include(router.urls)),
+    path("send_email_otp/", SendValidateEmailVerificationCode.as_view(), name="send-email-otp"),
+    # path("", include(router.urls)),
 ]

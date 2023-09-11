@@ -18,7 +18,6 @@ if settings.DEBUG:
 else:
     router = SimpleRouter()
 
-app_name = "api"
 
 # staff
 urlpatterns = [

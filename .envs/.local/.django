@@ -14,8 +14,8 @@ CELERY_FLOWER_USER=debug
 CELERY_FLOWER_PASSWORD=debug
 
 # Email
-----
-EMAIL_HOST=
-EMAIL_PORT=
-EMAIL_HOST_USER=
-EMAIL_HOST_PASSWORD=
+# ----
+EMAIL_HOST='smtp.gmail.com'
+EMAIL_PORT='587'
+EMAIL_HOST_USER='vu.vu@prismtechinc.io'
+EMAIL_HOST_PASSWORD='jgxoeqtgyztnmnjd'

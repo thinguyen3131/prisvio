@@ -1,36 +1,84 @@
-from rest_framework.permissions import SAFE_METHODS, BasePermission
+from django.contrib.auth import get_user_model
+from rest_framework import permissions
+from rest_framework.permissions import BasePermission
+
+User = get_user_model()
 
 
-class IsAdminUserOrReadOnly(BasePermission):
+class IsBusinessAdminOrAdmin(permissions.BasePermission):
     """
-    This permission allows a user with 'is_staff' (is_admin) permission to make all changes (CREATE, UPDATE, DELETE).
-     Users other than 'is_staff' (is_admin) only have permission to view the object (READ).
-    """
-
-    def has_permission(self, request, view):
-        # Allow SAFE_METHODS (GET, HEAD, OPTIONS) methods for all users
-        if request.method in SAFE_METHODS:
-            return True
-
-        # Check if user has 'is_staff' (is_admin) permission
-        return request.user.is_staff
-
-
-class IsBusinessAdminOrAdmin(BasePermission):
-    """
-    This permission allows users with 'business_admin' or 'is_staff'
-    (is_admin) permission to make all changes (CREATE, UPDATE, DELETE).
-     Users other than 'business_admin' or 'is_staff' (is_admin) only
-     have permission to view the object (READ).
+    Custom permission to only allow owners or admin to edit/delete and allow anyone to read.
     """
 
     def has_permission(self, request, view):
-        # Allow SAFE_METHODS (GET, HEAD, OPTIONS) methods for all users
-        if request.method in SAFE_METHODS:
+        # Allow any permission for GET requests
+        if request.method == "GET":
             return True
 
-        # Check if user has 'business admin' or 'is_staff' (is_admin) permission
-        return request.user.business_admin or request.user.is_staff
+        # Check for the user role for other methods
+        if request.user.role in ["Admin", "SuperAdmin"]:
+            return True
+
+        return False
+
+    def has_object_permission(self, request, view, obj):
+        # Allow any permission for GET requests
+        if request.method == "GET":
+            return True
+
+        # Check for the user role for other methods
+        if request.user.role in ["Admin", "SuperAdmin"]:
+            return True
+
+        # Check for ownership for User, Merchant, Staff
+        if isinstance(obj, User) and obj == request.user:
+            return True
+        # if isinstance(obj, Merchant) and obj.owner == request.user:
+        #     return True
+        # if isinstance(obj, Staff) and obj.user == request.user:
+        #     return True
+
+        return False
+
+
+class IsAdminUserOrReadOnly(permissions.BasePermission):
+    """
+    Custom permission to only allow specific roles to perform actions.
+    """
+
+    def has_permission(self, request, view):
+        # Check for the user role for GET method
+        if request.method == "GET":
+            if request.user.role in ["Admin", "SuperAdmin"]:
+                return True
+            return False
+
+        # Check for the user role for other methods
+        if request.user.role in ["Admin", "SuperAdmin"]:
+            return True
+
+        return False
+
+    def has_object_permission(self, request, view, obj):
+        # Check for the user role for GET method
+        if request.method == "GET":
+            if request.user.role in ["Admin", "SuperAdmin"]:
+                return True
+            return False
+
+        # Check for the user role for other methods
+        if request.user.role in ["Admin", "SuperAdmin"]:
+            return True
+
+        # Check for ownership for User, Merchant, Staff
+        if isinstance(obj, User) and obj == request.user:
+            return True
+        # if isinstance(obj, Merchant) and obj.owner == request.user:
+        #     return True
+        # if isinstance(obj, Staff) and obj.user == request.user:
+        #     return True
+
+        return False
 
 
 class CanDeleteMerchant(BasePermission):

@@ -168,3 +168,5 @@ SPECTACULAR_SETTINGS["SERVERS"] = [  # noqa: F405
 ]
 # Your stuff...
 # ------------------------------------------------------------------------------
+
+EMAIL_VERIFICATION_CODE_TIMEOUT = env("EMAIL_VERIFICATION_CODE_TIMEOUT", 120)

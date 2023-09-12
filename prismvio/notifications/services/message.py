@@ -1,5 +1,3 @@
-from typing import Optional
-
 from django.template.loader import get_template
 
 
@@ -29,11 +27,11 @@ class NotificationMessage:
         return None
 
     @property
-    def template(self) -> Optional[str]:
+    def template(self) -> str | None:
         return self.get_template(None)
 
     @property
-    def payload(self) -> Optional[dict]:
+    def payload(self) -> dict | None:
         """
         Extra payload for FCM
         :return:

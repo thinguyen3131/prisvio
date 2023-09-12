@@ -1,11 +1,13 @@
 import logging
-from typing import List, Optional
 
-from users.models import User
-from vio_notification.services.manager import PushManager
-from vio_notification.services.message import NotificationMessage
+from django.contrib.auth import get_user_model
 
-logger = logging.getLogger('django')
+from prismvio.notifications.services.manager import PushManager
+from prismvio.notifications.services.message import NotificationMessage
+
+User = get_user_model()
+
+logger = logging.getLogger("django")
 
 
 class BookingPushMessage(NotificationMessage):
@@ -34,14 +36,14 @@ class BookingPushMessage(NotificationMessage):
         return self.__booking
 
     @property
-    def payload(self) -> Optional[dict]:
+    def payload(self) -> dict | None:
         """
         Extra payload for FCM
         :return:
         """
         return {
-            'type': 'booking',
-            'id': self.__booking.pk,
+            "type": "booking",
+            "id": self.__booking.pk,
         }
 
 
@@ -49,7 +51,7 @@ class PushBookingMessage:
     def __init__(self, booking):
         self.booking = booking
 
-    def send(self, user_ids: List[int]):
+    def send(self, user_ids: list[int]):
         try:
             messages = []
             users = User.objects.filter(pk__in=user_ids)

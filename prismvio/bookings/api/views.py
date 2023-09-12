@@ -1,5 +1,4 @@
 from django.db.models import Q
-
 from rest_framework import generics
 
 from prismvio.bookings.api.serializers import BookingSerializer, CancelBookingSerializer
@@ -12,16 +11,15 @@ class BookingListCreateView(generics.ListCreateAPIView):
     serializer_class = BookingSerializer
 
     def get_queryset(self):
-
-        merchant_id = self.request.GET.get('merchant_id', None)
-        user_id = self.request.GET.get('user_id', None)
-        updated_at = self.request.GET.get('updated_at', None)
-        sort_by = self.request.GET.get('sort_by')
-        order = self.request.GET.get('order', 'asc')
-        start_date = self.request.GET.get('start_date')
-        end_date = self.request.GET.get('end_date')
-        service_start_date = self.request.GET.get('service_start_date')
-        service_end_date = self.request.GET.get('service_end_date')
+        merchant_id = self.request.GET.get("merchant_id", None)
+        user_id = self.request.GET.get("user_id", None)
+        updated_at = self.request.GET.get("updated_at", None)
+        sort_by = self.request.GET.get("sort_by")
+        order = self.request.GET.get("order", "asc")
+        start_date = self.request.GET.get("start_date")
+        end_date = self.request.GET.get("end_date")
+        service_start_date = self.request.GET.get("service_start_date")
+        service_end_date = self.request.GET.get("service_end_date")
         where = Q()
         if merchant_id:
             where &= Q(merchant_id=merchant_id)
@@ -40,14 +38,15 @@ class BookingListCreateView(generics.ListCreateAPIView):
         if service_end_date:
             booking_service_where &= Q(start_date__lte=service_end_date)
         if service_start_date or service_end_date:
-            booking_ids = BookingService.objects.filter(booking_service_where).values_list('booking_id',
-                                                                                       flat=True).distinct()
+            booking_ids = (
+                BookingService.objects.filter(booking_service_where).values_list("booking_id", flat=True).distinct()
+            )
             where &= Q(id__in=booking_ids)
         queryset = Booking.objects.filter(where)
         if sort_by and sort_by in BOOKING_SORT_FIELDS:
             order_by = sort_by
-            if order == 'desc':
-                order_by = f'-{sort_by}'
+            if order == "desc":
+                order_by = f"-{sort_by}"
             queryset = queryset.order_by(order_by)
         return queryset
 
@@ -60,7 +59,7 @@ class BookingDetailAPIView(generics.RetrieveAPIView):
 
     def get_object(self):
         try:
-            return Booking.objects.get(pk=self.kwargs.get('pk'))
+            return Booking.objects.get(pk=self.kwargs.get("pk"))
         except Booking.DoesNotExist:
             raise BookingDoesNotExists()
 
@@ -70,7 +69,7 @@ class CancelBookingAPIView(generics.UpdateAPIView):
 
     def get_object(self):
         try:
-            return Booking.objects.get(pk=self.kwargs.get('pk'))
+            return Booking.objects.get(pk=self.kwargs.get("pk"))
         except Booking.DoesNotExist:
             raise BookingDoesNotExists()
 

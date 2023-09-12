@@ -1,17 +1,15 @@
-from rest_framework import serializers, exceptions
-
-from rest_framework_simplejwt.serializers import PasswordField, TokenRefreshSerializer
+import jwt
 from django.contrib.auth import get_user_model
+from rest_framework import serializers
+from rest_framework_simplejwt.serializers import PasswordField, TokenRefreshSerializer
 from rest_framework_simplejwt.tokens import RefreshToken
 
-from django.utils.translation import gettext_lazy as _
 from prismvio.users_auth.exceptions import LoginFailException
 
 User = get_user_model()
 
 
 class UserSerializer(serializers.ModelSerializer):
-
     class Meta:
         model = User
         fields = ("id", "first_name", "middle_name", "last_name", "full_name")
@@ -41,10 +39,26 @@ class LoginSerializer(serializers.Serializer):
                 return {
                     "user": UserSerializer(user).data,
                     "refresh": str(refresh),
-                    "access": str(refresh.access_token)
+                    "access": str(refresh.access_token),
                 }
             else:
                 raise LoginFailException()
         except User.DoesNotExist:
             raise ()
 
+
+class PrismTokenRefreshSerializer(TokenRefreshSerializer):
+    """Add check subscription function by token"""
+
+    def validate(self, attrs):
+        data = super().validate(attrs)
+        payload = jwt.decode(data["access"], options={"verify_signature": False})
+        user = User.objects.get(pk=payload["user_id"])
+        if not user.is_active:
+            raise LoginFailException
+        refresh = RefreshToken.for_user(user)
+
+        return {
+            "refresh": str(refresh),
+            "access": str(refresh.access_token),
+        }

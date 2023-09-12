@@ -86,8 +86,8 @@ class User(AbstractUser):
 
     objects = UserManager()
 
-    USERNAME_FIELD = "username"
-    EMAIL_FIELD = "email"
+    USERNAME_FIELD = "email"
+    EMAIL_FIELD = "username"
     REQUIRED_FIELDS = []
 
     def __str__(self):

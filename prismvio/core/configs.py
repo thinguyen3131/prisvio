@@ -1,6 +1,6 @@
-VND = 'vnd'
-USD = 'usd'
-EUR = 'eur'
+VND = "vnd"
+USD = "usd"
+EUR = "eur"
 CURRENCY = (
     (USD, USD),
     (EUR, EUR),

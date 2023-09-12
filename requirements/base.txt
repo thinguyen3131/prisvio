@@ -34,3 +34,6 @@ django-timezone-field==6.0  # https://github.com/mfogel/django-timezone-field/
 PyJWT==2.8.0
 python-jwt==2.0.1
 pyotp==2.9.0  # https://github.com/pyauth/pyotp
+
+# FCM
+fcm-django==2.0.0

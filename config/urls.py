@@ -33,6 +33,7 @@ if settings.DEBUG:
 urlpatterns += [
     # API base url
     path("api/users/", include("prismvio.users.api.urls")),
+    path("api/auth/", include("prismvio.users_auth.api.urls")),
     path("api/merchant/", include("prismvio.merchant.api.urls")),
     path("api/menu_merchant/", include("prismvio.menu_merchant.api.urls")),
     path("api/staff/", include("prismvio.staff.api.urls")),

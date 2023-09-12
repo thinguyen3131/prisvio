@@ -5,7 +5,7 @@ from prismvio.staff.enums import InviteStatusEnum, LinkStatusEnum
 from prismvio.staff.models import Staff
 from prismvio.users.models import User
 
-# from vio_booking.tasks import create_staff_booking_event_task
+# from bookings.tasks import create_staff_booking_event_task
 
 
 class UserSerializer(serializers.ModelSerializer):

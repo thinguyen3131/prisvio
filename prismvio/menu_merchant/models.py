@@ -1,7 +1,9 @@
 from django.conf import settings
 from django.db import models
+
 from prismvio.merchant.models import Merchant
 from prismvio.staff.models import Staff
+
 
 class Keyword(models.Model):
     name = models.CharField(max_length=255)

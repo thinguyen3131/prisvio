@@ -1,9 +1,12 @@
 import uuid
+
 import shortuuid
 from django.conf import settings
 from django.db import models
 from timezone_field import TimeZoneField
+
 from prismvio.merchant.enums import MerchantCurrency
+
 
 class Merchant(models.Model):
     owner = models.ForeignKey(

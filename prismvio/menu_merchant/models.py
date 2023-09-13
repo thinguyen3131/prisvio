@@ -5,6 +5,15 @@ from prismvio.merchant.models import Merchant
 from prismvio.staff.models import Staff
 
 
+class Keyword(models.Model):
+    name = models.CharField(max_length=255)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return self.name
+
+
 class Hashtag(models.Model):
     name = models.CharField(max_length=255)
     created_at = models.DateTimeField(auto_now_add=True)
@@ -17,9 +26,11 @@ class Hashtag(models.Model):
 class Category(models.Model):
     name_vi = models.CharField(max_length=50, default="SOME STRING")
     name_en = models.CharField(max_length=50, default="SOME STRING")
-    parent_id = models.ForeignKey("self", on_delete=models.SET_NULL, null=True, blank=True, related_name="category")
+    parent = models.ForeignKey("self", on_delete=models.SET_NULL, null=True, blank=True, related_name="category")
     notes = models.CharField(max_length=200)
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
+    hashtag = models.OneToOneField(Hashtag, on_delete=models.CASCADE, null=True, blank=True, related_name="category")
+    images = models.JSONField(default=list, null=True, blank=True)
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
@@ -59,7 +70,7 @@ class Promotion(models.Model):
 
 class Products(models.Model):
     name = models.CharField(max_length=255, null=False)
-    hashtags = models.ManyToManyField("Hashtag", related_name="products", blank=True)
+    hashtags = models.ManyToManyField(Hashtag, related_name="products", blank=True)
     quantity = models.IntegerField()
     unit = models.CharField(max_length=255, null=True, default=None)
     description = models.TextField(default=None, null=True, blank=True)
@@ -68,6 +79,7 @@ class Products(models.Model):
     images = models.JSONField(default=list, null=True, blank=True)
     merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
     category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
+    keyword = models.ForeignKey(Keyword, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
     hidden = models.BooleanField(default=False)
@@ -84,7 +96,8 @@ class Products(models.Model):
 class Services(models.Model):
     name = models.CharField(max_length=255, null=False)
     category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, related_name="service")
-    hashtags = models.ManyToManyField("Hashtag", related_name="service", blank=True)
+    keyword = models.ForeignKey(Keyword, on_delete=models.CASCADE, null=True, related_name="service")
+    hashtags = models.ManyToManyField(Hashtag, related_name="service", blank=True)
     description = models.TextField(default=None, null=True, blank=True)
     time = models.FloatField()
     time_date = models.CharField(max_length=255, null=True, default=None)

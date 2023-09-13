@@ -47,10 +47,10 @@ createsuperuser:
 	docker compose -f ${COMPOSE_FILE} run --rm django python manage.py createsuperuser
 
 dev:
-	docker compose -f ${COMPOSE_FILE} up postgres redis -d
+	docker compose -f ${COMPOSE_FILE} up postgres redis elasticsearch kibana -d
 
 runserver:
 	python manage.py runserver
 
 celery:
-	celery -A config.celery_app worker -l info
+	celery -A config.celery_app worker --loglevel=INFO

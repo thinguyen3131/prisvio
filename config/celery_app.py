@@ -13,7 +13,7 @@ from config.logging import InterceptHandler
 # set the default Django settings module for the 'celery' program.
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "config.settings.local")
 
-app = Celery("prismvio")
+app = Celery("prismvio", broker="redis://localhost:6379/")
 
 # Using a string here means the worker doesn't have to serialize
 # the configuration object to child processes.

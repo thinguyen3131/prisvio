@@ -60,9 +60,6 @@ class UserSerializer(serializers.ModelSerializer):
         ]
         extra_kwargs = {"password": {"write_only": True}}
 
-    # def validate_password(self, value):
-    #     return validate_password(value)
-
     def check_verification_id(self, signature, email, otp):
         if not signature:
             raise exceptions.ValidationError(
@@ -119,7 +116,7 @@ class UserSerializer(serializers.ModelSerializer):
 
         # if phone_number:
         #     self.check_id_token(id_token, phone_number)
-        #     validated_data['verified_phone_number_at'] = timezone.now()
+        #     validated_data["verified_phone_number_at"] = timezone.now()
 
         user = User(**validated_data)
         if password:
@@ -139,16 +136,6 @@ class ValidateEmailVerificationCodeSerializer(serializers.Serializer):
     verification_id = serializers.CharField(required=True)
     code = serializers.CharField(required=True)
     email = serializers.EmailField(max_length=255, required=True)
-
-
-# class UserSerializer(serializers.ModelSerializer[UserType]):
-#     class Meta:
-#         model = User
-#         fields = ["name", "url"]
-
-#         extra_kwargs = {
-#             "url": {"view_name": "api:user-detail", "lookup_field": "pk"},
-#         }
 
 
 class EmailPhoneLookupSerializer(serializers.Serializer):

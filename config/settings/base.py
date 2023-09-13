@@ -81,6 +81,7 @@ THIRD_PARTY_APPS = [
     "drf_spectacular",
     "rest_framework_simplejwt",
     "rest_framework_simplejwt.token_blacklist",
+    "django_elasticsearch_dsl",  # new
 ]
 
 LOCAL_APPS = [
@@ -263,7 +264,7 @@ if USE_TZ:
     # https://docs.celeryq.dev/en/stable/userguide/configuration.html#std:setting-timezone
     CELERY_TIMEZONE = TIME_ZONE
 # https://docs.celeryq.dev/en/stable/userguide/configuration.html#std:setting-broker_url
-CELERY_BROKER_URL = env("CELERY_BROKER_URL")
+CELERY_BROKER_URL = env("CELERY_BROKER_URL", default="redis://localhost:6379")
 # https://docs.celeryq.dev/en/stable/userguide/configuration.html#std:setting-result_backend
 CELERY_RESULT_BACKEND = CELERY_BROKER_URL
 # https://docs.celeryq.dev/en/stable/userguide/configuration.html#result-extended
@@ -305,6 +306,8 @@ REST_FRAMEWORK = {
     "DEFAULT_PERMISSION_CLASSES": ("rest_framework.permissions.IsAuthenticated",),
     "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
     "EXCEPTION_HANDLER": "prismvio.core.drf_exception.handler.exception_handler",
+    "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.LimitOffsetPagination",
+    "PAGE_SIZE": 10,
 }
 
 SIMPLE_JWT = {
@@ -381,6 +384,12 @@ TESTING: bool = env.bool(
     "TESTING",
     default=False,
 )
+
+ELASTICSEARCH_DSL = {
+    "default": {"hosts": "localhost:9200"},
+}
+
+
 DEFAULT_COUNTRY_CODE = env("DEFAULT_COUNTRY_CODE", default="VN")
 DEFAULT_COUNTRY_PHONE = env("DEFAULT_COUNTRY_PHONE", default="+84")
 
@@ -392,8 +401,9 @@ BASE_URL = f"{BASE_HOST_PROTOCOL}://{BASE_HOST}"
 # email settings
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = env("EMAIL_HOST", default="smtp.gmail.com")
-EMAIL_USE_TLS = True
-EMAIL_PORT = env("EMAIL_PORT", default=587)
+EMAIL_USE_TLS = False
+EMAIL_PORT = env("EMAIL_PORT", default="465")
+EMAIL_USE_SSL = True
 EMAIL_HOST_USER = env("EMAIL_HOST_USER")
 EMAIL_HOST_PASSWORD = env("EMAIL_HOST_PASSWORD", default="jgxoeqtgyztnmnjd")
 EMAIL_VERIFICATION_CODE_TIMEOUT = env("EMAIL_VERIFICATION_CODE_TIMEOUT", default=120)  # 2 minutes

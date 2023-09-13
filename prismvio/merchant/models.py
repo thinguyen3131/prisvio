@@ -1,12 +1,9 @@
 import uuid
-
 import shortuuid
 from django.conf import settings
 from django.db import models
 from timezone_field import TimeZoneField
-
 from prismvio.merchant.enums import MerchantCurrency
-
 
 class Merchant(models.Model):
     owner = models.ForeignKey(
@@ -31,14 +28,16 @@ class Merchant(models.Model):
     longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
     location = models.CharField(max_length=255, blank=True, null=True)
     is_active = models.BooleanField(default=True)
+    categories = models.ManyToManyField("menu_merchant.Category", blank=True, related_name="merchants")
+    keyword = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
     is_staffs_visible = models.BooleanField(default=True)
     total_available_slot = models.IntegerField(default=0, null=True, blank=True)
     total_available_slots_unit = models.CharField(max_length=45, null=True, blank=True)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
-    deleted_at = models.DateTimeField(null=True)
-    deleted_date = models.DateTimeField(null=True)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    deleted_at = models.DateTimeField(null=True, blank=True)
+    deleted_date = models.DateTimeField(null=True, blank=True)
+    created_at = models.DateTimeField(auto_now_add=True, null=True, blank=True)
+    updated_at = models.DateTimeField(auto_now=True, null=True, blank=True)
 
     def __str__(self):
         if self.name:

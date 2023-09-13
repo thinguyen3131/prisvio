@@ -1,8 +1,15 @@
 from django.conf import settings
 from django.db import models
-
 from prismvio.merchant.models import Merchant
 from prismvio.staff.models import Staff
+
+class Keyword(models.Model):
+    name = models.CharField(max_length=255)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return self.name
 
 
 class Hashtag(models.Model):
@@ -17,41 +24,43 @@ class Hashtag(models.Model):
 class Category(models.Model):
     name_vi = models.CharField(max_length=50, default="SOME STRING")
     name_en = models.CharField(max_length=50, default="SOME STRING")
-    parent_id = models.ForeignKey("self", on_delete=models.SET_NULL, null=True, blank=True, related_name="category")
+    parent = models.ForeignKey("self", on_delete=models.SET_NULL, null=True, blank=True, related_name="category")
     notes = models.CharField(max_length=200)
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
+    hashtag = models.OneToOneField(Hashtag, on_delete=models.CASCADE, null=True, blank=True, related_name="category")
+    images = models.JSONField(default=list, null=True, blank=True)
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
-        return f"{self.name}, parent: {self.parent_id}"
+        return f"{self.name_en}, parent: {self.parent_id}"
 
 
 class Promotion(models.Model):
-    name = models.CharField(max_length=255, null=False)
+    name = models.CharField(max_length=255, null=True, blank=True)
     description = models.TextField(default=None, null=True, blank=True)
     start_date = models.DateField(null=True, blank=False)
     start_time = models.TimeField(null=True, blank=True)
     end_date = models.DateField(null=True, blank=False)
     end_time = models.TimeField(null=True, blank=True)
     discount = models.FloatField(null=True, blank=True, default=None)
-    unit = models.CharField(max_length=255, null=True, default=None)
+    unit = models.CharField(max_length=255, null=True, blank=True, default=None)
     quantity = models.IntegerField(null=True, blank=True, default=None)
     type = models.CharField(max_length=255, null=True, blank=True, default="discount")
     buy_quantity = models.IntegerField(null=True, blank=True)
     get_quantity = models.IntegerField(null=True, blank=True)
     images = models.JSONField(default=list, null=True, blank=True)
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
-    merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, related_name="promotion")
+    merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, blank=True, related_name="promotion")
     products = models.ManyToManyField("Products", blank=True, related_name="promotions")
     services = models.ManyToManyField("Services", blank=True, related_name="promotions")
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
     all_day = models.BooleanField(default=False)
     is_happy_hour = models.BooleanField(default=False)
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    created_at = models.DateTimeField(auto_now_add=True, null=True, blank=True)
+    updated_at = models.DateTimeField(auto_now=True, null=True, blank=True)
 
     def __str__(self):
         return self.name
@@ -59,15 +68,16 @@ class Promotion(models.Model):
 
 class Products(models.Model):
     name = models.CharField(max_length=255, null=False)
-    hashtags = models.ManyToManyField("Hashtag", related_name="products", blank=True)
+    hashtags = models.ManyToManyField(Hashtag, related_name="products", blank=True)
     quantity = models.IntegerField()
     unit = models.CharField(max_length=255, null=True, default=None)
     description = models.TextField(default=None, null=True, blank=True)
     original_price = models.DecimalField(max_digits=12, decimal_places=2, default=0.0, null=True, blank=True)
     discount_price = models.DecimalField(max_digits=12, decimal_places=2, default=0.0, null=True, blank=True)
     images = models.JSONField(default=list, null=True, blank=True)
-    merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, related_name="products")
-    category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, related_name="products")
+    merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
+    category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
+    keyword = models.ForeignKey(Keyword, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
     hidden = models.BooleanField(default=False)
@@ -84,7 +94,8 @@ class Products(models.Model):
 class Services(models.Model):
     name = models.CharField(max_length=255, null=False)
     category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, related_name="service")
-    hashtags = models.ManyToManyField("Hashtag", related_name="service", blank=True)
+    keyword = models.ForeignKey(Keyword, on_delete=models.CASCADE, null=True, related_name="service")
+    hashtags = models.ManyToManyField(Hashtag, related_name="service", blank=True)
     description = models.TextField(default=None, null=True, blank=True)
     time = models.FloatField()
     time_date = models.CharField(max_length=255, null=True, default=None)

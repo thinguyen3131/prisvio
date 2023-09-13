@@ -37,10 +37,10 @@ class IsBusinessAdminOrAdmin(permissions.BasePermission):
         # Check for ownership for User, Merchant, Staff
         if isinstance(obj, User) and obj == request.user:
             return True
-        # if isinstance(obj, Merchant) and obj.owner == request.user:
-        #     return True
-        # if isinstance(obj, Staff) and obj.user == request.user:
-        #     return True
+        if isinstance(obj, Merchant) and obj.owner == request.user:
+            return True
+        if isinstance(obj, Staff) and obj.user == request.user:
+            return True
 
         return False
 
@@ -78,10 +78,10 @@ class IsAdminUserOrReadOnly(permissions.BasePermission):
         # Check for ownership for User, Merchant, Staff
         if isinstance(obj, User) and obj == request.user:
             return True
-        # if isinstance(obj, Merchant) and obj.owner == request.user:
-        #     return True
-        # if isinstance(obj, Staff) and obj.user == request.user:
-        #     return True
+        if isinstance(obj, Merchant) and obj.owner == request.user:
+            return True
+        if isinstance(obj, Staff) and obj.user == request.user:
+            return True
 
         return False
 
@@ -95,21 +95,32 @@ class CanDeleteMerchant(BasePermission):
 
 
 # This is a user account that must be logged in
-class UserPermission(permissions.BasePermission):
-    """
-    Custom permission for User model.
-    """
+# class UserPermission(permissions.BasePermission):
+#     """
+#     Custom permission for User model.
+#     """
 
+#     def has_permission(self, request, view):
+#         if request.method == "GET":
+#             if request.user.role in ["Admin", "SuperAdmin"]:
+#                 return True
+#             return False
+#         if request.user.role in ["Admin", "SuperAdmin"]:
+
+
+class IsGetPermission(permissions.BasePermission):
     def has_permission(self, request, view):
+        # Check for the user role for GET method or user role for other methods
         if request.method == "GET":
-            if request.user.role in ["Admin", "SuperAdmin"]:
-                return True
-            return False
-        if request.user.role in ["Admin", "SuperAdmin"]:
             return True
         return False
 
     def has_object_permission(self, request, view, obj):
+        # Allow any permission for GET requests or the user role for other methods
+        if request.method == "GET":
+            return True
+
+        # Check for ownership for User, Merchant, Staff
         if isinstance(obj, User) and obj == request.user:
             return True
         return False
@@ -152,6 +163,15 @@ class StaffPermission(permissions.BasePermission):
         return False
 
     def has_object_permission(self, request, view, obj):
+        # Allow any permission for GET requests or the user role for other methods
+        if request.method == "GET":
+            return True
+
+        # Check for ownership for User, Merchant, Staff
+        if isinstance(obj, User) and obj == request.user:
+            return True
+        return False
+
         if isinstance(obj, Staff) and obj.user == request.user:
             return True
         return False

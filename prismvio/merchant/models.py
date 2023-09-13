@@ -35,10 +35,10 @@ class Merchant(models.Model):
     total_available_slot = models.IntegerField(default=0, null=True, blank=True)
     total_available_slots_unit = models.CharField(max_length=45, null=True, blank=True)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
-    deleted_at = models.DateTimeField(null=True)
-    deleted_date = models.DateTimeField(null=True)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    deleted_at = models.DateTimeField(null=True, blank=True)
+    deleted_date = models.DateTimeField(null=True, blank=True)
+    created_at = models.DateTimeField(auto_now_add=True, null=True, blank=True)
+    updated_at = models.DateTimeField(auto_now=True, null=True, blank=True)
 
     def __str__(self):
         if self.name:

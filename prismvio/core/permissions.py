@@ -87,3 +87,21 @@ class CanDeleteMerchant(BasePermission):
         if request.method == "DELETE" and request.user.is_superuser:
             return True
         return False
+
+
+class IsGetPermission(BasePermission):
+    def has_permission(self, request, view):
+        # Check for the user role for GET method or user role for other methods
+        if request.method == "GET":
+            return True
+        return False
+
+    def has_object_permission(self, request, view, obj):
+        # Allow any permission for GET requests or the user role for other methods
+        if request.method == "GET":
+            return True
+
+        # Check for ownership for User, Merchant, Staff
+        if isinstance(obj, User) and obj == request.user:
+            return True
+        return False

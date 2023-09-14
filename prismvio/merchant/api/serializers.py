@@ -1,22 +1,23 @@
 from rest_framework import serializers
 from timezone_field.rest_framework import TimeZoneSerializerField
 
-from prismvio.merchant.models import ExclusionDate, Merchant, TimeslotCollectionMerchant
 from prismvio.menu_merchant.models import Category
 from prismvio.merchant.exceptions import MerchantAlreadyExistsException
+from prismvio.merchant.models import ExclusionDate, Merchant, TimeslotCollectionMerchant
 
 
 class CategorySerializer(serializers.ModelSerializer):
     class Meta:
         model = Category
-        fields = '__all__'
+        fields = "__all__"
 
 
 class MerchantSerializer(serializers.ModelSerializer):
     timezone = TimeZoneSerializerField(use_pytz=True)
     categories = CategorySerializer(many=True, read_only=True)
-    category_ids = serializers.ListField(child=serializers.IntegerField(), required=False, allow_null=True,
-                                         write_only=True)
+    category_ids = serializers.ListField(
+        child=serializers.IntegerField(), required=False, allow_null=True, write_only=True
+    )
 
     class Meta:
         model = Merchant
@@ -30,7 +31,7 @@ class MerchantSerializer(serializers.ModelSerializer):
         return attrs
 
     def create(self, validated_data):
-        category_ids = validated_data.pop('category_ids', [])
+        category_ids = validated_data.pop("category_ids", [])
         merchant = super().create(validated_data)
         if category_ids:
             merchant.categories.set(category_ids)
@@ -43,9 +44,27 @@ class MerchantPreviewSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Merchant
-        fields = ('id', 'name', 'description', 'timezone', 'email', 'phone_number', 'currency',
-                  'website', 'is_active', 'uid', 'latitude', 'longitude', 'location', 'categories',
-                  'created_at', 'updated_at','total_available_slot','total_available_slots_unit', 'is_staffs_visible')
+        fields = (
+            "id",
+            "name",
+            "description",
+            "timezone",
+            "email",
+            "phone_number",
+            "currency",
+            "website",
+            "is_active",
+            "uid",
+            "latitude",
+            "longitude",
+            "location",
+            "categories",
+            "created_at",
+            "updated_at",
+            "total_available_slot",
+            "total_available_slots_unit",
+            "is_staffs_visible",
+        )
         read_only_fields = fields
 
 

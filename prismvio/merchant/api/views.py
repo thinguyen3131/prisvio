@@ -1,16 +1,16 @@
 from django.http import JsonResponse
 from rest_framework import generics, status
-from rest_framework.permissions import AllowAny, IsAuthenticated
+from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from prismvio.core.permissions import MerchantPermission
 from prismvio.merchant.api.serializers import ExclusionDateSerializer, TimeslotCollectionMerchantSerializer
+from prismvio.merchant.exceptions import MerchantDoesNotExistsException
 from prismvio.merchant.models import ExclusionDate, Merchant, TimeslotCollectionMerchant
 from prismvio.utils.drf_utils import search
 
-from .serializers import MerchantSerializer, MerchantPreviewSerializer
-from prismvio.merchant.exceptions import MerchantDoesNotExistsException
+from .serializers import MerchantPreviewSerializer, MerchantSerializer
 
 
 class MerchantListCreateView(generics.ListCreateAPIView):
@@ -34,7 +34,7 @@ class MerchantDetailView(generics.RetrieveUpdateDestroyAPIView):
 
     def get_object(self):
         try:
-            return Merchant.objects.get(pk=self.kwargs.get('pk'))
+            return Merchant.objects.get(pk=self.kwargs.get("pk"))
         except Merchant.DoesNotExist:
             raise MerchantDoesNotExistsException()
 

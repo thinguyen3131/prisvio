@@ -31,6 +31,7 @@ class Merchant(models.Model):
     longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
     location = models.CharField(max_length=255, blank=True, null=True)
     is_active = models.BooleanField(default=True)
+    hashtag = models.ManyToManyField("menu_merchant.Hashtag", blank=True, related_name="merchants")
     categories = models.ManyToManyField("menu_merchant.Category", blank=True, related_name="merchants")
     keyword = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
     is_staffs_visible = models.BooleanField(default=True)

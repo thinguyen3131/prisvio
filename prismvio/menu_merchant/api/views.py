@@ -92,27 +92,59 @@ class PromotionRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
 
 
 class ProductListCreateView(generics.ListCreateAPIView):
-    queryset = Products.objects.all()
     serializer_class = ProductSerializer
     permission_classes = [IsGetPermission]
+
+    def get_queryset(self):
+        query_params = deepcopy(self.request.query_params)
+        updated_at = query_params.get('updated_at')
+        where = Q()
+        if updated_at:
+            where &= Q(updated_at__gt=updated_at)
+        queryset = Products.objects.select_related('merchant').filter(where)
+        return search(queryset=queryset, query_params=query_params, model=Products, exclude_fields=["updated_at"])
+
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
 
 
 class ProductRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Products.objects.all()
     serializer_class = ProductSerializer
     permission_classes = [IsGetPermission]
 
+    def perform_destroy(self, instance):
+        instance.deleted_at = datetime.now()
+        instance.updated_at = datetime.now()
+        instance.save()
+
 
 class ServiceListCreateView(generics.ListCreateAPIView):
-    queryset = Services.objects.all()
     serializer_class = ServiceSerializer
     permission_classes = [IsGetPermission]
+
+    def get_queryset(self):
+        query_params = deepcopy(self.request.query_params)
+        updated_at = query_params.get('updated_at')
+        where = Q()
+        if updated_at:
+            where &= Q(updated_at__gt=updated_at)
+        queryset = Services.objects.select_related('merchant').filter(where)
+        return search(queryset=queryset, query_params=query_params, model=Services, exclude_fields=["updated_at"])
+
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
 
 
 class ServiceRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
     queryset = Services.objects.all()
     serializer_class = ServiceSerializer
     permission_classes = [IsGetPermission]
+
+    def perform_destroy(self, instance):
+        instance.deleted_at = datetime.now()
+        instance.updated_at = datetime.now()
+        instance.save()
+        instance.staff.clear()
 
 
 class CategoryListCreateView(generics.ListCreateAPIView):

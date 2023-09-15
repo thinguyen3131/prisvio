@@ -20,6 +20,7 @@ class BookingListCreateView(generics.ListCreateAPIView):
         end_date = self.request.GET.get("end_date")
         service_start_date = self.request.GET.get("service_start_date")
         service_end_date = self.request.GET.get("service_end_date")
+        staff_id = self.request.GET.get("staff_id")
         where = Q()
         if merchant_id:
             where &= Q(merchant_id=merchant_id)
@@ -33,6 +34,8 @@ class BookingListCreateView(generics.ListCreateAPIView):
             where &= Q(end_date__lte=end_date)
         # TODO refactor this
         booking_service_where = Q()
+        if staff_id:
+            booking_service_where &= Q(staff__id=staff_id)
         if service_start_date:
             booking_service_where &= Q(start_date__gte=service_start_date)
         if service_end_date:

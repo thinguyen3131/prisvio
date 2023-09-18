@@ -405,6 +405,6 @@ EMAIL_HOST = env("EMAIL_HOST", default="smtp.gmail.com")
 EMAIL_USE_TLS = False
 EMAIL_PORT = env("EMAIL_PORT", default="465")
 EMAIL_USE_SSL = True
-EMAIL_HOST_USER = env("EMAIL_HOST_USER")
+EMAIL_HOST_USER = env("EMAIL_HOST_USER", default="vu.vu@prismtechinc.io")
 EMAIL_HOST_PASSWORD = env("EMAIL_HOST_PASSWORD", default="jgxoeqtgyztnmnjd")
 EMAIL_VERIFICATION_CODE_TIMEOUT = env("EMAIL_VERIFICATION_CODE_TIMEOUT", default=120)  # 2 minutes

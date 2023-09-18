@@ -3,6 +3,8 @@ import uuid
 import shortuuid
 from django.conf import settings
 from django.db import models
+from django.utils.functional import cached_property
+from slugify import slugify
 from timezone_field import TimeZoneField
 
 from prismvio.location.models import Country, District, Province, Ward
@@ -32,8 +34,9 @@ class Merchant(models.Model):
     longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
     address = models.CharField(max_length=255, blank=True, null=True)
     is_active = models.BooleanField(default=True)
-    hashtag = models.ManyToManyField("menu_merchant.Hashtag", blank=True, related_name="merchants")
+    hashtags = models.ManyToManyField("menu_merchant.Hashtag", blank=True, related_name="merchants")
     categories = models.ManyToManyField("menu_merchant.Category", blank=True, related_name="merchants")
+    keywords = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
     keyword = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
     country = models.ForeignKey(
         Country,
@@ -79,6 +82,21 @@ class Merchant(models.Model):
             self.uid = shortuuid.encode(unique_id)
 
         super().save(*args, **kwargs)
+
+    @cached_property
+    def normalizer_name(self):
+        if self.name:
+            normalizer = slugify(
+                self.name.strip(), word_boundary=True, separator=" ", lowercase=True
+            )
+            return normalizer
+        return None
+
+    @cached_property
+    def geo(self):
+        if self.latitude and self.longitude:
+            return self.latitude, self.longitude
+        return None
 
 
 class TimeslotCollectionMerchant(models.Model):

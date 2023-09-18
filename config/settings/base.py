@@ -387,16 +387,25 @@ TESTING: bool = env.bool(
     default=False,
 )
 
+ELASTICSEARCH_HOST = env("ELASTICSEARCH_HOST", default="http://localhost:9200")
+ELASTICSEARCH_USERNAME = env("ELASTICSEARCH_USERNAME", default="elastic")
+ELASTICSEARCH_PASSWORD = env("ELASTICSEARCH_PASSWORD", default="PH3U-43bnSNQIGg8AJg9")
+
 ELASTICSEARCH_DSL = {
-    "default": {"hosts": "localhost:9200"},
+    "default": {
+        "hosts": ELASTICSEARCH_HOST,
+    },
 }
+
+if ELASTICSEARCH_USERNAME and ELASTICSEARCH_PASSWORD:
+    ELASTICSEARCH_DSL["default"]["basic_auth"] = ELASTICSEARCH_USERNAME, ELASTICSEARCH_PASSWORD
 
 
 DEFAULT_COUNTRY_CODE = env("DEFAULT_COUNTRY_CODE", default="VN")
 DEFAULT_COUNTRY_PHONE = env("DEFAULT_COUNTRY_PHONE", default="+84")
 
 
-BASE_HOST = env("BASE_HOST")
+BASE_HOST = env("BASE_HOST", default="api.prismtech.vn")
 BASE_HOST_PROTOCOL = env("BASE_HOST_PROTOCOL", default="https")
 BASE_URL = f"{BASE_HOST_PROTOCOL}://{BASE_HOST}"
 

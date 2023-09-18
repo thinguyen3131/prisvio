@@ -5,6 +5,7 @@ from django.conf import settings
 from django.db import models
 from timezone_field import TimeZoneField
 
+from prismvio.location.models import Country, District, Province, Ward
 from prismvio.merchant.enums import MerchantCurrency
 
 
@@ -29,11 +30,35 @@ class Merchant(models.Model):
     uid = models.CharField(max_length=64, null=True, blank=True, unique=True)
     latitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
     longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
-    location = models.CharField(max_length=255, blank=True, null=True)
+    address = models.CharField(max_length=255, blank=True, null=True)
     is_active = models.BooleanField(default=True)
     hashtag = models.ManyToManyField("menu_merchant.Hashtag", blank=True, related_name="merchants")
     categories = models.ManyToManyField("menu_merchant.Category", blank=True, related_name="merchants")
     keyword = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
+    country = models.ForeignKey(
+        Country,
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True,
+        help_text="connect with country in table country location",
+    )
+    province = models.ForeignKey(
+        Province,
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True,
+        help_text="connect with Province in table Province location",
+    )
+    district = models.ForeignKey(
+        District,
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True,
+        help_text="connect with District in table District location",
+    )
+    ward = models.ForeignKey(
+        Ward, on_delete=models.CASCADE, null=True, blank=True, help_text="connect with Ward in table Ward location"
+    )
     is_staffs_visible = models.BooleanField(default=True)
     total_available_slot = models.IntegerField(default=0, null=True, blank=True)
     total_available_slots_unit = models.CharField(max_length=45, null=True, blank=True)

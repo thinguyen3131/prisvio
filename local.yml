@@ -91,7 +91,7 @@ services:
 
   elasticsearch:
     container_name: prismvio_local_elasticsearch
-    image: docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.10.0
     restart: always
     ports:
       - "9200:9200"
@@ -101,10 +101,12 @@ services:
       - prismvio_local_certs_data:/usr/share/elasticsearch/config/certs
       - prismvio_local_elasticsearch_data:/usr/share/elasticsearch/data
     environment:
+      xpack.security.enabled: false
       ES_JAVA_OPTS: "-Xmx256m -Xms256m"
       discovery.type: single-node
       network.host: "0.0.0.0"
       bootstrap.memory_lock: "true"
+
 
   kibana:
     container_name: prismvio_local_kibana

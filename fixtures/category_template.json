@@ -1,0 +1,1432 @@
+[
+  {
+    "model": "products.category",
+    "pk": 1,
+    "fields": {
+      "name_vi" : "Ô tô",
+      "name_en" : "Automotive",
+      "notes" : "This category contains Automotive products.",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:20:13.421Z",
+      "updated_at" : "2023-08-15T10:20:13.421Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 2,
+    "fields": {
+      "name_vi" : "Phụ kiện ô tô",
+      "name_en" : "Auto Accessories",
+      "notes" : "Sub category of Automotive",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:23:04.275Z",
+      "updated_at" : "2023-08-15T10:23:04.276Z",
+      "parent_id_id" : 1
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 3,
+    "fields": {
+      "name_vi" : "Rửa xe máy và ô tô",
+      "name_en" : "Motorbike & Car wash",
+      "notes" : "Sub category of Automotive",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:26:57.701Z",
+      "updated_at" : "2023-08-15T10:26:57.701Z",
+      "parent_id_id" : 1
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 4,
+    "fields": {
+      "name_vi" : "Bán và sửa chữa xe máy",
+      "name_en" : "Motorcycle Sales & Repair",
+      "notes" : "Sub category of Automotive",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:27:23.480Z",
+      "updated_at" : "2023-08-15T10:27:23.480Z",
+      "parent_id_id" : 1
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 5,
+    "fields": {
+      "name_vi" : "Cho thuê",
+      "name_en" : "Rental & Leasing",
+      "notes" : "Sub category of Automotive",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:28:54.392Z",
+      "updated_at" : "2023-08-15T10:28:54.392Z",
+      "parent_id_id" : 1
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 6,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Sub category of Automotive",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:30:11.253Z",
+      "updated_at" : "2023-08-15T10:30:11.253Z",
+      "parent_id_id" : 1
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 7,
+    "fields": {
+      "name_vi" : "Dịch vụ hỗ trợ và tư vấn",
+      "name_en" : "Business Support & Supplies",
+      "notes" : "Business Support & Supplies",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:32:18.453Z",
+      "updated_at" : "2023-08-15T10:32:18.453Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 8,
+    "fields": {
+      "name_vi" : "Dịch vụ tư vấn",
+      "name_en" : "Consultants, Agency",
+      "notes" : "Business Support & Supplies",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:34:39.658Z",
+      "updated_at" : "2023-08-15T10:34:39.658Z",
+      "parent_id_id" : 7
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 9,
+    "fields": {
+      "name_vi" : "Tiếp thị và truyền thông",
+      "name_en" : "Marketing & Communications",
+      "notes" : "Subcategory of Business Support & Supplies",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:36:28.284Z",
+      "updated_at" : "2023-08-15T10:36:28.284Z",
+      "parent_id_id" : 7
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 10,
+    "fields": {
+      "name_vi" : "Văn phòng phẩm",
+      "name_en" : "Office Supplies",
+      "notes" : "Subcategory of Business Support & Supplies",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:37:36.792Z",
+      "updated_at" : "2023-08-15T10:37:36.792Z",
+      "parent_id_id" : 7
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 11,
+    "fields": {
+      "name_vi" : "In ấn và xuất bản",
+      "name_en" : "Printing & Publishing",
+      "notes" : "Subcategory of Business Support & Supplies",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:38:10.095Z",
+      "updated_at" : "2023-08-15T10:38:10.095Z",
+      "parent_id_id" : 7
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 12,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Business Support & Supplies",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:39:59.013Z",
+      "updated_at" : "2023-08-15T10:39:59.013Z",
+      "parent_id_id" : 7
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 13,
+    "fields": {
+      "name_vi" : "Máy tính và điện tử",
+      "name_en" : "Computers & Electronics",
+      "notes" : "Computers & Electronics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:43:11.094Z",
+      "updated_at" : "2023-08-15T10:43:11.094Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 14,
+    "fields": {
+      "name_vi" : "Lập trình và hỗ trợ máy tính",
+      "name_en" : "Computer Programming & Support",
+      "notes" : "Computers & Electronics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:44:55.107Z",
+      "updated_at" : "2023-08-15T10:44:55.107Z",
+      "parent_id_id" : 13
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 15,
+    "fields": {
+      "name_vi" : "Điện tử tiêu dùng và phụ kiện",
+      "name_en" : "Consumer Electronics & Accessories",
+      "notes" : "Subcategory of Consumer Electronics & Accessories",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:45:39.794Z",
+      "updated_at" : "2023-08-15T10:45:39.794Z",
+      "parent_id_id" : 13
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 16,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Consumer Electronics & Accessories",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:46:57.578Z",
+      "updated_at" : "2023-08-15T10:46:57.578Z",
+      "parent_id_id" : 13
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 17,
+    "fields": {
+      "name_vi" : "Xây dựng và nhà thầu",
+      "name_en" : "Construction & Contractors",
+      "notes" : "Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:47:39.091Z",
+      "updated_at" : "2023-08-15T10:47:39.092Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 18,
+    "fields": {
+      "name_vi" : "Kiến trúc",
+      "name_en" : "Architects, Landscape Architects",
+      "notes" : "Subcategory of Architects, Landscape Architects, Engineers & Surveyors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:55:55.614Z",
+      "updated_at" : "2023-08-15T10:55:55.614Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 19,
+    "fields": {
+      "name_vi" : "Phá dỡ nhà",
+      "name_en" : "Blasting & Demolition",
+      "notes" : "Subcategory of Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:57:31.544Z",
+      "updated_at" : "2023-08-15T10:57:31.544Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 20,
+    "fields": {
+      "name_vi" : "Vật liệu xây dựng",
+      "name_en" : "Building Materials & Supplies",
+      "notes" : "Subcategory of Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:57:58.066Z",
+      "updated_at" : "2023-08-15T10:57:58.066Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 21,
+    "fields": {
+      "name_vi" : "Công ty xây dựng",
+      "name_en" : "Construction Companies",
+      "notes" : "Subcategory of Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:58:18.467Z",
+      "updated_at" : "2023-08-15T10:58:18.467Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 22,
+    "fields": {
+      "name_vi" : "Thợ sửa điện",
+      "name_en" : "Electricians",
+      "notes" : "Subcategory of Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:58:35.802Z",
+      "updated_at" : "2023-08-15T10:58:35.802Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 23,
+    "fields": {
+      "name_vi" : "Đánh giá môi trường",
+      "name_en" : "Environmental Assessments",
+      "notes" : "Subcategory of Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:58:59.776Z",
+      "updated_at" : "2023-08-15T10:58:59.776Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 24,
+    "fields": {
+      "name_vi" : "Thanh tra",
+      "name_en" : "Inspectors",
+      "notes" : "Subcategory of Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T10:59:24.122Z",
+      "updated_at" : "2023-08-15T10:59:24.122Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 25,
+    "fields": {
+      "name_vi" : "Mái nhà",
+      "name_en" : "Roofers",
+      "notes" : "Subcategory of Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:00:02.201Z",
+      "updated_at" : "2023-08-15T11:00:02.201Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 26,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Construction & Contractors",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:00:26.732Z",
+      "updated_at" : "2023-08-15T11:00:26.732Z",
+      "parent_id_id" : 17
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 27,
+    "fields": {
+      "name_vi" : "Giáo dục",
+      "name_en" : "Education",
+      "notes" : "Education",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:01:03.284Z",
+      "updated_at" : "2023-08-15T11:01:03.284Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 28,
+    "fields": {
+      "name_vi" : "Gia sư",
+      "name_en" : "Tutors",
+      "notes" : "Subcategory of Education",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:01:44.158Z",
+      "updated_at" : "2023-08-15T11:01:44.158Z",
+      "parent_id_id" : 27
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 29,
+    "fields": {
+      "name_vi" : "Mẫu giáo",
+      "name_en" : "Kindergarten",
+      "notes" : "Subcategory of Education",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:02:03.593Z",
+      "updated_at" : "2023-08-15T11:02:03.593Z",
+      "parent_id_id" : 27
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 30,
+    "fields": {
+      "name_vi" : "Tài liệu học tập",
+      "name_en" : "Educational Resources",
+      "notes" : "Subcategory of Education",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:02:19.749Z",
+      "updated_at" : "2023-08-15T11:02:19.749Z",
+      "parent_id_id" : 27
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 31,
+    "fields": {
+      "name_vi" : "Ngoại khóa",
+      "name_en" : "Other Education",
+      "notes" : "Subcategory of Education",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:02:39.494Z",
+      "updated_at" : "2023-08-15T11:02:39.494Z",
+      "parent_id_id" : 27
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 32,
+    "fields": {
+      "name_vi" : "Hội thảo giáo dục",
+      "name_en" : "Education Workshop",
+      "notes" : "Subcategory of Education",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:02:59.049Z",
+      "updated_at" : "2023-08-15T11:02:59.049Z",
+      "parent_id_id" : 27
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 33,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Education",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:03:19.626Z",
+      "updated_at" : "2023-08-15T11:03:19.626Z",
+      "parent_id_id" : 27
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 34,
+    "fields": {
+      "name_vi" : "Giải trí và thể thao",
+      "name_en" : "Entertainment & Sports",
+      "notes" : "Entertainment & Sports",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:04:15.630Z",
+      "updated_at" : "2023-08-15T11:04:15.630Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 35,
+    "fields": {
+      "name_vi" : "Cung cấp dịch vụ và tổ chức sự kiện",
+      "name_en" : "Event Planners & Supplies",
+      "notes" : "Subcategory of Entertainment & Sports",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:05:32.831Z",
+      "updated_at" : "2023-08-15T11:05:32.831Z",
+      "parent_id_id" : 34
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 36,
+    "fields": {
+      "name_vi" : "Thể thao điện tử",
+      "name_en" : "Gaming & E-sports",
+      "notes" : "Subcategory of Entertainment & Sports",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:06:50.937Z",
+      "updated_at" : "2023-08-15T11:06:50.937Z",
+      "parent_id_id" : 34
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 37,
+    "fields": {
+      "name_vi" : "Khóa học thể thao",
+      "name_en" : "Sport Courses",
+      "notes" : "Subcategory of Entertainment & Sports",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:07:13.552Z",
+      "updated_at" : "2023-08-15T11:07:13.552Z",
+      "parent_id_id" : 34
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 38,
+    "fields": {
+      "name_vi" : "Điện ảnh",
+      "name_en" : "Cinema & Theater",
+      "notes" : "Subcategory of Entertainment & Sports",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:07:30.282Z",
+      "updated_at" : "2023-08-15T11:07:30.282Z",
+      "parent_id_id" : 34
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 39,
+    "fields": {
+      "name_vi" : "Hội thảo giải trí",
+      "name_en" : "Entertaining Workshop",
+      "notes" : "Subcategory of Entertainment & Sports",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:07:52.308Z",
+      "updated_at" : "2023-08-15T11:07:52.308Z",
+      "parent_id_id" : 34
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 40,
+    "fields": {
+      "name_vi" : "Bảo tàng & Triển lãm",
+      "name_en" : "Museum & Exhibition",
+      "notes" : "Subcategory of Entertainment & Sports",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:08:12.839Z",
+      "updated_at" : "2023-08-15T11:08:12.839Z",
+      "parent_id_id" : 34
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 41,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Entertainment & Sports",
+      "deleted_at" : null,
+      "created_at" : "2023-08-15T11:08:31.558Z",
+      "updated_at" : "2023-08-15T11:08:31.558Z",
+      "parent_id_id" : 34
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 42,
+    "fields": {
+      "name_vi" : "Đồ ăn và thức uống",
+      "name_en" : "Food & Dining",
+      "notes" : "Food & Dining",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T02:46:44.602Z",
+      "updated_at" : "2023-08-16T02:46:44.602Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 43,
+    "fields": {
+      "name_vi" : "Bars & Pubs",
+      "name_en" : "Bars & Pubs",
+      "notes" : "Subcategory of Food & Dining",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T02:48:20.045Z",
+      "updated_at" : "2023-08-16T02:51:25.243Z",
+      "parent_id_id" : 42
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 44,
+    "fields": {
+      "name_vi" : "Bakery",
+      "name_en" : "Bakery",
+      "notes" : "Subcategory of Food & Dining",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T02:51:54.328Z",
+      "updated_at" : "2023-08-16T02:51:54.328Z",
+      "parent_id_id" : 42
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 45,
+    "fields": {
+      "name_vi" : "Groceries",
+      "name_en" : "Tạp hóa",
+      "notes" : "Subcategory of Food & Dining",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T02:52:13.912Z",
+      "updated_at" : "2023-08-16T02:52:13.912Z",
+      "parent_id_id" : 42
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 46,
+    "fields": {
+      "name_vi" : "Ăn vặt",
+      "name_en" : "Snacks",
+      "notes" : "Subcategory of Food & Dining",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T02:52:50.914Z",
+      "updated_at" : "2023-08-16T02:52:50.914Z",
+      "parent_id_id" : 42
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 47,
+    "fields": {
+      "name_vi" : "Đồ uống",
+      "name_en" : "Beverage",
+      "notes" : "Subcategory of Food & Dining",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T02:53:09.021Z",
+      "updated_at" : "2023-08-16T02:53:09.021Z",
+      "parent_id_id" : 42
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 48,
+    "fields": {
+      "name_vi" : "Nhà hàng",
+      "name_en" : "Restaurants",
+      "notes" : "Subcategory of Food & Dining",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T02:53:24.064Z",
+      "updated_at" : "2023-08-16T02:53:24.064Z",
+      "parent_id_id" : 42
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 49,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Food & Dining",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T02:53:33.394Z",
+      "updated_at" : "2023-08-16T02:53:33.394Z",
+      "parent_id_id" : 42
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 50,
+    "fields": {
+      "name_vi" : "Sức khỏe và Y tế",
+      "name_en" : "Health & Medicine",
+      "notes" : "Health & Medicine",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T03:24:52.492Z",
+      "updated_at" : "2023-08-16T03:24:52.492Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 51,
+    "fields": {
+      "name_vi" : "Thiết bị y tế",
+      "name_en" : "Medical devices",
+      "notes" : "Subcategory of Health & Medicine",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T03:25:16.835Z",
+      "updated_at" : "2023-08-16T03:25:16.835Z",
+      "parent_id_id" : 50
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 52,
+    "fields": {
+      "name_vi" : "Dược phẩm",
+      "name_en" : "Pharmaceuticals",
+      "notes" : "Subcategory of Health & Medicine",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T03:25:45.150Z",
+      "updated_at" : "2023-08-16T03:25:45.150Z",
+      "parent_id_id" : 50
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 53,
+    "fields": {
+      "name_vi" : "Chăm sóc cá nhân",
+      "name_en" : "Personal care products",
+      "notes" : "Subcategory of Health & Medicine",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T03:26:06.185Z",
+      "updated_at" : "2023-08-16T03:26:06.185Z",
+      "parent_id_id" : 50
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 54,
+    "fields": {
+      "name_vi" : "Thực phẩm chức năng",
+      "name_en" : "Nutritional supplements",
+      "notes" : "Subcategory of Health & Medicine",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T03:26:29.481Z",
+      "updated_at" : "2023-08-16T03:26:29.481Z",
+      "parent_id_id" : 50
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 55,
+    "fields": {
+      "name_vi" : "Spa & Phòng khám",
+      "name_en" : "Spa & Clinic",
+      "notes" : "Subcategory of Health & Medicine",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T03:27:47.629Z",
+      "updated_at" : "2023-08-16T03:27:47.629Z",
+      "parent_id_id" : 50
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 56,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Health & Medicine",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T03:28:10.945Z",
+      "updated_at" : "2023-08-16T03:28:10.945Z",
+      "parent_id_id" : 50
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 57,
+    "fields": {
+      "name_vi" : "Pháp luật & Tài chính",
+      "name_en" : "Legal & Financial",
+      "notes" : "Legal & Financial",
+      "deleted_at" : "2023-08-16T07:25:55.375Z",
+      "created_at" : "2023-08-16T07:28:01.042Z",
+      "updated_at" : "2023-08-16T07:28:01.042Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 58,
+    "fields": {
+      "name_vi" : "Kế toán",
+      "name_en" : "Accountant",
+      "notes" : "Subcategory of Legal & Financial",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:31:02.643Z",
+      "updated_at" : "2023-08-16T07:44:56.584Z",
+      "parent_id_id" : 57
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 59,
+    "fields": {
+      "name_vi" : "Luật sư",
+      "name_en" : "Attorneys",
+      "notes" : "Subcategory of Legal",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:46:51.701Z",
+      "updated_at" : "2023-08-16T08:10:44.440Z",
+      "parent_id_id" : 57
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 60,
+    "fields": {
+      "name_vi" : "Tổ chức tài chính",
+      "name_en" : "Financial Institutions",
+      "notes" : "Subcategory of Legal & Financial",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:47:44.969Z",
+      "updated_at" : "2023-08-16T08:18:44.079Z",
+      "parent_id_id" : 57
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 61,
+    "fields": {
+      "name_vi" : "Bảo hiểm tài chính",
+      "name_en" : "Financial Services Insurance",
+      "notes" : "Subcategory of Legal & Financial",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:48:15.847Z",
+      "updated_at" : "2023-08-16T08:19:09.707Z",
+      "parent_id_id" : 57
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 62,
+    "fields": {
+      "name_vi" : "Pháp lý",
+      "name_en" : "Other Legal",
+      "notes" : "Subcategory of Legal & Financial",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:49:02.031Z",
+      "updated_at" : "2023-08-16T08:19:44.268Z",
+      "parent_id_id" : 57
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 63,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Legal & Financial",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:49:29.987Z",
+      "updated_at" : "2023-08-16T08:24:04.580Z",
+      "parent_id_id" : 57
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 64,
+    "fields": {
+      "name_vi" : "Sản suất, Bán sỉ, Phân phối",
+      "name_en" : "Manufacturing, Wholesale, Distribution",
+      "notes" : "Manufacturing, Wholesale, Distribution",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:34:23.146Z",
+      "updated_at" : "2023-08-16T07:34:23.146Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 65,
+    "fields": {
+      "name_vi" : "Phân phối",
+      "name_en" : "Distribution",
+      "notes" : "Subcategory of Manufacturing, Wholesale, Distribution",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:50:37.988Z",
+      "updated_at" : "2023-08-16T08:24:48.338Z",
+      "parent_id_id" : 64
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 66,
+    "fields": {
+      "name_vi" : "Nhập khẩu",
+      "name_en" : "Import",
+      "notes" : "Subcaegory of Manufacturing, Wholesale, Distribution",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:52:17.307Z",
+      "updated_at" : "2023-08-16T08:25:35.335Z",
+      "parent_id_id" : 64
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 67,
+    "fields": {
+      "name_vi" : "Xuất khẩu",
+      "name_en" : "Export",
+      "notes" : "Subcaegory of Manufacturing, Wholesale, Distribution",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:52:42.882Z",
+      "updated_at" : "2023-08-16T08:25:57.826Z",
+      "parent_id_id" : 64
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 68,
+    "fields": {
+      "name_vi" : "Sản xuất",
+      "name_en" : "Manufacturing",
+      "notes" : "Subcaegory of Manufacturing, Wholesale, Distribution",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:54:51.744Z",
+      "updated_at" : "2023-08-16T08:26:17.847Z",
+      "parent_id_id" : 64
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 69,
+    "fields": {
+      "name_vi" : "Bán sỉ",
+      "name_en" : "Wholesale",
+      "notes" : "Subcaegory of Manufacturing, Wholesale, Distribution",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:55:47.576Z",
+      "updated_at" : "2023-08-16T08:26:38.304Z",
+      "parent_id_id" : 64
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 70,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Manufacturing, Wholesale, Distribution",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:56:01.965Z",
+      "updated_at" : "2023-08-16T08:27:09.557Z",
+      "parent_id_id" : 64
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 71,
+    "fields": {
+      "name_vi" : "Bán lẻ",
+      "name_en" : "Retail",
+      "notes" : "Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:35:09.222Z",
+      "updated_at" : "2023-08-16T07:35:09.222Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 72,
+    "fields": {
+      "name_vi" : "Thiệp & Quà",
+      "name_en" : "Cards & Gifts",
+      "notes" : "Subcategory of Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:56:44.273Z",
+      "updated_at" : "2023-08-16T07:56:44.273Z",
+      "parent_id_id" : 71
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 73,
+    "fields": {
+      "name_vi" : "Quần áo & Phụ kiện",
+      "name_en" : "Clothing & Accessories",
+      "notes" : "Subcategory of Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:57:33.434Z",
+      "updated_at" : "2023-08-16T07:57:33.435Z",
+      "parent_id_id" : 71
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 74,
+    "fields": {
+      "name_vi" : "Đồ thể thao",
+      "name_en" : "Sporting Goods",
+      "notes" : "Subcategory of Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:58:05.515Z",
+      "updated_at" : "2023-08-16T07:58:05.515Z",
+      "parent_id_id" : 71
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 75,
+    "fields": {
+      "name_vi" : "Trang sức",
+      "name_en" : "Jewelry",
+      "notes" : "Subcategory of Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:58:37.636Z",
+      "updated_at" : "2023-08-16T07:58:37.636Z",
+      "parent_id_id" : 71
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 76,
+    "fields": {
+      "name_vi" : "Giày dép",
+      "name_en" : "Shoes",
+      "notes" : "Subcategory of Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:59:02.761Z",
+      "updated_at" : "2023-08-16T07:59:02.761Z",
+      "parent_id_id" : 71
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 77,
+    "fields": {
+      "name_vi" : "Đồ gia dụng",
+      "name_en" : "Furniture",
+      "notes" : "Subcategory of Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:59:30.558Z",
+      "updated_at" : "2023-08-16T07:59:30.558Z",
+      "parent_id_id" : 71
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 78,
+    "fields": {
+      "name_vi" : "Thiết bị gia dụng",
+      "name_en" : "Home Appliances",
+      "notes" : "Subcategory of Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:00:03.133Z",
+      "updated_at" : "2023-08-16T08:00:03.133Z",
+      "parent_id_id" : 71
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 79,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Retail",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:00:28.331Z",
+      "updated_at" : "2023-08-16T08:00:28.331Z",
+      "parent_id_id" : 71
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 80,
+    "fields": {
+      "name_vi" : "Dịch vụ chăm sóc cá nhân",
+      "name_en" : "Personal Care & Services",
+      "notes" : "Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:36:20.736Z",
+      "updated_at" : "2023-08-16T07:36:20.736Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 81,
+    "fields": {
+      "name_vi" : "Chăm sóc động vật",
+      "name_en" : "Animal Care & Supplies",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:02:12.942Z",
+      "updated_at" : "2023-08-16T08:02:12.942Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 82,
+    "fields": {
+      "name_vi" : "Cắt tóc & Salon",
+      "name_en" : "Barber & Beauty Salons",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:02:52.901Z",
+      "updated_at" : "2023-08-16T08:02:52.901Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 83,
+    "fields": {
+      "name_vi" : "Mỹ phẩm",
+      "name_en" : "Beauty Supplies",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:03:28.088Z",
+      "updated_at" : "2023-08-16T08:03:28.088Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 84,
+    "fields": {
+      "name_vi" : "Dịch vụ giặt ủi",
+      "name_en" : "Dry Cleaners & Laundromats",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:04:08.894Z",
+      "updated_at" : "2023-08-16T08:04:08.894Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 85,
+    "fields": {
+      "name_vi" : "Thể hình",
+      "name_en" : "Exercise & Fitness",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:05:07.134Z",
+      "updated_at" : "2023-08-16T08:05:07.134Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 86,
+    "fields": {
+      "name_vi" : "Massage & Chăm sóc da",
+      "name_en" : "Massage & Body Works",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:05:59.451Z",
+      "updated_at" : "2023-08-16T08:05:59.451Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 87,
+    "fields": {
+      "name_vi" : "Nail Salons",
+      "name_en" : "Nail Salons",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:06:20.268Z",
+      "updated_at" : "2023-08-16T08:06:20.268Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 88,
+    "fields": {
+      "name_vi" : "Đánh giày",
+      "name_en" : "Shoe Repairs Tailors",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:06:56.515Z",
+      "updated_at" : "2023-08-16T08:06:56.515Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 89,
+    "fields": {
+      "name_vi" : "Diệt côn trùng",
+      "name_en" : "Service Pest Control",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:09:04.080Z",
+      "updated_at" : "2023-08-16T08:09:04.080Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 90,
+    "fields": {
+      "name_vi" : "Vật tư hồ bơi",
+      "name_en" : "Pool Supplies & Service",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:29:28.580Z",
+      "updated_at" : "2023-08-16T08:30:38.133Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 91,
+    "fields": {
+      "name_vi" : "Dịch vụ bảo an",
+      "name_en" : "Security System & Services",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:31:24.853Z",
+      "updated_at" : "2023-08-16T08:31:24.853Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 92,
+    "fields": {
+      "name_vi" : "Cải tạo & Sửa chữa nhà cửa",
+      "name_en" : "Home Improvements & Repairs",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:31:50.625Z",
+      "updated_at" : "2023-08-16T08:31:50.625Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 93,
+    "fields": {
+      "name_vi" : "Dọn vệ sinh",
+      "name_en" : "House cleaning",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:32:07.229Z",
+      "updated_at" : "2023-08-16T08:32:07.229Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 94,
+    "fields": {
+      "name_vi" : "Dịch vụ giữ nhà",
+      "name_en" : "Housekeeper Service",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:32:30.293Z",
+      "updated_at" : "2023-08-16T08:32:30.293Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 95,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Personal Care & Services",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:32:47.898Z",
+      "updated_at" : "2023-08-16T08:32:47.898Z",
+      "parent_id_id" : 80
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 96,
+    "fields": {
+      "name_vi" : "Bất động sản",
+      "name_en" : "Real Estate",
+      "notes" : "Real Estate",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:37:20.258Z",
+      "updated_at" : "2023-08-16T07:37:20.258Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 97,
+    "fields": {
+      "name_vi" : "Đại lý & Mô giới",
+      "name_en" : "Agencies & Brokerage",
+      "notes" : "Subcategory of Real Estate",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:33:30.150Z",
+      "updated_at" : "2023-08-16T08:33:58.971Z",
+      "parent_id_id" : 96
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 98,
+    "fields": {
+      "name_vi" : "Căn hộ, Nhà & Văn phòng cho thuê",
+      "name_en" : "Apartment, Home & Office Rental",
+      "notes" : "Subcategory of Real Estate",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:35:00.012Z",
+      "updated_at" : "2023-08-16T08:35:00.012Z",
+      "parent_id_id" : 96
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 99,
+    "fields": {
+      "name_vi" : "Quản lý tài sản",
+      "name_en" : "Property Management",
+      "notes" : "Subcategory of Real Estate",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:35:24.304Z",
+      "updated_at" : "2023-08-16T08:35:24.304Z",
+      "parent_id_id" : 96
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 100,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Real Estate",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:35:47.512Z",
+      "updated_at" : "2023-08-16T08:35:47.512Z",
+      "parent_id_id" : 96
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 101,
+    "fields": {
+      "name_vi" : "Du lịch & Vận tải & Logistics",
+      "name_en" : "Travel & Transportation & Logistics",
+      "notes" : "Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:38:22.713Z",
+      "updated_at" : "2023-08-16T07:38:22.713Z",
+      "parent_id_id" : null
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 102,
+    "fields": {
+      "name_vi" : "Khách sạn & Nhà nghỉ",
+      "name_en" : "Hotel, Motel & Extended Stay",
+      "notes" : "Subcategory of Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:36:52.229Z",
+      "updated_at" : "2023-08-16T08:36:52.229Z",
+      "parent_id_id" : 101
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 103,
+    "fields": {
+      "name_vi" : "Vận chuyển & Lưu trữ",
+      "name_en" : "Moving & Storage",
+      "notes" : "Subcategory of Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:37:34.792Z",
+      "updated_at" : "2023-08-16T08:37:34.792Z",
+      "parent_id_id" : 101
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 104,
+    "fields": {
+      "name_vi" : "Đóng gói & Giao hàng",
+      "name_en" : "Packaging & Shipping",
+      "notes" : "Subcategory of Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:37:54.561Z",
+      "updated_at" : "2023-08-16T08:37:54.561Z",
+      "parent_id_id" : 101
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 105,
+    "fields": {
+      "name_vi" : "Giao thông vận tải",
+      "name_en" : "Transportation",
+      "notes" : "Subcategory of Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:38:13.407Z",
+      "updated_at" : "2023-08-16T08:38:13.407Z",
+      "parent_id_id" : 101
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 106,
+    "fields": {
+      "name_vi" : "Logistics",
+      "name_en" : "Logistics",
+      "notes" : "Subcategory of Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:38:26.065Z",
+      "updated_at" : "2023-08-16T08:38:26.065Z",
+      "parent_id_id" : 101
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 107,
+    "fields": {
+      "name_vi" : "Du lịch",
+      "name_en" : "Tourism",
+      "notes" : "Subcategory of Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:38:53.910Z",
+      "updated_at" : "2023-08-16T08:38:53.910Z",
+      "parent_id_id" : 101
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 108,
+    "fields": {
+      "name_vi" : "Cắm trại",
+      "name_en" : "Camping",
+      "notes" : "Subcategory of Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:39:22.270Z",
+      "updated_at" : "2023-08-16T08:39:22.271Z",
+      "parent_id_id" : 101
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 109,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Subcategory of Travel & Transportation & Logistics",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T08:39:42.169Z",
+      "updated_at" : "2023-08-16T08:39:42.169Z",
+      "parent_id_id" : 101
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 110,
+    "fields": {
+      "name_vi" : "Khác",
+      "name_en" : "Others",
+      "notes" : "Others",
+      "deleted_at" : null,
+      "created_at" : "2023-08-16T07:43:04.320Z",
+      "updated_at" : "2023-08-16T07:43:04.320Z",
+      "parent_id_id" : null
+    }
+  }
+]

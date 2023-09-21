@@ -14,6 +14,13 @@ class UserSerializer(serializers.ModelSerializer):
         fields = ("id", "phone_number", "email", "country_code")
 
 
+class UserDetailSerializer(serializers.Serializer):
+    class Meta:
+        model = User
+        fields = "__all__"
+        read_only_fields = fields
+
+
 class LinkToStaffSerializer(serializers.ModelSerializer):
     user = UserSerializer(read_only=True)
     user_id = serializers.IntegerField()

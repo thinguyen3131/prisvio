@@ -1,15 +1,14 @@
 import re
-from datetime import timedelta
 
-from django.conf import settings
 from django.contrib.auth import get_user_model
+from django.contrib.auth.password_validation import validate_password as django_validate_password
 from django.utils import timezone
+from django.utils.translation import gettext as _
 from rest_framework import exceptions, serializers
 
-from prismvio.users.enums import IntervalLockTime, OTPAction, OTPType
-from prismvio.users.otp import LimitedError, get_otp_instance, is_valid_otp_instance
-
-from ..models.otp import OneTimePassword
+from prismvio.core.configs import CURRENCY
+from prismvio.menu_merchant.models import Category
+from prismvio.users.api.validate_serializers import UserValidationSerializer
 
 User = get_user_model()
 
@@ -40,92 +39,10 @@ def validate_password(password):
     return password
 
 
-class UserSerializer(serializers.ModelSerializer):
-    otp = serializers.CharField(write_only=True, required=True)
-    verification_id = serializers.CharField(write_only=True, required=True)
-
+class CategorySerializer(serializers.ModelSerializer):
     class Meta:
-        model = User
-        fields = [
-            "username",
-            "email",
-            "phone_number",
-            "password",
-            "role",
-            "gender",
-            "marital_status",
-            "parent_id",
-            "otp",
-            "verification_id",
-        ]
-        extra_kwargs = {"password": {"write_only": True}}
-
-    def check_verification_id(self, signature, email, otp):
-        if not signature:
-            raise exceptions.ValidationError(
-                "The verification ID is not valid 111111",
-                "invalid_verification_id",
-            )
-
-        now = timezone.now()
-        past_time = now - timedelta(minutes=IntervalLockTime.SEND.value)
-        otp_obj = OneTimePassword.objects.filter(
-            signature=signature,
-            otp_type=OTPType.EMAIL.value,
-            email=email,
-            otp_action=OTPAction.ID_VERIFICATION.value,
-            is_verified=False,
-            last_send__gte=past_time,
-            is_used=False,
-        ).last()
-        if not otp_obj:
-            raise exceptions.ValidationError(
-                "The verification ID is not valid 222",
-                "invalid_verification_id",
-            )
-
-        instance = get_otp_instance(
-            signature=signature,
-            otp_type=OTPType.EMAIL.value,
-        )
-        if not instance or instance.email != email:
-            raise exceptions.NotFound("Expired OTP", "OTP_NOT_FOUND")
-        try:
-            interval = int(settings.EMAIL_VERIFICATION_CODE_TIMEOUT)
-            if not is_valid_otp_instance(instance, otp, interval):
-                raise exceptions.ParseError("Invalid OTP.", "otp_invalid")
-        except LimitedError:
-            raise_throttled(IntervalLockTime.CHECK)
-        if otp_obj:
-            otp_obj.is_used = True
-            otp_obj.is_verified = True
-            otp_obj.save()
-        return otp_obj
-
-    def create(self, validated_data):
-        password = validated_data.pop("password", None)
-        email = validated_data.get("email", None)
-        signature = validated_data.pop("verification_id", None)
-        otp = validated_data.pop("otp", None)
-        # phone_number = validated_data.get("phone_number", None)
-
-        otp_obj = None
-        if email:
-            otp_obj = self.check_verification_id(signature, email, otp)
-            validated_data["verified_email_at"] = timezone.now()
-
-        # if phone_number:
-        #     self.check_id_token(id_token, phone_number)
-        #     validated_data["verified_phone_number_at"] = timezone.now()
-
-        user = User(**validated_data)
-        if password:
-            user.set_password(password)
-        user.save()
-        if otp_obj:
-            otp_obj.user_id = user.id
-            otp_obj.save()
-        return user
+        model = Category
+        fields = ("id", "name_vi", "name_en")
 
 
 class SendEmailVerificationCodeSerializer(serializers.Serializer):
@@ -156,8 +73,123 @@ class EmailPhoneLookupSerializer(serializers.Serializer):
         return data
 
 
-class UserDetailSerializer(serializers.Serializer):
+class MeDetailSerializer(UserValidationSerializer):
+    """Serializer specifically for viewing and editing current user's profile"""
+
+    currency = serializers.CharField(required=False)
+    verification_id = serializers.CharField(required=False, write_only=True)
+    categories = CategorySerializer(many=True, read_only=True)
+    category_ids = serializers.ListField(
+        child=serializers.IntegerField(), required=False, allow_null=True, write_only=True
+    )
+
     class Meta:
         model = User
-        fields = "__all__"
-        read_only_fields = fields
+        fields = (
+            "id",
+            "profile_type",
+            "email",
+            "phone_number",
+            "birth_date",
+            "first_name",
+            "middle_name",
+            "last_name",
+            "brand_name",
+            "full_name",
+            "bio",
+            "birth_date",
+            "website",
+            "language",
+            "gender",
+            "is_share_phone",
+            "currency",
+            "categories",
+            "category_ids",
+            "address",
+            "full_address",
+            "latitude",
+            "longitude",
+            "country_code",
+            "verified_email_at",
+            "verified_phone_number_at",
+            "email_verified",
+            "phone_verified",
+            "is_registered",
+            "avatar",
+            "banner",
+            "verification_id",
+            "id_token",
+            "is_active",
+        )
+        read_only_fields = ("verified_email_at", "verified_phone_number_at")
+
+    def validate(self, attrs):
+        return self.validate_identity_info(attrs)
+
+    def update(self, instance, validated_data):
+        email = validated_data.get("email", None)
+        signature = validated_data.pop("verification_id", None)
+        phone_number = validated_data.get("phone_number", None)
+        id_token = validated_data.pop("id_token", None)
+        email_verified = validated_data.pop("email_verified", None)
+        phone_verified = validated_data.pop("phone_verified", None)
+        category_ids = validated_data.pop("category_ids", None)
+        if phone_verified is not None:
+            validated_data["phone_verified"] = True if phone_verified else False
+        if email_verified is not None:
+            validated_data["email_verified"] = True if email_verified else False
+        if category_ids is not None:
+            instance.categories.set(category_ids)
+        otp_obj = None
+        if email and instance.email != email:
+            otp_obj = self.check_verification_id(signature, email)
+            validated_data["verified_email_at"] = timezone.now()
+
+        if phone_number and instance.phone_number != phone_number:
+            self.check_id_token(id_token, phone_number)
+            validated_data["verified_phone_number_at"] = timezone.now()
+
+        for k, v in validated_data.items():
+            if k == "title":
+                v = instance.get_or_create_user_title(v)
+            if k == "currency":
+                if any(v in cur for cur in CURRENCY):
+                    """Convert wallet balance by new currency setting"""
+                    if v != instance.currency:
+                        instance.convert_wallet_balance_by_exchange_rate(
+                            curr_from=instance.currency,
+                            curr_to=v,
+                        )
+                else:
+                    continue
+            setattr(instance, k, v)
+        instance.save()
+        if otp_obj:
+            otp_obj.is_used = True
+            otp_obj.save()
+        return instance
+
+
+class UpdatePasswordSerializer(serializers.Serializer):
+    """Serializer for regular case of password update"""
+
+    password = serializers.CharField(max_length=256, required=True)
+    new_password = serializers.CharField(max_length=256, required=True)
+
+    def validate_password(self, raw_password):
+        """Validate new password and check current"""
+        user = self.context["request"].user
+        if not user.check_password(raw_password):
+            raise serializers.ValidationError(_("Invalid password"))
+        return raw_password
+
+    def validate_new_password(self, raw_password):
+        try:
+            django_validate_password(raw_password)
+        except Exception:
+            raise serializers.ValidationError(_("Invalid new password"))
+        return raw_password
+
+
+class DeactivateUserActiveStatusSerializer(serializers.Serializer):
+    refresh_token = serializers.CharField(required=True)

@@ -13,12 +13,13 @@ from prismvio.staff.api.serializers import (
     StaffAcceptedInviteSerializer,
     StaffSerializer,
     UnlinkStaffSerializer,
+    UserDetailSerializer,
 )
 from prismvio.staff.constants import STAFF_SORT_FIELDS
 from prismvio.staff.enums import InviteStatusEnum, LinkStatusEnum
 from prismvio.staff.exceptions import MerchantIDNotNullException, StaffDoesNotExists
 from prismvio.staff.models import Staff
-from prismvio.users.api.serializers import EmailPhoneLookupSerializer, UserDetailSerializer
+from prismvio.users.api.serializers import EmailPhoneLookupSerializer
 from prismvio.users.models import User
 from prismvio.users.tasks import invite_new_user
 from prismvio.utils.drf_utils import handle_whitespace

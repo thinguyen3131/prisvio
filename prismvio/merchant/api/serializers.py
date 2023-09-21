@@ -57,7 +57,7 @@ class MerchantPreviewSerializer(serializers.ModelSerializer):
             "uid",
             "latitude",
             "longitude",
-            "location",
+            "address",
             "categories",
             "created_at",
             "updated_at",

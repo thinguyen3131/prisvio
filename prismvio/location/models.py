@@ -1,7 +1,6 @@
 from django.db import models
 
 
-# Create your models here.
 class Country(models.Model):
     code = models.CharField(max_length=20, null=True, blank=True)
     full_name_vi = models.CharField(max_length=255)
@@ -19,11 +18,6 @@ class Province(models.Model):
     zip_code = models.CharField(max_length=20, null=True, blank=True, unique=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
-
-    # def save(self, *args, **kwargs):
-    #     if not self.code:
-    #         self.code = str(self.id).zfill(2)  # Pad with zeros to make it 2 digits
-    #     super(Province, self).save(*args, **kwargs)
 
 
 class District(models.Model):

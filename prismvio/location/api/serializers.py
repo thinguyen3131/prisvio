@@ -1,5 +1,12 @@
-from location.models import District, Province, Ward
 from rest_framework import serializers
+
+from prismvio.location.models import Country, District, Province, Ward
+
+
+class CountrySerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Country
+        fields = ("id", "code", "full_name_vi", "full_name_en", "created_at", "updated_at", "deleted_at")
 
 
 class WardSerializer(serializers.ModelSerializer):

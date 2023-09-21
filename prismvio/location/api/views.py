@@ -1,12 +1,26 @@
 from copy import deepcopy
 
 from django.db.models import Q
-from location.api.serializers import DistrictSerializer, ProvinceSerializer, WardSerializer
-from location.models import District, Province, Ward
 from rest_framework import generics
 from rest_framework.permissions import AllowAny
 
+from prismvio.location.api.serializers import CountrySerializer, DistrictSerializer, ProvinceSerializer, WardSerializer
+from prismvio.location.models import Country, District, Province, Ward
 from prismvio.utils.drf_utils import search
+
+
+class CountryListAPIView(generics.ListAPIView):
+    serializer_class = CountrySerializer
+    permission_classes = (AllowAny,)
+
+    def get_queryset(self):
+        query_params = deepcopy(self.request.query_params)
+        updated_at = query_params.get("updated_at")
+        where = Q()
+        if updated_at:
+            where &= Q(updated_at__gt=updated_at)
+        queryset = Country.objects.filter(where)
+        return search(queryset=queryset, query_params=query_params, model=Country, exclude_fields=["updated_at"])
 
 
 class ProvinceListAPIView(generics.ListAPIView):

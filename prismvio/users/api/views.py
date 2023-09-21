@@ -5,13 +5,13 @@ from django.contrib.auth import get_user_model
 from django.utils import timezone
 from rest_framework import exceptions
 from rest_framework.response import Response
-from rest_framework.status import HTTP_200_OK, HTTP_400_BAD_REQUEST, HTTP_404_NOT_FOUND, HTTP_500_INTERNAL_SERVER_ERROR
+from rest_framework.status import HTTP_200_OK, HTTP_400_BAD_REQUEST, HTTP_500_INTERNAL_SERVER_ERROR
 from rest_framework.views import APIView
 
-from prismvio.users.api.serializers import SendEmailVerificationCodeSerializer, ValidateEmailVerificationCodeSerializer
+from prismvio.users.api.serializers import SendEmailVerificationCodeSerializer
 from prismvio.users.enums import IntervalLockTime, OTPAction, OTPType
 from prismvio.users.models.otp import OneTimePassword
-from prismvio.users.otp import LimitedError, get_otp_instance, is_valid_otp_instance, require_new_otp
+from prismvio.users.otp import LimitedError, require_new_otp
 from prismvio.users.tasks import send_email_verification_otp_by_email_template
 
 User = get_user_model()
@@ -93,50 +93,3 @@ class SendValidateEmailVerificationCode(EmailVerificationCodeBaseView):
 
     def post(self, request):
         return super().post(request)
-
-
-class ValidateEmailVerificationCode(APIView):
-    serializer = ValidateEmailVerificationCodeSerializer
-    permission_classes = ()
-
-    operation_description = ("Validate email verification code",)
-    responses = (
-        {
-            HTTP_200_OK: "Verification code is valid",
-            HTTP_400_BAD_REQUEST: "Verification code is invalid",
-            HTTP_404_NOT_FOUND: "expired",
-        },
-    )
-    request_body = (ValidateEmailVerificationCodeSerializer,)
-
-    def post(self, request):
-        serializer = self.serializer(data=request.data)
-        serializer.is_valid(raise_exception=True)
-        email = serializer.data.get("email")
-        code = serializer.data.get("code")
-        signature = serializer.data.get("verification_id")
-
-        instance = get_otp_instance(
-            signature=signature,
-            otp_type=OTPType.EMAIL.value,
-        )
-        if not instance or instance.email != email:
-            raise exceptions.NotFound("Expired OTP", "OTP_NOT_FOUND")
-        try:
-            interval = int(settings.EMAIL_VERIFICATION_CODE_TIMEOUT)
-            if not is_valid_otp_instance(instance, code, interval):
-                raise exceptions.ParseError("Invalid OTP.", "OTP_INVALID")
-        except LimitedError:
-            raise_throttled(IntervalLockTime.CHECK)
-
-        if not instance.is_verified:
-            instance.is_verified = True
-            instance.save()
-
-        return Response(
-            {
-                "message": "valid",
-                "verification_id": signature,
-            },
-            status=HTTP_200_OK,
-        )

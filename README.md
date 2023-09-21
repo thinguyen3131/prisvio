@@ -172,6 +172,7 @@ python manage.py search_index --rebuild --use-alias --use-alias-keep-index [--mo
 
 ### Run seed data 
 ```
+export ELASTICSEARCH_DSL_AUTOSYNC=False
 python manage.py seed_dummy_data
 python manage.py search_index --rebuild --parallel
 ```

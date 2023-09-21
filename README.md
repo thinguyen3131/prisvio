@@ -132,3 +132,9 @@ Add urls for API:
 ```
 prismvio/api/urls.py
 ```
+
+### Run seed data
+```
+python manage.py seed_dummy_data
+python manage.py search_index --rebuild --parallel
+```

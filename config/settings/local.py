@@ -95,3 +95,7 @@ LOGGING = {
 }
 
 configure_logger(DEBUG, LOGURU_FORMAT)
+
+BASE_HOST = env("BASE_HOST", default="localhost:8000")
+BASE_HOST_PROTOCOL = env("BASE_HOST_PROTOCOL", default="https")
+BASE_URL = f"{BASE_HOST_PROTOCOL}://{BASE_HOST}"

@@ -3,10 +3,24 @@ import uuid
 import shortuuid
 from django.conf import settings
 from django.db import models
+from slugify import slugify
 from timezone_field import TimeZoneField
 
 from prismvio.location.models import Country, District, Province, Ward
 from prismvio.merchant.enums import MerchantCurrency
+
+
+class MerchantManager(models.Manager):
+    def get_with_related_data(self):
+        return self.prefetch_related(
+            "hashtags",
+            "keywords",
+        ).select_related(
+            "country",
+            "province",
+            "district",
+            "ward",
+        )
 
 
 class Merchant(models.Model):
@@ -30,9 +44,9 @@ class Merchant(models.Model):
     longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
     address = models.CharField(max_length=255, blank=True, null=True)
     is_active = models.BooleanField(default=True)
-    hashtag = models.ManyToManyField("menu_merchant.Hashtag", blank=True, related_name="merchants")
+    hashtags = models.ManyToManyField("menu_merchant.Hashtag", blank=True, related_name="merchants")
     categories = models.ManyToManyField("menu_merchant.Category", blank=True, related_name="merchants")
-    keyword = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
+    keywords = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
     country = models.ForeignKey(
         Country,
         on_delete=models.CASCADE,
@@ -68,6 +82,8 @@ class Merchant(models.Model):
     created_at = models.DateTimeField(auto_now_add=True, blank=True, null=True)
     updated_at = models.DateTimeField(auto_now=True, blank=True, null=True)
 
+    objects = MerchantManager()
+
     def __str__(self):
         if self.name:
             return self.name
@@ -79,6 +95,20 @@ class Merchant(models.Model):
             self.uid = shortuuid.encode(unique_id)
 
         super().save(*args, **kwargs)
+
+    def normalizer_name(self):
+        if self.name:
+            normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)
+            return normalizer
+        return None
+
+    def position(self):
+        if self.latitude and self.longitude:
+            return {
+                "lat": float(self.latitude),
+                "lon": float(self.longitude),
+            }
+        return None
 
 
 class TimeslotCollectionMerchant(models.Model):

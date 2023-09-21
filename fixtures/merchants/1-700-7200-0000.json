@@ -1,0 +1,1808 @@
+[
+    {
+        "name": "California Fitness Saigon",
+        "latitude": 10.77773,
+        "longitude": 106.70233,
+        "address": "California Fitness Saigon, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Lê Dương Bảo Lâm Livestream Bán Hàng",
+        "latitude": 10.7767,
+        "longitude": 106.70236,
+        "address": "Lê Dương Bảo Lâm Livestream Bán Hàng, 183 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Mochi Sweet-77 Hai Bà Trưng",
+        "latitude": 10.77703,
+        "longitude": 106.70447,
+        "address": "Mochi Sweet-77 Hai Bà Trưng, 77 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "S5 Club Sô 5 Lý Tự Trọng Night Club",
+        "latitude": 10.77936,
+        "longitude": 106.70231,
+        "address": "S5 Club Sô 5 Lý Tự Trọng Night Club, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Bamboo Capital",
+        "latitude": 10.77649,
+        "longitude": 106.70107,
+        "address": "Bamboo Capital, Đường Lê Thánh Tôn, Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Hồ Chí Minh",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Annam Professional",
+        "latitude": 10.77673,
+        "longitude": 106.70498,
+        "address": "Annam Professional, 16-18 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Yến Vàng",
+        "latitude": 10.77478,
+        "longitude": 106.7032,
+        "address": "Yến Vàng, 68 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Phan Như Thảo Beauty Spa",
+        "latitude": 10.77547,
+        "longitude": 106.70491,
+        "address": "Phan Như Thảo Beauty Spa, 39 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Pakme",
+        "latitude": 10.77747,
+        "longitude": 106.69945,
+        "address": "Pakme, 162 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Xèo Nhật Bản Quán",
+        "latitude": 10.78043,
+        "longitude": 106.70464,
+        "address": "Bánh Xèo Nhật Bản Quán, 15B11 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Nike Nguyen Oanh",
+        "latitude": 10.77718,
+        "longitude": 106.69935,
+        "address": "Nike Nguyen Oanh, 91 Hẻm 95 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 95 Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Ceo Suite",
+        "latitude": 10.77564,
+        "longitude": 106.70569,
+        "address": "Ceo Suite, Đường Công Trường Mê Linh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Mê Linh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            },
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            },
+            {
+                "name": "Hãng môi giới bất động sản"
+            }
+        ]
+    },
+    {
+        "name": "Gừng Càng Già Càng Cay",
+        "latitude": 10.77382,
+        "longitude": 106.70368,
+        "address": "Gừng Càng Già Càng Cay, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Khach San The Myst Don",
+        "latitude": 10.7745,
+        "longitude": 106.70543,
+        "address": "Khach San The Myst Don, 5 Đường Hồ Huấn Nghiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Huấn Nghiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Lider",
+        "latitude": 10.77346,
+        "longitude": 106.7024,
+        "address": "Lider, 42 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "The Hive Creations",
+        "latitude": 10.77339,
+        "longitude": 106.70179,
+        "address": "The Hive Creations, 60 Hẻm 42 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 42 Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Heekcaa Việt Nam",
+        "latitude": 10.77326,
+        "longitude": 106.70303,
+        "address": "Heekcaa Việt Nam, 8 Đường Huỳnh Thúc Kháng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Huỳnh Thúc Kháng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "World Of Sports",
+        "latitude": 10.77865,
+        "longitude": 106.69803,
+        "address": "World Of Sports, Đường Hàn Thuyên, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hàn Thuyên",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            },
+            {
+                "name": "Cửa hàng dụng cụ thể thao"
+            },
+            {
+                "name": "Cơ quan và tổ chức"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Crystal Jade At Takashiyama",
+        "latitude": 10.77328,
+        "longitude": 106.70057,
+        "address": "Crystal Jade At Takashiyama, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "D Street Style",
+        "latitude": 10.78207,
+        "longitude": 106.7047,
+        "address": "D Street Style, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Techbase Vietnam",
+        "latitude": 10.77275,
+        "longitude": 106.70058,
+        "address": "Techbase Vietnam, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Di Bửu Hongkong Restaurant",
+        "latitude": 10.78208,
+        "longitude": 106.70578,
+        "address": "Di Bửu Hongkong Restaurant, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Bna-Group.Co",
+        "latitude": 10.78295,
+        "longitude": 106.70476,
+        "address": "Bna-Group.Co, 21 Đường Nguyễn Trung Ngạn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Trung Ngạn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Trung Nguyên Legend Café",
+        "latitude": 10.78136,
+        "longitude": 106.69817,
+        "address": "Trung Nguyên Legend Café, 7 Đường Nguyễn Văn Chiêm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Văn Chiêm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Konica Minolta Vietnam",
+        "latitude": 10.77208,
+        "longitude": 106.70533,
+        "address": "Konica Minolta Vietnam, Đường Hải Triều, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hải Triều",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cat Communication",
+        "latitude": 10.77157,
+        "longitude": 106.70404,
+        "address": "Cat Communication, Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Tyme Digital",
+        "latitude": 10.78302,
+        "longitude": 106.70569,
+        "address": "Tyme Digital, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Auto Phủ Sóng Kinh Doanh Online Đa Quốc Gia",
+        "latitude": 10.77144,
+        "longitude": 106.70351,
+        "address": "Auto Phủ Sóng Kinh Doanh Online Đa Quốc Gia, 57-59 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            },
+            {
+                "name": "Dịch vụ cho thuê căn hộ"
+            }
+        ]
+    },
+    {
+        "name": "Chăn Ra Gối Nệm Edena",
+        "latitude": 10.78091,
+        "longitude": 106.69748,
+        "address": "Chăn Ra Gối Nệm Edena, Đường Phạm Ngọc Thạch, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Phạm Ngọc Thạch",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Lê Dương Bảo Lâm Bán Kem Body",
+        "latitude": 10.77153,
+        "longitude": 106.70448,
+        "address": "Lê Dương Bảo Lâm Bán Kem Body, Đường Hải Triều, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hải Triều",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Tour Châu Âu",
+        "latitude": 10.77153,
+        "longitude": 106.70448,
+        "address": "Tour Châu Âu, Đường Hải Triều, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hải Triều",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Hai Lua Cho Ben Thanh",
+        "latitude": 10.77299,
+        "longitude": 106.6983,
+        "address": "Hai Lua Cho Ben Thanh, Đường Phan Bội Châu, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Phan Bội Châu",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Lingtea Vietnam",
+        "latitude": 10.77319,
+        "longitude": 106.69789,
+        "address": "Lingtea Vietnam, Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Hobe Technology Corporation",
+        "latitude": 10.78373,
+        "longitude": 106.70544,
+        "address": "Hobe Technology Corporation, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Mingle Vietnam",
+        "latitude": 10.77135,
+        "longitude": 106.70035,
+        "address": "Mingle Vietnam, 132 Đường Hàm Nghi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Tinh Dầu Ngải Cứu",
+        "latitude": 10.77853,
+        "longitude": 106.69594,
+        "address": "Tinh Dầu Ngải Cứu, 135 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Quỹ Đầu Tư Manulife Việt Nam",
+        "latitude": 10.78137,
+        "longitude": 106.69702,
+        "address": "Quỹ Đầu Tư Manulife Việt Nam, 1A Đường Phạm Ngọc Thạch, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Phạm Ngọc Thạch",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Lee Hecht Harrison Vietnam",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Lee Hecht Harrison Vietnam, 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Food Around - Địa Điểm Ăn Uống",
+        "latitude": 10.78226,
+        "longitude": 106.69753,
+        "address": "Food Around - Địa Điểm Ăn Uống, Đường Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "TBK",
+        "latitude": 10.77127,
+        "longitude": 106.69969,
+        "address": "TBK, 136 Đường Hàm Nghi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lâm Mộc - Trầm Hương Việt",
+        "latitude": 10.77355,
+        "longitude": 106.69656,
+        "address": "Đại Lâm Mộc - Trầm Hương Việt, 155 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Baby Spoon",
+        "latitude": 10.77281,
+        "longitude": 106.69705,
+        "address": "Baby Spoon, 196 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Ốc Lak - Jojo Kitchen",
+        "latitude": 10.77252,
+        "longitude": 106.69729,
+        "address": "Ốc Lak - Jojo Kitchen, 37 Đường Phan Chu Trinh, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Phan Chu Trinh",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Hiệp Hội Cò Thép Chuyên Nghiệp",
+        "latitude": 10.78467,
+        "longitude": 106.69792,
+        "address": "Hiệp Hội Cò Thép Chuyên Nghiệp, 11B Đường Trần Cao Vân, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Trần Cao Vân",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Thể Dục Giảm Cân",
+        "latitude": 10.77146,
+        "longitude": 106.69644,
+        "address": "Thể Dục Giảm Cân, Đường Trương Định, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Trương Định",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Báo An Ninh",
+        "latitude": 10.78485,
+        "longitude": 106.70784,
+        "address": "Báo An Ninh, 2 Đường Nguyễn Bỉnh Khiêm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Bỉnh Khiêm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Twin Software Solutions",
+        "latitude": 10.78198,
+        "longitude": 106.69492,
+        "address": "Twin Software Solutions, Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Văn Tần",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Bely",
+        "latitude": 10.78079,
+        "longitude": 106.6943,
+        "address": "Bely, Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Văn Tần",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Hoa Cam",
+        "latitude": 10.77835,
+        "longitude": 106.69365,
+        "address": "Hoa Cam, Đường Nguyễn Thị Minh Khai, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Ironnext Technologies",
+        "latitude": 10.76866,
+        "longitude": 106.70117,
+        "address": "Ironnext Technologies, Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Eurofins Sacky Haidang",
+        "latitude": 10.7735,
+        "longitude": 106.69456,
+        "address": "Eurofins Sacky Haidang, Đường Nguyễn Du, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Green House Coffee",
+        "latitude": 10.78049,
+        "longitude": 106.69396,
+        "address": "Green House Coffee, 159TER Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Văn Tần",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Trà Giảm Cân Vytea - Free Ship Toàn Quốc",
+        "latitude": 10.76869,
+        "longitude": 106.70049,
+        "address": "Trà Giảm Cân Vytea - Free Ship Toàn Quốc, 30 Đường Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Phó Đức Chính",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "An Phu Khang Investment",
+        "latitude": 10.77246,
+        "longitude": 106.69484,
+        "address": "An Phu Khang Investment, 228 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Acb Card Testing - Vnd",
+        "latitude": 10.78603,
+        "longitude": 106.69809,
+        "address": "Acb Card Testing - Vnd, 30 Đường Mạc Đĩnh Chi, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Mạc Đĩnh Chi",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Collective",
+        "latitude": 10.76799,
+        "longitude": 106.7005,
+        "address": "Collective, 220 Hẻm 258 Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Hẻm 258 Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Redwood",
+        "latitude": 10.76772,
+        "longitude": 106.70379,
+        "address": "Redwood, Đường Bến Vân Đồn, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Đường Bến Vân Đồn",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Sửa Máy Tính Nạp Mực Máy In Minh Quyền",
+        "latitude": 10.76777,
+        "longitude": 106.70456,
+        "address": "Sửa Máy Tính Nạp Mực Máy In Minh Quyền, 5 Đường Bến Vân Đồn, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Đường Bến Vân Đồn",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Q-Shine",
+        "latitude": 10.7692,
+        "longitude": 106.69712,
+        "address": "Q-Shine, 38 Đường Đặng Thị Nhu, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Đặng Thị Nhu",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Landmark 81- Nóc Nhà Việt Nam",
+        "latitude": 10.76984,
+        "longitude": 106.70997,
+        "address": "Landmark 81- Nóc Nhà Việt Nam, Đường Thủ Thiêm, Phường Thủ Thiêm, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Thủ Thiêm",
+        "street": "Đường Thủ Thiêm",
+        "postal_code": "71110",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "G Suite Support",
+        "latitude": 10.78604,
+        "longitude": 106.69636,
+        "address": "G Suite Support, 28 Đường Phùng Khắc Khoan, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Phùng Khắc Khoan",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Phần Mềm Quản Lý Bán Hàng Miễn Phí Free Vĩnh Viễn Kiotfree.Com",
+        "latitude": 10.7883,
+        "longitude": 106.70317,
+        "address": "Phần Mềm Quản Lý Bán Hàng Miễn Phí Free Vĩnh Viễn Kiotfree.Com, 70000 Hẻm 12 Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Hẻm 12 Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            },
+            {
+                "name": "Dịch vụ biên phiên dịch"
+            }
+        ]
+    },
+    {
+        "name": "Best Logistics Technology Vietnam",
+        "latitude": 10.77048,
+        "longitude": 106.6946,
+        "address": "Best Logistics Technology Vietnam, Đường Lê Lai, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Lai",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Ait",
+        "latitude": 10.78802,
+        "longitude": 106.69998,
+        "address": "Ait, 9 Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đinh Tiên Hoàng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Stella Muse",
+        "latitude": 10.76735,
+        "longitude": 106.69912,
+        "address": "Stella Muse, 69 Hẻm 48 Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Hẻm 48 Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Sen Việt - Thuần Khiết Thực Phẩm Việt",
+        "latitude": 10.76716,
+        "longitude": 106.69929,
+        "address": "Sen Việt - Thuần Khiết Thực Phẩm Việt, Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Kangnamga",
+        "latitude": 10.78029,
+        "longitude": 106.69197,
+        "address": "Kangnamga, 6B Đường Lê Quý Đôn, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Lê Quý Đôn",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Steak Deli",
+        "latitude": 10.77173,
+        "longitude": 106.69327,
+        "address": "Steak Deli, Đường Cách Mạng Tháng 8, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chappiebot Inc.",
+        "latitude": 10.78553,
+        "longitude": 106.69497,
+        "address": "Chappiebot Inc., 172 Đường Hai Bà Trưng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Nước Uống Bidrico",
+        "latitude": 10.78818,
+        "longitude": 106.69948,
+        "address": "Nước Uống Bidrico, Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Jan Shop",
+        "latitude": 10.78836,
+        "longitude": 106.69995,
+        "address": "Jan Shop, Hẻm 16 Đường Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Hẻm 16 Đường Đinh Tiên Hoàng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "smart Korea",
+        "latitude": 10.76763,
+        "longitude": 106.69722,
+        "address": "smart Korea, 114 Đường Yersin, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Yersin",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "3b Authentic",
+        "latitude": 10.77165,
+        "longitude": 106.69292,
+        "address": "3b Authentic, Đường Cách Mạng Tháng 8, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Dp Food",
+        "latitude": 10.76655,
+        "longitude": 106.70603,
+        "address": "Dp Food, 15 Hẻm 15 Đường Đoàn Như Hài, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Hẻm 15 Đường Đoàn Như Hài",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Khỏe Drinks",
+        "latitude": 10.78906,
+        "longitude": 106.70309,
+        "address": "Khỏe Drinks, 29/11 Hẻm 29 Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Hẻm 29 Nguyễn Bỉnh Khiêm",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Ali's Housee",
+        "latitude": 10.78872,
+        "longitude": 106.69972,
+        "address": "Ali's Housee, Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Mtsg.Vn",
+        "latitude": 10.78872,
+        "longitude": 106.69972,
+        "address": "Mtsg.Vn, Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Ceva Vietnam",
+        "latitude": 10.78879,
+        "longitude": 106.69966,
+        "address": "Ceva Vietnam, Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cty Richfloor",
+        "latitude": 10.78885,
+        "longitude": 106.69984,
+        "address": "Cty Richfloor, 60 Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Ngã Sáu Phù Đổng Thiên Vương",
+        "latitude": 10.77095,
+        "longitude": 106.69292,
+        "address": "Ngã Sáu Phù Đổng Thiên Vương, Đường Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Augustus",
+        "latitude": 10.78791,
+        "longitude": 106.69706,
+        "address": "Augustus, Đường Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Văn Thủ",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Sgs Viet Nam-Vvt",
+        "latitude": 10.77539,
+        "longitude": 106.69103,
+        "address": "Sgs Viet Nam-Vvt, 198 Đường Nguyễn Thị Minh Khai, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Meranti",
+        "latitude": 10.7767,
+        "longitude": 106.69082,
+        "address": "Meranti, Đường Trương Định, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Trương Định",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Đảo Bình Ba",
+        "latitude": 10.7837,
+        "longitude": 106.69242,
+        "address": "Đảo Bình Ba, 218 Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Pasteur",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Juice Station",
+        "latitude": 10.76899,
+        "longitude": 106.69423,
+        "address": "Juice Station, 171 Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Đường Phạm Ngũ Lão",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Bolita",
+        "latitude": 10.76596,
+        "longitude": 106.70605,
+        "address": "Bolita, 10 Hẻm 1 Đường Đoàn Như Hài, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Hẻm 1 Đường Đoàn Như Hài",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cái Nia",
+        "latitude": 10.77174,
+        "longitude": 106.69193,
+        "address": "Cái Nia, Hẻm 36 Đường Lê Thị Riêng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 36 Đường Lê Thị Riêng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Địa Điểm Sài Gòn",
+        "latitude": 10.78976,
+        "longitude": 106.70083,
+        "address": "Địa Điểm Sài Gòn, 9 Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Viễn Thông Quốc Tế Khu Vực 2",
+        "latitude": 10.78801,
+        "longitude": 106.69601,
+        "address": "Trung Tâm Viễn Thông Quốc Tế Khu Vực 2, Đường Mạc Đĩnh Chi, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Mạc Đĩnh Chi",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            },
+            {
+                "name": "Cơ quan và tổ chức"
+            },
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Dịch vụ khách hàng"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            },
+            {
+                "name": "Trung tâm hành chính hoặc cộng đồng"
+            }
+        ]
+    },
+    {
+        "name": "The Top Mode",
+        "latitude": 10.77151,
+        "longitude": 106.69177,
+        "address": "The Top Mode, 60 Hẻm 60 Lê Thị Riêng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 60 Lê Thị Riêng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "High.Erstudio",
+        "latitude": 10.76502,
+        "longitude": 106.70186,
+        "address": "High.Erstudio, Đường Đoàn Văn Bơ, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Đường Đoàn Văn Bơ",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Opswat Careers",
+        "latitude": 10.79005,
+        "longitude": 106.70494,
+        "address": "Opswat Careers, Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Bột Trà Xanh Đắp Mặt",
+        "latitude": 10.77546,
+        "longitude": 106.69003,
+        "address": "Bột Trà Xanh Đắp Mặt, Đường Bà Huyện Thanh Quan, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Bà Huyện Thanh Quan",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Ventuso LLC",
+        "latitude": 10.79041,
+        "longitude": 106.70087,
+        "address": "Ventuso LLC, Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Lucky Boy",
+        "latitude": 10.76532,
+        "longitude": 106.69846,
+        "address": "Lucky Boy, Đường Yersin, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Yersin",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Thiết Kế Freelance",
+        "latitude": 10.77173,
+        "longitude": 106.6909,
+        "address": "Thiết Kế Freelance, 12 Hẻm 96/1 Đường Lê Thị Riêng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 96/1 Đường Lê Thị Riêng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cty Khang Phuc Thinh",
+        "latitude": 10.76711,
+        "longitude": 106.69479,
+        "address": "Cty Khang Phuc Thinh, 141 Đường Trần Hưng Đạo, Phường Cầu Ông Lãnh, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Cầu Ông Lãnh",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "71011",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Đồ Bầu Bà Ngoại Shop",
+        "latitude": 10.77793,
+        "longitude": 106.68946,
+        "address": "Đồ Bầu Bà Ngoại Shop, 105 Đường Trương Định, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Trương Định",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Dịch vụ thương mại"
+            }
+        ]
+    }
+]

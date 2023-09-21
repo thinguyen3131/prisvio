@@ -1,0 +1,1994 @@
+[
+    {
+        "name": "Ami Shop",
+        "latitude": 10.77773,
+        "longitude": 106.70233,
+        "address": "Ami Shop, 35BIS Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Trung Hiếu",
+        "latitude": 10.77784,
+        "longitude": 106.70375,
+        "address": "Nhà Thuốc Tư Nhân Trung Hiếu, 74/6 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Cô Tiến",
+        "latitude": 10.77762,
+        "longitude": 106.70388,
+        "address": "Quầy Cô Tiến, Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Jess Optics-Vincom Center",
+        "latitude": 10.7777,
+        "longitude": 106.70151,
+        "address": "Jess Optics-Vincom Center, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Vnpay*Sgpmc238",
+        "latitude": 10.77733,
+        "longitude": 106.70415,
+        "address": "Vnpay*Sgpmc238, 97 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Khánh Linh 1",
+        "latitude": 10.77733,
+        "longitude": 106.70428,
+        "address": "Nhà Thuốc Khánh Linh 1, 64 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Friendship Optic Trading Service Co. Ltd",
+        "latitude": 10.77651,
+        "longitude": 106.70101,
+        "address": "Friendship Optic Trading Service Co. Ltd, Đường Lê Thánh Tôn, Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Hồ Chí Minh",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Dược Phẩm Thực Phẩm Chức Năng Sapharco&Amphaco",
+        "latitude": 10.77764,
+        "longitude": 106.7005,
+        "address": "Trung Tâm Dược Phẩm Thực Phẩm Chức Năng Sapharco&Amphaco, 46 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Ica",
+        "latitude": 10.77546,
+        "longitude": 106.7039,
+        "address": "Ica, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Pasteur",
+        "latitude": 10.77692,
+        "longitude": 106.6998,
+        "address": "Nhà Thuốc Pasteur, 156 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Bệnh viện hoặc cơ sở chăm sóc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Bristol Myers Squibb",
+        "latitude": 10.77866,
+        "longitude": 106.69988,
+        "address": "Bristol Myers Squibb, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Số 3",
+        "latitude": 10.77365,
+        "longitude": 106.7028,
+        "address": "Hiệu Thuốc Số 3, 20 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Ranbaxy Laboratories",
+        "latitude": 10.77377,
+        "longitude": 106.70428,
+        "address": "Ranbaxy Laboratories, 35 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Eyewear Hut Takashimaya",
+        "latitude": 10.7738,
+        "longitude": 106.70087,
+        "address": "Eyewear Hut Takashimaya, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Dược Sài Gòn-Nhà Thuốc Nguyễn Huệ",
+        "latitude": 10.7733,
+        "longitude": 106.70415,
+        "address": "Công Ty Dược Sài Gòn-Nhà Thuốc Nguyễn Huệ, 81 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Việt Mới",
+        "latitude": 10.77309,
+        "longitude": 106.70246,
+        "address": "Việt Mới, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Số 5",
+        "latitude": 10.7819,
+        "longitude": 106.70151,
+        "address": "Hiệu Thuốc Số 5, 60 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Vnpay*Sgpmc263",
+        "latitude": 10.78135,
+        "longitude": 106.70547,
+        "address": "Vnpay*Sgpmc263, 13A Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Bệnh Viện Nhi Đồng 2",
+        "latitude": 10.78207,
+        "longitude": 106.70164,
+        "address": "Nhà Thuốc Bệnh Viện Nhi Đồng 2, 33 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Aojo @Sgc",
+        "latitude": 10.77314,
+        "longitude": 106.70137,
+        "address": "Aojo @Sgc, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cty Phan Thành TNHH Thương Mại Dịch Vụ",
+        "latitude": 10.78172,
+        "longitude": 106.69999,
+        "address": "Cty Phan Thành TNHH Thương Mại Dịch Vụ, 39 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Tokyo Optical",
+        "latitude": 10.77291,
+        "longitude": 106.70053,
+        "address": "Tokyo Optical, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Châu Ngọc",
+        "latitude": 10.78284,
+        "longitude": 106.70215,
+        "address": "Nhà Thuốc Tư Nhân Châu Ngọc, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Ngoc Toan Optic",
+        "latitude": 10.77397,
+        "longitude": 106.69879,
+        "address": "Ngoc Toan Optic, 106 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Rex Health Club 1",
+        "latitude": 10.77276,
+        "longitude": 106.70536,
+        "address": "Rex Health Club 1, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Số 5",
+        "latitude": 10.78306,
+        "longitude": 106.70219,
+        "address": "Nhà Thuốc Số 5, 31F Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Imegane",
+        "latitude": 10.7737,
+        "longitude": 106.69841,
+        "address": "Imegane, 122 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Chuyên gia nhãn khoa"
+            }
+        ]
+    },
+    {
+        "name": "Ct Tnhh Mtv I-Megane",
+        "latitude": 10.7737,
+        "longitude": 106.69841,
+        "address": "Ct Tnhh Mtv I-Megane, 122 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Chuyên gia nhãn khoa"
+            }
+        ]
+    },
+    {
+        "name": "VPĐD Aguettant Asia Pacific Pte LTD Tại TP.HCM",
+        "latitude": 10.77187,
+        "longitude": 106.70071,
+        "address": "VPĐD Aguettant Asia Pacific Pte LTD Tại TP.HCM, 63A Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Số 7",
+        "latitude": 10.77325,
+        "longitude": 106.69832,
+        "address": "Hiệu Thuốc Số 7, 50 Đường Phan Bội Châu, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Phan Bội Châu",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Số 6",
+        "latitude": 10.77124,
+        "longitude": 106.70258,
+        "address": "Nhà Thuốc Tây Số 6, Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Kính Mắt Đa Minh",
+        "latitude": 10.77336,
+        "longitude": 106.6979,
+        "address": "Kính Mắt Đa Minh, 146 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Số 6",
+        "latitude": 10.77114,
+        "longitude": 106.70253,
+        "address": "Hiệu Thuốc Số 6, 118 Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Pharmacity-Sgpmc386",
+        "latitude": 10.78267,
+        "longitude": 106.70685,
+        "address": "Pharmacity-Sgpmc386, 2 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nask",
+        "latitude": 10.78267,
+        "longitude": 106.70685,
+        "address": "Nask, 2 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nha Thuoc Liem",
+        "latitude": 10.7711,
+        "longitude": 106.70314,
+        "address": "Nha Thuoc Liem, 90 Hẻm 110 Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 110 Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Số 7",
+        "latitude": 10.7711,
+        "longitude": 106.70314,
+        "address": "Hiệu Thuốc Số 7, 90 Hẻm 110 Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 110 Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "A Au Hospital Beauty",
+        "latitude": 10.77393,
+        "longitude": 106.69729,
+        "address": "A Au Hospital Beauty, 32D Đường Thủ Khoa Huân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Thủ Khoa Huân",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Ct Tnhh Tm Vibrant",
+        "latitude": 10.77506,
+        "longitude": 106.69643,
+        "address": "Ct Tnhh Tm Vibrant, 99 Đường Nguyễn Du, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Văn Phòng Giao Dịch Công Ty TNHH Manulife Việt Nam",
+        "latitude": 10.78137,
+        "longitude": 106.69702,
+        "address": "Văn Phòng Giao Dịch Công Ty TNHH Manulife Việt Nam, Đường Phạm Ngọc Thạch, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Phạm Ngọc Thạch",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Nam Thành",
+        "latitude": 10.77393,
+        "longitude": 106.69691,
+        "address": "Nhà Thuốc Tư Nhân Nam Thành, 118 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cheil Jedang Corp.",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Cheil Jedang Corp., 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Baxter Healthcare (Asia)",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Baxter Healthcare (Asia), 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Alcon Pharmaceuticals",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Alcon Pharmaceuticals, 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Pl Asia Pacific (Singapore)",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Pl Asia Pacific (Singapore), 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Sol Ltd - Rep. Office",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Sol Ltd - Rep. Office, 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Pfizer Co. Ltd - Rep. Office37",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Pfizer Co. Ltd - Rep. Office37, 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Golden Spa",
+        "latitude": 10.77425,
+        "longitude": 106.69624,
+        "address": "Golden Spa, Đường Thủ Khoa Huân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Thủ Khoa Huân",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Dược Phẩm Phú Thiện",
+        "latitude": 10.77047,
+        "longitude": 106.70083,
+        "address": "Công Ty Dược Phẩm Phú Thiện, 6 Đường Lê Công Kiều, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Lê Công Kiều",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Thiên Hồng Hai",
+        "latitude": 10.77082,
+        "longitude": 106.69978,
+        "address": "Nhà Thuốc Tư Nhân Thiên Hồng Hai, Đường Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Mắt Việt",
+        "latitude": 10.7728,
+        "longitude": 106.6969,
+        "address": "Mắt Việt, 214 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Quần áo nam"
+            }
+        ]
+    },
+    {
+        "name": "Hào Phát Optical",
+        "latitude": 10.7728,
+        "longitude": 106.6969,
+        "address": "Hào Phát Optical, 214 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Vietquang Optical Co., Ltd",
+        "latitude": 10.78453,
+        "longitude": 106.69985,
+        "address": "Vietquang Optical Co., Ltd, Đường Mạc Đĩnh Chi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Đĩnh Chi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Xí Nghiệp Dược Phẩm Trung Ương 25",
+        "latitude": 10.78342,
+        "longitude": 106.6977,
+        "address": "Xí Nghiệp Dược Phẩm Trung Ương 25, 120 Đường Hai Bà Trưng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Bình Minh",
+        "latitude": 10.77247,
+        "longitude": 106.69672,
+        "address": "Nhà Thuốc Tư Nhân Bình Minh, 211 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Intas Pharmaceuticals",
+        "latitude": 10.77958,
+        "longitude": 106.69502,
+        "address": "Intas Pharmaceuticals, 160 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Di Co Li Nit",
+        "latitude": 10.77236,
+        "longitude": 106.69655,
+        "address": "Di Co Li Nit, 225 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Số 8",
+        "latitude": 10.77075,
+        "longitude": 106.69837,
+        "address": "Nhà Thuốc Tây Số 8, 31 Đường Phạm Ngũ Lão, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Phạm Ngũ Lão",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Thành Sơn",
+        "latitude": 10.76966,
+        "longitude": 106.70053,
+        "address": "Nhà Thuốc Tư Nhân Thành Sơn, 43 Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Minh Thiên",
+        "latitude": 10.77491,
+        "longitude": 106.71076,
+        "address": "Nhà Thuốc Minh Thiên, 24 Hẻm 1 Đường Lương Định Của, Phường Thủ Thiêm, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Thủ Thiêm",
+        "street": "Hẻm 1 Đường Lương Định Của",
+        "postal_code": "71110",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nguyên Thi",
+        "latitude": 10.78564,
+        "longitude": 106.70071,
+        "address": "Nguyên Thi, 15H Hẻm 18A Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Hẻm 18A Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Hồng Giang",
+        "latitude": 10.78561,
+        "longitude": 106.70058,
+        "address": "Nhà Thuốc Tây Hồng Giang, 18B Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Diễm Hà",
+        "latitude": 10.77163,
+        "longitude": 106.69674,
+        "address": "Nhà Thuốc Tư Nhân Diễm Hà, 43 Đường Nguyễn An Ninh, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn An Ninh",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Thuốc Thú Y Trung",
+        "latitude": 10.78604,
+        "longitude": 106.70062,
+        "address": "Cửa Hàng Thuốc Thú Y Trung, 15 Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Cơ sở thú y"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Nguyễn Hồng",
+        "latitude": 10.78629,
+        "longitude": 106.70137,
+        "address": "Nhà Thuốc Tư Nhân Nguyễn Hồng, 11D Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Dược Phẩm 3 Tháng 2",
+        "latitude": 10.78308,
+        "longitude": 106.69575,
+        "address": "Công Ty Dược Phẩm 3 Tháng 2, Đường Công Trường Quốc Tế, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Công Trường Quốc Tế",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Mk A Chau",
+        "latitude": 10.78605,
+        "longitude": 106.69983,
+        "address": "Mk A Chau, 2 Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Khánh Linh 1",
+        "latitude": 10.77025,
+        "longitude": 106.6975,
+        "address": "Nhà Thuốc Tây Khánh Linh 1, Đường Calmette, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Calmette",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Thiên Hồng",
+        "latitude": 10.77025,
+        "longitude": 106.6975,
+        "address": "Nhà Thuốc Tư Nhân Thiên Hồng, Đường Calmette, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Calmette",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Dụng Cụ Y Khoa & Thiết Bị Săn Sóc Da Trang Đài",
+        "latitude": 10.7697,
+        "longitude": 106.69694,
+        "address": "Dụng Cụ Y Khoa & Thiết Bị Săn Sóc Da Trang Đài, Đường Trần Hưng Đạo, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc",
+        "latitude": 10.77138,
+        "longitude": 106.69507,
+        "address": "Hiệu Thuốc, Đường Phạm Hồng Thái, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Phạm Hồng Thái",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thiên Hồng",
+        "latitude": 10.76952,
+        "longitude": 106.69696,
+        "address": "Nhà Thuốc Thiên Hồng, 41 Đường Trần Hưng Đạo, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Vnpay*Sgpmc724",
+        "latitude": 10.76799,
+        "longitude": 106.69983,
+        "address": "Vnpay*Sgpmc724, Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Minh Châu",
+        "latitude": 10.76829,
+        "longitude": 106.69867,
+        "address": "Nhà Thuốc Tư Nhân Minh Châu, 112 Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Ngoài Giờ Trí Nhân",
+        "latitude": 10.76919,
+        "longitude": 106.697,
+        "address": "Nhà Thuốc Ngoài Giờ Trí Nhân, 50 Đường Đặng Thị Nhu, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Đặng Thị Nhu",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Ntxuanhong",
+        "latitude": 10.76965,
+        "longitude": 106.69605,
+        "address": "Ntxuanhong, Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Đường Phạm Ngũ Lão",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Nhân Nghĩa",
+        "latitude": 10.76828,
+        "longitude": 106.69814,
+        "address": "Nhà Thuốc Nhân Nghĩa, Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Minh Châu",
+        "latitude": 10.76724,
+        "longitude": 106.69958,
+        "address": "Nhà Thuốc Tây Minh Châu, 65 Đường Calmette, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Calmette",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Minh Châu",
+        "latitude": 10.76718,
+        "longitude": 106.69974,
+        "address": "Hiệu Thuốc Minh Châu, Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thanh Hiền",
+        "latitude": 10.776,
+        "longitude": 106.71391,
+        "address": "Nhà Thuốc Thanh Hiền, Đường Lương Định Của, Phường Thủ Thiêm, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Thủ Thiêm",
+        "street": "Đường Lương Định Của",
+        "postal_code": "71110",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thái Bình",
+        "latitude": 10.76755,
+        "longitude": 106.69803,
+        "address": "Nhà Thuốc Thái Bình, Đường Ký Con, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Ký Con",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nha Thuoc So 30 Pnt",
+        "latitude": 10.7849,
+        "longitude": 106.6943,
+        "address": "Nha Thuoc So 30 Pnt, 30 Đường Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Phạm Ngọc Thạch",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Phytopharma",
+        "latitude": 10.7709,
+        "longitude": 106.69354,
+        "address": "Phytopharma, 24 Đường Nguyễn Thị Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Thị Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Số 1",
+        "latitude": 10.7709,
+        "longitude": 106.69354,
+        "address": "Hiệu Thuốc Số 1, 24 Đường Nguyễn Thị Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Thị Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Cty Cổ Phần Dược Liệu TW 2",
+        "latitude": 10.7709,
+        "longitude": 106.69351,
+        "address": "Cty Cổ Phần Dược Liệu TW 2, Đường Nguyễn Thị Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Thị Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Vitabiotics Phòng Khám Đa Khoa Sài Gòn.",
+        "latitude": 10.77725,
+        "longitude": 106.69105,
+        "address": "Vitabiotics Phòng Khám Đa Khoa Sài Gòn., Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Văn Tần",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Đức Dung",
+        "latitude": 10.77078,
+        "longitude": 106.69318,
+        "address": "Nhà Thuốc Đức Dung, Hẻm 7 Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 7 Nguyễn Trãi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Dược Liệu Trung Ương 2 Vip",
+        "latitude": 10.77078,
+        "longitude": 106.69318,
+        "address": "Công Ty Cổ Phần Dược Liệu Trung Ương 2 Vip, Hẻm 7 Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 7 Nguyễn Trãi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Công Minh",
+        "latitude": 10.78801,
+        "longitude": 106.69732,
+        "address": "Nhà Thuốc Tư Nhân Công Minh, Đường Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Văn Thủ",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Dr. Reddy's Lab - Rep. Office",
+        "latitude": 10.7782,
+        "longitude": 106.6908,
+        "address": "Dr. Reddy's Lab - Rep. Office, 50 Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Văn Tần",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "N.A Luxury Spa",
+        "latitude": 10.78951,
+        "longitude": 106.70256,
+        "address": "N.A Luxury Spa, 31 Hẻm 33 Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Hẻm 33 Nguyễn Bỉnh Khiêm",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Vân Uyên",
+        "latitude": 10.76598,
+        "longitude": 106.69951,
+        "address": "Nhà Thuốc Tư Nhân Vân Uyên, 25 Đường Ký Con, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Ký Con",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc An Khang 1",
+        "latitude": 10.77901,
+        "longitude": 106.6906,
+        "address": "Nhà Thuốc An Khang 1, 184 Đường Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Quốc Hưng",
+        "latitude": 10.76549,
+        "longitude": 106.70293,
+        "address": "Nhà Thuốc Quốc Hưng, 35 Hẻm 26F Đường Lê Quốc Hưng, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Hẻm 26F Đường Lê Quốc Hưng",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Nam An",
+        "latitude": 10.76545,
+        "longitude": 106.70201,
+        "address": "Nhà Thuốc Nam An, 68 Đường Bến Vân Đồn, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Đường Bến Vân Đồn",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Gynocare",
+        "latitude": 10.78909,
+        "longitude": 106.69883,
+        "address": "Gynocare, Đường Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Đinh Tiên Hoàng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Khám Chuyên Khoa BS. Huỳnh Ngọc Long",
+        "latitude": 10.76727,
+        "longitude": 106.69616,
+        "address": "Phòng Khám Chuyên Khoa BS. Huỳnh Ngọc Long, Đường Trịnh Văn Cấn, Phường Cầu Ông Lãnh, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Cầu Ông Lãnh",
+        "street": "Đường Trịnh Văn Cấn",
+        "postal_code": "71011",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Wockhardt",
+        "latitude": 10.78918,
+        "longitude": 106.69874,
+        "address": "Wockhardt, Đường Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Đinh Tiên Hoàng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Hoàng Thanh",
+        "latitude": 10.7653,
+        "longitude": 106.70189,
+        "address": "Nhà Thuốc Hoàng Thanh, Đường Bến Vân Đồn, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Đường Bến Vân Đồn",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1862 @@
+[
+    {
+        "name": "Nhà Thuốc",
+        "latitude": 10.91188,
+        "longitude": 106.79623,
+        "address": "Nhà Thuốc, Xa Lộ Hà Nội, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Tây 142",
+        "latitude": 10.91148,
+        "longitude": 106.79652,
+        "address": "Thuốc Tây 142, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Đông Y Tâm Đức Phúc",
+        "latitude": 10.90774,
+        "longitude": 106.79059,
+        "address": "Cơ Sở Thuốc Đông Y Tâm Đức Phúc, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Số 76",
+        "latitude": 10.90728,
+        "longitude": 106.79496,
+        "address": "Nhà Thuốc Tây Số 76, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Số 29",
+        "latitude": 10.9161,
+        "longitude": 106.79934,
+        "address": "Đại Lý Thuốc Tây Số 29, QL.1K, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "QL.1K",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Đông Y Thiên Phúc",
+        "latitude": 10.90907,
+        "longitude": 106.78574,
+        "address": "Thuốc Đông Y Thiên Phúc, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây",
+        "latitude": 10.90907,
+        "longitude": 106.78574,
+        "address": "Nhà Thuốc Tây, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Cao Minh",
+        "latitude": 10.91573,
+        "longitude": 106.78338,
+        "address": "Thuốc Cao Minh, Đường D3, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D3",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây",
+        "latitude": 10.91327,
+        "longitude": 106.78225,
+        "address": "Đại Lý Thuốc Tây, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tây Ngọc Nam",
+        "latitude": 10.91567,
+        "longitude": 106.78226,
+        "address": "Quầy Thuốc Tây Ngọc Nam, Đường Số 4, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 4",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tây Thanh Nhâm",
+        "latitude": 10.91567,
+        "longitude": 106.78222,
+        "address": "Quầy Thuốc Tây Thanh Nhâm, Đường Số 4, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 4",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Ánh Tuyết",
+        "latitude": 10.91419,
+        "longitude": 106.78201,
+        "address": "Ánh Tuyết, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Tây Trà Giang",
+        "latitude": 10.91437,
+        "longitude": 106.78196,
+        "address": "Thuốc Tây Trà Giang, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Vạn Phúc",
+        "latitude": 10.91122,
+        "longitude": 106.78202,
+        "address": "Thuốc Vạn Phúc, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Đông Y Thuốc Dược Liệu Ngọc Lam",
+        "latitude": 10.91329,
+        "longitude": 106.7815,
+        "address": "Cơ Sở Thuốc Đông Y Thuốc Dược Liệu Ngọc Lam, Đường Đông An, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Đông An",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Minh Tâm",
+        "latitude": 10.91495,
+        "longitude": 106.78148,
+        "address": "Minh Tâm, Đường Đông An, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Đông An",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Huy Tân",
+        "latitude": 10.90364,
+        "longitude": 106.79401,
+        "address": "Nhà Thuốc Tây Huy Tân, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Đông Y Long Châu",
+        "latitude": 10.91123,
+        "longitude": 106.78121,
+        "address": "Cơ Sở Thuốc Đông Y Long Châu, Hẻm 8C Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Hẻm 8C Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Huyền Anh",
+        "latitude": 10.90991,
+        "longitude": 106.78106,
+        "address": "Huyền Anh, Hẻm 8C Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Hẻm 8C Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Đông Y Thanh Tâm",
+        "latitude": 10.90899,
+        "longitude": 106.78117,
+        "address": "Cơ Sở Thuốc Đông Y Thanh Tâm, Hẻm 8C Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Hẻm 8C Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tây Kim Loan",
+        "latitude": 10.91221,
+        "longitude": 106.77991,
+        "address": "Quầy Thuốc Tây Kim Loan, 743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Đông Y Thuốc Từ Dược Liệu Hồng Anh",
+        "latitude": 10.90179,
+        "longitude": 106.79088,
+        "address": "Cơ Sở Đông Y Thuốc Từ Dược Liệu Hồng Anh, Đường Nguyễn Đình Chiểu, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tây Hòa Bình Số 233",
+        "latitude": 10.91294,
+        "longitude": 106.77866,
+        "address": "Quầy Thuốc Tây Hòa Bình Số 233, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Bảo An",
+        "latitude": 10.9019,
+        "longitude": 106.79632,
+        "address": "Nhà Thuốc Bảo An, Đường Tỉnh 743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh 743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Nguyệt Linh",
+        "latitude": 10.91324,
+        "longitude": 106.77816,
+        "address": "Nhà Thuốc Nguyệt Linh, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây",
+        "latitude": 10.91319,
+        "longitude": 106.77781,
+        "address": "Đại Lý Thuốc Tây, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Khôi Nguyên",
+        "latitude": 10.89991,
+        "longitude": 106.79251,
+        "address": "Nhà Thuốc Khôi Nguyên, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tây Số 31",
+        "latitude": 10.8999,
+        "longitude": 106.79251,
+        "address": "Quầy Thuốc Tây Số 31, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Đông Y Đức Tâm",
+        "latitude": 10.90431,
+        "longitude": 106.78084,
+        "address": "Nhà Thuốc Đông Y Đức Tâm, Đường Hai Bà Trưng, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quay Thuoc An Binh",
+        "latitude": 10.90099,
+        "longitude": 106.79823,
+        "address": "Quay Thuoc An Binh, Đường Lồ Ô, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Lồ Ô",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây",
+        "latitude": 10.89942,
+        "longitude": 106.79254,
+        "address": "Đại Lý Thuốc Tây, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Tây Thanh Hà",
+        "latitude": 10.89925,
+        "longitude": 106.79248,
+        "address": "Thuốc Tây Thanh Hà, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thảo Kim",
+        "latitude": 10.89901,
+        "longitude": 106.79256,
+        "address": "Nhà Thuốc Thảo Kim, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tây Hải Nam",
+        "latitude": 10.90591,
+        "longitude": 106.77865,
+        "address": "Quầy Thuốc Tây Hải Nam, Đường Đông Tác, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Đông Tác",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc 235",
+        "latitude": 10.89785,
+        "longitude": 106.79187,
+        "address": "Đại Lý Thuốc 235, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Số 02",
+        "latitude": 10.9256,
+        "longitude": 106.80395,
+        "address": "Quầy Thuốc Số 02, Hẻm 6 Đường Nguyễn Văn Lung, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Hẻm 6 Đường Nguyễn Văn Lung",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tư Nhân Mai Trang",
+        "latitude": 10.89732,
+        "longitude": 106.79189,
+        "address": "Quầy Thuốc Tư Nhân Mai Trang, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Phụng Vũ",
+        "latitude": 10.89987,
+        "longitude": 106.80098,
+        "address": "Đại Lý Thuốc Tây Phụng Vũ, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Kim Anh",
+        "latitude": 10.9008,
+        "longitude": 106.78112,
+        "address": "Nhà Thuốc Kim Anh, Hai Bà Trưng, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Hai Bà Trưng",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Đông Y-Thuốc Dược Liệu Phương Trang",
+        "latitude": 10.90697,
+        "longitude": 106.77602,
+        "address": "Cơ Sở Thuốc Đông Y-Thuốc Dược Liệu Phương Trang, Đường Trần Quang Khải, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Trần Quang Khải",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tây Ngọc Tùng",
+        "latitude": 10.89963,
+        "longitude": 106.80189,
+        "address": "Quầy Thuốc Tây Ngọc Tùng, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Lê Chiến",
+        "latitude": 10.9258,
+        "longitude": 106.80525,
+        "address": "Nhà Thuốc Lê Chiến, Hẻm 21 Đường Nguyễn Văn Lung, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Hẻm 21 Đường Nguyễn Văn Lung",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Châu Hiền",
+        "latitude": 10.90211,
+        "longitude": 106.80513,
+        "address": "Châu Hiền, Đường Bình Thung, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Bình Thung",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây 303",
+        "latitude": 10.89929,
+        "longitude": 106.78113,
+        "address": "Nhà Thuốc Tây 303, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây 303",
+        "latitude": 10.8992,
+        "longitude": 106.7811,
+        "address": "Đại Lý Thuốc Tây 303, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Đăng Đăng Khoa",
+        "latitude": 10.8999,
+        "longitude": 106.78012,
+        "address": "Quầy Thuốc Đăng Đăng Khoa, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Ánh Phương",
+        "latitude": 10.89947,
+        "longitude": 106.80305,
+        "address": "Nhà Thuốc Ánh Phương, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Minh Tâm",
+        "latitude": 10.89744,
+        "longitude": 106.78344,
+        "address": "Cơ Sở Thuốc Minh Tâm, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Đăng Khoa",
+        "latitude": 10.90005,
+        "longitude": 106.7793,
+        "address": "Cơ Sở Thuốc Đăng Khoa, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Gia Nghi",
+        "latitude": 10.89809,
+        "longitude": 106.78185,
+        "address": "Nhà Thuốc Tây Gia Nghi, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Quỳnh Như",
+        "latitude": 10.89929,
+        "longitude": 106.80397,
+        "address": "Nhà Thuốc Tây Quỳnh Như, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Hưng Thịnh Số 18",
+        "latitude": 10.9009,
+        "longitude": 106.77699,
+        "address": "Đại Lý Thuốc Tây Hưng Thịnh Số 18, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Tây Hạnh Phúc",
+        "latitude": 10.90095,
+        "longitude": 106.77684,
+        "address": "Thuốc Tây Hạnh Phúc, 276 Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Phụ kiện xe máy"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Thanh Thủy",
+        "latitude": 10.89576,
+        "longitude": 106.78392,
+        "address": "Đại Lý Thuốc Tây Thanh Thủy, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Dương Thắm",
+        "latitude": 10.9275,
+        "longitude": 106.8069,
+        "address": "Quầy Thuốc Dương Thắm, Đường Nguyễn Thị Tồn, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Thị Tồn",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Phạm Thị Hiền",
+        "latitude": 10.89938,
+        "longitude": 106.8061,
+        "address": "Đại Lý Thuốc Tây Phạm Thị Hiền, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Số 37",
+        "latitude": 10.90197,
+        "longitude": 106.77478,
+        "address": "Đại Lý Thuốc Số 37, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Hồng Vân",
+        "latitude": 10.92923,
+        "longitude": 106.80626,
+        "address": "Quầy Thuốc Hồng Vân, Quốc Lộ 1K, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Quốc Lộ 1K",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Tây Nguyễn Dũng",
+        "latitude": 10.90206,
+        "longitude": 106.77441,
+        "address": "Thuốc Tây Nguyễn Dũng, Võ Thị Sáu, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Võ Thị Sáu",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Tây Hoàng Châu",
+        "latitude": 10.90415,
+        "longitude": 106.77296,
+        "address": "Thuốc Tây Hoàng Châu, Đường Nguyễn Trung Trực, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Trung Trực",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Số 2",
+        "latitude": 10.9269,
+        "longitude": 106.80868,
+        "address": "Quầy Thuốc Số 2, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Mỹ Châu",
+        "latitude": 10.90305,
+        "longitude": 106.77299,
+        "address": "Cơ Sở Thuốc Mỹ Châu, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Minh Duyên",
+        "latitude": 10.92722,
+        "longitude": 106.80916,
+        "address": "Quầy Thuốc Minh Duyên, K4/79 Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Phúc Nhân",
+        "latitude": 10.90636,
+        "longitude": 106.77109,
+        "address": "Nhà Thuốc Tây Phúc Nhân, Nguyễn Thái Học, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Nguyễn Thái Học",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Tây Kim Phương 2",
+        "latitude": 10.90393,
+        "longitude": 106.7722,
+        "address": "Quầy Thuốc Tây Kim Phương 2, Đường Trần Hưng Đạo, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Anh Phước",
+        "latitude": 10.93151,
+        "longitude": 106.77849,
+        "address": "Nhà Thuốc Tây Anh Phước, Đường Huỳnh Thị Tươi, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Huỳnh Thị Tươi",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Ánh Ngọc",
+        "latitude": 10.91542,
+        "longitude": 106.76962,
+        "address": "Đại Lý Thuốc Tây Ánh Ngọc, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Hoàng Kim",
+        "latitude": 10.91325,
+        "longitude": 106.76959,
+        "address": "Nhà Thuốc Hoàng Kim, Đường Nguyễn An Ninh, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn An Ninh",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Phương Năm",
+        "latitude": 10.90044,
+        "longitude": 106.77447,
+        "address": "Nhà Thuốc Phương Năm, Đường Võ Thị Sáu, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Như Quỳnh",
+        "latitude": 10.89884,
+        "longitude": 106.80779,
+        "address": "Đại Lý Thuốc Tây Như Quỳnh, Đường Tỉnh 743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh 743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thanh Bình",
+        "latitude": 10.89881,
+        "longitude": 106.80794,
+        "address": "Nhà Thuốc Thanh Bình, Đường Tỉnh 743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh 743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "NT Tùng Vân",
+        "latitude": 10.90666,
+        "longitude": 106.77056,
+        "address": "NT Tùng Vân, Đường Cô Giang, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Cô Giang",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Thuốc Mỹ Phẩm Thanh Hiền",
+        "latitude": 10.91711,
+        "longitude": 106.76943,
+        "address": "Cơ Sở Thuốc Mỹ Phẩm Thanh Hiền, Đường Đỗ Tấn Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Đỗ Tấn Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Phát Nhi",
+        "latitude": 10.89888,
+        "longitude": 106.8081,
+        "address": "Nhà Thuốc Tây Phát Nhi, Đường Tỉnh 743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh 743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà thuốc tây",
+        "latitude": 10.90659,
+        "longitude": 106.7705,
+        "address": "Nhà thuốc tây, Đường Cô Giang, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Cô Giang",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Đức Hiền",
+        "latitude": 10.9155,
+        "longitude": 106.76918,
+        "address": "Hiệu Thuốc Đức Hiền, TL.743, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "TL.743",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thanh Thúy",
+        "latitude": 10.9155,
+        "longitude": 106.76918,
+        "address": "Nhà Thuốc Thanh Thúy, TL.743, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "TL.743",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Huyền Trang",
+        "latitude": 10.9155,
+        "longitude": 106.76918,
+        "address": "Nhà Thuốc Huyền Trang, TL.743, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "TL.743",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thanh Bình",
+        "latitude": 10.90738,
+        "longitude": 106.77007,
+        "address": "Nhà Thuốc Thanh Bình, Cô Bắc, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Cô Bắc",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Doanh Nghiệp Số 458",
+        "latitude": 10.90738,
+        "longitude": 106.77007,
+        "address": "Quầy Thuốc Doanh Nghiệp Số 458, Cô Bắc, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Cô Bắc",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Lê Hạnh",
+        "latitude": 10.91379,
+        "longitude": 106.7688,
+        "address": "Lê Hạnh, Đường Phan Bội Châu, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Phan Bội Châu",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Dược Liệu Vật Tư Y Tế",
+        "latitude": 10.91379,
+        "longitude": 106.7688,
+        "address": "Thuốc Dược Liệu Vật Tư Y Tế, Đường Phan Bội Châu, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Phan Bội Châu",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nha Thuoc Hong Ngoc",
+        "latitude": 10.89219,
+        "longitude": 106.79748,
+        "address": "Nha Thuoc Hong Ngoc, Đường Thống Nhất, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Thống Nhất",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Số 13",
+        "latitude": 10.91653,
+        "longitude": 106.76874,
+        "address": "Đại Lý Thuốc Tây Số 13, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Doanh Nghiệp Số 240",
+        "latitude": 10.8983,
+        "longitude": 106.8085,
+        "address": "Quầy Thuốc Doanh Nghiệp Số 240, Đường Tỉnh 743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh 743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây Đức Thuận",
+        "latitude": 10.91665,
+        "longitude": 106.76864,
+        "address": "Đại Lý Thuốc Tây Đức Thuận, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Tây Ngọc Huyền",
+        "latitude": 10.8923,
+        "longitude": 106.78445,
+        "address": "Thuốc Tây Ngọc Huyền, 33/4 Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Pharmacity-Dnpmc467",
+        "latitude": 10.89204,
+        "longitude": 106.79821,
+        "address": "Pharmacity-Dnpmc467, Đường Thống Nhất, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Thống Nhất",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy Thuốc Thùy Linh",
+        "latitude": 10.93319,
+        "longitude": 106.80488,
+        "address": "Quầy Thuốc Thùy Linh, Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Quầy 98D1",
+        "latitude": 10.93425,
+        "longitude": 106.80325,
+        "address": "Quầy 98D1, Đường Hoàng Minh Chánh, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Hoàng Minh Chánh",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Chi Nhánh Phúc Tâm 2",
+        "latitude": 10.92807,
+        "longitude": 106.77294,
+        "address": "Đại Lý Thuốc Chi Nhánh Phúc Tâm 2, Đường N15, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường N15",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Phương Trang",
+        "latitude": 10.90641,
+        "longitude": 106.76951,
+        "address": "Nhà Thuốc Phương Trang, Đường Trần Hưng Đạo, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Tây",
+        "latitude": 10.89121,
+        "longitude": 106.78796,
+        "address": "Đại Lý Thuốc Tây, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Tây Thanh Bình",
+        "latitude": 10.89122,
+        "longitude": 106.78739,
+        "address": "Thuốc Tây Thanh Bình, QL.1K, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "QL.1K",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    }
+]

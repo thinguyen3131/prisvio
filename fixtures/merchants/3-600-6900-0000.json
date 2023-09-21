@@ -1,0 +1,1493 @@
+[
+    {
+        "name": "Tân Kim Cương",
+        "latitude": 10.90587,
+        "longitude": 106.79467,
+        "address": "Tân Kim Cương, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Thiên Nhiên Pa",
+        "latitude": 10.91591,
+        "longitude": 106.78225,
+        "address": "Mỹ Phẩm Thiên Nhiên Pa, Đường Số 4, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 4",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Kem Tràng Tiền Hà Nội-Tràng Tiền 35",
+        "latitude": 10.91544,
+        "longitude": 106.78205,
+        "address": "Kem Tràng Tiền Hà Nội-Tràng Tiền 35, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Nước Hoàng Hạnh",
+        "latitude": 10.90365,
+        "longitude": 106.794,
+        "address": "Cửa Hàng Điện Nước Hoàng Hạnh, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Nam",
+        "latitude": 10.90603,
+        "longitude": 106.78246,
+        "address": "Đại Nam, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Phương Store",
+        "latitude": 10.90201,
+        "longitude": 106.78671,
+        "address": "Phương Store, Đường Nguyễn Đình Chiểu, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Sơn Tự Lực",
+        "latitude": 10.91298,
+        "longitude": 106.77841,
+        "address": "Cửa Hàng Sơn Tự Lực, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Sữa Chua Nếp Cẩm Mộc Châu - Bình Dương",
+        "latitude": 10.90583,
+        "longitude": 106.78122,
+        "address": "Sữa Chua Nếp Cẩm Mộc Châu - Bình Dương, Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Hung Huong Phat",
+        "latitude": 10.90099,
+        "longitude": 106.79823,
+        "address": "Hung Huong Phat, Đường Lồ Ô, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Lồ Ô",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Nhôm Kính Phú Hải",
+        "latitude": 10.89918,
+        "longitude": 106.79231,
+        "address": "Cửa Hàng Nhôm Kính Phú Hải, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Thuốc Giảm Cân Lishou Chính Hãng",
+        "latitude": 10.92348,
+        "longitude": 106.80445,
+        "address": "Thuốc Giảm Cân Lishou Chính Hãng, Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Dai Phat2",
+        "latitude": 10.92478,
+        "longitude": 106.80563,
+        "address": "Dai Phat2, Đường Nguyễn Ái Quốc, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Minh Hiếu",
+        "latitude": 10.89952,
+        "longitude": 106.80177,
+        "address": "Đại Lý Minh Hiếu, Đường Tỉnh 743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh 743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Gạo Liễu Trúc",
+        "latitude": 10.89824,
+        "longitude": 106.78172,
+        "address": "Đại Lý Gạo Liễu Trúc, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Vỏ Ruột Xe Hồng Hài",
+        "latitude": 10.89536,
+        "longitude": 106.79115,
+        "address": "Cửa Hàng Vỏ Ruột Xe Hồng Hài, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Order Mom",
+        "latitude": 10.92712,
+        "longitude": 106.80575,
+        "address": "Order Mom, Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Sơn Tấn Bình 1",
+        "latitude": 10.90095,
+        "longitude": 106.77684,
+        "address": "Đại Lý Sơn Tấn Bình 1, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng May Màn Ngọc Ánh",
+        "latitude": 10.9005,
+        "longitude": 106.7772,
+        "address": "Cửa Hàng May Màn Ngọc Ánh, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Inox Quốc Cường",
+        "latitude": 10.90151,
+        "longitude": 106.7758,
+        "address": "Cơ Sở Inox Quốc Cường, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Manzoni Bình Dương",
+        "latitude": 10.90165,
+        "longitude": 106.77552,
+        "address": "Manzoni Bình Dương, 313B Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Sơn Thiện Phát",
+        "latitude": 10.90173,
+        "longitude": 106.77531,
+        "address": "Đại Lý Sơn Thiện Phát, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Vương Quốc Chuột Hamster Bình Dương",
+        "latitude": 10.89923,
+        "longitude": 106.80672,
+        "address": "Vương Quốc Chuột Hamster Bình Dương, 268 Đường Tỉnh Lộ 743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh Lộ 743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Dịch vụ chăm sóc vật nuôi"
+            }
+        ]
+    },
+    {
+        "name": "Ulzzang & Korean Style Juko House",
+        "latitude": 10.90263,
+        "longitude": 106.77352,
+        "address": "Ulzzang & Korean Style Juko House, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Quần áo & Phụ kiện"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Xe Đạp Phượng Hoàng",
+        "latitude": 10.91396,
+        "longitude": 106.76961,
+        "address": "Cửa Hàng Xe Đạp Phượng Hoàng, Đường Nguyễn An Ninh, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn An Ninh",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Bánh Kẹo Trang",
+        "latitude": 10.9061,
+        "longitude": 106.77102,
+        "address": "Đại Lý Bánh Kẹo Trang, Đường Cô Giang, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Cô Giang",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Nệm Phương Lam",
+        "latitude": 10.90596,
+        "longitude": 106.77089,
+        "address": "Cửa Hàng Nệm Phương Lam, Đường Nguyễn Thái Học, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Thái Học",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Đá Hoa Cương Huy Hoàng",
+        "latitude": 10.89206,
+        "longitude": 106.78941,
+        "address": "Cửa Hàng Đá Hoa Cương Huy Hoàng, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Điện Lạnh Thủy Luân",
+        "latitude": 10.9155,
+        "longitude": 106.76917,
+        "address": "Cơ Sở Điện Lạnh Thủy Luân, TL.743, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "TL.743",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Bunno",
+        "latitude": 10.90559,
+        "longitude": 106.77071,
+        "address": "Bunno, Đường Trần Hưng Đạo, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Bia-Nước Ngọt Phước Lộc",
+        "latitude": 10.9274,
+        "longitude": 106.81016,
+        "address": "Đại Lý Bia-Nước Ngọt Phước Lộc, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Hoàng Gia Bridalluxury",
+        "latitude": 10.9059,
+        "longitude": 106.7704,
+        "address": "Hoàng Gia Bridalluxury, 406A Đường Trần Hưng Đạo, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Nam Phong Embroioery Co. Ltd",
+        "latitude": 10.90284,
+        "longitude": 106.81165,
+        "address": "Nam Phong Embroioery Co. Ltd, Đường Mỹ Phước Tân Vạn, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Mỹ Phước Tân Vạn",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Huy Mart",
+        "latitude": 10.90206,
+        "longitude": 106.77223,
+        "address": "Huy Mart, Đường Đông Minh, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Đông Minh",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Sửa Xe Linh",
+        "latitude": 10.91632,
+        "longitude": 106.76845,
+        "address": "Tiệm Sửa Xe Linh, 1 Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Băng Đĩa Minh Tâm",
+        "latitude": 10.89105,
+        "longitude": 106.78773,
+        "address": "Cửa Hàng Băng Đĩa Minh Tâm, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng VLXD Phong Xuyên",
+        "latitude": 10.91924,
+        "longitude": 106.76844,
+        "address": "Cửa Hàng VLXD Phong Xuyên, 68 Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Sơn Tuấn Tài",
+        "latitude": 10.9161,
+        "longitude": 106.7678,
+        "address": "Tiệm Sơn Tuấn Tài, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Dụng Cụ Thể Dục Thể Thao Hải Nam",
+        "latitude": 10.91145,
+        "longitude": 106.76766,
+        "address": "Cửa Hàng Dụng Cụ Thể Dục Thể Thao Hải Nam, Đường Cao Bá Quát, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Cao Bá Quát",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Shop Gia Hy",
+        "latitude": 10.89057,
+        "longitude": 106.7866,
+        "address": "Shop Gia Hy, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Văn Phòng Phẩm Quỳnh",
+        "latitude": 10.89089,
+        "longitude": 106.78447,
+        "address": "Văn Phòng Phẩm Quỳnh, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Thế Giới Di Động - Đông Hòa",
+        "latitude": 10.89079,
+        "longitude": 106.78421,
+        "address": "Siêu Thị Thế Giới Di Động - Đông Hòa, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Nước Mắm Cá Cơm Cà Ná Bé Bầu - Gia Hân Shop",
+        "latitude": 10.89915,
+        "longitude": 106.77141,
+        "address": "Nước Mắm Cá Cơm Cà Ná Bé Bầu - Gia Hân Shop, Đường Đông Minh, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Đông Minh",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Sơn Duẩn Hà",
+        "latitude": 10.89033,
+        "longitude": 106.78323,
+        "address": "Cửa Hàng Sơn Duẩn Hà, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Shop Sữa-Bỉm Phát Lợi",
+        "latitude": 10.89785,
+        "longitude": 106.81175,
+        "address": "Shop Sữa-Bỉm Phát Lợi, TL.743, Phường Bình An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình An",
+        "street": "TL.743",
+        "postal_code": "75310",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Hàng Thái Anna Shop",
+        "latitude": 10.8987,
+        "longitude": 106.771,
+        "address": "Siêu Thị Hàng Thái Anna Shop, Đường Trần Quốc Toản, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Quốc Toản",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Lamer Care Ngăn Mụn Trắng Mịn",
+        "latitude": 10.8987,
+        "longitude": 106.771,
+        "address": "Mỹ Phẩm Lamer Care Ngăn Mụn Trắng Mịn, Đường Trần Quốc Toản, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Quốc Toản",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Bilions",
+        "latitude": 10.8987,
+        "longitude": 106.771,
+        "address": "Bilions, Đường Trần Quốc Toản, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Quốc Toản",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Mĩ Phẩm Hàn Quốc - Xách Tay Chính Hãng - Beautyeva",
+        "latitude": 10.8987,
+        "longitude": 106.771,
+        "address": "Mĩ Phẩm Hàn Quốc - Xách Tay Chính Hãng - Beautyeva, Đường Trần Quốc Toản, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Quốc Toản",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Big C Vietnam",
+        "latitude": 10.8987,
+        "longitude": 106.771,
+        "address": "Big C Vietnam, Đường Trần Quốc Toản, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Quốc Toản",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Sanpham3mien",
+        "latitude": 10.89774,
+        "longitude": 106.8119,
+        "address": "Sanpham3mien, TL.743, Phường Bình An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình An",
+        "street": "TL.743",
+        "postal_code": "75310",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Laga1",
+        "latitude": 10.90322,
+        "longitude": 106.76796,
+        "address": "Laga1, 211 Đường Nguyễn An Ninh, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn An Ninh",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Mask Nội Địa Trung Đẹp Chính Hãng Chất Lượng Gía Rẻ Biên Hòa Bé Còi",
+        "latitude": 10.93305,
+        "longitude": 106.81023,
+        "address": "Mask Nội Địa Trung Đẹp Chính Hãng Chất Lượng Gía Rẻ Biên Hòa Bé Còi, Đường Nguyễn Thị Tồn, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Thị Tồn",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Xuan Diep",
+        "latitude": 10.92787,
+        "longitude": 106.81483,
+        "address": "Xuan Diep, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Quán Ăn Gia Đình 168",
+        "latitude": 10.92304,
+        "longitude": 106.76627,
+        "address": "Quán Ăn Gia Đình 168, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Ví Da Nam Khắc Tên Theo Yêu Cầu",
+        "latitude": 10.88933,
+        "longitude": 106.78082,
+        "address": "Ví Da Nam Khắc Tên Theo Yêu Cầu, Đường Tân Hòa, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Tân Hòa",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ VI Tính & Viễn Thông",
+        "latitude": 10.88815,
+        "longitude": 106.7822,
+        "address": "Dịch Vụ VI Tính & Viễn Thông, Đường Tân Hòa, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Tân Hòa",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Totoshop",
+        "latitude": 10.89939,
+        "longitude": 106.76788,
+        "address": "Totoshop, 97 Đường Nguyễn An Ninh, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn An Ninh",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Vựa Tôm Trung Tín",
+        "latitude": 10.8985,
+        "longitude": 106.76787,
+        "address": "Vựa Tôm Trung Tín, Đường Nguyễn An Ninh, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn An Ninh",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Kỳ Thư Shop",
+        "latitude": 10.90768,
+        "longitude": 106.7636,
+        "address": "Kỳ Thư Shop, Đường Khu 5, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Khu 5",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Quần áo & Phụ kiện"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "The April Shop",
+        "latitude": 10.89086,
+        "longitude": 106.7749,
+        "address": "The April Shop, Đường GS 14, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường GS 14",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Đá Hoa Cương Ngọc Bình",
+        "latitude": 10.92531,
+        "longitude": 106.76441,
+        "address": "Cửa Hàng Đá Hoa Cương Ngọc Bình, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "CP Tư Vấn XD Giao Thông Thủy Lợi 70",
+        "latitude": 10.92608,
+        "longitude": 106.76327,
+        "address": "CP Tư Vấn XD Giao Thông Thủy Lợi 70, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Phụ Tùng Ô Tô",
+        "latitude": 10.90803,
+        "longitude": 106.76133,
+        "address": "Cửa Hàng Phụ Tùng Ô Tô, Đường Lý Thường Kiệt, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Lý Thường Kiệt",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Sắt Thép Xây Dựng Mạnh Cường Phát",
+        "latitude": 10.94238,
+        "longitude": 106.8043,
+        "address": "Cửa Hàng Sắt Thép Xây Dựng Mạnh Cường Phát, 28C Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Lam Handmade",
+        "latitude": 10.94484,
+        "longitude": 106.79892,
+        "address": "Lam Handmade, Đường Bùi Hữu Nghĩa, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Moonshop - Natural Beauty Đồng Nai",
+        "latitude": 10.94484,
+        "longitude": 106.79892,
+        "address": "Moonshop - Natural Beauty Đồng Nai, Đường Bùi Hữu Nghĩa, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Hồng Nhung",
+        "latitude": 10.90054,
+        "longitude": 106.76272,
+        "address": "Cửa Hàng Hồng Nhung, Đường Số 11 TĐC, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Số 11 TĐC",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Sữa Long Minh Khang",
+        "latitude": 10.93792,
+        "longitude": 106.81317,
+        "address": "Cửa Hàng Sữa Long Minh Khang, Đường Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Thiết Bị Điện An Phước",
+        "latitude": 10.92668,
+        "longitude": 106.76179,
+        "address": "Cửa Hàng Thiết Bị Điện An Phước, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Gas & Bếp Gas Hiếu Thảo",
+        "latitude": 10.91195,
+        "longitude": 106.75901,
+        "address": "Đại Lý Gas & Bếp Gas Hiếu Thảo, 28 Hẻm 7 Đường Đoàn Thị Kia, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Hẻm 7 Đường Đoàn Thị Kia",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Trần Thạch Cao Mỹ Duyên",
+        "latitude": 10.92693,
+        "longitude": 106.76144,
+        "address": "Cửa Hàng Trần Thạch Cao Mỹ Duyên, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Đồ Điện Trang Trí Bảo Uyên",
+        "latitude": 10.90784,
+        "longitude": 106.75929,
+        "address": "Cửa Hàng Đồ Điện Trang Trí Bảo Uyên, 221 Đường Lý Thường Kiệt, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Lý Thường Kiệt",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cầm Đồ Xuân Trang",
+        "latitude": 10.92697,
+        "longitude": 106.76105,
+        "address": "Dịch Vụ Cầm Đồ Xuân Trang, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Đá Hoa Cương Duy Mạnh",
+        "latitude": 10.91065,
+        "longitude": 106.75852,
+        "address": "Cửa Hàng Đá Hoa Cương Duy Mạnh, Tỉnh Lộ 743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Tỉnh Lộ 743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Thoại Di Động Ngọc Thy",
+        "latitude": 10.89222,
+        "longitude": 106.76635,
+        "address": "Cửa Hàng Điện Thoại Di Động Ngọc Thy, Đường Số 6, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Số 6",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Giò Chả Quỳnh Như",
+        "latitude": 10.90281,
+        "longitude": 106.75983,
+        "address": "Cửa Hàng Giò Chả Quỳnh Như, Đường Số 5 TĐC, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Số 5 TĐC",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Nệm Kymdan",
+        "latitude": 10.90699,
+        "longitude": 106.75821,
+        "address": "Đại Lý Nệm Kymdan, Đường Nguyễn Trãi, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Gas Phạm Tuyên",
+        "latitude": 10.90699,
+        "longitude": 106.75821,
+        "address": "Đại Lý Gas Phạm Tuyên, Đường Nguyễn Trãi, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Xe Đạp Chiến Thắng",
+        "latitude": 10.90713,
+        "longitude": 106.75804,
+        "address": "Cửa Hàng Xe Đạp Chiến Thắng, Đường Nguyễn Trãi, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Máy Tiến Giang",
+        "latitude": 10.90655,
+        "longitude": 106.75782,
+        "address": "Cửa Hàng Điện Máy Tiến Giang, Đường Nguyễn Trãi, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Joon Sài Gòn",
+        "latitude": 10.89962,
+        "longitude": 106.76009,
+        "address": "Joon Sài Gòn, Đường Số 6, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Số 6",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Điện Nước Đức Tài",
+        "latitude": 10.9279,
+        "longitude": 106.7595,
+        "address": "Tiệm Điện Nước Đức Tài, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    }
+]

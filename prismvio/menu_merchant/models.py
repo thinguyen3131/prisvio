@@ -1,5 +1,6 @@
 from django.conf import settings
 from django.db import models
+from slugify import slugify
 
 from prismvio.merchant.models import Merchant
 from prismvio.staff.models import Staff
@@ -13,6 +14,12 @@ class Keyword(models.Model):
     def __str__(self):
         return self.name
 
+    def normalizer_name(self):
+        if self.name:
+            normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)
+            return normalizer
+        return None
+
 
 class Hashtag(models.Model):
     name = models.CharField(max_length=255)
@@ -21,6 +28,12 @@ class Hashtag(models.Model):
 
     def __str__(self):
         return self.name
+
+    def normalizer_name(self):
+        if self.name:
+            normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)
+            return normalizer
+        return None
 
 
 class Category(models.Model):

@@ -79,7 +79,8 @@ class User(AbstractUser):
     language = models.CharField(max_length=2, choices=languages.languages, default="en")
 
     website = models.CharField(max_length=255, null=True, blank=True)
-    avatar = models.JSONField(default=list, null=True, blank=True)
+    avatar = models.JSONField(default=dict, null=True, blank=True)
+    bio = models.TextField(null=True, blank=True)
 
     address = models.CharField(max_length=255, null=True, blank=True)
     full_address = models.CharField(max_length=255, null=True, blank=True)
@@ -124,6 +125,22 @@ class User(AbstractUser):
                 for x in self.PROFILE_FIELDS_MAP[self.profile_type]["required"]
             ]
         )
+
+    def set_status_active(self, status: bool):
+        if status is True:
+            self.__activate()
+        else:
+            self.__deactivate()
+
+    def __deactivate(self):
+        self.is_active = False
+        self.save()
+        # todo: add celery task here to process post-deactivate
+
+    def __activate(self):
+        self.is_active = True
+        self.save()
+        # todo: add celery task here to process post-activate
 
 
 class PrivacySetting(models.Model):

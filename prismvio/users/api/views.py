@@ -1,20 +1,38 @@
+import logging
 from datetime import timedelta
 
+import jwt
 from django.conf import settings
 from django.contrib.auth import get_user_model
+from django.http import JsonResponse
 from django.utils import timezone
 from rest_framework import exceptions
+from rest_framework.generics import RetrieveUpdateAPIView, UpdateAPIView
 from rest_framework.response import Response
-from rest_framework.status import HTTP_200_OK, HTTP_400_BAD_REQUEST, HTTP_500_INTERNAL_SERVER_ERROR
+from rest_framework.status import (
+    HTTP_200_OK,
+    HTTP_204_NO_CONTENT,
+    HTTP_400_BAD_REQUEST,
+    HTTP_500_INTERNAL_SERVER_ERROR,
+)
 from rest_framework.views import APIView
+from rest_framework_simplejwt.exceptions import TokenError
+from rest_framework_simplejwt.tokens import RefreshToken
 
-from prismvio.users.api.serializers import SendEmailVerificationCodeSerializer
+from prismvio.users.api.serializers import (
+    DeactivateUserActiveStatusSerializer,
+    MeDetailSerializer,
+    SendEmailVerificationCodeSerializer,
+    UpdatePasswordSerializer,
+)
 from prismvio.users.enums import IntervalLockTime, OTPAction, OTPType
 from prismvio.users.models.otp import OneTimePassword
 from prismvio.users.otp import LimitedError, require_new_otp
 from prismvio.users.tasks import send_email_verification_otp_by_email_template
 
 User = get_user_model()
+
+logger = logging.getLogger("django")
 
 
 def raise_throttled(wait=None, detail=None):
@@ -93,3 +111,78 @@ class SendValidateEmailVerificationCode(EmailVerificationCodeBaseView):
 
     def post(self, request):
         return super().post(request)
+
+
+class MyProfileView(RetrieveUpdateAPIView):
+    serializer_class = MeDetailSerializer
+
+    def get_object(self):
+        return self.request.user
+
+
+class MyPasswordView(UpdateAPIView):
+    serializer_class = UpdatePasswordSerializer
+    http_method_names = ["put"]
+
+    def get_object(self):
+        return self.request.user
+
+    def update(self, request, *args, **kwargs):
+        user = self.get_object()
+        serializer = self.get_serializer(data=request.data)
+
+        serializer.is_valid(raise_exception=True)
+        user.set_password(serializer.data.get("new_password"))
+        user.save()
+
+        return Response(status=HTTP_204_NO_CONTENT)
+
+
+class UserExistsAPIView(APIView):
+    permission_classes = ()
+
+    def post(self, request):
+        email = request.data.get("email", None)
+        phone_number = request.data.get("phone_number", None)
+        is_existed = False
+        if email:
+            is_existed = User.objects.filter(email=email).exists()
+        if phone_number:
+            is_existed = User.objects.filter(phone_number=phone_number).exists()
+        return Response({"is_existed": is_existed}, status=HTTP_200_OK)
+
+
+class DeactivateAPIView(APIView):
+    def post(self, request):
+        serializer = DeactivateUserActiveStatusSerializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        data = serializer.validated_data
+        update_success = True
+        try:
+            payload = jwt.decode(request.auth.token, options={"verify_signature": False})
+            user = User.objects.get(pk=payload["user_id"])
+
+            if user.pk != request.user.pk:
+                raise ValueError("Cannot change status for other user")
+
+            key = RefreshToken(data.get("refresh_token"))
+            key.blacklist()
+            user.set_status_active(status=False)
+        except (ValueError, User.DoesNotExist) as err:
+            logger.error(
+                f"Cannot deactivate for user {request.user.email}",
+                extra=dict(request_data=request.data, error=str(err)),
+            )
+            update_success = False
+        except (TokenError, jwt.DecodeError) as err:
+            logger.error(
+                f"Cannot deactivate for user {request.user.email}",
+                extra=dict(request_data=request.data, error=str(err)),
+            )
+            update_success = False
+        return JsonResponse(
+            {
+                "success": update_success,
+            },
+            status=HTTP_200_OK,
+        )

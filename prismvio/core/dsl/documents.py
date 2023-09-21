@@ -225,6 +225,19 @@ class DocType(DSLDocument):
 
         return self._bulk(self._get_actions(object_list, action), parallel=parallel, **kwargs)
 
+    def get_obj_ids(self, data: dict, attr: str) -> list[int]:
+        obj_list = data.get(attr, [])
+        if not isinstance(obj_list, list):
+            raise ValueError("Cannot support this object")
+        result = []
+
+        for obj in obj_list:
+            obj_id = obj.get("id", None)
+            if obj_id:
+                result.append(obj_id)
+
+        return result
+
 
 # Alias of DocType. Need to remove DocType in 7.x
 Document = DocType

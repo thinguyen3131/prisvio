@@ -1,0 +1,1610 @@
+[
+    {
+        "name": "Thiết Bị Xây Dựng Tân Gia Phúc",
+        "latitude": 10.91068,
+        "longitude": 106.79617,
+        "address": "Thiết Bị Xây Dựng Tân Gia Phúc, Xa Lộ Hà Nội, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Đất Nam",
+        "latitude": 10.91047,
+        "longitude": 106.79615,
+        "address": "Đất Nam, Xa Lộ Hà Nội, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty CP Đông Hải",
+        "latitude": 10.90774,
+        "longitude": 106.79059,
+        "address": "Công Ty CP Đông Hải, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cty TNHH MTV Bảo Hộ Gia Huy",
+        "latitude": 10.90774,
+        "longitude": 106.79059,
+        "address": "Cty TNHH MTV Bảo Hộ Gia Huy, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Quốc Cường Đại Lý Gạo Bếp Gas Gas",
+        "latitude": 10.90774,
+        "longitude": 106.79059,
+        "address": "Quốc Cường Đại Lý Gạo Bếp Gas Gas, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH MTV Đại Thạnh Lợi",
+        "latitude": 10.90752,
+        "longitude": 106.79113,
+        "address": "Công Ty TNHH MTV Đại Thạnh Lợi, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Xí Nghiệp Kinh Doanh Cầu Đường 743",
+        "latitude": 10.90752,
+        "longitude": 106.79113,
+        "address": "Xí Nghiệp Kinh Doanh Cầu Đường 743, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Quốc Đông",
+        "latitude": 10.9069,
+        "longitude": 106.79333,
+        "address": "Quốc Đông, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Trung Đức",
+        "latitude": 10.9069,
+        "longitude": 106.79333,
+        "address": "Trung Đức, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Đầu Tư Xây Dựng Mạnh Lâm",
+        "latitude": 10.90738,
+        "longitude": 106.795,
+        "address": "Công Ty TNHH Đầu Tư Xây Dựng Mạnh Lâm, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn May Mặc H&V",
+        "latitude": 10.90907,
+        "longitude": 106.78574,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn May Mặc H&V, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Một Thành Viên Đá Bửu Long",
+        "latitude": 10.91623,
+        "longitude": 106.79943,
+        "address": "Công Ty TNHH Một Thành Viên Đá Bửu Long, QL.1K, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "QL.1K",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cửa hàng phần cứng hoặc trung tâm DIY"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH SX TM DV Tôn Thép V&V",
+        "latitude": 10.90615,
+        "longitude": 106.79462,
+        "address": "Công Ty TNHH SX TM DV Tôn Thép V&V, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Đức Lợi",
+        "latitude": 10.90574,
+        "longitude": 106.79449,
+        "address": "Công Ty TNHH Đức Lợi, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Logistics Kim Long",
+        "latitude": 10.91358,
+        "longitude": 106.78206,
+        "address": "Công Ty TNHH Logistics Kim Long, 51 Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Trường Trang",
+        "latitude": 10.91593,
+        "longitude": 106.78216,
+        "address": "Trường Trang, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cty Trách Nhiệm Hữu Hạn Một Thành Viên Thương Mại Dịch Vụ Tân Ngọc Định",
+        "latitude": 10.91437,
+        "longitude": 106.78196,
+        "address": "Cty Trách Nhiệm Hữu Hạn Một Thành Viên Thương Mại Dịch Vụ Tân Ngọc Định, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Giải Pháp Thanh Toán Ecpay",
+        "latitude": 10.91269,
+        "longitude": 106.78205,
+        "address": "Giải Pháp Thanh Toán Ecpay, 25A Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty CP Dầu Nhớt Động Lực",
+        "latitude": 10.91773,
+        "longitude": 106.78214,
+        "address": "Công Ty CP Dầu Nhớt Động Lực, Đường Mỹ Phước-Tân Vạn, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Mỹ Phước-Tân Vạn",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Saha Dharawat",
+        "latitude": 10.90416,
+        "longitude": 106.78975,
+        "address": "Saha Dharawat, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn Thương Mại Và Dịch Vụ Hải Đảo",
+        "latitude": 10.91846,
+        "longitude": 106.8012,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn Thương Mại Và Dịch Vụ Hải Đảo, 1K, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "1K",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH TM DV Vận Tải Nam Lộc Phát",
+        "latitude": 10.90852,
+        "longitude": 106.8007,
+        "address": "Công Ty TNHH TM DV Vận Tải Nam Lộc Phát, Đường Mỹ Phước-Tân Vạn, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Mỹ Phước-Tân Vạn",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cà Phê Trung Nguyên",
+        "latitude": 10.90472,
+        "longitude": 106.78704,
+        "address": "Công Ty Cà Phê Trung Nguyên, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH XD TM Quốc Phương Phát",
+        "latitude": 10.90386,
+        "longitude": 106.79408,
+        "address": "Công Ty TNHH XD TM Quốc Phương Phát, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng phần cứng hoặc trung tâm DIY"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cty Tnhh Sx Tm-Dv Cn 2 Galaxy Furniture",
+        "latitude": 10.91784,
+        "longitude": 106.78147,
+        "address": "Cty Tnhh Sx Tm-Dv Cn 2 Galaxy Furniture, Đường Mỹ Phước-Tân Vạn, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Mỹ Phước-Tân Vạn",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH MTV Ngân Phát Lộc",
+        "latitude": 10.91897,
+        "longitude": 106.80153,
+        "address": "Công Ty TNHH MTV Ngân Phát Lộc, QL.1K, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "QL.1K",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Maruichi Sun Steel",
+        "latitude": 10.91024,
+        "longitude": 106.78112,
+        "address": "Công Ty Cổ Phần Maruichi Sun Steel, Hẻm 8C Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Hẻm 8C Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Trạm Ép Giấy An Hùng Thịnh",
+        "latitude": 10.91786,
+        "longitude": 106.78097,
+        "address": "Trạm Ép Giấy An Hùng Thịnh, Đường Mỹ Phước-Tân Vạn, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Mỹ Phước-Tân Vạn",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Huệ Minh Phát",
+        "latitude": 10.91183,
+        "longitude": 106.78036,
+        "address": "Công Ty TNHH Huệ Minh Phát, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Thái Dương",
+        "latitude": 10.90572,
+        "longitude": 106.78381,
+        "address": "Công Ty Thái Dương, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Chế Tạo Cơ Khí Hoàng Lâm",
+        "latitude": 10.92322,
+        "longitude": 106.78452,
+        "address": "Công Ty TNHH Chế Tạo Cơ Khí Hoàng Lâm, Đường Số 1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Simexco Daklak",
+        "latitude": 10.90559,
+        "longitude": 106.78364,
+        "address": "Simexco Daklak, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Kinh Doanh Thiết Bị Phụ Tùng Máy Xay Đá Phương Tâm 2",
+        "latitude": 10.91998,
+        "longitude": 106.80201,
+        "address": "Cửa Hàng Kinh Doanh Thiết Bị Phụ Tùng Máy Xay Đá Phương Tâm 2, Đường Nguyễn Ái Quốc, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Đầu Tư Xuất Khẩu Daklak",
+        "latitude": 10.90578,
+        "longitude": 106.78315,
+        "address": "Công Ty Cổ Phần Đầu Tư Xuất Khẩu Daklak, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn Phú Mỹ",
+        "latitude": 10.92078,
+        "longitude": 106.78172,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn Phú Mỹ, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Phước Minh Sang",
+        "latitude": 10.92,
+        "longitude": 106.80234,
+        "address": "Công Ty TNHH Phước Minh Sang, Đường Nguyễn Ái Quốc, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Top Chemical",
+        "latitude": 10.90586,
+        "longitude": 106.78287,
+        "address": "Công Ty Top Chemical, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần TM Thiết Bị Khánh An",
+        "latitude": 10.90736,
+        "longitude": 106.78112,
+        "address": "Công Ty Cổ Phần TM Thiết Bị Khánh An, Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Depot Suối Lồ Ô",
+        "latitude": 10.90224,
+        "longitude": 106.79559,
+        "address": "Depot Suối Lồ Ô, ĐT.743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "ĐT.743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Văn Phòng Đại Diện Công Ty Cổ Phần TM ĐT Địa Ốc Hoàng Thịnh",
+        "latitude": 10.90229,
+        "longitude": 106.79617,
+        "address": "Văn Phòng Đại Diện Công Ty Cổ Phần TM ĐT Địa Ốc Hoàng Thịnh, Đường D1, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường D1",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Hợp Tác Xã Thái Dương",
+        "latitude": 10.92081,
+        "longitude": 106.80263,
+        "address": "Hợp Tác Xã Thái Dương, Đường Nguyễn Ái Quốc, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cty Trách Nhiệm Hữu Hạn Điện Tửu T. T",
+        "latitude": 10.92195,
+        "longitude": 106.78155,
+        "address": "Cty Trách Nhiệm Hữu Hạn Điện Tửu T. T, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Điện Tử T T Electronics",
+        "latitude": 10.92218,
+        "longitude": 106.78151,
+        "address": "Công Ty TNHH Điện Tử T T Electronics, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cty Sản Xuất Dây & Cáp Điện Vinacadi",
+        "latitude": 10.92235,
+        "longitude": 106.78149,
+        "address": "Cty Sản Xuất Dây & Cáp Điện Vinacadi, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Công Nghiệp Bửu Chi",
+        "latitude": 10.92704,
+        "longitude": 106.78925,
+        "address": "Công Ty TNHH Công Nghiệp Bửu Chi, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn Lực Ky",
+        "latitude": 10.92717,
+        "longitude": 106.79007,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn Lực Ky, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Công Nghiệp Ameco",
+        "latitude": 10.92665,
+        "longitude": 106.78751,
+        "address": "Công Ty Cổ Phần Công Nghiệp Ameco, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn Din San-Nhà Máy Sản Xuất Sợi",
+        "latitude": 10.92666,
+        "longitude": 106.78749,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn Din San-Nhà Máy Sản Xuất Sợi, Đường Số 1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cty Cổ Phần Phát Triển Hàng Hải Depot Bình An",
+        "latitude": 10.90188,
+        "longitude": 106.79687,
+        "address": "Cty Cổ Phần Phát Triển Hàng Hải Depot Bình An, Tỉnh Lộ 743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Tỉnh Lộ 743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn Quốc Tế Anna S.E.A",
+        "latitude": 10.92732,
+        "longitude": 106.791,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn Quốc Tế Anna S.E.A, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Kỹ Năng Thực Hành Cơ Giới GTVT Thuận An",
+        "latitude": 10.90186,
+        "longitude": 106.79741,
+        "address": "Trung Tâm Kỹ Năng Thực Hành Cơ Giới GTVT Thuận An, ĐT.743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "ĐT.743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cơ Sở Chính Phủ hoặc Cộng Đồng"
+            },
+            {
+                "name": "Đào tạo & Phát triển"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Bot",
+        "latitude": 10.92142,
+        "longitude": 106.80328,
+        "address": "Công Ty TNHH Bot, Đường Nguyễn Ái Quốc, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Trại Hòm An Đức Thiện",
+        "latitude": 10.90657,
+        "longitude": 106.80316,
+        "address": "Trại Hòm An Đức Thiện, Đường Mỹ Phước-Tân Vạn, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Mỹ Phước-Tân Vạn",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Cơ Khí-Thương Mại-Xây Dựng Hữu Châu",
+        "latitude": 10.91312,
+        "longitude": 106.77801,
+        "address": "Công Ty TNHH Cơ Khí-Thương Mại-Xây Dựng Hữu Châu, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Oseven",
+        "latitude": 10.92684,
+        "longitude": 106.78701,
+        "address": "Oseven, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn Sản Xuất Thương Mại Vĩnh Phúc",
+        "latitude": 10.92654,
+        "longitude": 106.78611,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn Sản Xuất Thương Mại Vĩnh Phúc, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cửa hàng phần cứng hoặc trung tâm DIY"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn Khuôn Mẫu",
+        "latitude": 10.92651,
+        "longitude": 106.78591,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn Khuôn Mẫu, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Sản xuất"
+            }
+        ]
+    },
+    {
+        "name": "Cao Su Việt",
+        "latitude": 10.92643,
+        "longitude": 106.78543,
+        "address": "Cao Su Việt, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Thương Mại Và Sản Xuất Cơ Khí Nguyễn Phú Vinh",
+        "latitude": 10.91321,
+        "longitude": 106.77768,
+        "address": "Công Ty TNHH Thương Mại Và Sản Xuất Cơ Khí Nguyễn Phú Vinh, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Bao Bì Bia Sài Gòn-Nhà Máy Bao Bì Bình Dương",
+        "latitude": 10.92638,
+        "longitude": 106.78511,
+        "address": "Công Ty Cổ Phần Bao Bì Bia Sài Gòn-Nhà Máy Bao Bì Bình Dương, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Thuanloi",
+        "latitude": 10.92636,
+        "longitude": 106.78496,
+        "address": "Công Ty TNHH Thuanloi, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty MTV Sản Xuất TM DV XNK Kiên Cường",
+        "latitude": 10.9005,
+        "longitude": 106.79496,
+        "address": "Công Ty MTV Sản Xuất TM DV XNK Kiên Cường, Đường Trần Đại Nghĩa, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Trần Đại Nghĩa",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cty Trách Nhiệm Hữu Hạn Phú Phú Vinh",
+        "latitude": 10.91329,
+        "longitude": 106.77753,
+        "address": "Cty Trách Nhiệm Hữu Hạn Phú Phú Vinh, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Sun Steel",
+        "latitude": 10.91327,
+        "longitude": 106.77753,
+        "address": "Công Ty Cổ Phần Sun Steel, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH SX Đồ Gỗ Xuất Khẩu Minh Hạnh",
+        "latitude": 10.9263,
+        "longitude": 106.7846,
+        "address": "Công Ty TNHH SX Đồ Gỗ Xuất Khẩu Minh Hạnh, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cửa hàng bán đồ gia dụng/Nội thất"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Thuan Loi Co Ltd",
+        "latitude": 10.92649,
+        "longitude": 106.78494,
+        "address": "Thuan Loi Co Ltd, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Ast",
+        "latitude": 10.91337,
+        "longitude": 106.77732,
+        "address": "Công Ty Ast, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Nhựa Nguyên Giang",
+        "latitude": 10.90503,
+        "longitude": 106.80305,
+        "address": "Nhựa Nguyên Giang, Đường Bình Thung, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Bình Thung",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "DNTN Bảy Sớt",
+        "latitude": 10.90503,
+        "longitude": 106.80305,
+        "address": "DNTN Bảy Sớt, Đường Bình Thung, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Bình Thung",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Máy Cồn Rượu Bình Dương",
+        "latitude": 10.92421,
+        "longitude": 106.78131,
+        "address": "Nhà Máy Cồn Rượu Bình Dương, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH MTV Cơ Khí Đức Thành Phát",
+        "latitude": 10.9214,
+        "longitude": 106.80443,
+        "address": "Công Ty TNHH MTV Cơ Khí Đức Thành Phát, Quốc Lộ 1K, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Quốc Lộ 1K",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Cơ Khí Minh Quân",
+        "latitude": 10.92176,
+        "longitude": 106.80426,
+        "address": "Công Ty TNHH Cơ Khí Minh Quân, Quốc Lộ 1K, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Quốc Lộ 1K",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Máy Tôn-Ống Thép Trường Lộc",
+        "latitude": 10.9223,
+        "longitude": 106.80403,
+        "address": "Nhà Máy Tôn-Ống Thép Trường Lộc, Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH MTV MV Investment",
+        "latitude": 10.92606,
+        "longitude": 106.78313,
+        "address": "Công Ty TNHH MTV MV Investment, Đường Số 2, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Số 2",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Thép Vạn Thành",
+        "latitude": 10.92814,
+        "longitude": 106.78736,
+        "address": "Công Ty Cổ Phần Thép Vạn Thành, Đường Số 1, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Số 1",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Trạm Chiết Nạp LPG Hưng Thịnh",
+        "latitude": 10.92113,
+        "longitude": 106.80501,
+        "address": "Trạm Chiết Nạp LPG Hưng Thịnh, Quốc Lộ 1K, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Quốc Lộ 1K",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cty Trách Nhiệm Hữu Hạn Một Thành Viên Binatin Song Ngọc",
+        "latitude": 10.91363,
+        "longitude": 106.77667,
+        "address": "Cty Trách Nhiệm Hữu Hạn Một Thành Viên Binatin Song Ngọc, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Thanh Hùng",
+        "latitude": 10.90396,
+        "longitude": 106.78076,
+        "address": "Thanh Hùng, Đường Hai Bà Trưng, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Dũng Trường Nghĩa",
+        "latitude": 10.92564,
+        "longitude": 106.8021,
+        "address": "Công Ty TNHH Dũng Trường Nghĩa, Đường Nguyễn Văn Lung, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Văn Lung",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Anh Khoa",
+        "latitude": 10.92589,
+        "longitude": 106.78105,
+        "address": "Công Ty TNHH Anh Khoa, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty CP Dược Phẩm Anviet",
+        "latitude": 10.92601,
+        "longitude": 106.78075,
+        "address": "Công Ty CP Dược Phẩm Anviet, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Tổ Chức Sự Kiện Thiên Phúc",
+        "latitude": 10.90632,
+        "longitude": 106.7774,
+        "address": "Công Ty TNHH Tổ Chức Sự Kiện Thiên Phúc, Đường Đông Tác, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Đông Tác",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Pilmico",
+        "latitude": 10.92671,
+        "longitude": 106.78066,
+        "address": "Công Ty Pilmico, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Kho Vinh Thịnh Hợp Tác Xã Thái Dương",
+        "latitude": 10.92272,
+        "longitude": 106.8064,
+        "address": "Kho Vinh Thịnh Hợp Tác Xã Thái Dương, Hẻm Số 2565 Nguyễn Ái Quốc, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Hẻm Số 2565 Nguyễn Ái Quốc",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cty Trách Nhiệm Hữu Hạn Dinh Dưỡng Âu Châu",
+        "latitude": 10.92727,
+        "longitude": 106.78087,
+        "address": "Cty Trách Nhiệm Hữu Hạn Dinh Dưỡng Âu Châu, Đường D1, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường D1",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Trách Nhiệm Hữu Hạn Thương Mại Dịch Vụ Sắt Thép Bình Trình",
+        "latitude": 10.9246,
+        "longitude": 106.80539,
+        "address": "Công Ty Trách Nhiệm Hữu Hạn Thương Mại Dịch Vụ Sắt Thép Bình Trình, Đường Nguyễn Ái Quốc, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Sungwoo Vina",
+        "latitude": 10.92879,
+        "longitude": 106.78262,
+        "address": "Công Ty Sungwoo Vina, Đường Số 1, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Số 1",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    }
+]

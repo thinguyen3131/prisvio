@@ -1,0 +1,1907 @@
+[
+    {
+        "name": "Ngân Hàng Xuất Nhập Khẩu Việt Nam",
+        "latitude": 10.77773,
+        "longitude": 106.70233,
+        "address": "Ngân Hàng Xuất Nhập Khẩu Việt Nam, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Maybank Kim Eng Vietnam",
+        "latitude": 10.7777,
+        "longitude": 106.70151,
+        "address": "Maybank Kim Eng Vietnam, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Hãng môi giới bất động sản"
+            }
+        ]
+    },
+    {
+        "name": "ATM EximBank - Tòa Nhà Vincom Center",
+        "latitude": 10.77854,
+        "longitude": 106.7017,
+        "address": "ATM EximBank - Tòa Nhà Vincom Center, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Á Châu",
+        "latitude": 10.77721,
+        "longitude": 106.70427,
+        "address": "Ngân Hàng Á Châu, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "BIDV - Máy Pos - ATM",
+        "latitude": 10.77613,
+        "longitude": 106.70313,
+        "address": "BIDV - Máy Pos - ATM, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Vietinbank",
+        "latitude": 10.77934,
+        "longitude": 106.70217,
+        "address": "Vietinbank, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Woori",
+        "latitude": 10.77582,
+        "longitude": 106.70203,
+        "address": "Woori, 115 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "HSBC",
+        "latitude": 10.77936,
+        "longitude": 106.70363,
+        "address": "HSBC, 29 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "NGH Hàng Hải",
+        "latitude": 10.77695,
+        "longitude": 106.70473,
+        "address": "NGH Hàng Hải, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Hàng Hải Việt Nam",
+        "latitude": 10.77695,
+        "longitude": 106.70488,
+        "address": "Ngân Hàng Hàng Hải Việt Nam, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Xuất Nhập Khẩu Việt Nam",
+        "latitude": 10.77554,
+        "longitude": 106.70343,
+        "address": "Ngân Hàng Xuất Nhập Khẩu Việt Nam, 135 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ficombank",
+        "latitude": 10.77558,
+        "longitude": 106.70371,
+        "address": "Ficombank, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Vphòng Đại Diện TP HCM-Bank Sinopac",
+        "latitude": 10.77981,
+        "longitude": 106.70273,
+        "address": "Vphòng Đại Diện TP HCM-Bank Sinopac, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Vietcombank",
+        "latitude": 10.77567,
+        "longitude": 106.70152,
+        "address": "Vietcombank, 141 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "CN HCM-NG.H Bảo Việt",
+        "latitude": 10.77829,
+        "longitude": 106.70058,
+        "address": "CN HCM-NG.H Bảo Việt, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Phát Triển Việt Nam",
+        "latitude": 10.77829,
+        "longitude": 106.70058,
+        "address": "Ngân Hàng Phát Triển Việt Nam, 229 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Xuất Nhập Khẩu Việt Nam",
+        "latitude": 10.77829,
+        "longitude": 106.70058,
+        "address": "Ngân Hàng Xuất Nhập Khẩu Việt Nam, 229 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "CN TP HCM-NG. H Far East National",
+        "latitude": 10.77995,
+        "longitude": 106.70284,
+        "address": "CN TP HCM-NG. H Far East National, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TMCP Xuất Nhập Khẩu Việt Nam-Phòng Giao Dịch Lê Lợi",
+        "latitude": 10.77543,
+        "longitude": 106.70162,
+        "address": "Ngân Hàng TMCP Xuất Nhập Khẩu Việt Nam-Phòng Giao Dịch Lê Lợi, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "NGH BIDV PGD Thương Xá Tax",
+        "latitude": 10.77507,
+        "longitude": 106.70229,
+        "address": "NGH BIDV PGD Thương Xá Tax, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Bảo Việt",
+        "latitude": 10.77842,
+        "longitude": 106.70032,
+        "address": "Ngân Hàng Bảo Việt, 233 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "NGH Phát Triển Việt Nam",
+        "latitude": 10.77852,
+        "longitude": 106.70033,
+        "address": "NGH Phát Triển Việt Nam, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Bidv - Thuong Xa Tax",
+        "latitude": 10.77496,
+        "longitude": 106.70242,
+        "address": "Bidv - Thuong Xa Tax, 135 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Shb",
+        "latitude": 10.77863,
+        "longitude": 106.7002,
+        "address": "Shb, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Hanakaruta 花かるた",
+        "latitude": 10.77989,
+        "longitude": 106.70444,
+        "address": "Hanakaruta 花かるた, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Korea Exchange Bank - Rep. Office",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Korea Exchange Bank - Rep. Office, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Far East National Bank - CN",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Ngân Hàng Far East National Bank - CN, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Industrial Bank Of Korea Bank - Hcm Branch",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Industrial Bank Of Korea Bank - Hcm Branch, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TM CP XNK Việt Nam (EximBank) - Hội Sở",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Ngân Hàng TM CP XNK Việt Nam (EximBank) - Hội Sở, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TM Chinatrust - CN",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Ngân Hàng TM Chinatrust - CN, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TNHH Indovina",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Ngân Hàng TNHH Indovina, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Ấn Độ - VPĐD",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Ngân Hàng Ấn Độ - VPĐD, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Oversea - Chinese Banking Corp. (Ocbc)",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Oversea - Chinese Banking Corp. (Ocbc), Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Wells Fargo Bank N.A - Rep. Office",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Wells Fargo Bank N.A - Rep. Office, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng JP Morgan Chase - CN",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Ngân Hàng JP Morgan Chase - CN, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Union Bank Of Taiwan",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Union Bank Of Taiwan, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Sinopac - VPĐD",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Ngân Hàng Sinopac - VPĐD, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TM CP Sài Gòn (SCB) - Phòng Giao Dịch Nguyễn Huệ",
+        "latitude": 10.7749,
+        "longitude": 106.70184,
+        "address": "Ngân Hàng TM CP Sài Gòn (SCB) - Phòng Giao Dịch Nguyễn Huệ, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Á Châu TMCP-PGD Lê Lợi",
+        "latitude": 10.7749,
+        "longitude": 106.70184,
+        "address": "Ngân Hàng Á Châu TMCP-PGD Lê Lợi, 41 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng NN & PT Nông Thôn",
+        "latitude": 10.7758,
+        "longitude": 106.7051,
+        "address": "Ngân Hàng NN & PT Nông Thôn, 18 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Điểm Giao Dịch Ngân Hàng Xuất Nhập Khẩu Việt Nam",
+        "latitude": 10.77505,
+        "longitude": 106.70142,
+        "address": "Điểm Giao Dịch Ngân Hàng Xuất Nhập Khẩu Việt Nam, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Quốc Tế Vib Bến Nghé",
+        "latitude": 10.7747,
+        "longitude": 106.7026,
+        "address": "Ngân Hàng Quốc Tế Vib Bến Nghé, 133 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng HSBC",
+        "latitude": 10.77868,
+        "longitude": 106.70006,
+        "address": "Ngân Hàng HSBC, 235 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            },
+            {
+                "name": "Dịch vụ tài chính và bảo hiểm"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Công Thương Việt Nam",
+        "latitude": 10.77516,
+        "longitude": 106.70455,
+        "address": "Ngân Hàng Công Thương Việt Nam, 60 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Tráng Nướng Góc Phố",
+        "latitude": 10.77937,
+        "longitude": 106.70038,
+        "address": "Bánh Tráng Nướng Góc Phố, 57 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn nhanh"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TMCP Công Thương Việt Nam-Phòng Giao Dịch Nguyễn Huệ",
+        "latitude": 10.77504,
+        "longitude": 106.70445,
+        "address": "Ngân Hàng TMCP Công Thương Việt Nam-Phòng Giao Dịch Nguyễn Huệ, Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Eximbank",
+        "latitude": 10.77559,
+        "longitude": 106.7005,
+        "address": "Eximbank, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TMCP Việt Nam Thương Tín",
+        "latitude": 10.77716,
+        "longitude": 106.70591,
+        "address": "Ngân Hàng TMCP Việt Nam Thương Tín, Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Wachovia N.A",
+        "latitude": 10.77866,
+        "longitude": 106.69988,
+        "address": "Wachovia N.A, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "SHINHAN BANK",
+        "latitude": 10.77681,
+        "longitude": 106.69978,
+        "address": "SHINHAN BANK, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Wells Fargo Bank",
+        "latitude": 10.77866,
+        "longitude": 106.69987,
+        "address": "Wells Fargo Bank, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Trung Quốc - CN",
+        "latitude": 10.77455,
+        "longitude": 106.70345,
+        "address": "Ngân Hàng Trung Quốc - CN, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Nhà Làm Lucky",
+        "latitude": 10.78058,
+        "longitude": 106.70369,
+        "address": "Trà Sữa Nhà Làm Lucky, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Bidv",
+        "latitude": 10.77464,
+        "longitude": 106.70401,
+        "address": "Bidv, 88 Hẻm 71 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 71 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Vietinbank",
+        "latitude": 10.77729,
+        "longitude": 106.69957,
+        "address": "Vietinbank, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TMCP Đầu Tư Và Phát Triển Việt Nam",
+        "latitude": 10.77461,
+        "longitude": 106.70405,
+        "address": "Ngân Hàng TMCP Đầu Tư Và Phát Triển Việt Nam, Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Món Huế",
+        "latitude": 10.78028,
+        "longitude": 106.70465,
+        "address": "Món Huế, 11 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            }
+        ]
+    },
+    {
+        "name": "Hội An",
+        "latitude": 10.78028,
+        "longitude": 106.70465,
+        "address": "Hội An, 11 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            }
+        ]
+    },
+    {
+        "name": "Ng.H TM CP Quân Đội (MB)- PGD Bến Nghe Ng.H TM CP Q. Doi (MB)- PGD Ben Nghe",
+        "latitude": 10.77857,
+        "longitude": 106.69963,
+        "address": "Ng.H TM CP Quân Đội (MB)- PGD Bến Nghe Ng.H TM CP Q. Doi (MB)- PGD Ben Nghe, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Common Wealth",
+        "latitude": 10.77857,
+        "longitude": 106.69963,
+        "address": "Ngân Hàng Common Wealth, 65 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Bưu Điện Liên Việt",
+        "latitude": 10.7772,
+        "longitude": 106.69949,
+        "address": "Ngân Hàng Bưu Điện Liên Việt, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Hàng MK",
+        "latitude": 10.77876,
+        "longitude": 106.69968,
+        "address": "Nhà Hàng MK, 82 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Đầu Tư Và Phát Triển",
+        "latitude": 10.77448,
+        "longitude": 106.70411,
+        "address": "Ngân Hàng Đầu Tư Và Phát Triển, Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TMCP Sài Gòn",
+        "latitude": 10.77434,
+        "longitude": 106.70379,
+        "address": "Ngân Hàng TMCP Sài Gòn, 104 Hẻm 71 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 71 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Á Châu",
+        "latitude": 10.77756,
+        "longitude": 106.69936,
+        "address": "Ngân Hàng Á Châu, 168 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "BIDV",
+        "latitude": 10.78054,
+        "longitude": 106.70452,
+        "address": "BIDV, Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Ngoại Thương Việt Nam",
+        "latitude": 10.77564,
+        "longitude": 106.70569,
+        "address": "Ngân Hàng Ngoại Thương Việt Nam, CÔNG TRƯỜNG Mê Linh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "CÔNG TRƯỜNG Mê Linh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "NGH BIDV Sở Giao Dịch 2",
+        "latitude": 10.77413,
+        "longitude": 106.70326,
+        "address": "NGH BIDV Sở Giao Dịch 2, 117 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "National Bank Of Kuwait S.A.K.",
+        "latitude": 10.77413,
+        "longitude": 106.70326,
+        "address": "National Bank Of Kuwait S.A.K., 117 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Abn",
+        "latitude": 10.7774,
+        "longitude": 106.69925,
+        "address": "Abn, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Công Thương Việt Nam",
+        "latitude": 10.78067,
+        "longitude": 106.70465,
+        "address": "Ngân Hàng Công Thương Việt Nam, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TMCP Công Thương Việt Nam-Phòng Giao Dịch Lê Thánh Tôn",
+        "latitude": 10.78067,
+        "longitude": 106.70465,
+        "address": "Ngân Hàng TMCP Công Thương Việt Nam-Phòng Giao Dịch Lê Thánh Tôn, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "PGD Bến Nghé-NG. H Quân Đội",
+        "latitude": 10.77808,
+        "longitude": 106.6992,
+        "address": "PGD Bến Nghé-NG. H Quân Đội, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Việt Nam Thương Tín",
+        "latitude": 10.77634,
+        "longitude": 106.70624,
+        "address": "Ngân Hàng Việt Nam Thương Tín, 2 Hẻm 12 Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 12 Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Dịch vụ tài chính và bảo hiểm"
+            }
+        ]
+    },
+    {
+        "name": "India",
+        "latitude": 10.77634,
+        "longitude": 106.70624,
+        "address": "India, 2 Hẻm 12 Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 12 Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Vietbank",
+        "latitude": 10.77634,
+        "longitude": 106.70624,
+        "address": "Vietbank, 2 Hẻm 12 Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 12 Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Sài Gòn Thương Tín",
+        "latitude": 10.77517,
+        "longitude": 106.70006,
+        "address": "Ngân Hàng Sài Gòn Thương Tín, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "NGH Trung Quốc",
+        "latitude": 10.77397,
+        "longitude": 106.70317,
+        "address": "NGH Trung Quốc, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngh Malaysian Banking Berhad",
+        "latitude": 10.77397,
+        "longitude": 106.70317,
+        "address": "Ngh Malaysian Banking Berhad, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngh Citibank",
+        "latitude": 10.77397,
+        "longitude": 106.70317,
+        "address": "Ngh Citibank, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Mizuho Corporate Bank",
+        "latitude": 10.77395,
+        "longitude": 106.70351,
+        "address": "Mizuho Corporate Bank, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Vid Public Bank HCM-88 Nguyễn Du",
+        "latitude": 10.77837,
+        "longitude": 106.69911,
+        "address": "Vid Public Bank HCM-88 Nguyễn Du, 88 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Đông Nam Á",
+        "latitude": 10.77441,
+        "longitude": 106.70079,
+        "address": "Ngân Hàng Đông Nam Á, 28A Hẻm 36 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 36 Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            },
+            {
+                "name": "Dịch vụ tài chính và bảo hiểm"
+            }
+        ]
+    },
+    {
+        "name": "Maybank",
+        "latitude": 10.77388,
+        "longitude": 106.70338,
+        "address": "Maybank, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Quân Đội",
+        "latitude": 10.77791,
+        "longitude": 106.699,
+        "address": "Ngân Hàng Quân Đội, 67-73 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Máy rút tiền ATM"
+            },
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TNHH MTV Anz - PGD Quận 1",
+        "latitude": 10.7751,
+        "longitude": 106.70573,
+        "address": "Ngân Hàng TNHH MTV Anz - PGD Quận 1, 11 Đường Công Trường Mê Linh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Mê Linh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Citibank",
+        "latitude": 10.77384,
+        "longitude": 106.70363,
+        "address": "Ngân Hàng Citibank, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Deutsche Bank",
+        "latitude": 10.77408,
+        "longitude": 106.70123,
+        "address": "Deutsche Bank, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngh Seabank",
+        "latitude": 10.77434,
+        "longitude": 106.70073,
+        "address": "Ngh Seabank, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Transaigon",
+        "latitude": 10.77611,
+        "longitude": 106.70645,
+        "address": "Transaigon, Đường Công Trường Mê Linh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Mê Linh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng TM CP Quốc Tế Việt Nam (Vib) - CN TP. HCM",
+        "latitude": 10.7779,
+        "longitude": 106.69887,
+        "address": "Ngân Hàng TM CP Quốc Tế Việt Nam (Vib) - CN TP. HCM, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Sumitomo Mitsui Banking Corp. (Smbc) - Branch",
+        "latitude": 10.77442,
+        "longitude": 106.70511,
+        "address": "Sumitomo Mitsui Banking Corp. (Smbc) - Branch, Đường Hồ Huấn Nghiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Huấn Nghiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Citibank N.A - CN",
+        "latitude": 10.7737,
+        "longitude": 106.70318,
+        "address": "Ngân Hàng Citibank N.A - CN, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "Ngh Anz",
+        "latitude": 10.77487,
+        "longitude": 106.70571,
+        "address": "Ngh Anz, Đường Hồ Huấn Nghiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Huấn Nghiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Vphòng Đại Diện-NG. H Commerzbank",
+        "latitude": 10.77777,
+        "longitude": 106.70683,
+        "address": "Vphòng Đại Diện-NG. H Commerzbank, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "EximBank",
+        "latitude": 10.77777,
+        "longitude": 106.70683,
+        "address": "EximBank, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "MUFG",
+        "latitude": 10.77777,
+        "longitude": 106.70683,
+        "address": "MUFG, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Hàng Thương Mại Quốc Tế Mega",
+        "latitude": 10.77777,
+        "longitude": 106.70683,
+        "address": "Ngân Hàng Thương Mại Quốc Tế Mega, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Ngân hàng"
+            }
+        ]
+    }
+]

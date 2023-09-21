@@ -3,12 +3,24 @@ import uuid
 import shortuuid
 from django.conf import settings
 from django.db import models
-from django.utils.functional import cached_property
 from slugify import slugify
 from timezone_field import TimeZoneField
 
 from prismvio.location.models import Country, District, Province, Ward
 from prismvio.merchant.enums import MerchantCurrency
+
+
+class MerchantManager(models.Manager):
+    def get_with_related_data(self):
+        return self.prefetch_related(
+            "hashtags",
+            "keywords",
+        ).select_related(
+            "country",
+            "province",
+            "district",
+            "ward",
+        )
 
 
 class Merchant(models.Model):
@@ -37,7 +49,6 @@ class Merchant(models.Model):
     hashtags = models.ManyToManyField("menu_merchant.Hashtag", blank=True, related_name="merchants")
     categories = models.ManyToManyField("menu_merchant.Category", blank=True, related_name="merchants")
     keywords = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
-    keyword = models.ManyToManyField("menu_merchant.Keyword", blank=True, related_name="merchants")
     country = models.ForeignKey(
         Country,
         on_delete=models.CASCADE,
@@ -71,6 +82,8 @@ class Merchant(models.Model):
     created_at = models.DateTimeField(auto_now_add=True, null=True, blank=True)
     updated_at = models.DateTimeField(auto_now=True, null=True, blank=True)
 
+    objects = MerchantManager()
+
     def __str__(self):
         if self.name:
             return self.name
@@ -83,19 +96,18 @@ class Merchant(models.Model):
 
         super().save(*args, **kwargs)
 
-    @cached_property
     def normalizer_name(self):
         if self.name:
-            normalizer = slugify(
-                self.name.strip(), word_boundary=True, separator=" ", lowercase=True
-            )
+            normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)
             return normalizer
         return None
 
-    @cached_property
-    def geo(self):
+    def position(self):
         if self.latitude and self.longitude:
-            return self.latitude, self.longitude
+            return {
+                "lat": float(self.latitude),
+                "lon": float(self.longitude),
+            }
         return None
 
 

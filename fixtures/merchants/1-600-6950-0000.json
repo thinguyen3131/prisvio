@@ -1,0 +1,1802 @@
+[
+    {
+        "name": "Laneíge",
+        "latitude": 10.77773,
+        "longitude": 106.70233,
+        "address": "Laneíge, 35BIS Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Make Up Forever",
+        "latitude": 10.77773,
+        "longitude": 106.70233,
+        "address": "Cửa Hàng Make Up Forever, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng bán đồ gia dụng/Nội thất"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Aldo Vincom Đồng Khởi",
+        "latitude": 10.7779,
+        "longitude": 106.70233,
+        "address": "Aldo Vincom Đồng Khởi, 70 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Thợ kim hoàn"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Cửa hàng bán lẻ điện thoại di động"
+            },
+            {
+                "name": "Phụ kiện nội thất và gia đình"
+            },
+            {
+                "name": "Hiệu sách"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Dịch vụ khách hàng"
+            },
+            {
+                "name": "Dịch vụ sửa chữa"
+            }
+        ]
+    },
+    {
+        "name": "The Face Shop",
+        "latitude": 10.77759,
+        "longitude": 106.70217,
+        "address": "The Face Shop, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Bobbi Brown Cosmetics",
+        "latitude": 10.77828,
+        "longitude": 106.70299,
+        "address": "Bobbi Brown Cosmetics, 45 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng làm móng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Ngọc Anh",
+        "latitude": 10.77825,
+        "longitude": 106.70327,
+        "address": "Mỹ Phẩm Ngọc Anh, 74A Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Black Pearl Vietnam",
+        "latitude": 10.77809,
+        "longitude": 106.70214,
+        "address": "Black Pearl Vietnam, 72 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Matsumoto Kiyoshi マツキヨ",
+        "latitude": 10.77809,
+        "longitude": 106.70214,
+        "address": "Matsumoto Kiyoshi マツキヨ, 72 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Benefit San Francisco",
+        "latitude": 10.77726,
+        "longitude": 106.70199,
+        "address": "Benefit San Francisco, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Bourjois",
+        "latitude": 10.77726,
+        "longitude": 106.70199,
+        "address": "Bourjois, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mac",
+        "latitude": 10.77686,
+        "longitude": 106.70231,
+        "address": "Mac, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Fstudio",
+        "latitude": 10.7768,
+        "longitude": 106.70224,
+        "address": "Fstudio, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Shop Mỹ Phẩm The Face Shop - Đồng Khởi",
+        "latitude": 10.7765,
+        "longitude": 106.70258,
+        "address": "Shop Mỹ Phẩm The Face Shop - Đồng Khởi, 171 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Kyoto Hair-Salon-Spa",
+        "latitude": 10.7778,
+        "longitude": 106.70394,
+        "address": "Kyoto Hair-Salon-Spa, 28 Đường Cao Bá Quát, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Cao Bá Quát",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Siam Hair & Beauty Salon - Hai Bà Trưng",
+        "latitude": 10.77875,
+        "longitude": 106.70282,
+        "address": "Siam Hair & Beauty Salon - Hai Bà Trưng, 76C Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Skinfood Vincom A",
+        "latitude": 10.77875,
+        "longitude": 106.70321,
+        "address": "Skinfood Vincom A, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hair Salon Kim",
+        "latitude": 10.77888,
+        "longitude": 106.70302,
+        "address": "Hair Salon Kim, 52 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mix & Match",
+        "latitude": 10.77893,
+        "longitude": 106.70307,
+        "address": "Mix & Match, 56 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Thợ kim hoàn"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Tòa nhà chung cư"
+            }
+        ]
+    },
+    {
+        "name": "VINCOM",
+        "latitude": 10.7787,
+        "longitude": 106.70188,
+        "address": "VINCOM, 45 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Quần áo & Phụ kiện"
+            },
+            {
+                "name": "Quần áo nam"
+            },
+            {
+                "name": "Quần áo phụ nữ"
+            },
+            {
+                "name": "Quần áo trẻ em"
+            },
+            {
+                "name": "Thợ kim hoàn"
+            },
+            {
+                "name": "Cửa hàng đồ chơi"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Shiseido@Parkson Sg Tourist",
+        "latitude": 10.77827,
+        "longitude": 106.70147,
+        "address": "Shiseido@Parkson Sg Tourist, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Innisfree",
+        "latitude": 10.77867,
+        "longitude": 106.70171,
+        "address": "Innisfree, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Vamp Hair Line",
+        "latitude": 10.77736,
+        "longitude": 106.70444,
+        "address": "Vamp Hair Line, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Phi Loan",
+        "latitude": 10.77678,
+        "longitude": 106.70125,
+        "address": "Cửa Hàng Phi Loan, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Pizkie",
+        "latitude": 10.77596,
+        "longitude": 106.70209,
+        "address": "Pizkie, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Innisfree",
+        "latitude": 10.77591,
+        "longitude": 106.70211,
+        "address": "Innisfree, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Maybelline",
+        "latitude": 10.77576,
+        "longitude": 106.70324,
+        "address": "Maybelline, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hair Salon Tâm",
+        "latitude": 10.77966,
+        "longitude": 106.70258,
+        "address": "Hair Salon Tâm, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Q Spa Salon",
+        "latitude": 10.77976,
+        "longitude": 106.70267,
+        "address": "Cơ Sở Q Spa Salon, 31 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Cty Hoàng Thiên TNHH Thương Mại Dịch Vụ",
+        "latitude": 10.7768,
+        "longitude": 106.70495,
+        "address": "Cty Hoàng Thiên TNHH Thương Mại Dịch Vụ, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Beauty Salon Lâm Nhung",
+        "latitude": 10.77789,
+        "longitude": 106.70512,
+        "address": "Beauty Salon Lâm Nhung, 6B Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Yves Rocher",
+        "latitude": 10.77673,
+        "longitude": 106.70498,
+        "address": "Yves Rocher, 16-18 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Massage Yawara",
+        "latitude": 10.77716,
+        "longitude": 106.70512,
+        "address": "Massage Yawara, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thảo Nguyên Beauty Center",
+        "latitude": 10.77603,
+        "longitude": 106.70457,
+        "address": "Thảo Nguyên Beauty Center, 58 Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Estee Lauder Parkson Hung Vuong",
+        "latitude": 10.77959,
+        "longitude": 106.70402,
+        "address": "Estee Lauder Parkson Hung Vuong, Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Spa Kyoto",
+        "latitude": 10.77977,
+        "longitude": 106.70385,
+        "address": "Spa Kyoto, 32 Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng làm móng"
+            },
+            {
+                "name": "Thẩm mỹ viện nhuộm da"
+            }
+        ]
+    },
+    {
+        "name": "Botanical Cosmetic",
+        "latitude": 10.77652,
+        "longitude": 106.70504,
+        "address": "Botanical Cosmetic, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Apa Reyna",
+        "latitude": 10.77544,
+        "longitude": 106.70414,
+        "address": "Apa Reyna, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hair & Beauty Spa Salon Vy",
+        "latitude": 10.77672,
+        "longitude": 106.70521,
+        "address": "Hair & Beauty Spa Salon Vy, 30 Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Vichy",
+        "latitude": 10.77504,
+        "longitude": 106.70185,
+        "address": "Vichy, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Wuttisak Clinic",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "Wuttisak Clinic, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "The Body Shop",
+        "latitude": 10.7755,
+        "longitude": 106.7048,
+        "address": "The Body Shop, Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Sawadee Spa",
+        "latitude": 10.78007,
+        "longitude": 106.70436,
+        "address": "Sawadee Spa, Hẻm 17 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 17 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Baloma Spa",
+        "latitude": 10.77574,
+        "longitude": 106.70515,
+        "address": "Baloma Spa, 20 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Reyna Beauty Salon",
+        "latitude": 10.77497,
+        "longitude": 106.70134,
+        "address": "Reyna Beauty Salon, 16 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "CP Anh & Quân - Trung Tâm Giới Thiệu Mỹ Phẩm",
+        "latitude": 10.77489,
+        "longitude": 106.70431,
+        "address": "CP Anh & Quân - Trung Tâm Giới Thiệu Mỹ Phẩm, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Lá House",
+        "latitude": 10.77483,
+        "longitude": 106.70426,
+        "address": "Cửa Hàng Lá House, Hẻm 71 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 71 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Viện Thẩm Mỹ Thùy Linh",
+        "latitude": 10.78022,
+        "longitude": 106.7045,
+        "address": "Viện Thẩm Mỹ Thùy Linh, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Hoarient",
+        "latitude": 10.77458,
+        "longitude": 106.70401,
+        "address": "Hoarient, 90 Hẻm 71 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 71 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Roses Spa",
+        "latitude": 10.77472,
+        "longitude": 106.70447,
+        "address": "Roses Spa, 87 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Menard 69 Pasteur",
+        "latitude": 10.77501,
+        "longitude": 106.70064,
+        "address": "Menard 69 Pasteur, 69 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Unisex Shop Vinh",
+        "latitude": 10.78045,
+        "longitude": 106.70466,
+        "address": "Unisex Shop Vinh, 15B10 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "The Body Shop Việt Nam",
+        "latitude": 10.77439,
+        "longitude": 106.70403,
+        "address": "The Body Shop Việt Nam, 87 Hẻm 71 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 71 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "M.A.C Parkson",
+        "latitude": 10.77744,
+        "longitude": 106.69906,
+        "address": "M.A.C Parkson, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Cao Cấp Châu Âu Mika - VP Hỗ Trợ Marketing Group",
+        "latitude": 10.77783,
+        "longitude": 106.6988,
+        "address": "Mỹ Phẩm Cao Cấp Châu Âu Mika - VP Hỗ Trợ Marketing Group, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Beauty Salon Lan Anh",
+        "latitude": 10.77467,
+        "longitude": 106.70553,
+        "address": "Beauty Salon Lan Anh, 8 Hẻm 10 Đường Hồ Huấn Nghiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 10 Đường Hồ Huấn Nghiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Kim Hair Salon",
+        "latitude": 10.77487,
+        "longitude": 106.69979,
+        "address": "Cửa Hàng Kim Hair Salon, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Thẩm Mỹ Viện Quyền",
+        "latitude": 10.77422,
+        "longitude": 106.70053,
+        "address": "Thẩm Mỹ Viện Quyền, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Bác sĩ đa khoa"
+            }
+        ]
+    },
+    {
+        "name": "Sociolla",
+        "latitude": 10.77364,
+        "longitude": 106.70372,
+        "address": "Sociolla, 109-111 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Đá Nóng-Hot Stone",
+        "latitude": 10.77354,
+        "longitude": 106.7024,
+        "address": "Đá Nóng-Hot Stone, 38 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Belle Lab",
+        "latitude": 10.77354,
+        "longitude": 106.70389,
+        "address": "Cửa Hàng Belle Lab, 101 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "MTV Mỹ Phẩm Hoàn Cầu",
+        "latitude": 10.77766,
+        "longitude": 106.69848,
+        "address": "MTV Mỹ Phẩm Hoàn Cầu, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "An&Ân",
+        "latitude": 10.77449,
+        "longitude": 106.69967,
+        "address": "An&Ân, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Dior - Parkson Ltt",
+        "latitude": 10.78095,
+        "longitude": 106.69997,
+        "address": "Dior - Parkson Ltt, Đường Nguyễn Văn Bình, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Văn Bình",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thẩm Mỹ Viện Beauty Salon Á Âu-Ava",
+        "latitude": 10.77438,
+        "longitude": 106.69972,
+        "address": "Thẩm Mỹ Viện Beauty Salon Á Âu-Ava, 108 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng làm móng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            },
+            {
+                "name": "Bác sĩ đa khoa"
+            }
+        ]
+    },
+    {
+        "name": "The Salon Và Spa",
+        "latitude": 10.77332,
+        "longitude": 106.70161,
+        "address": "The Salon Và Spa, 64 Hẻm 42 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 42 Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Hùng Pasteur",
+        "latitude": 10.77842,
+        "longitude": 106.69831,
+        "address": "Hùng Pasteur, 182 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Shop Mỹ Phẩm Dermalogica",
+        "latitude": 10.77832,
+        "longitude": 106.69823,
+        "address": "Shop Mỹ Phẩm Dermalogica, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Label.M",
+        "latitude": 10.7733,
+        "longitude": 106.70114,
+        "address": "Label.M, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Skin Food",
+        "latitude": 10.77448,
+        "longitude": 106.70625,
+        "address": "Skin Food, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nails Và Beauty",
+        "latitude": 10.77314,
+        "longitude": 106.70163,
+        "address": "Nails Và Beauty, 118 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Săn Sóc Da Đặc Biệt Tili",
+        "latitude": 10.782,
+        "longitude": 106.70423,
+        "address": "Trung Tâm Săn Sóc Da Đặc Biệt Tili, Đường Chu Mạnh Trinh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Chu Mạnh Trinh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Hùng Pasteur Hair Salon",
+        "latitude": 10.77845,
+        "longitude": 106.69815,
+        "address": "Hùng Pasteur Hair Salon, 172 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Kim Hair Salon",
+        "latitude": 10.7818,
+        "longitude": 106.70488,
+        "address": "Kim Hair Salon, 2B Đường Chu Mạnh Trinh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Chu Mạnh Trinh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Thanh Bắc Đông Dương",
+        "latitude": 10.77376,
+        "longitude": 106.70002,
+        "address": "Thanh Bắc Đông Dương, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Velvet A",
+        "latitude": 10.77372,
+        "longitude": 106.70555,
+        "address": "Salon Velvet A, 35 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "T&D Nail Korea",
+        "latitude": 10.78176,
+        "longitude": 106.70507,
+        "address": "T&D Nail Korea, Đường Chu Mạnh Trinh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Chu Mạnh Trinh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng làm móng"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Ging Spa",
+        "latitude": 10.77295,
+        "longitude": 106.70171,
+        "address": "Ging Spa, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Flormar",
+        "latitude": 10.77328,
+        "longitude": 106.70057,
+        "address": "Mỹ Phẩm Flormar, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Loccitane-Takashimaya Store",
+        "latitude": 10.77331,
+        "longitude": 106.70036,
+        "address": "Loccitane-Takashimaya Store, 65 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quầy hàng đặc sản"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Valmont",
+        "latitude": 10.77322,
+        "longitude": 106.70045,
+        "address": "Valmont, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mai Barber Shop And Spa",
+        "latitude": 10.78163,
+        "longitude": 106.7057,
+        "address": "Mai Barber Shop And Spa, 9B Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng cắt tóc nam"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Kềm Bali",
+        "latitude": 10.77434,
+        "longitude": 106.69899,
+        "address": "Kềm Bali, Đường Nguyễn Trung Trực, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Trung Trực",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Girlboss The Beauty Room",
+        "latitude": 10.78169,
+        "longitude": 106.70566,
+        "address": "Girlboss The Beauty Room, 8-10 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng làm móng"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Tm Duy Anh",
+        "latitude": 10.78086,
+        "longitude": 106.69899,
+        "address": "Tm Duy Anh, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "MTV TMDV Mai Phan - Cửa Hàng Mỹ Phẩm K.A.O",
+        "latitude": 10.7814,
+        "longitude": 106.7061,
+        "address": "MTV TMDV Mai Phan - Cửa Hàng Mỹ Phẩm K.A.O, 28 Đường Ngô Văn Năm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Văn Năm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    }
+]

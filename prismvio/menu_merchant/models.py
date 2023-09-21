@@ -1,6 +1,5 @@
 from django.conf import settings
 from django.db import models
-from django.utils.functional import cached_property
 from slugify import slugify
 
 from prismvio.merchant.models import Merchant
@@ -15,12 +14,9 @@ class Keyword(models.Model):
     def __str__(self):
         return self.name
 
-    @cached_property
     def normalizer_name(self):
         if self.name:
-            normalizer = slugify(
-                self.name.strip(), word_boundary=True, separator=" ", lowercase=True
-            )
+            normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)
             return normalizer
         return None
 
@@ -33,12 +29,9 @@ class Hashtag(models.Model):
     def __str__(self):
         return self.name
 
-    @cached_property
     def normalizer_name(self):
         if self.name:
-            normalizer = slugify(
-                self.name.strip(), word_boundary=True, separator=" ", lowercase=True
-            )
+            normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)
             return normalizer
         return None
 

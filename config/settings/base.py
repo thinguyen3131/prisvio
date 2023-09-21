@@ -81,7 +81,6 @@ THIRD_PARTY_APPS = [
     "drf_spectacular",
     "rest_framework_simplejwt",
     "rest_framework_simplejwt.token_blacklist",
-    "django_elasticsearch_dsl",  # new
 ]
 
 LOCAL_APPS = [
@@ -370,7 +369,7 @@ LOGURU_FORMAT = (
 DRF_EXCEPTION_USER_SETTINGS: dict = getattr(settings, "DRF_EXCEPTION", None)
 
 DRF_EXCEPTION_DEFAULTS: dict = {
-    "EXCEPTION_REPORTING": "riverflow.core.drf_exception.handler.exception_reporter",
+    "EXCEPTION_REPORTING": "prismvio.core.drf_exception.handler.exception_reporter",
     "ENABLE_IN_DEBUG": False,
     "NESTED_KEY_SEPARATOR": "__",
     "SUPPORT_MULTIPLE_EXCEPTIONS": True,
@@ -400,6 +399,12 @@ ELASTICSEARCH_DSL = {
 if ELASTICSEARCH_USERNAME and ELASTICSEARCH_PASSWORD:
     ELASTICSEARCH_DSL["default"]["basic_auth"] = ELASTICSEARCH_USERNAME, ELASTICSEARCH_PASSWORD
 
+ELASTICSEARCH_DSL_AUTOSYNC = env.bool("ELASTICSEARCH_DSL_AUTOSYNC", default=True)
+ELASTICSEARCH_DSL_AUTO_REFRESH = env.bool("ELASTICSEARCH_DSL_AUTO_REFRESH", default=True)
+ELASTICSEARCH_DSL_INDEX_SETTINGS = env.dict("ELASTICSEARCH_DSL_INDEX_SETTINGS", default={})
+
+DEFAULT_LATITUDE = env.float("DEFAULT_LATITUDE", default=10.777576)
+DEFAULT_LONGITUDE = env.float("DEFAULT_LONGITUDE", default=106.702808)
 
 DEFAULT_COUNTRY_CODE = env("DEFAULT_COUNTRY_CODE", default="VN")
 DEFAULT_COUNTRY_PHONE = env("DEFAULT_COUNTRY_PHONE", default="+84")

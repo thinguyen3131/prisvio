@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Nam Phong Cafe Colette",
+        "latitude": 10.76794,
+        "longitude": 106.69483,
+        "address": "Nam Phong Cafe Colette, 36 Đường Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Đường Bùi Viện",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            }
+        ]
+    },
+    {
+        "name": "For Fun Shop",
+        "latitude": 10.78219,
+        "longitude": 106.67943,
+        "address": "For Fun Shop, Đường Trần Văn Đang, Phường 9, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 9",
+        "street": "Đường Trần Văn Đang",
+        "postal_code": "72414",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Sách Cũ Tràn Huy Liệu",
+        "latitude": 10.79789,
+        "longitude": 106.6777,
+        "address": "Tiệm Sách Cũ Tràn Huy Liệu, Đường Trần Huy Liệu, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Phú Nhuận",
+        "ward": "Phường 15",
+        "street": "Đường Trần Huy Liệu",
+        "postal_code": "72209",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            }
+        ]
+    },
+    {
+        "name": "Mcd Center",
+        "latitude": 10.78465,
+        "longitude": 106.67088,
+        "address": "Mcd Center, Đường Trần Văn Đang, Phường 11, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 11",
+        "street": "Đường Trần Văn Đang",
+        "postal_code": "72411",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            }
+        ]
+    },
+    {
+        "name": "Fahasa Lotte Mart",
+        "latitude": 10.71896,
+        "longitude": 106.70239,
+        "address": "Fahasa Lotte Mart, Đường Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Nhà Bè",
+        "ward": "Xã Phước Kiển",
+        "street": "Đường Nguyễn Hữu Thọ",
+        "postal_code": "73207",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            }
+        ]
+    },
+    {
+        "name": "Rioshop Mỹ Phẩm Đặc Trị Mụn Dưỡng Da",
+        "latitude": 10.72956,
+        "longitude": 106.63905,
+        "address": "Rioshop Mỹ Phẩm Đặc Trị Mụn Dưỡng Da, Đường Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 8",
+        "ward": "Phường 7",
+        "street": "Đường Phạm Thế Hiển",
+        "postal_code": "73015",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Shop Hương",
+        "latitude": 10.80622,
+        "longitude": 106.62195,
+        "address": "Shop Hương, 37 Đường Bờ Bao Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Sơn Kỳ",
+        "street": "Đường Bờ Bao Tân Thắng",
+        "postal_code": "72010",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            }
+        ]
+    },
+    {
+        "name": "Kho Phương Thuỷ",
+        "latitude": 10.87884,
+        "longitude": 106.64267,
+        "address": "Kho Phương Thuỷ, Đường Hiệp Thành 17, Phường Hiệp Thành, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Hiệp Thành",
+        "street": "Đường Hiệp Thành 17",
+        "postal_code": "71512",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Long Hải",
+        "latitude": 10.54577,
+        "longitude": 108.94359,
+        "address": "Chợ Long Hải, Đường Công Chúa Bàn Tranh, Xã Long Hải, Huyện Phú Quý, Bình Thuận, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Thuận",
+        "district": "Huyện Phú Quý",
+        "ward": "Xã Long Hải",
+        "street": "Đường Công Chúa Bàn Tranh",
+        "postal_code": "77807",
+        "categories": [
+            {
+                "name": "Cửa hàng sách khác"
+            }
+        ]
+    }
+]

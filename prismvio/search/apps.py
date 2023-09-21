@@ -1,11 +1,10 @@
 import elastic_transport
 from django.apps import AppConfig
 from django.conf import settings
-from django.utils.module_loading import autodiscover_modules
+from django.utils.module_loading import autodiscover_modules, import_string
 from elasticsearch import AuthenticationException
 from elasticsearch_dsl.connections import connections
 from loguru import logger
-from django.utils.module_loading import import_string
 
 
 class SearchConfig(AppConfig):
@@ -25,13 +24,11 @@ class SearchConfig(AppConfig):
             if settings.DEBUG:
                 raise err
 
-        autodiscover_modules('documents')
+        autodiscover_modules("documents")
 
         if not self.signal_processor:
             signal_processor_path = getattr(
-                settings,
-                'ELASTICSEARCH_DSL_SIGNAL_PROCESSOR',
-                'prismvio.core.dsl.signals.RealTimeSignalProcessor'
+                settings, "ELASTICSEARCH_DSL_SIGNAL_PROCESSOR", "prismvio.core.dsl.signals.RealTimeSignalProcessor"
             )
             signal_processor_class = import_string(signal_processor_path)
             self.signal_processor = signal_processor_class(connections)

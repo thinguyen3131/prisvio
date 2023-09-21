@@ -1,0 +1,2036 @@
+[
+    {
+        "name": "Siêu Thị Citimart",
+        "latitude": 10.7779,
+        "longitude": 106.70237,
+        "address": "Siêu Thị Citimart, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            }
+        ]
+    },
+    {
+        "name": "Aeon Citimart",
+        "latitude": 10.77759,
+        "longitude": 106.70217,
+        "address": "Aeon Citimart, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Vineco",
+        "latitude": 10.77809,
+        "longitude": 106.70214,
+        "address": "Vineco, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Sạp Gourmet",
+        "latitude": 10.77809,
+        "longitude": 106.70214,
+        "address": "Sạp Gourmet, 72 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Tiếp Thị Gia Đình Foods",
+        "latitude": 10.7768,
+        "longitude": 106.70224,
+        "address": "Siêu Thị Tiếp Thị Gia Đình Foods, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Tipsy",
+        "latitude": 10.77875,
+        "longitude": 106.70321,
+        "address": "Tipsy, 31A Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Rượu bia"
+            }
+        ]
+    },
+    {
+        "name": "Thuận Thành",
+        "latitude": 10.77884,
+        "longitude": 106.70272,
+        "address": "Thuận Thành, 76/1 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Rượu bia"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Bamizon - Hai Bà Trưng",
+        "latitude": 10.77733,
+        "longitude": 106.70415,
+        "address": "Bánh Mì Bamizon - Hai Bà Trưng, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tm Vo Vo Vo",
+        "latitude": 10.77871,
+        "longitude": 106.70413,
+        "address": "Tm Vo Vo Vo, Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Tmdv Linh An",
+        "latitude": 10.77916,
+        "longitude": 106.70363,
+        "address": "Tmdv Linh An, 15C7 Hẻm 15C Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15C Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Rượu bia"
+            }
+        ]
+    },
+    {
+        "name": "Boniva",
+        "latitude": 10.77573,
+        "longitude": 106.70211,
+        "address": "Boniva, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Pepsico Interational-Vietnam Company Pepsico Interational-Vietnam Company",
+        "latitude": 10.77558,
+        "longitude": 106.70371,
+        "address": "Pepsico Interational-Vietnam Company Pepsico Interational-Vietnam Company, 88 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng An Nam Gourmet",
+        "latitude": 10.77673,
+        "longitude": 106.70498,
+        "address": "Cửa Hàng An Nam Gourmet, 16-18 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cửa hàng món ngon"
+            },
+            {
+                "name": "Quán ăn nhanh"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Phòng trà"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "Tạp Hóa Tấn Nghiệp",
+        "latitude": 10.77931,
+        "longitude": 106.70451,
+        "address": "Tạp Hóa Tấn Nghiệp, HẺM 17 Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "HẺM 17 Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Hàng Con Heo Vàng",
+        "latitude": 10.77667,
+        "longitude": 106.70517,
+        "address": "Nhà Hàng Con Heo Vàng, 32 Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Vine Cellar",
+        "latitude": 10.7764,
+        "longitude": 106.70516,
+        "address": "Vine Cellar, 41 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Đa Kai",
+        "latitude": 10.77695,
+        "longitude": 106.70545,
+        "address": "Đa Kai, 20 Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Rượu bia"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Mtv Tm Sabeco",
+        "latitude": 10.77705,
+        "longitude": 106.70554,
+        "address": "Mtv Tm Sabeco, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Rượu bia"
+            }
+        ]
+    },
+    {
+        "name": "Tổng Bia Rượu Nước Giải Khát Sài Gòn",
+        "latitude": 10.77638,
+        "longitude": 106.7054,
+        "address": "Tổng Bia Rượu Nước Giải Khát Sài Gòn, 6 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Máy rút tiền ATM"
+            }
+        ]
+    },
+    {
+        "name": "E-Mart Việt Nam",
+        "latitude": 10.7804,
+        "longitude": 106.70314,
+        "address": "E-Mart Việt Nam, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Wrigley Asia",
+        "latitude": 10.77866,
+        "longitude": 106.69988,
+        "address": "Wrigley Asia, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Taloca Ag",
+        "latitude": 10.77866,
+        "longitude": 106.69988,
+        "address": "Taloca Ag, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Bao Bì Thành Công",
+        "latitude": 10.7802,
+        "longitude": 106.70111,
+        "address": "Bao Bì Thành Công, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Robertet Co., Ltd",
+        "latitude": 10.77857,
+        "longitude": 106.69963,
+        "address": "Robertet Co., Ltd, 65 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Nova Market-65 Nguyen",
+        "latitude": 10.77857,
+        "longitude": 106.69963,
+        "address": "Nova Market-65 Nguyen, 65 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Bán & Giới Thiệu Sản Phẩm Bia Sài Gòn",
+        "latitude": 10.77602,
+        "longitude": 106.70581,
+        "address": "Cửa Hàng Bán & Giới Thiệu Sản Phẩm Bia Sài Gòn, 4 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Rượu bia"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Food Com",
+        "latitude": 10.78034,
+        "longitude": 106.70473,
+        "address": "Food Com, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Foodscom",
+        "latitude": 10.78048,
+        "longitude": 106.70469,
+        "address": "Foodscom, 15B9 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Akuruhi Supermarket-17",
+        "latitude": 10.78053,
+        "longitude": 106.70473,
+        "address": "Akuruhi Supermarket-17, 15B7 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Á Châu",
+        "latitude": 10.7758,
+        "longitude": 106.70589,
+        "address": "Á Châu, 3 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Aeon Citimart Landcaster",
+        "latitude": 10.78067,
+        "longitude": 106.70465,
+        "address": "Siêu Thị Aeon Citimart Landcaster, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Việt",
+        "latitude": 10.77634,
+        "longitude": 106.70624,
+        "address": "Việt, 2 Hẻm 12 Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 12 Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Interkom Asia",
+        "latitude": 10.77634,
+        "longitude": 106.70624,
+        "address": "Interkom Asia, 2 Hẻm 12 Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 12 Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Coop Food - Cửa Hàng Tiện Lợi, An Toàn",
+        "latitude": 10.77753,
+        "longitude": 106.699,
+        "address": "Coop Food - Cửa Hàng Tiện Lợi, An Toàn, 95 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quầy hàng đặc sản"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "S.MART",
+        "latitude": 10.77438,
+        "longitude": 106.7048,
+        "address": "S.MART, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Satra",
+        "latitude": 10.77432,
+        "longitude": 106.70478,
+        "address": "Siêu Thị Satra, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Thực Phẩm An Toàn Tiện Lợi",
+        "latitude": 10.77761,
+        "longitude": 106.69887,
+        "address": "Cửa Hàng Thực Phẩm An Toàn Tiện Lợi, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thương Mại Lucky Plaza",
+        "latitude": 10.77386,
+        "longitude": 106.70422,
+        "address": "Trung Tâm Thương Mại Lucky Plaza, 38 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quà tặng, đồ cổ và tác phẩm nghệ thuật"
+            }
+        ]
+    },
+    {
+        "name": "Tokyo Shop",
+        "latitude": 10.7809,
+        "longitude": 106.70506,
+        "address": "Tokyo Shop, 15A8 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Tax",
+        "latitude": 10.77422,
+        "longitude": 106.70515,
+        "address": "Siêu Thị Tax, 69 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quầy hàng đặc sản"
+            }
+        ]
+    },
+    {
+        "name": "Akuruhi Supermarket-Tt",
+        "latitude": 10.77331,
+        "longitude": 106.70215,
+        "address": "Akuruhi Supermarket-Tt, 21 Hẻm 42 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 42 Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Bánh Kẹo Sạp 17",
+        "latitude": 10.77328,
+        "longitude": 106.70238,
+        "address": "Cửa Hàng Bánh Kẹo Sạp 17, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Máy Bia Việt Nam",
+        "latitude": 10.77454,
+        "longitude": 106.70607,
+        "address": "Nhà Máy Bia Việt Nam, Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "International Nutrition",
+        "latitude": 10.77454,
+        "longitude": 106.70607,
+        "address": "International Nutrition, Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Naturellement Chocolat",
+        "latitude": 10.77325,
+        "longitude": 106.70178,
+        "address": "Naturellement Chocolat, 45 Hẻm 42 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 42 Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Kumho Asiana Plaza",
+        "latitude": 10.7811,
+        "longitude": 106.70003,
+        "address": "Kumho Asiana Plaza, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Maximark Saigon Center",
+        "latitude": 10.77365,
+        "longitude": 106.70064,
+        "address": "Siêu Thị Maximark Saigon Center, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Cty Taisho Việt Nam TNHH",
+        "latitude": 10.77959,
+        "longitude": 106.70702,
+        "address": "Cty Taisho Việt Nam TNHH, 3A Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Xây dựng"
+            }
+        ]
+    },
+    {
+        "name": "Cty TNHH Đại Tân Việt",
+        "latitude": 10.77293,
+        "longitude": 106.70253,
+        "address": "Cty TNHH Đại Tân Việt, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Maje Sg Centre",
+        "latitude": 10.77331,
+        "longitude": 106.70036,
+        "address": "Maje Sg Centre, 65 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Thợ kim hoàn"
+            }
+        ]
+    },
+    {
+        "name": "Lp Foods",
+        "latitude": 10.77347,
+        "longitude": 106.70559,
+        "address": "Lp Foods, Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Citimart Sài Gòn",
+        "latitude": 10.78172,
+        "longitude": 106.69999,
+        "address": "Siêu Thị Citimart Sài Gòn, 39 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Akuruhi Supermarket",
+        "latitude": 10.78177,
+        "longitude": 106.70573,
+        "address": "Akuruhi Supermarket, 5 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Vinamilk",
+        "latitude": 10.77319,
+        "longitude": 106.70544,
+        "address": "Vinamilk, Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Akuruhi",
+        "latitude": 10.77397,
+        "longitude": 106.69902,
+        "address": "Siêu Thị Akuruhi, Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quầy hàng đặc sản"
+            }
+        ]
+    },
+    {
+        "name": "Sạp Gourmet Market",
+        "latitude": 10.78207,
+        "longitude": 106.70016,
+        "address": "Sạp Gourmet Market, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Rượu bia"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Ngọc Anh",
+        "latitude": 10.77238,
+        "longitude": 106.70289,
+        "address": "Ngọc Anh, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            }
+        ]
+    },
+    {
+        "name": "Fides",
+        "latitude": 10.78064,
+        "longitude": 106.69847,
+        "address": "Fides, 34 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "K Market",
+        "latitude": 10.78064,
+        "longitude": 106.69847,
+        "address": "K Market, 34 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "K Market",
+        "latitude": 10.78064,
+        "longitude": 106.69847,
+        "address": "K Market, 34 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            }
+        ]
+    },
+    {
+        "name": "Phượng Thư",
+        "latitude": 10.77394,
+        "longitude": 106.69896,
+        "address": "Phượng Thư, Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Hải Lý",
+        "latitude": 10.7724,
+        "longitude": 106.70377,
+        "address": "Hải Lý, 70 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Thực Phẩm Vissan",
+        "latitude": 10.77231,
+        "longitude": 106.70278,
+        "address": "Cửa Hàng Thực Phẩm Vissan, 121 Hẻm 126 Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 126 Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Japanese Tea Fukujuen",
+        "latitude": 10.77286,
+        "longitude": 106.70038,
+        "address": "Cửa Hàng Japanese Tea Fukujuen, 92 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            }
+        ]
+    },
+    {
+        "name": "Quán Khánh 2 - Nước & Đồ Ăn - 92 Nam Kỳ Khởi Nghĩa",
+        "latitude": 10.77286,
+        "longitude": 106.70038,
+        "address": "Quán Khánh 2 - Nước & Đồ Ăn - 92 Nam Kỳ Khởi Nghĩa, 92 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Khu Chợ Tôn Thất Đạm",
+        "latitude": 10.77228,
+        "longitude": 106.70279,
+        "address": "Khu Chợ Tôn Thất Đạm, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Satrafoods 74 Lê Lợi",
+        "latitude": 10.77317,
+        "longitude": 106.69967,
+        "address": "Satrafoods 74 Lê Lợi, 74 Hẻm 88 Lê Lợi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 88 Lê Lợi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Nippon Con Heo Vàng",
+        "latitude": 10.77238,
+        "longitude": 106.70439,
+        "address": "Nippon Con Heo Vàng, 64 Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Food & Wine",
+        "latitude": 10.77458,
+        "longitude": 106.69783,
+        "address": "Food & Wine, 74 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Giò Chả Minh Châu",
+        "latitude": 10.77454,
+        "longitude": 106.6978,
+        "address": "Giò Chả Minh Châu, 76 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Shop Thiên Thành",
+        "latitude": 10.77187,
+        "longitude": 106.70379,
+        "address": "Shop Thiên Thành, 63 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Rượu bia"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Atlantic (Usa) Inc",
+        "latitude": 10.77235,
+        "longitude": 106.70579,
+        "address": "Atlantic (Usa) Inc, 8 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Toromart",
+        "latitude": 10.77182,
+        "longitude": 106.70466,
+        "address": "Toromart, 2 Đường Hải Triều, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hải Triều",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Tín",
+        "latitude": 10.78326,
+        "longitude": 106.70493,
+        "address": "Mỹ Tín, 29 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Maxxium Singapore Fine Wines & Spirits - Rep. Office",
+        "latitude": 10.78326,
+        "longitude": 106.70493,
+        "address": "Trung Tâm Maxxium Singapore Fine Wines & Spirits - Rep. Office, 29 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Nippon Suisan (Singapore)",
+        "latitude": 10.77244,
+        "longitude": 106.69956,
+        "address": "Nippon Suisan (Singapore), 123 Đường Lê Lợi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Mua Ô Tô Lãi Suất Thấp",
+        "latitude": 10.78385,
+        "longitude": 106.70226,
+        "address": "Mua Ô Tô Lãi Suất Thấp, 17 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Sửa chữa hoặc bảo dưỡng ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Mua Bán Trái Cây Tươi Hương Say",
+        "latitude": 10.77336,
+        "longitude": 106.6979,
+        "address": "Cửa Hàng Mua Bán Trái Cây Tươi Hương Say, 146 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Quê Hương",
+        "latitude": 10.77116,
+        "longitude": 106.70338,
+        "address": "Quê Hương, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Yến Sào Thiên Hoàng",
+        "latitude": 10.77112,
+        "longitude": 106.70282,
+        "address": "Yến Sào Thiên Hoàng, 108 Hẻm 110 Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 110 Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Minh Huy",
+        "latitude": 10.77113,
+        "longitude": 106.70342,
+        "address": "Minh Huy, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Kem Ngon Kpcream Chợ Bến Thành",
+        "latitude": 10.77272,
+        "longitude": 106.69845,
+        "address": "Kem Ngon Kpcream Chợ Bến Thành, Đường Phan Bội Châu, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Phan Bội Châu",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Thực Phẩm Cao Cấp Phương Hà",
+        "latitude": 10.77108,
+        "longitude": 106.70379,
+        "address": "Cửa Hàng Thực Phẩm Cao Cấp Phương Hà, 58 Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Quà tặng, đồ cổ và tác phẩm nghệ thuật"
+            }
+        ]
+    },
+    {
+        "name": "CỬA BẮC CHỢ BẾN THÀNH",
+        "latitude": 10.77308,
+        "longitude": 106.69765,
+        "address": "CỬA BẮC CHỢ BẾN THÀNH, Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Tổng Thủy Sản Hạ Long - CN",
+        "latitude": 10.77103,
+        "longitude": 106.70486,
+        "address": "Tổng Thủy Sản Hạ Long - CN, 30 Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Hoàng Lan",
+        "latitude": 10.77391,
+        "longitude": 106.69687,
+        "address": "Hoàng Lan, 120 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Nippon Meat Packers Singapore Pte Ltd - Rep. Office",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Nippon Meat Packers Singapore Pte Ltd - Rep. Office, 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "New Zealand Milk (Singapore)",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "New Zealand Milk (Singapore), 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Kawasho Foods (Thailand) Co. - Rep. Office",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Kawasho Foods (Thailand) Co. - Rep. Office, 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Orion Vina",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Orion Vina, 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Chi Cục Công Nghệ Tin Học Ngân Hàng",
+        "latitude": 10.77068,
+        "longitude": 106.7036,
+        "address": "Chi Cục Công Nghệ Tin Học Ngân Hàng, 77B Đường Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Dịch vụ CNTT & thiết bị văn phòng"
+            }
+        ]
+    },
+    {
+        "name": "Shop Toàn Linh",
+        "latitude": 10.77329,
+        "longitude": 106.69717,
+        "address": "Shop Toàn Linh, 2 Hẻm 6 Đường Thủ Khoa Huân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 6 Đường Thủ Khoa Huân",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Phòng trà"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Ban Chỉ Huy Hiệp Hội Trái Cây Việt Nam",
+        "latitude": 10.77067,
+        "longitude": 106.70415,
+        "address": "Ban Chỉ Huy Hiệp Hội Trái Cây Việt Nam, 55 Đường Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            }
+        ]
+    },
+    {
+        "name": "FoocoMart",
+        "latitude": 10.77052,
+        "longitude": 106.70372,
+        "address": "FoocoMart, Đường Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Farmers Market",
+        "latitude": 10.78309,
+        "longitude": 106.69818,
+        "address": "Farmers Market, Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Weider",
+        "latitude": 10.77096,
+        "longitude": 106.69991,
+        "address": "Weider, 151 Đường Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "BRG Mart Hương Vị Cuộc Sống",
+        "latitude": 10.77054,
+        "longitude": 106.70486,
+        "address": "BRG Mart Hương Vị Cuộc Sống, 31-33 Đường Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Aeon Citimart",
+        "latitude": 10.78435,
+        "longitude": 106.6999,
+        "address": "Siêu Thị Aeon Citimart, 11 Đường Mạc Đĩnh Chi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Đĩnh Chi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Thực Phẩm Công Nghệ Số 2",
+        "latitude": 10.77234,
+        "longitude": 106.69741,
+        "address": "Cửa Hàng Thực Phẩm Công Nghệ Số 2, 27 Đường Phan Chu Trinh, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Phan Chu Trinh",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            }
+        ]
+    }
+]

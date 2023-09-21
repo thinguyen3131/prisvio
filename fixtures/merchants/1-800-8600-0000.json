@@ -1,0 +1,1988 @@
+[
+    {
+        "name": "Trung Tâm TDTT Cao Cấp Elite",
+        "latitude": 10.77779,
+        "longitude": 106.70229,
+        "address": "Trung Tâm TDTT Cao Cấp Elite, Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng My Spa",
+        "latitude": 10.77893,
+        "longitude": 106.70387,
+        "address": "Cửa Hàng My Spa, 15C4 Hẻm 15C Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15C Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng làm móng"
+            }
+        ]
+    },
+    {
+        "name": "Royal Spa-Foot Care",
+        "latitude": 10.77873,
+        "longitude": 106.70422,
+        "address": "Royal Spa-Foot Care, Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Billiard Coffee Beer Bamboo",
+        "latitude": 10.77907,
+        "longitude": 106.70394,
+        "address": "Billiard Coffee Beer Bamboo, Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Massage Ngọc Hương",
+        "latitude": 10.77694,
+        "longitude": 106.70472,
+        "address": "Massage Ngọc Hương, 30 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Q Spa Salon",
+        "latitude": 10.77976,
+        "longitude": 106.70267,
+        "address": "Cơ Sở Q Spa Salon, 31 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Massage Sài Gòn Pho",
+        "latitude": 10.778,
+        "longitude": 106.705,
+        "address": "Massage Sài Gòn Pho, 6 Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sheraton Fitness",
+        "latitude": 10.77552,
+        "longitude": 106.70383,
+        "address": "Sheraton Fitness, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Armani Spa-Salon",
+        "latitude": 10.7763,
+        "longitude": 106.70481,
+        "address": "Armani Spa-Salon, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Pole Cats Dance",
+        "latitude": 10.7772,
+        "longitude": 106.70023,
+        "address": "Pole Cats Dance, 42 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Royal Foot Massage",
+        "latitude": 10.77558,
+        "longitude": 106.70493,
+        "address": "Royal Foot Massage, 36 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Helo Spa",
+        "latitude": 10.77547,
+        "longitude": 106.70491,
+        "address": "Helo Spa, Hẻm 39 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 39 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Foot Massage & Body Massage",
+        "latitude": 10.77492,
+        "longitude": 106.70428,
+        "address": "Foot Massage & Body Massage, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "TT Thể Dục Thể Thao Rạch Chiếc",
+        "latitude": 10.77526,
+        "longitude": 106.70526,
+        "address": "TT Thể Dục Thể Thao Rạch Chiếc, Đường Phan Văn Đạt, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Phan Văn Đạt",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Foot Massage Yuan",
+        "latitude": 10.78037,
+        "longitude": 106.70476,
+        "address": "Foot Massage Yuan, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Spa Enjoy",
+        "latitude": 10.78051,
+        "longitude": 106.70487,
+        "address": "Spa Enjoy, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Gym Văn Võ",
+        "latitude": 10.78063,
+        "longitude": 106.70472,
+        "address": "Gym Văn Võ, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            },
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Hồ Bơi Tòa Nhà Landmark",
+        "latitude": 10.77777,
+        "longitude": 106.70683,
+        "address": "Hồ Bơi Tòa Nhà Landmark, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Hồ Bơi Tòa Nhà Landmark",
+        "latitude": 10.77777,
+        "longitude": 106.70683,
+        "address": "Hồ Bơi Tòa Nhà Landmark, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Rona Massage",
+        "latitude": 10.77362,
+        "longitude": 106.70361,
+        "address": "Rona Massage, 1 Đường Huỳnh Thúc Kháng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Huỳnh Thúc Kháng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Hồ Bơi Bến Thành",
+        "latitude": 10.7738,
+        "longitude": 106.70428,
+        "address": "Hồ Bơi Bến Thành, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sedonia Town Center",
+        "latitude": 10.7741,
+        "longitude": 106.7006,
+        "address": "Sedonia Town Center, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "DNTN Kiện Chi Gia-Professional Foot Massage",
+        "latitude": 10.7735,
+        "longitude": 106.70223,
+        "address": "DNTN Kiện Chi Gia-Professional Foot Massage, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Legend Massage Center",
+        "latitude": 10.77869,
+        "longitude": 106.70694,
+        "address": "Legend Massage Center, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Clb Bida 140",
+        "latitude": 10.77766,
+        "longitude": 106.69848,
+        "address": "Clb Bida 140, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Fitness Center",
+        "latitude": 10.77474,
+        "longitude": 106.70614,
+        "address": "Fitness Center, Đường Công Trường Mê Linh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Mê Linh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Quần Vợt 3A",
+        "latitude": 10.77959,
+        "longitude": 106.70702,
+        "address": "Câu Lạc Bộ Quần Vợt 3A, 3A Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Thiết kế nội & ngoại thất"
+            }
+        ]
+    },
+    {
+        "name": "Hồ Bơi Đồng Khởi",
+        "latitude": 10.77385,
+        "longitude": 106.70563,
+        "address": "Hồ Bơi Đồng Khởi, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Công viên/Khu vui chơi"
+            }
+        ]
+    },
+    {
+        "name": "Foot & Spa Miumiu",
+        "latitude": 10.78181,
+        "longitude": 106.70485,
+        "address": "Foot & Spa Miumiu, 4 Đường Chu Mạnh Trinh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Chu Mạnh Trinh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Riverside Spa",
+        "latitude": 10.7741,
+        "longitude": 106.70645,
+        "address": "Riverside Spa, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Hồ Bơi",
+        "latitude": 10.77905,
+        "longitude": 106.6977,
+        "address": "Hồ Bơi, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Anantara Spa",
+        "latitude": 10.77315,
+        "longitude": 106.69965,
+        "address": "Anantara Spa, 76 Hẻm 88 Lê Lợi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 88 Lê Lợi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Lớp Yoga",
+        "latitude": 10.77762,
+        "longitude": 106.69724,
+        "address": "Lớp Yoga, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Massage Triệu Minh",
+        "latitude": 10.77239,
+        "longitude": 106.70049,
+        "address": "Massage Triệu Minh, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Viện Sen Spa",
+        "latitude": 10.78295,
+        "longitude": 106.70476,
+        "address": "Mỹ Viện Sen Spa, 21 Đường Nguyễn Trung Ngạn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Trung Ngạn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Spa Oa Sis",
+        "latitude": 10.77163,
+        "longitude": 106.7031,
+        "address": "Spa Oa Sis, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Spa & Yoga Beyou",
+        "latitude": 10.77307,
+        "longitude": 106.69837,
+        "address": "Trung Tâm Spa & Yoga Beyou, Đường Phan Bội Châu, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Phan Bội Châu",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Trượt Băng Nghệ Thuật",
+        "latitude": 10.78133,
+        "longitude": 106.69709,
+        "address": "Câu Lạc Bộ Trượt Băng Nghệ Thuật, Đường Phạm Ngọc Thạch, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Phạm Ngọc Thạch",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Dáng Ngọc Spa",
+        "latitude": 10.77442,
+        "longitude": 106.69673,
+        "address": "Dáng Ngọc Spa, 46 Hẻm 65 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 65 Thủ Khoa Huân",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Royal Club Massage",
+        "latitude": 10.77462,
+        "longitude": 106.69658,
+        "address": "Royal Club Massage, 54 Hẻm 65 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 65 Thủ Khoa Huân",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "CLB Bắn Cung-Nhà VH Thanh Niên",
+        "latitude": 10.78266,
+        "longitude": 106.69816,
+        "address": "CLB Bắn Cung-Nhà VH Thanh Niên, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sân Thể Dục Khoa Y Dược",
+        "latitude": 10.78451,
+        "longitude": 106.70246,
+        "address": "Sân Thể Dục Khoa Y Dược, 70 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Hãng môi giới bất động sản"
+            }
+        ]
+    },
+    {
+        "name": "Indochine Spa",
+        "latitude": 10.77469,
+        "longitude": 106.69622,
+        "address": "Indochine Spa, 69 Hẻm 65 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 65 Thủ Khoa Huân",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Bể Bơi",
+        "latitude": 10.78368,
+        "longitude": 106.69879,
+        "address": "Bể Bơi, Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Dáng Ngọc Spa",
+        "latitude": 10.77519,
+        "longitude": 106.69568,
+        "address": "Dáng Ngọc Spa, Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thể Dục Thể Thao Tao Đàn",
+        "latitude": 10.77494,
+        "longitude": 106.69576,
+        "address": "Trung Tâm Thể Dục Thể Thao Tao Đàn, 1 Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thể Dục Thể Thao Quận 1",
+        "latitude": 10.77494,
+        "longitude": 106.69576,
+        "address": "Trung Tâm Thể Dục Thể Thao Quận 1, 1 Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            },
+            {
+                "name": "Khu thể thao trong nhà"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Tập Tao Đàn",
+        "latitude": 10.77529,
+        "longitude": 106.69548,
+        "address": "Phòng Tập Tao Đàn, Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "CLB Nhất Dáng Nhì Da",
+        "latitude": 10.77012,
+        "longitude": 106.70157,
+        "address": "CLB Nhất Dáng Nhì Da, Đường Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Spa Yoga",
+        "latitude": 10.7699,
+        "longitude": 106.70137,
+        "address": "Spa Yoga, Đường Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Clb Tennis 30/4",
+        "latitude": 10.77568,
+        "longitude": 106.69509,
+        "address": "Clb Tennis 30/4, Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Ngoài trời/Giải trí"
+            }
+        ]
+    },
+    {
+        "name": "California",
+        "latitude": 10.77166,
+        "longitude": 106.69754,
+        "address": "California, Đường Lê Lai, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Lai",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Sân Bóng Đá Tao Đàn",
+        "latitude": 10.77551,
+        "longitude": 106.69503,
+        "address": "Sân Bóng Đá Tao Đàn, Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Billards",
+        "latitude": 10.77326,
+        "longitude": 106.69584,
+        "address": "Cửa Hàng Billards, Hẻm 174-176 Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 174-176 Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Xông Hơi Xoa Bóp Massage",
+        "latitude": 10.77028,
+        "longitude": 106.69895,
+        "address": "Dịch Vụ Xông Hơi Xoa Bóp Massage, Đường Lê Thị Hồng Gấm, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Lê Thị Hồng Gấm",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Tập Nhóm Groupx",
+        "latitude": 10.77125,
+        "longitude": 106.69721,
+        "address": "Phòng Tập Nhóm Groupx, Đường Lê Lai, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Lai",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Khu thể thao trong nhà"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Thay Đồ Nam",
+        "latitude": 10.77125,
+        "longitude": 106.69721,
+        "address": "Phòng Thay Đồ Nam, Đường Lê Lai, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Lai",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "The Muscle Lab",
+        "latitude": 10.78397,
+        "longitude": 106.69727,
+        "address": "The Muscle Lab, Đường Trần Cao Vân, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Trần Cao Vân",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bida Huyền Thoại",
+        "latitude": 10.78439,
+        "longitude": 106.69754,
+        "address": "Bida Huyền Thoại, Đường Trần Cao Vân, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Trần Cao Vân",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bể Bơi Lao Động",
+        "latitude": 10.77674,
+        "longitude": 106.69404,
+        "address": "Bể Bơi Lao Động, Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida 16",
+        "latitude": 10.7846,
+        "longitude": 106.69759,
+        "address": "Câu Lạc Bộ Bida 16, Đường Trần Cao Vân, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Trần Cao Vân",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bóng Đá Mini",
+        "latitude": 10.77682,
+        "longitude": 106.69396,
+        "address": "Câu Lạc Bộ Bóng Đá Mini, Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sân Bóng Phan Đình Phùng",
+        "latitude": 10.78122,
+        "longitude": 106.6947,
+        "address": "Sân Bóng Phan Đình Phùng, Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Văn Tần",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bida Số 1",
+        "latitude": 10.78529,
+        "longitude": 106.69855,
+        "address": "Bida Số 1, Đường Trần Cao Vân, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Trần Cao Vân",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "ML Nail And Spa House",
+        "latitude": 10.77847,
+        "longitude": 106.69388,
+        "address": "ML Nail And Spa House, Đường Lê Quý Đôn, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Lê Quý Đôn",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Hồ Bơi Lao Động",
+        "latitude": 10.77671,
+        "longitude": 106.69385,
+        "address": "Hồ Bơi Lao Động, 6 Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Bể bơi"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thể Dục Thể Thao Phan Đình Phùng",
+        "latitude": 10.78119,
+        "longitude": 106.69455,
+        "address": "Trung Tâm Thể Dục Thể Thao Phan Đình Phùng, 8 Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Văn Tần",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Sân Tennis",
+        "latitude": 10.77689,
+        "longitude": 106.69357,
+        "address": "Sân Tennis, Đường Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Huyền Trân Công Chúa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Spa And Beauty",
+        "latitude": 10.78507,
+        "longitude": 106.69754,
+        "address": "Spa And Beauty, 16 Đường Phùng Khắc Khoan, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Phùng Khắc Khoan",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Dục Thể Thao Hoa Lư",
+        "latitude": 10.78667,
+        "longitude": 106.70152,
+        "address": "Câu Lạc Bộ Thể Dục Thể Thao Hoa Lư, 2 Đường Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Đinh Tiên Hoàng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Khu liên hợp hoặc sân vận động thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sbk Billiards Club",
+        "latitude": 10.78451,
+        "longitude": 106.69639,
+        "address": "Sbk Billiards Club, 144 Đường Hai Bà Trưng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nơi cung cấp bể bơi và bàn bi-a chung"
+            }
+        ]
+    },
+    {
+        "name": "Castle Saigon",
+        "latitude": 10.76843,
+        "longitude": 106.69899,
+        "address": "Castle Saigon, Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida Tốc Độ",
+        "latitude": 10.76874,
+        "longitude": 106.69785,
+        "address": "Câu Lạc Bộ Bida Tốc Độ, Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Tập Thể Hình Phan Đình Phùng",
+        "latitude": 10.78214,
+        "longitude": 106.69364,
+        "address": "Phòng Tập Thể Hình Phan Đình Phùng, Đường Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Hồ Bơi",
+        "latitude": 10.77067,
+        "longitude": 106.6953,
+        "address": "Hồ Bơi, Đường Lê Lai, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Lai",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Minh Tâm Healthy Club",
+        "latitude": 10.77968,
+        "longitude": 106.69271,
+        "address": "Minh Tâm Healthy Club, 2C Đường Lê Quý Đôn, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Lê Quý Đôn",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Senes Story Spa",
+        "latitude": 10.78193,
+        "longitude": 106.69329,
+        "address": "Senes Story Spa, 154 Đường Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thể Dục Thể Thao Hoa Lư",
+        "latitude": 10.78763,
+        "longitude": 106.7004,
+        "address": "Trung Tâm Thể Dục Thể Thao Hoa Lư, 2 Đường Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Đinh Tiên Hoàng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Điểm thu hút Khách du lịch"
+            },
+            {
+                "name": "Khu thể thao trong nhà"
+            },
+            {
+                "name": "Khu hướng dẫn hoặc trại huấn luyện thể thao"
+            },
+            {
+                "name": "Địa điểm chơi thể thao"
+            }
+        ]
+    },
+    {
+        "name": "VSP Boxing Gym",
+        "latitude": 10.77281,
+        "longitude": 106.69342,
+        "address": "VSP Boxing Gym, 143 Đường Nguyễn Du, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Khu hướng dẫn hoặc trại huấn luyện thể thao"
+            },
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Dục Thể Thao Đa Môn",
+        "latitude": 10.77281,
+        "longitude": 106.69342,
+        "address": "Câu Lạc Bộ Thể Dục Thể Thao Đa Môn, 143 Đường Nguyễn Du, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Công viên/Khu vui chơi"
+            },
+            {
+                "name": "Khu liên hợp hoặc sân vận động thể thao"
+            },
+            {
+                "name": "Địa điểm chơi thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Dục Thể Thao Nguyễn Bỉnh Khiêm",
+        "latitude": 10.78798,
+        "longitude": 106.70408,
+        "address": "Câu Lạc Bộ Thể Dục Thể Thao Nguyễn Bỉnh Khiêm, 25 Đường Nguyễn Bỉnh Khiêm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Bỉnh Khiêm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Công viên/Khu vui chơi"
+            },
+            {
+                "name": "Khu liên hợp hoặc sân vận động thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Massage",
+        "latitude": 10.78671,
+        "longitude": 106.69748,
+        "address": "Massage, 36 Đường Mạc Đĩnh Chi, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Mạc Đĩnh Chi",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Thao Nguyễn Bỉnh Khiêm",
+        "latitude": 10.78806,
+        "longitude": 106.70383,
+        "address": "Câu Lạc Bộ Thể Thao Nguyễn Bỉnh Khiêm, Đường Nguyễn Bỉnh Khiêm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Bỉnh Khiêm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Văn Hóa Thể Dục Thể Thao Nguyễn Du",
+        "latitude": 10.77324,
+        "longitude": 106.69299,
+        "address": "Trung Tâm Văn Hóa Thể Dục Thể Thao Nguyễn Du, 116 Đường Nguyễn Du, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Thợ kim hoàn"
+            },
+            {
+                "name": "Dịch vụ CNTT & thiết bị văn phòng"
+            }
+        ]
+    },
+    {
+        "name": "Khánh Thi Dancesport",
+        "latitude": 10.77246,
+        "longitude": 106.69335,
+        "address": "Khánh Thi Dancesport, Đường Nguyễn Du, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sân Bóng Mini Cỏ Nhân Tạo Cầu Móng",
+        "latitude": 10.76686,
+        "longitude": 106.70305,
+        "address": "Sân Bóng Mini Cỏ Nhân Tạo Cầu Móng, 35 Đường Bến Vân Đồn, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Đường Bến Vân Đồn",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bể Bơi Nguyễn Bỉnh Khiêm",
+        "latitude": 10.78832,
+        "longitude": 106.70399,
+        "address": "Bể Bơi Nguyễn Bỉnh Khiêm, Đường Nguyễn Bỉnh Khiêm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Bỉnh Khiêm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Billiards Pak",
+        "latitude": 10.77256,
+        "longitude": 106.69307,
+        "address": "Câu Lạc Bộ Billiards Pak, Đường Nguyễn Du, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Anantara Spa",
+        "latitude": 10.77032,
+        "longitude": 106.69446,
+        "address": "Anantara Spa, Đường Lê Lai, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Lai",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhiên Spa",
+        "latitude": 10.78844,
+        "longitude": 106.70027,
+        "address": "Nhiên Spa, Hẻm 16 Đường Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Hẻm 16 Đường Đinh Tiên Hoàng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Giảm Cân Thẩm Mỹ",
+        "latitude": 10.76717,
+        "longitude": 106.69852,
+        "address": "Câu Lạc Bộ Giảm Cân Thẩm Mỹ, Đường Ký Con, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Ký Con",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bảo Bình Billiards Club",
+        "latitude": 10.78414,
+        "longitude": 106.6935,
+        "address": "Bảo Bình Billiards Club, Hẻm 37 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Hẻm 37 Phạm Ngọc Thạch",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Billiards Thế Kỷ",
+        "latitude": 10.76683,
+        "longitude": 106.70633,
+        "address": "Billiards Thế Kỷ, Đường Nguyễn Tất Thành, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Đường Nguyễn Tất Thành",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Nơi cung cấp bể bơi và bàn bi-a chung"
+            },
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "California Fitness & Yoga Center Quận 4",
+        "latitude": 10.76683,
+        "longitude": 106.70633,
+        "address": "California Fitness & Yoga Center Quận 4, Đường Nguyễn Tất Thành, Phường 13, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 13",
+        "street": "Đường Nguyễn Tất Thành",
+        "postal_code": "72820",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Thảo Nguyên Xanh Massage",
+        "latitude": 10.76707,
+        "longitude": 106.69845,
+        "address": "Thảo Nguyên Xanh Massage, Đường Ký Con, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Ký Con",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sân Thanh Trà",
+        "latitude": 10.77112,
+        "longitude": 106.69321,
+        "address": "Sân Thanh Trà, 1 Đường Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Khu liên hợp hoặc sân vận động thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Curves Nguyễn Đình Chiểu",
+        "latitude": 10.7885,
+        "longitude": 106.69934,
+        "address": "Curves Nguyễn Đình Chiểu, Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Xông Hơi Xoa Bóp Ngọc Anh",
+        "latitude": 10.78904,
+        "longitude": 106.70249,
+        "address": "Xông Hơi Xoa Bóp Ngọc Anh, Đường Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Bỉnh Khiêm",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    }
+]

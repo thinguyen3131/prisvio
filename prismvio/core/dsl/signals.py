@@ -1,10 +1,8 @@
-# encoding: utf-8
 """
 A convenient way to attach django-elasticsearch-dsl to Django's signals and
 cause things to index.
 """
 
-from __future__ import absolute_import
 
 from django.db import models
 from django.dispatch import Signal
@@ -12,7 +10,7 @@ from django.dispatch import Signal
 from .registries import registry
 
 
-class BaseSignalProcessor(object):
+class BaseSignalProcessor:
     """Base signal processor.
 
     By default, does nothing with signals but provides underlying
@@ -44,9 +42,9 @@ class BaseSignalProcessor(object):
         # Do nothing.
 
     def handle_m2m_changed(self, sender, instance, action, **kwargs):
-        if action in ('post_add', 'post_remove', 'post_clear'):
+        if action in ("post_add", "post_remove", "post_clear"):
             self.handle_save(sender, instance)
-        elif action in ('pre_remove', 'pre_clear'):
+        elif action in ("pre_remove", "pre_clear"):
             self.handle_pre_delete(sender, instance)
 
     def handle_save(self, sender, instance, **kwargs):

@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Global Star, 33 Dien Binh Phu, Quan 1",
+        "latitude": 10.78976,
+        "longitude": 106.70083,
+        "address": "Global Star, 33 Dien Binh Phu, Quan 1, Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Tòa nhà"
+            }
+        ]
+    },
+    {
+        "name": "Bql Opera View Bldg",
+        "latitude": 10.78238,
+        "longitude": 106.70535,
+        "address": "Bql Opera View Bldg, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Tòa nhà"
+            },
+            {
+                "name": "Quản lý bất động sản"
+            }
+        ]
+    },
+    {
+        "name": "Chung Cư 47",
+        "latitude": 10.76984,
+        "longitude": 106.70048,
+        "address": "Chung Cư 47, 47 Hẻm 27 Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Hẻm 27 Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Tòa nhà"
+            }
+        ]
+    },
+    {
+        "name": "Minh Quân",
+        "latitude": 10.77502,
+        "longitude": 106.68998,
+        "address": "Minh Quân, 17 Đường Bà Huyện Thanh Quan, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Bà Huyện Thanh Quan",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Tòa nhà"
+            },
+            {
+                "name": "Dịch vụ cho thuê"
+            },
+            {
+                "name": "Hãng môi giới bất động sản"
+            },
+            {
+                "name": "Tòa nhà chung cư"
+            }
+        ]
+    },
+    {
+        "name": "Bún Bò Zen Plaza",
+        "latitude": 10.7706,
+        "longitude": 106.6921,
+        "address": "Bún Bò Zen Plaza, 54-56 Đường Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Tòa nhà"
+            }
+        ]
+    },
+    {
+        "name": "Building 59 Che Lan Vien",
+        "latitude": 10.81199,
+        "longitude": 106.62903,
+        "address": "Building 59 Che Lan Vien, 71 Đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Chế Lan Viên",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Tòa nhà"
+            },
+            {
+                "name": "Điểm sự kiện"
+            }
+        ]
+    },
+    {
+        "name": "88 Tan Hoa Dong",
+        "latitude": 10.75807,
+        "longitude": 106.63094,
+        "address": "88 Tan Hoa Dong, Đường Tân Hòa Đông, Phường 14, Quận 6, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 6",
+        "ward": "Phường 14",
+        "street": "Đường Tân Hòa Đông",
+        "postal_code": "73119",
+        "categories": [
+            {
+                "name": "Tòa nhà"
+            }
+        ]
+    },
+    {
+        "name": "Chung Cư Tân Tạo - Vĩnh Tường",
+        "latitude": 10.75137,
+        "longitude": 106.5902,
+        "address": "Chung Cư Tân Tạo - Vĩnh Tường, Đường Lộ Tẻ, Phường Tân Tạo A, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Tân Tạo A",
+        "street": "Đường Lộ Tẻ",
+        "postal_code": "71909",
+        "categories": [
+            {
+                "name": "Tòa nhà"
+            }
+        ]
+    }
+]

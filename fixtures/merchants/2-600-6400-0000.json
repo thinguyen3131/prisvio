@@ -1,0 +1,2054 @@
+[
+    {
+        "name": "Nhà Thuốc Hồng Luyến",
+        "latitude": 10.82345,
+        "longitude": 106.62338,
+        "address": "Nhà Thuốc Hồng Luyến, Đường C1, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường C1",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Đức Hải",
+        "latitude": 10.8272,
+        "longitude": 106.625,
+        "address": "Nhà Thuốc Đức Hải, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Phương Đông",
+        "latitude": 10.82392,
+        "longitude": 106.62192,
+        "address": "Nhà Thuốc Tây Phương Đông, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Khánh Vân",
+        "latitude": 10.82749,
+        "longitude": 106.62407,
+        "address": "Nhà Thuốc Tư Nhân Khánh Vân, 26 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nha Thuoc S.C Pharma",
+        "latitude": 10.82209,
+        "longitude": 106.62292,
+        "address": "Nha Thuoc S.C Pharma, Đường B, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường B",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thực Hành Tốt Phúc Ân",
+        "latitude": 10.82233,
+        "longitude": 106.62251,
+        "address": "Nhà Thuốc Thực Hành Tốt Phúc Ân, Đường Tân Thới Nhất 21, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 21",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Thuận Kiều",
+        "latitude": 10.82768,
+        "longitude": 106.62466,
+        "address": "Nhà Thuốc Tây Thuận Kiều, 57 Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nha Thuoc A Chau 2",
+        "latitude": 10.82767,
+        "longitude": 106.62614,
+        "address": "Nha Thuoc A Chau 2, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Thuốc Số 9",
+        "latitude": 10.82775,
+        "longitude": 106.6221,
+        "address": "Đại Lý Thuốc Số 9, 43 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Minh Đức",
+        "latitude": 10.82775,
+        "longitude": 106.6221,
+        "address": "Nhà Thuốc Tư Nhân Minh Đức, 43 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc An Khang",
+        "latitude": 10.82353,
+        "longitude": 106.62014,
+        "address": "Nhà Thuốc An Khang, Đường Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Khánh An",
+        "latitude": 10.82907,
+        "longitude": 106.62544,
+        "address": "Nhà Thuốc Khánh An, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc An Khang",
+        "latitude": 10.82356,
+        "longitude": 106.61995,
+        "address": "Nhà Thuốc An Khang, Đường Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Bảo Nam 2",
+        "latitude": 10.82325,
+        "longitude": 106.61998,
+        "address": "Nhà Thuốc Tây Bảo Nam 2, Đường Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Phương Thảo",
+        "latitude": 10.82892,
+        "longitude": 106.62679,
+        "address": "Nhà Thuốc Tư Nhân Phương Thảo, 87 Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Xuân Hải",
+        "latitude": 10.82984,
+        "longitude": 106.62388,
+        "address": "Xuân Hải, Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Ankhang",
+        "latitude": 10.82977,
+        "longitude": 106.62611,
+        "address": "Ankhang, Hẻm 18 Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Hẻm 18 Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Thanh Tuyen 2",
+        "latitude": 10.82977,
+        "longitude": 106.62611,
+        "address": "Thanh Tuyen 2, Hẻm 18 Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Hẻm 18 Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thùy Dương",
+        "latitude": 10.82967,
+        "longitude": 106.62709,
+        "address": "Nhà Thuốc Thùy Dương, Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Nhật Khanh",
+        "latitude": 10.82432,
+        "longitude": 106.63024,
+        "address": "Nhà Thuốc Nhật Khanh, 12/2 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Phước An",
+        "latitude": 10.82529,
+        "longitude": 106.63069,
+        "address": "Nhà Thuốc Tư Nhân Phước An, 30 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Vân Khánh 2",
+        "latitude": 10.83094,
+        "longitude": 106.62303,
+        "address": "Nhà Thuốc Vân Khánh 2, Hẻm 222 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Hẻm 222 Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Trieu An Fuji",
+        "latitude": 10.82345,
+        "longitude": 106.61797,
+        "address": "Trieu An Fuji, 1 Đường D, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường D",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Thúy Tiến",
+        "latitude": 10.83101,
+        "longitude": 106.62315,
+        "address": "Nhà Thuốc Tây Thúy Tiến, Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Nguyễn Hoàng",
+        "latitude": 10.82842,
+        "longitude": 106.61905,
+        "address": "Nhà Thuốc Tư Nhân Nguyễn Hoàng, 119 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Đức Lợi",
+        "latitude": 10.82863,
+        "longitude": 106.61881,
+        "address": "Đức Lợi, 108 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Bảo Anh",
+        "latitude": 10.83101,
+        "longitude": 106.62729,
+        "address": "Nhà Thuốc Tây Bảo Anh, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Đại Trường Sinh",
+        "latitude": 10.82865,
+        "longitude": 106.61871,
+        "address": "Nhà Thuốc Đại Trường Sinh, 106 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Mỵ Nương",
+        "latitude": 10.82664,
+        "longitude": 106.63131,
+        "address": "Nhà Thuốc Tây Mỵ Nương, 54 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Kim Duyên",
+        "latitude": 10.83097,
+        "longitude": 106.6275,
+        "address": "Nhà Thuốc Kim Duyên, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Toàn Tâm",
+        "latitude": 10.8218,
+        "longitude": 106.63114,
+        "address": "Nhà Thuốc Tư Nhân Toàn Tâm, Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Kiều Nhi 2",
+        "latitude": 10.83174,
+        "longitude": 106.62251,
+        "address": "Nhà Thuốc Tây Kiều Nhi 2, 242 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Pharmacity-Sgpmc1278",
+        "latitude": 10.81729,
+        "longitude": 106.62647,
+        "address": "Pharmacity-Sgpmc1278, Đường CN3, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường CN3",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Hoàng Thanh",
+        "latitude": 10.81993,
+        "longitude": 106.63063,
+        "address": "Nhà Thuốc Tư Nhân Hoàng Thanh, Đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Dương Châu",
+        "latitude": 10.81993,
+        "longitude": 106.63106,
+        "address": "Nhà Thuốc Dương Châu, Đường Trường Chinh, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Hải Anh",
+        "latitude": 10.82838,
+        "longitude": 106.63172,
+        "address": "Nhà Thuốc Tây Hải Anh, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Trần Trụ",
+        "latitude": 10.81998,
+        "longitude": 106.63117,
+        "address": "Nhà Thuốc Tư Nhân Trần Trụ, Đường Trần Thái Tông, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Trần Thái Tông",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Ngân Danh",
+        "latitude": 10.82885,
+        "longitude": 106.61736,
+        "address": "Ngân Danh, 147 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Băng Tâm",
+        "latitude": 10.83221,
+        "longitude": 106.62789,
+        "address": "Băng Tâm, 207 Hẻm 1 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 1 Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Diễm Châu",
+        "latitude": 10.83194,
+        "longitude": 106.62877,
+        "address": "Nhà Thuốc Diễm Châu, Đường Đông Hưng Thuận 10B, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 10B",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Kha Thạch Hạc",
+        "latitude": 10.81944,
+        "longitude": 106.63133,
+        "address": "Nhà Thuốc Tư Nhân Kha Thạch Hạc, Đường Trường Chinh, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Minh Hương",
+        "latitude": 10.81612,
+        "longitude": 106.6255,
+        "address": "Nhà Thuốc Tư Nhân Minh Hương, 85 Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Tây Thạnh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Minh Kỳ",
+        "latitude": 10.83294,
+        "longitude": 106.62188,
+        "address": "Nhà Thuốc Minh Kỳ, 300 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Tiến Thịnh",
+        "latitude": 10.83275,
+        "longitude": 106.62124,
+        "address": "Nhà Thuốc Tây Tiến Thịnh, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Đức Minh",
+        "latitude": 10.8159,
+        "longitude": 106.6254,
+        "address": "Nhà Thuốc Tư Nhân Đức Minh, Đường D13, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường D13",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Hoàng Anh",
+        "latitude": 10.83343,
+        "longitude": 106.62433,
+        "address": "Nhà Thuốc Hoàng Anh, Đường Đông Hưng Thuận 45, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 45",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Minh Châu",
+        "latitude": 10.82907,
+        "longitude": 106.63234,
+        "address": "Minh Châu, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Ngọc Diệp",
+        "latitude": 10.83243,
+        "longitude": 106.62007,
+        "address": "Nhà Thuốc Tây Ngọc Diệp, 1 Hẻm 1 Đường Tân Thới Nhất 13, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 1 Đường Tân Thới Nhất 13",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Bảo Nam",
+        "latitude": 10.83267,
+        "longitude": 106.62015,
+        "address": "Nhà Thuốc Tây Bảo Nam, Hẻm 8 Đường Tân Thới Nhất 13, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 8 Đường Tân Thới Nhất 13",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Lâm Phương",
+        "latitude": 10.81549,
+        "longitude": 106.62495,
+        "address": "Nhà Thuốc Tây Lâm Phương, 131 Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Tây Thạnh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Thái Hà",
+        "latitude": 10.81566,
+        "longitude": 106.62174,
+        "address": "Nhà Thuốc Tư Nhân Thái Hà, Đường C5, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường C5",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Vui Khỏe",
+        "latitude": 10.82979,
+        "longitude": 106.63274,
+        "address": "Nhà Thuốc Vui Khỏe, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Bảo Sanh Tham Lương",
+        "latitude": 10.8337,
+        "longitude": 106.62077,
+        "address": "Nhà Bảo Sanh Tham Lương, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Phúc Khang Đường",
+        "latitude": 10.83374,
+        "longitude": 106.6207,
+        "address": "Phúc Khang Đường, 225 Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Vnpay*Sgpmc103",
+        "latitude": 10.82621,
+        "longitude": 106.63448,
+        "address": "Vnpay*Sgpmc103, 64 Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc An Lạc",
+        "latitude": 10.82967,
+        "longitude": 106.61564,
+        "address": "Nhà Thuốc An Lạc, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Khánh My",
+        "latitude": 10.82825,
+        "longitude": 106.6149,
+        "address": "Nhà Thuốc Khánh My, Đường TTN 1A, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường TTN 1A",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Hoài Sơn",
+        "latitude": 10.83395,
+        "longitude": 106.62848,
+        "address": "Nhà Thuốc Tư Nhân Hoài Sơn, 288A Hẻm 1 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 1 Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Tiến Thịnh II",
+        "latitude": 10.83458,
+        "longitude": 106.62212,
+        "address": "Nhà Thuốc Tây Tiến Thịnh II, Đường Đông Hưng Thuận 3, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 3",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Nhật Vy",
+        "latitude": 10.83427,
+        "longitude": 106.62089,
+        "address": "Nhà Thuốc Nhật Vy, 378 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc 24",
+        "latitude": 10.81431,
+        "longitude": 106.62354,
+        "address": "Nhà Thuốc 24, 78 Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Tây Thạnh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Lương Thảo",
+        "latitude": 10.82653,
+        "longitude": 106.63491,
+        "address": "Nhà Thuốc Tư Nhân Lương Thảo, 67 Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Ankhang",
+        "latitude": 10.8265,
+        "longitude": 106.63495,
+        "address": "Ankhang, 53A Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Toàn Tâm 6",
+        "latitude": 10.81842,
+        "longitude": 106.6331,
+        "address": "Nhà Thuốc Toàn Tâm 6, Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Sỹ Sách",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Khải Phong",
+        "latitude": 10.83443,
+        "longitude": 106.62031,
+        "address": "Nhà Thuốc Khải Phong, 253 Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Văn Phòng Phẩm & Báo Chí Nhật",
+        "latitude": 10.83443,
+        "longitude": 106.62031,
+        "address": "Văn Phòng Phẩm & Báo Chí Nhật, 253 Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dụng cụ văn phòng và dịch vụ"
+            },
+            {
+                "name": "Thiết kế nội & ngoại thất"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Việt An",
+        "latitude": 10.81448,
+        "longitude": 106.62129,
+        "address": "Nhà Thuốc Việt An, Đường C2, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường C2",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Hưng Long",
+        "latitude": 10.83469,
+        "longitude": 106.62865,
+        "address": "Nhà Thuốc Hưng Long, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Pharmacity-Sgpmc751",
+        "latitude": 10.81917,
+        "longitude": 106.63421,
+        "address": "Pharmacity-Sgpmc751, 25 Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Sỹ Sách",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc An Lạc",
+        "latitude": 10.83001,
+        "longitude": 106.61472,
+        "address": "Nhà Thuốc An Lạc, 194 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây An Châu",
+        "latitude": 10.83008,
+        "longitude": 106.61476,
+        "address": "Nhà Thuốc Tây An Châu, Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Minh Phúc",
+        "latitude": 10.82306,
+        "longitude": 106.63561,
+        "address": "Nhà Thuốc Tây Minh Phúc, 144 Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Hồng Lam",
+        "latitude": 10.81922,
+        "longitude": 106.63429,
+        "address": "Nhà Thuốc Hồng Lam, Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Sỹ Sách",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Minh Châu 9",
+        "latitude": 10.83487,
+        "longitude": 106.62872,
+        "address": "Nhà Thuốc Minh Châu 9, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hoàng Dũng",
+        "latitude": 10.83139,
+        "longitude": 106.63352,
+        "address": "Hoàng Dũng, 118 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Ankhang",
+        "latitude": 10.83318,
+        "longitude": 106.61714,
+        "address": "Ankhang, Hẻm 120 Tân Thới Nhất 13, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 120 Tân Thới Nhất 13",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Đạt Chuẩn GPP Minh Long",
+        "latitude": 10.81959,
+        "longitude": 106.6347,
+        "address": "Nhà Thuốc Đạt Chuẩn GPP Minh Long, Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Sỹ Sách",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Khánh Đan",
+        "latitude": 10.82927,
+        "longitude": 106.61407,
+        "address": "Nhà Thuốc Khánh Đan, Đường Tân Thới Nhất 1B, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 1B",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Dương Châu",
+        "latitude": 10.81828,
+        "longitude": 106.63395,
+        "address": "Nhà Thuốc Tư Nhân Dương Châu, 93/1 Hẻm 93 Trần Thái Tông, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Hẻm 93 Trần Thái Tông",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Quỳnh Như",
+        "latitude": 10.83161,
+        "longitude": 106.63352,
+        "address": "Quỳnh Như, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Hoàng Ngọc",
+        "latitude": 10.83089,
+        "longitude": 106.6149,
+        "address": "Nhà Thuốc Tư Nhân Hoàng Ngọc, 6A Hẻm 19 Đường Tân Thới Nhất 1, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 19 Đường Tân Thới Nhất 1",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Đức An",
+        "latitude": 10.81949,
+        "longitude": 106.63477,
+        "address": "Nhà Thuốc Đức An, 43 Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Sỹ Sách",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Hồng Hạnh",
+        "latitude": 10.81937,
+        "longitude": 106.63474,
+        "address": "Nhà Thuốc Hồng Hạnh, Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Sỹ Sách",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thanh An",
+        "latitude": 10.81369,
+        "longitude": 106.62112,
+        "address": "Nhà Thuốc Thanh An, Hẻm 47 Đường S11, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Hẻm 47 Đường S11",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tiến Trang",
+        "latitude": 10.81958,
+        "longitude": 106.63493,
+        "address": "Nhà Thuốc Tiến Trang, Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Sỹ Sách",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Thanh Nhân",
+        "latitude": 10.83608,
+        "longitude": 106.6249,
+        "address": "Nhà Thuốc Thanh Nhân, Hẻm 15 Đường ĐHT 3, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Hẻm 15 Đường ĐHT 3",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Hữu Phúc",
+        "latitude": 10.81608,
+        "longitude": 106.63233,
+        "address": "Nhà Thuốc Hữu Phúc, 748 Đường Trường Chinh, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Mai Phương 1",
+        "latitude": 10.8358,
+        "longitude": 106.6274,
+        "address": "Nhà Thuốc Mai Phương 1, 116 Đường Đông Hưng Thuận 2, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 2",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Phương Dung II",
+        "latitude": 10.83543,
+        "longitude": 106.62875,
+        "address": "Nhà Thuốc Tư Nhân Phương Dung II, Hẻm 1 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 1 Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Kiều Nhi 2",
+        "latitude": 10.83526,
+        "longitude": 106.61977,
+        "address": "Nhà Thuốc Kiều Nhi 2, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Thiên Phúc",
+        "latitude": 10.82669,
+        "longitude": 106.63617,
+        "address": "Nhà Thuốc Tây Thiên Phúc, Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Khám Bác Sĩ Ái",
+        "latitude": 10.83248,
+        "longitude": 106.61554,
+        "address": "Phòng Khám Bác Sĩ Ái, Hẻm 59 Đường Tân Thới Nhất 1, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 59 Đường Tân Thới Nhất 1",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Phước",
+        "latitude": 10.83208,
+        "longitude": 106.63384,
+        "address": "Nhà Thuốc Tư Nhân Phước, 134 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tây Tây Hồ",
+        "latitude": 10.81297,
+        "longitude": 106.62238,
+        "address": "Nhà Thuốc Tây Tây Hồ, 138 Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Tây Thạnh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Đức Minh",
+        "latitude": 10.8355,
+        "longitude": 106.61962,
+        "address": "Nhà Thuốc Tư Nhân Đức Minh, Hẻm 305 Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 305 Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Thùy Trâm",
+        "latitude": 10.83399,
+        "longitude": 106.61702,
+        "address": "Nhà Thuốc Tư Nhân Thùy Trâm, Hẻm 265 Tân Thới Nhất 13B, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 265 Tân Thới Nhất 13B",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Thuốc Tâm Phúc 2",
+        "latitude": 10.81287,
+        "longitude": 106.62634,
+        "address": "Hiệu Thuốc Tâm Phúc 2, 62 Đường D9, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường D9",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Giáng Sinh",
+        "latitude": 10.8359,
+        "longitude": 106.61995,
+        "address": "Nhà Thuốc Tư Nhân Giáng Sinh, 474 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            },
+            {
+                "name": "Nhà thuốc"
+            },
+            {
+                "name": "Dịch vụ chăm sóc sức khỏe & dịch vụ hỗ trợ"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Thuốc Tư Nhân Phúc Khang",
+        "latitude": 10.83439,
+        "longitude": 106.61717,
+        "address": "Nhà Thuốc Tư Nhân Phúc Khang, Hẻm 265/50 Tân Thới Nhất 13C, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 265/50 Tân Thới Nhất 13C",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà thuốc/Hiệu thuốc"
+            }
+        ]
+    }
+]

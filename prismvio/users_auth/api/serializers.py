@@ -135,6 +135,10 @@ class VerificationIdSerializer(serializers.Serializer):
 
         now = timezone.now()
         past_time = now - timedelta(minutes=IntervalLockTime.SEND.value)
+        print("============================")
+        print(past_time)
+        print(otp)
+        print("============================")
         otp_obj = OneTimePassword.objects.filter(
             signature=signature,
             otp_type=OTPType.EMAIL.value,
@@ -327,18 +331,16 @@ class UserValidationSerializer(
                 }
             )
 
-        request = self.context.get("request")
-        if request.method == "POST":
-            if not email_verified and not phone_verified:
-                raise serializers.ValidationError(
-                    {
-                        CODE.USER.MISSING_FIELD_VERIFIED: _(
-                            "You must enter at least one of email verified or phone number verified"
-                        ),
-                    }
-                )
-            attrs["phone_verified"] = True if phone_verified else False
-            attrs["email_verified"] = True if email_verified else False
+        if not email_verified and not phone_verified:
+            raise serializers.ValidationError(
+                {
+                    CODE.USER.MISSING_FIELD_VERIFIED: _(
+                        "You must enter at least one of email verified or phone number verified"
+                    ),
+                }
+            )
+        attrs["phone_verified"] = True if phone_verified else False
+        attrs["email_verified"] = True if email_verified else False
 
         if phone_number:
             country_code = get_country_code_from_phone_number(phone_number)
@@ -411,6 +413,7 @@ class UserCreateSerializer(UserValidationSerializer):
             "phone_verified",
             "category_ids",
             "verification_id",
+            "otp",
             "id_token",
             "verified_email_at",
             "verified_phone_number_at",
@@ -429,6 +432,7 @@ class UserCreateSerializer(UserValidationSerializer):
         return self.validate_identity_info(attrs)
 
     def create(self, validated_data):
+        print(validated_data)
         email = validated_data.get("email", None)
         signature = validated_data.pop("verification_id", None)
         phone_number = validated_data.get("phone_number", None)

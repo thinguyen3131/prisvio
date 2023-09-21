@@ -1,0 +1,992 @@
+[
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 1,
+    "fields": {
+      "name": "OtoAutomotive",
+      "created_at": "2023-09-19T8:27:00",
+      "updated_at": "2023-09-19T0:17:01"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 2,
+    "fields": {
+      "name": "PhukienotoAutoAccessories",
+      "created_at": "2023-09-19T8:36:40",
+      "updated_at": "2023-09-19T0:24:38"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 3,
+    "fields": {
+      "name": "RuaxemayvaotoMotorbike&Carwash",
+      "created_at": "2023-09-19T4:35:14",
+      "updated_at": "2023-09-19T1:55:30"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 4,
+    "fields": {
+      "name": "BanvasuachuaxemayMotorcycleSales&Repair",
+      "created_at": "2023-09-19T15:21:23",
+      "updated_at": "2023-09-19T5:25:36"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 5,
+    "fields": {
+      "name": "ChothueRental&Leasing",
+      "created_at": "2023-09-19T11:47:27",
+      "updated_at": "2023-09-19T10:04:35"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 6,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T9:16:07",
+      "updated_at": "2023-09-19T16:06:35"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 7,
+    "fields": {
+      "name": "DichvuhotrovatuvanBusinessSupport&Supplies",
+      "created_at": "2023-09-19T3:53:38",
+      "updated_at": "2023-09-19T7:27:00"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 8,
+    "fields": {
+      "name": "DichvutuvanConsultants,Agency",
+      "created_at": "2023-09-19T10:25:24",
+      "updated_at": "2023-09-19T3:44:57"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 9,
+    "fields": {
+      "name": "TiepthivatruyenthongMarketing&Communications",
+      "created_at": "2023-09-19T6:05:22",
+      "updated_at": "2023-09-19T0:33:56"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 10,
+    "fields": {
+      "name": "VanphongphamOfficeSupplies",
+      "created_at": "2023-09-19T21:09:03",
+      "updated_at": "2023-09-19T5:03:49"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 11,
+    "fields": {
+      "name": "InanvaxuatbanPrinting&Publishing",
+      "created_at": "2023-09-19T16:58:04",
+      "updated_at": "2023-09-19T3:11:18"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 12,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T21:18:22",
+      "updated_at": "2023-09-19T0:17:38"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 13,
+    "fields": {
+      "name": "MaytinhvadientuComputers&Electronics",
+      "created_at": "2023-09-19T17:01:33",
+      "updated_at": "2023-09-19T16:12:28"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 14,
+    "fields": {
+      "name": "LaptrinhvahotromaytinhComputerProgramming&Support",
+      "created_at": "2023-09-19T23:20:27",
+      "updated_at": "2023-09-19T7:55:49"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 15,
+    "fields": {
+      "name": "DientutieudungvaphukienConsumerElectronics&Accessories",
+      "created_at": "2023-09-19T1:57:33",
+      "updated_at": "2023-09-19T1:54:05"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 16,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T17:02:25",
+      "updated_at": "2023-09-19T7:02:28"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 17,
+    "fields": {
+      "name": "XaydungvanhathauConstruction&Contractors",
+      "created_at": "2023-09-19T4:17:29",
+      "updated_at": "2023-09-19T20:28:38"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 18,
+    "fields": {
+      "name": "KientrucArchitects,LandscapeArchitects",
+      "created_at": "2023-09-19T0:11:44",
+      "updated_at": "2023-09-19T11:02:00"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 19,
+    "fields": {
+      "name": "PhadonhaBlasting&Demolition",
+      "created_at": "2023-09-19T2:19:35",
+      "updated_at": "2023-09-19T14:41:36"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 20,
+    "fields": {
+      "name": "VatlieuxaydungBuildingMaterials&Supplies",
+      "created_at": "2023-09-19T4:42:07",
+      "updated_at": "2023-09-19T16:12:18"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 21,
+    "fields": {
+      "name": "CongtyxaydungConstructionCompanies",
+      "created_at": "2023-09-19T2:22:55",
+      "updated_at": "2023-09-19T18:40:24"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 22,
+    "fields": {
+      "name": "ThosuadienElectricians",
+      "created_at": "2023-09-19T10:54:00",
+      "updated_at": "2023-09-19T3:20:17"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 23,
+    "fields": {
+      "name": "DanhgiamoitruongEnvironmentalAssessments",
+      "created_at": "2023-09-19T1:56:33",
+      "updated_at": "2023-09-19T23:18:41"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 24,
+    "fields": {
+      "name": "ThanhtraInspectors",
+      "created_at": "2023-09-19T3:33:16",
+      "updated_at": "2023-09-19T20:44:59"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 25,
+    "fields": {
+      "name": "MainhaRoofers",
+      "created_at": "2023-09-19T4:03:05",
+      "updated_at": "2023-09-19T8:54:38"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 26,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T10:49:33",
+      "updated_at": "2023-09-19T7:10:01"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 27,
+    "fields": {
+      "name": "GiaoducEducation",
+      "created_at": "2023-09-19T18:49:48",
+      "updated_at": "2023-09-19T10:09:45"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 28,
+    "fields": {
+      "name": "GiasuTutors",
+      "created_at": "2023-09-19T14:36:39",
+      "updated_at": "2023-09-19T20:02:58"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 29,
+    "fields": {
+      "name": "MaugiaoKindergarten",
+      "created_at": "2023-09-19T22:13:35",
+      "updated_at": "2023-09-19T11:14:31"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 30,
+    "fields": {
+      "name": "TailieuhoctapEducationalResources",
+      "created_at": "2023-09-19T0:59:47",
+      "updated_at": "2023-09-19T5:41:47"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 31,
+    "fields": {
+      "name": "NgoaikhoaOtherEducation",
+      "created_at": "2023-09-19T21:50:51",
+      "updated_at": "2023-09-19T15:58:21"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 32,
+    "fields": {
+      "name": "HoithaogiaoducEducationWorkshop",
+      "created_at": "2023-09-19T10:34:22",
+      "updated_at": "2023-09-19T21:40:59"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 33,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T2:09:36",
+      "updated_at": "2023-09-19T5:47:55"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 34,
+    "fields": {
+      "name": "GiaitrivathethaoEntertainment&Sports",
+      "created_at": "2023-09-19T22:07:33",
+      "updated_at": "2023-09-19T19:18:48"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 35,
+    "fields": {
+      "name": "CungcapdichvuvatochucsukienEventPlanners&Supplies",
+      "created_at": "2023-09-19T21:32:14",
+      "updated_at": "2023-09-19T22:22:43"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 36,
+    "fields": {
+      "name": "ThethaodientuGaming&E-sports",
+      "created_at": "2023-09-19T20:18:26",
+      "updated_at": "2023-09-19T17:58:17"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 37,
+    "fields": {
+      "name": "KhoahocthethaoSportCourses",
+      "created_at": "2023-09-19T8:39:38",
+      "updated_at": "2023-09-19T5:21:14"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 38,
+    "fields": {
+      "name": "DienanhCinema&Theater",
+      "created_at": "2023-09-19T7:41:12",
+      "updated_at": "2023-09-19T2:09:57"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 39,
+    "fields": {
+      "name": "HoithaogiaitriEntertainingWorkshop",
+      "created_at": "2023-09-19T6:50:01",
+      "updated_at": "2023-09-19T15:35:18"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 40,
+    "fields": {
+      "name": "Baotang&TrienlamMuseum&Exhibition",
+      "created_at": "2023-09-19T8:17:59",
+      "updated_at": "2023-09-19T19:31:12"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 41,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T7:58:36",
+      "updated_at": "2023-09-19T7:01:21"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 42,
+    "fields": {
+      "name": "DoanvathucuongFood&Dining",
+      "created_at": "2023-09-19T21:54:27",
+      "updated_at": "2023-09-19T9:52:05"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 43,
+    "fields": {
+      "name": "Bars&PubsBars&Pubs",
+      "created_at": "2023-09-19T4:18:33",
+      "updated_at": "2023-09-19T13:31:13"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 44,
+    "fields": {
+      "name": "BakeryBakery",
+      "created_at": "2023-09-19T23:41:52",
+      "updated_at": "2023-09-19T21:37:38"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 45,
+    "fields": {
+      "name": "GroceriesTaphoa",
+      "created_at": "2023-09-19T8:35:57",
+      "updated_at": "2023-09-19T14:52:15"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 46,
+    "fields": {
+      "name": "AnvatSnacks",
+      "created_at": "2023-09-19T13:47:37",
+      "updated_at": "2023-09-19T23:56:58"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 47,
+    "fields": {
+      "name": "DouongBeverage",
+      "created_at": "2023-09-19T7:12:04",
+      "updated_at": "2023-09-19T13:47:56"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 48,
+    "fields": {
+      "name": "NhahangRestaurants",
+      "created_at": "2023-09-19T13:02:32",
+      "updated_at": "2023-09-19T8:54:17"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 49,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T8:26:04",
+      "updated_at": "2023-09-19T12:29:42"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 50,
+    "fields": {
+      "name": "SuckhoevaYteHealth&Medicine",
+      "created_at": "2023-09-19T8:53:25",
+      "updated_at": "2023-09-19T10:58:48"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 51,
+    "fields": {
+      "name": "ThietbiyteMedicaldevices",
+      "created_at": "2023-09-19T0:37:14",
+      "updated_at": "2023-09-19T15:43:41"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 52,
+    "fields": {
+      "name": "DuocphamPharmaceuticals",
+      "created_at": "2023-09-19T3:03:20",
+      "updated_at": "2023-09-19T7:28:16"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 53,
+    "fields": {
+      "name": "ChamsoccanhanPersonalcareproducts",
+      "created_at": "2023-09-19T12:54:58",
+      "updated_at": "2023-09-19T5:14:19"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 54,
+    "fields": {
+      "name": "ThucphamchucnangNutritionalsupplements",
+      "created_at": "2023-09-19T16:37:45",
+      "updated_at": "2023-09-19T6:45:00"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 55,
+    "fields": {
+      "name": "Spa&PhongkhamSpa&Clinic",
+      "created_at": "2023-09-19T8:50:49",
+      "updated_at": "2023-09-19T6:32:49"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 56,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T13:43:08",
+      "updated_at": "2023-09-19T2:14:43"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 57,
+    "fields": {
+      "name": "Phapluat&TaichinhLegal&Financial",
+      "created_at": "2023-09-19T8:21:25",
+      "updated_at": "2023-09-19T17:52:52"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 58,
+    "fields": {
+      "name": "KetoanAccountant",
+      "created_at": "2023-09-19T23:49:57",
+      "updated_at": "2023-09-19T17:03:12"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 59,
+    "fields": {
+      "name": "LuatsuAttorneys",
+      "created_at": "2023-09-19T2:23:32",
+      "updated_at": "2023-09-19T22:01:23"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 60,
+    "fields": {
+      "name": "TochuctaichinhFinancialInstitutions",
+      "created_at": "2023-09-19T13:30:07",
+      "updated_at": "2023-09-19T3:27:19"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 61,
+    "fields": {
+      "name": "BaohiemtaichinhFinancialServicesInsurance",
+      "created_at": "2023-09-19T12:01:04",
+      "updated_at": "2023-09-19T17:28:36"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 62,
+    "fields": {
+      "name": "PhaplyOtherLegal",
+      "created_at": "2023-09-19T19:41:39",
+      "updated_at": "2023-09-19T8:06:12"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 63,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T8:39:54",
+      "updated_at": "2023-09-19T6:13:08"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 64,
+    "fields": {
+      "name": "Sansuat,Bansi,PhanphoiManufacturing,Wholesale,Distribution",
+      "created_at": "2023-09-19T21:23:29",
+      "updated_at": "2023-09-19T22:45:04"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 65,
+    "fields": {
+      "name": "PhanphoiDistribution",
+      "created_at": "2023-09-19T3:33:37",
+      "updated_at": "2023-09-19T20:38:25"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 66,
+    "fields": {
+      "name": "NhapkhauImport",
+      "created_at": "2023-09-19T1:23:55",
+      "updated_at": "2023-09-19T15:49:14"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 67,
+    "fields": {
+      "name": "XuatkhauExport",
+      "created_at": "2023-09-19T16:22:47",
+      "updated_at": "2023-09-19T6:21:22"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 68,
+    "fields": {
+      "name": "SanxuatManufacturing",
+      "created_at": "2023-09-19T1:23:43",
+      "updated_at": "2023-09-19T6:54:58"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 69,
+    "fields": {
+      "name": "BansiWholesale",
+      "created_at": "2023-09-19T17:23:48",
+      "updated_at": "2023-09-19T18:01:42"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 70,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T3:54:48",
+      "updated_at": "2023-09-19T9:41:19"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 71,
+    "fields": {
+      "name": "BanleRetail",
+      "created_at": "2023-09-19T18:04:29",
+      "updated_at": "2023-09-19T19:57:08"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 72,
+    "fields": {
+      "name": "Thiep&QuaCards&Gifts",
+      "created_at": "2023-09-19T2:44:03",
+      "updated_at": "2023-09-19T4:15:49"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 73,
+    "fields": {
+      "name": "Quanao&PhukienClothing&Accessories",
+      "created_at": "2023-09-19T20:54:22",
+      "updated_at": "2023-09-19T2:37:16"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 74,
+    "fields": {
+      "name": "DothethaoSportingGoods",
+      "created_at": "2023-09-19T19:37:01",
+      "updated_at": "2023-09-19T14:24:08"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 75,
+    "fields": {
+      "name": "TrangsucJewelry",
+      "created_at": "2023-09-19T8:22:14",
+      "updated_at": "2023-09-19T11:00:57"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 76,
+    "fields": {
+      "name": "GiaydepShoes",
+      "created_at": "2023-09-19T20:25:00",
+      "updated_at": "2023-09-19T4:38:48"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 77,
+    "fields": {
+      "name": "DogiadungFurniture",
+      "created_at": "2023-09-19T17:56:52",
+      "updated_at": "2023-09-19T23:25:25"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 78,
+    "fields": {
+      "name": "ThietbigiadungHomeAppliances",
+      "created_at": "2023-09-19T13:42:31",
+      "updated_at": "2023-09-19T9:15:53"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 79,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T23:25:00",
+      "updated_at": "2023-09-19T0:14:47"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 80,
+    "fields": {
+      "name": "DichvuchamsoccanhanPersonalCare&Services",
+      "created_at": "2023-09-19T12:36:45",
+      "updated_at": "2023-09-19T20:44:30"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 81,
+    "fields": {
+      "name": "ChamsocdongvatAnimalCare&Supplies",
+      "created_at": "2023-09-19T14:55:08",
+      "updated_at": "2023-09-19T12:20:43"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 82,
+    "fields": {
+      "name": "Cattoc&SalonBarber&BeautySalons",
+      "created_at": "2023-09-19T0:03:26",
+      "updated_at": "2023-09-19T23:52:07"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 83,
+    "fields": {
+      "name": "MyphamBeautySupplies",
+      "created_at": "2023-09-19T21:33:51",
+      "updated_at": "2023-09-19T19:27:40"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 84,
+    "fields": {
+      "name": "DichvugiatuiDryCleaners&Laundromats",
+      "created_at": "2023-09-19T20:03:43",
+      "updated_at": "2023-09-19T21:47:05"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 85,
+    "fields": {
+      "name": "ThehinhExercise&Fitness",
+      "created_at": "2023-09-19T5:45:27",
+      "updated_at": "2023-09-19T2:41:40"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 86,
+    "fields": {
+      "name": "Massage&ChamsocdaMassage&BodyWorks",
+      "created_at": "2023-09-19T9:48:02",
+      "updated_at": "2023-09-19T1:01:38"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 87,
+    "fields": {
+      "name": "NailSalonsNailSalons",
+      "created_at": "2023-09-19T7:39:20",
+      "updated_at": "2023-09-19T12:52:21"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 88,
+    "fields": {
+      "name": "DanhgiayShoeRepairsTailors",
+      "created_at": "2023-09-19T13:33:51",
+      "updated_at": "2023-09-19T16:05:15"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 89,
+    "fields": {
+      "name": "DietcontrungServicePestControl",
+      "created_at": "2023-09-19T6:14:15",
+      "updated_at": "2023-09-19T3:36:11"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 90,
+    "fields": {
+      "name": "VattuhoboiPoolSupplies&Service",
+      "created_at": "2023-09-19T14:54:18",
+      "updated_at": "2023-09-19T11:06:13"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 91,
+    "fields": {
+      "name": "DichvubaoanSecuritySystem&Services",
+      "created_at": "2023-09-19T22:50:35",
+      "updated_at": "2023-09-19T11:46:08"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 92,
+    "fields": {
+      "name": "Caitao&SuachuanhacuaHomeImprovements&Repairs",
+      "created_at": "2023-09-19T22:35:43",
+      "updated_at": "2023-09-19T5:21:09"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 93,
+    "fields": {
+      "name": "DonvesinhHousecleaning",
+      "created_at": "2023-09-19T22:04:06",
+      "updated_at": "2023-09-19T18:43:01"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 94,
+    "fields": {
+      "name": "DichvugiunhaHousekeeperService",
+      "created_at": "2023-09-19T23:34:11",
+      "updated_at": "2023-09-19T17:41:59"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 95,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T17:29:38",
+      "updated_at": "2023-09-19T17:40:14"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 96,
+    "fields": {
+      "name": "BatdongsanRealEstate",
+      "created_at": "2023-09-19T16:11:37",
+      "updated_at": "2023-09-19T16:08:37"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 97,
+    "fields": {
+      "name": "Daily&MogioiAgencies&Brokerage",
+      "created_at": "2023-09-19T4:24:59",
+      "updated_at": "2023-09-19T5:16:59"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 98,
+    "fields": {
+      "name": "Canho,Nha&VanphongchothueApartment,Home&OfficeRental",
+      "created_at": "2023-09-19T3:47:14",
+      "updated_at": "2023-09-19T13:27:54"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 99,
+    "fields": {
+      "name": "QuanlytaisanPropertyManagement",
+      "created_at": "2023-09-19T8:31:01",
+      "updated_at": "2023-09-19T21:02:19"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 100,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T11:21:25",
+      "updated_at": "2023-09-19T16:54:02"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 101,
+    "fields": {
+      "name": "Dulich&Vantai&LogisticsTravel&Transportation&Logistics",
+      "created_at": "2023-09-19T16:53:18",
+      "updated_at": "2023-09-19T5:21:15"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 102,
+    "fields": {
+      "name": "Khachsan&NhanghiHotel,Motel&ExtendedStay",
+      "created_at": "2023-09-19T17:31:00",
+      "updated_at": "2023-09-19T4:08:31"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 103,
+    "fields": {
+      "name": "Vanchuyen&LuutruMoving&Storage",
+      "created_at": "2023-09-19T23:49:18",
+      "updated_at": "2023-09-19T13:13:02"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 104,
+    "fields": {
+      "name": "Donggoi&GiaohangPackaging&Shipping",
+      "created_at": "2023-09-19T13:29:23",
+      "updated_at": "2023-09-19T17:51:58"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 105,
+    "fields": {
+      "name": "GiaothongvantaiTransportation",
+      "created_at": "2023-09-19T21:56:28",
+      "updated_at": "2023-09-19T4:45:43"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 106,
+    "fields": {
+      "name": "LogisticsLogistics",
+      "created_at": "2023-09-19T20:47:45",
+      "updated_at": "2023-09-19T14:37:01"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 107,
+    "fields": {
+      "name": "DulichTourism",
+      "created_at": "2023-09-19T16:25:55",
+      "updated_at": "2023-09-19T6:56:13"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 108,
+    "fields": {
+      "name": "CamtraiCamping",
+      "created_at": "2023-09-19T13:20:31",
+      "updated_at": "2023-09-19T0:35:32"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 109,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T5:02:12",
+      "updated_at": "2023-09-19T14:12:58"
+    }
+  },
+  {
+    "model": "menu_merchant.hashtag",
+    "pk": 110,
+    "fields": {
+      "name": "KhacOthers",
+      "created_at": "2023-09-19T7:05:03",
+      "updated_at": "2023-09-19T1:56:56"
+    }
+  }
+]

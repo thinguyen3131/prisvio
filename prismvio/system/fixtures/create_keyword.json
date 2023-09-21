@@ -1,0 +1,812 @@
+[
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 1,
+    "fields": {
+      "name": "nail salon near me",
+      "created_at": "2023-09-19T13:06:07",
+      "updated_at": "2023-09-19T22:41:27"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 2,
+    "fields": {
+      "name": "spa day packages",
+      "created_at": "2023-09-19T21:48:07",
+      "updated_at": "2023-09-19T12:31:20"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 3,
+    "fields": {
+      "name": "salon website design",
+      "created_at": "2023-09-19T10:42:36",
+      "updated_at": "2023-09-19T9:01:44"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 4,
+    "fields": {
+      "name": "gym membership deals",
+      "created_at": "2023-09-19T14:02:11",
+      "updated_at": "2023-09-19T11:48:25"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 5,
+    "fields": {
+      "name": "internet service providers",
+      "created_at": "2023-09-19T18:50:47",
+      "updated_at": "2023-09-19T9:47:53"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 6,
+    "fields": {
+      "name": "nail art ideas",
+      "created_at": "2023-09-19T13:08:36",
+      "updated_at": "2023-09-19T1:07:55"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 7,
+    "fields": {
+      "name": "spa gift cards",
+      "created_at": "2023-09-19T10:22:14",
+      "updated_at": "2023-09-19T6:33:03"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 8,
+    "fields": {
+      "name": "salon SEO keywords",
+      "created_at": "2023-09-19T4:19:13",
+      "updated_at": "2023-09-19T11:04:56"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 9,
+    "fields": {
+      "name": "gym equipment online",
+      "created_at": "2023-09-19T1:27:23",
+      "updated_at": "2023-09-19T19:12:01"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 10,
+    "fields": {
+      "name": "internet speed test",
+      "created_at": "2023-09-19T21:43:28",
+      "updated_at": "2023-09-19T13:18:17"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 11,
+    "fields": {
+      "name": "nail polish colors",
+      "created_at": "2023-09-19T6:16:48",
+      "updated_at": "2023-09-19T17:44:31"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 12,
+    "fields": {
+      "name": "spa treatments menu",
+      "created_at": "2023-09-19T2:31:19",
+      "updated_at": "2023-09-19T14:45:32"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 13,
+    "fields": {
+      "name": "salon marketing ideas",
+      "created_at": "2023-09-19T13:48:29",
+      "updated_at": "2023-09-19T18:04:57"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 14,
+    "fields": {
+      "name": "gym workout plan",
+      "created_at": "2023-09-19T10:46:01",
+      "updated_at": "2023-09-19T8:47:22"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 15,
+    "fields": {
+      "name": "internet of things",
+      "created_at": "2023-09-19T1:54:33",
+      "updated_at": "2023-09-19T22:52:55"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 16,
+    "fields": {
+      "name": "nail fungus treatment",
+      "created_at": "2023-09-19T21:23:55",
+      "updated_at": "2023-09-19T12:14:54"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 17,
+    "fields": {
+      "name": "spa music playlist",
+      "created_at": "2023-09-19T3:54:44",
+      "updated_at": "2023-09-19T15:45:39"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 18,
+    "fields": {
+      "name": "salon booking system",
+      "created_at": "2023-09-19T15:36:34",
+      "updated_at": "2023-09-19T7:08:52"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 19,
+    "fields": {
+      "name": "gym motivation quotes",
+      "created_at": "2023-09-19T2:29:38",
+      "updated_at": "2023-09-19T21:51:50"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 20,
+    "fields": {
+      "name": "internet security software",
+      "created_at": "2023-09-19T11:12:55",
+      "updated_at": "2023-09-19T12:15:42"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 21,
+    "fields": {
+      "name": "nail technician courses",
+      "created_at": "2023-09-19T19:02:49",
+      "updated_at": "2023-09-19T21:41:56"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 22,
+    "fields": {
+      "name": "spa business plan",
+      "created_at": "2023-09-19T1:05:01",
+      "updated_at": "2023-09-19T11:37:14"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 23,
+    "fields": {
+      "name": "salon software reviews",
+      "created_at": "2023-09-19T19:44:34",
+      "updated_at": "2023-09-19T20:12:40"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 24,
+    "fields": {
+      "name": "gym trainer app",
+      "created_at": "2023-09-19T2:54:19",
+      "updated_at": "2023-09-19T21:48:56"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 25,
+    "fields": {
+      "name": "internet radio stations",
+      "created_at": "2023-09-19T16:14:57",
+      "updated_at": "2023-09-19T10:41:58"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 26,
+    "fields": {
+      "name": "nail salon names",
+      "created_at": "2023-09-19T11:55:09",
+      "updated_at": "2023-09-19T13:40:00"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 27,
+    "fields": {
+      "name": "spa etiquette tips",
+      "created_at": "2023-09-19T16:56:33",
+      "updated_at": "2023-09-19T15:07:55"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 28,
+    "fields": {
+      "name": "salon logo maker",
+      "created_at": "2023-09-19T0:45:13",
+      "updated_at": "2023-09-19T19:47:00"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 29,
+    "fields": {
+      "name": "gym clothes for women",
+      "created_at": "2023-09-19T20:41:58",
+      "updated_at": "2023-09-19T9:18:42"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 30,
+    "fields": {
+      "name": "internet memes 2023",
+      "created_at": "2023-09-19T5:40:49",
+      "updated_at": "2023-09-19T1:08:26"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 31,
+    "fields": {
+      "name": "nail care products",
+      "created_at": "2023-09-19T0:14:09",
+      "updated_at": "2023-09-19T2:09:47"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 32,
+    "fields": {
+      "name": "spa finder website",
+      "created_at": "2023-09-19T18:41:02",
+      "updated_at": "2023-09-19T1:45:11"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 33,
+    "fields": {
+      "name": "salon furniture wholesale",
+      "created_at": "2023-09-19T23:17:34",
+      "updated_at": "2023-09-19T11:28:45"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 34,
+    "fields": {
+      "name": "gym bag essentials",
+      "created_at": "2023-09-19T22:21:37",
+      "updated_at": "2023-09-19T3:30:50"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 35,
+    "fields": {
+      "name": "internet slang dictionary",
+      "created_at": "2023-09-19T1:07:42",
+      "updated_at": "2023-09-19T4:15:24"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 36,
+    "fields": {
+      "name": "nail trends 2023",
+      "created_at": "2023-09-19T20:32:23",
+      "updated_at": "2023-09-19T17:28:44"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 37,
+    "fields": {
+      "name": "spa wellness blog",
+      "created_at": "2023-09-19T2:36:38",
+      "updated_at": "2023-09-19T6:56:19"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 38,
+    "fields": {
+      "name": "salon hair products",
+      "created_at": "2023-09-19T7:18:10",
+      "updated_at": "2023-09-19T7:22:58"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 39,
+    "fields": {
+      "name": "gym floor mats",
+      "created_at": "2023-09-19T13:12:10",
+      "updated_at": "2023-09-19T18:12:57"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 40,
+    "fields": {
+      "name": "internet archive games",
+      "created_at": "2023-09-19T1:29:07",
+      "updated_at": "2023-09-19T3:54:39"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 41,
+    "fields": {
+      "name": "nail file types",
+      "created_at": "2023-09-19T5:26:23",
+      "updated_at": "2023-09-19T7:05:33"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 42,
+    "fields": {
+      "name": "spa industry statistics",
+      "created_at": "2023-09-19T9:44:42",
+      "updated_at": "2023-09-19T23:06:30"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 43,
+    "fields": {
+      "name": "salon business cards",
+      "created_at": "2023-09-19T20:23:01",
+      "updated_at": "2023-09-19T20:28:12"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 44,
+    "fields": {
+      "name": "gym shark clothing",
+      "created_at": "2023-09-19T2:51:46",
+      "updated_at": "2023-09-19T7:35:15"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 45,
+    "fields": {
+      "name": "internet explorer browser",
+      "created_at": "2023-09-19T14:14:55",
+      "updated_at": "2023-09-19T19:35:35"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 46,
+    "fields": {
+      "name": "nail stickers decals",
+      "created_at": "2023-09-19T9:05:07",
+      "updated_at": "2023-09-19T3:48:30"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 47,
+    "fields": {
+      "name": "spa facial treatments",
+      "created_at": "2023-09-19T14:19:09",
+      "updated_at": "2023-09-19T6:13:22"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 48,
+    "fields": {
+      "name": "salon owner salary",
+      "created_at": "2023-09-19T22:03:01",
+      "updated_at": "2023-09-19T6:18:09"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 49,
+    "fields": {
+      "name": "gym jokes humor -internet cafe near me",
+      "created_at": "2023-09-19T14:01:51",
+      "updated_at": "2023-09-19T20:39:32"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 50,
+    "fields": {
+      "name": "nail spa near me",
+      "created_at": "2023-09-19T9:12:55",
+      "updated_at": "2023-09-19T23:22:30"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 51,
+    "fields": {
+      "name": "spa massage therapy",
+      "created_at": "2023-09-19T17:33:29",
+      "updated_at": "2023-09-19T7:37:51"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 52,
+    "fields": {
+      "name": "salon appointment booking",
+      "created_at": "2023-09-19T3:22:00",
+      "updated_at": "2023-09-19T7:41:55"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 53,
+    "fields": {
+      "name": "gym fitness classes",
+      "created_at": "2023-09-19T18:33:07",
+      "updated_at": "2023-09-19T3:50:41"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 54,
+    "fields": {
+      "name": "internet cable TV",
+      "created_at": "2023-09-19T11:51:13",
+      "updated_at": "2023-09-19T9:47:02"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 55,
+    "fields": {
+      "name": "nail design trends",
+      "created_at": "2023-09-19T20:09:47",
+      "updated_at": "2023-09-19T15:02:17"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 56,
+    "fields": {
+      "name": "spa relaxation techniques",
+      "created_at": "2023-09-19T7:20:39",
+      "updated_at": "2023-09-19T15:34:15"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 57,
+    "fields": {
+      "name": "salon social media marketing",
+      "created_at": "2023-09-19T4:47:58",
+      "updated_at": "2023-09-19T21:46:19"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 58,
+    "fields": {
+      "name": "gym nutrition tips",
+      "created_at": "2023-09-19T7:47:40",
+      "updated_at": "2023-09-19T7:03:12"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 59,
+    "fields": {
+      "name": "internet phone service",
+      "created_at": "2023-09-19T11:13:00",
+      "updated_at": "2023-09-19T4:29:49"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 60,
+    "fields": {
+      "name": "nail manicure pedicure",
+      "created_at": "2023-09-19T21:07:51",
+      "updated_at": "2023-09-19T13:07:47"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 61,
+    "fields": {
+      "name": "spa beauty products",
+      "created_at": "2023-09-19T17:04:50",
+      "updated_at": "2023-09-19T5:17:32"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 62,
+    "fields": {
+      "name": "salon customer reviews",
+      "created_at": "2023-09-19T23:21:46",
+      "updated_at": "2023-09-19T17:39:27"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 63,
+    "fields": {
+      "name": "gym personal trainer",
+      "created_at": "2023-09-19T5:38:55",
+      "updated_at": "2023-09-19T0:25:48"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 64,
+    "fields": {
+      "name": "internet privacy policy",
+      "created_at": "2023-09-19T12:33:43",
+      "updated_at": "2023-09-19T16:07:49"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 65,
+    "fields": {
+      "name": "nail salon coupons",
+      "created_at": "2023-09-19T9:02:40",
+      "updated_at": "2023-09-19T10:44:24"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 66,
+    "fields": {
+      "name": "spa aromatherapy oils",
+      "created_at": "2023-09-19T10:57:43",
+      "updated_at": "2023-09-19T4:19:15"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 67,
+    "fields": {
+      "name": "salon hair color ideas",
+      "created_at": "2023-09-19T10:16:02",
+      "updated_at": "2023-09-19T19:20:59"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 68,
+    "fields": {
+      "name": "gym membership cancellation",
+      "created_at": "2023-09-19T5:44:50",
+      "updated_at": "2023-09-19T2:29:52"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 69,
+    "fields": {
+      "name": "internet access options",
+      "created_at": "2023-09-19T12:51:36",
+      "updated_at": "2023-09-19T9:10:29"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 70,
+    "fields": {
+      "name": "nail salon hygiene",
+      "created_at": "2023-09-19T6:22:16",
+      "updated_at": "2023-09-19T6:25:23"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 71,
+    "fields": {
+      "name": "spa loyalty program",
+      "created_at": "2023-09-19T4:26:00",
+      "updated_at": "2023-09-19T6:10:56"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 72,
+    "fields": {
+      "name": "salon online store",
+      "created_at": "2023-09-19T20:45:41",
+      "updated_at": "2023-09-19T16:40:57"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 73,
+    "fields": {
+      "name": "gym yoga studio",
+      "created_at": "2023-09-19T14:21:27",
+      "updated_at": "2023-09-19T13:59:05"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 74,
+    "fields": {
+      "name": "internet streaming service",
+      "created_at": "2023-09-19T5:59:23",
+      "updated_at": "2023-09-19T23:07:09"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 75,
+    "fields": {
+      "name": "nail salon franchise",
+      "created_at": "2023-09-19T1:50:00",
+      "updated_at": "2023-09-19T23:33:03"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 76,
+    "fields": {
+      "name": "spa home decor",
+      "created_at": "2023-09-19T13:54:48",
+      "updated_at": "2023-09-19T22:58:55"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 77,
+    "fields": {
+      "name": "salon industry news",
+      "created_at": "2023-09-19T4:23:06",
+      "updated_at": "2023-09-19T5:26:12"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 78,
+    "fields": {
+      "name": "gym health benefits",
+      "created_at": "2023-09-19T8:21:02",
+      "updated_at": "2023-09-19T9:36:33"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 79,
+    "fields": {
+      "name": "internet browser history",
+      "created_at": "2023-09-19T2:01:03",
+      "updated_at": "2023-09-19T20:55:34"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 80,
+    "fields": {
+      "name": "nail salon equipment",
+      "created_at": "2023-09-19T4:44:02",
+      "updated_at": "2023-09-19T13:30:27"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 81,
+    "fields": {
+      "name": "spa customer satisfaction survey",
+      "created_at": "2023-09-19T5:26:35",
+      "updated_at": "2023-09-19T4:46:52"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 82,
+    "fields": {
+      "name": "salon employee handbook",
+      "created_at": "2023-09-19T16:37:34",
+      "updated_at": "2023-09-19T11:09:02"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 83,
+    "fields": {
+      "name": "gym safety rules",
+      "created_at": "2023-09-19T18:04:56",
+      "updated_at": "2023-09-19T5:24:13"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 84,
+    "fields": {
+      "name": "internet connection speed test",
+      "created_at": "2023-09-19T10:51:52",
+      "updated_at": "2023-09-19T12:21:03"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 85,
+    "fields": {
+      "name": "nail salon license requirements",
+      "created_at": "2023-09-19T3:27:18",
+      "updated_at": "2023-09-19T0:13:50"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 86,
+    "fields": {
+      "name": "spa newsletter subscription",
+      "created_at": "2023-09-19T6:27:58",
+      "updated_at": "2023-09-19T10:35:48"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 87,
+    "fields": {
+      "name": "salon referral program",
+      "created_at": "2023-09-19T22:05:48",
+      "updated_at": "2023-09-19T17:19:53"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 88,
+    "fields": {
+      "name": "gym opening hours",
+      "created_at": "2023-09-19T9:44:40",
+      "updated_at": "2023-09-19T1:18:53"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 89,
+    "fields": {
+      "name": "internet domain name registration",
+      "created_at": "2023-09-19T22:04:21",
+      "updated_at": "2023-09-19T12:13:57"
+    }
+  },
+  {
+    "model": "menu_merchant.keyword",
+    "pk": 90,
+    "fields": {
+      "name": "nail salon insurance policy",
+      "created_at": "2023-09-19T18:10:18",
+      "updated_at": "2023-09-19T20:43:20"
+    }
+  }
+]

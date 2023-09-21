@@ -124,3 +124,52 @@ class User(AbstractUser):
                 for x in self.PROFILE_FIELDS_MAP[self.profile_type]["required"]
             ]
         )
+
+
+class PrivacySetting(models.Model):
+    ONLY_ME = "OM"
+    EVERYONE = "EV"
+    FRIENDS = "FR"
+    PRIVACY_CHOICES = [
+        (ONLY_ME, "Only Me"),
+        (EVERYONE, "Everyone"),
+        (FRIENDS, "Friends"),
+    ]
+
+    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name="privacy_settings")
+    username_privacy = models.CharField(max_length=2, choices=PRIVACY_CHOICES, default=EVERYONE)
+    email_privacy = models.CharField(max_length=2, choices=PRIVACY_CHOICES, default=EVERYONE)
+    phone_number_privacy = models.CharField(max_length=2, choices=PRIVACY_CHOICES, default=EVERYONE)
+
+    def __str__(self):
+        return f"Privacy settings for {self.user.username}"
+
+
+class Friendship(models.Model):
+    PENDING = "PE"
+    ACCEPTED = "AC"
+    DECLINED = "DE"
+    STATUS_CHOICES = [
+        (PENDING, "Pending"),
+        (ACCEPTED, "Accepted"),
+        (DECLINED, "Declined"),
+    ]
+
+    sender = models.ForeignKey(
+        settings.AUTH_USER_MODEL,
+        on_delete=models.CASCADE,
+        related_name="sent_friend_requests",
+        help_text="the person sending the friend request",
+    )
+    receiver = models.ForeignKey(
+        settings.AUTH_USER_MODEL,
+        on_delete=models.CASCADE,
+        related_name="received_friend_requests",
+        help_text="friend recipient",
+    )
+    status = models.CharField(max_length=2, choices=STATUS_CHOICES, default=PENDING)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return f"{self.sender.username} -> {self.receiver.username}: {self.get_status_display()}"

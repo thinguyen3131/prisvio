@@ -26,6 +26,8 @@ def build_query_filters(params, field_mapping):
                 list_or.append({filter_string: value[1:]})
             else:
                 list_and.update({filter_string: value})
+        if key != "sort_by":
+            value = handle_search_phone_number_and_email(key, value)
         if key.endswith("isempty"):
             filter_string = key.replace("isempty", "exact")
             if value == "false":

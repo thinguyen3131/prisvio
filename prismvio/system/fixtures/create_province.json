@@ -1,0 +1,1432 @@
+[
+  {
+    "model": "location.province",
+    "pk": 1,
+    "fields": {
+      "code": 1,
+      "name_vi": "Hà Nội",
+      "name_en": "Ha Noi",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T19:28:37",
+      "updated_at": "2023-09-19T1:11:44"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 2,
+    "fields": {
+      "code": 2,
+      "name_vi": "Hà Giang",
+      "name_en": "Ha Giang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T7:47:43",
+      "updated_at": "2023-09-19T12:09:22"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 3,
+    "fields": {
+      "code": 3,
+      "name_vi": "Cao Bằng",
+      "name_en": "Cao Bang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T22:11:25",
+      "updated_at": "2023-09-19T0:05:10"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 4,
+    "fields": {
+      "code": 4,
+      "name_vi": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T12:48:01",
+      "updated_at": "2023-09-19T21:34:30"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 5,
+    "fields": {
+      "code": 5,
+      "name_vi": "Tuyên Quang",
+      "name_en": "Tuyen Quang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T3:30:30",
+      "updated_at": "2023-09-19T1:12:53"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 6,
+    "fields": {
+      "code": 6,
+      "name_vi": "Lào Cai",
+      "name_en": "Lao Cai",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T2:51:08",
+      "updated_at": "2023-09-19T14:19:05"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 7,
+    "fields": {
+      "code": 7,
+      "name_vi": "Điện Biên",
+      "name_en": "Dien Bien",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T20:38:30",
+      "updated_at": "2023-09-19T21:17:23"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 8,
+    "fields": {
+      "code": 8,
+      "name_vi": "Lai Châu",
+      "name_en": "Lai Chau",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T18:44:44",
+      "updated_at": "2023-09-19T0:37:03"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 9,
+    "fields": {
+      "code": 9,
+      "name_vi": "Sơn La",
+      "name_en": "Son La",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T13:24:46",
+      "updated_at": "2023-09-19T9:38:02"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 10,
+    "fields": {
+      "code": 10,
+      "name_vi": "Yên Bái",
+      "name_en": "Yen Bai",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T10:33:45",
+      "updated_at": "2023-09-19T7:26:34"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 11,
+    "fields": {
+      "code": 11,
+      "name_vi": "Hoà Bình",
+      "name_en": "Hoa Binh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T21:57:57",
+      "updated_at": "2023-09-19T4:59:46"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 12,
+    "fields": {
+      "code": 12,
+      "name_vi": "Thái Nguyên",
+      "name_en": "Thai Nguyen",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T15:08:57",
+      "updated_at": "2023-09-19T11:33:56"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 13,
+    "fields": {
+      "code": 13,
+      "name_vi": "Lạng Sơn",
+      "name_en": "Lang Son",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T21:40:28",
+      "updated_at": "2023-09-19T3:37:01"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 14,
+    "fields": {
+      "code": 14,
+      "name_vi": "Quảng Ninh",
+      "name_en": "Quang Ninh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T1:42:59",
+      "updated_at": "2023-09-19T19:20:13"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 15,
+    "fields": {
+      "code": 15,
+      "name_vi": "Bắc Giang",
+      "name_en": "Bac Giang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T3:05:06",
+      "updated_at": "2023-09-19T8:13:50"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 16,
+    "fields": {
+      "code": 16,
+      "name_vi": "Phú Thọ",
+      "name_en": "Phu Tho",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T23:27:14",
+      "updated_at": "2023-09-19T21:34:29"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 17,
+    "fields": {
+      "code": 17,
+      "name_vi": "Vĩnh Phúc",
+      "name_en": "Vinh Phuc",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T14:38:27",
+      "updated_at": "2023-09-19T18:05:54"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 18,
+    "fields": {
+      "code": 18,
+      "name_vi": "Bắc Ninh",
+      "name_en": "Bac Ninh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T22:01:07",
+      "updated_at": "2023-09-19T4:53:48"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 19,
+    "fields": {
+      "code": 19,
+      "name_vi": "Hải Dương",
+      "name_en": "Hai Duong",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T21:47:36",
+      "updated_at": "2023-09-19T2:29:09"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 20,
+    "fields": {
+      "code": 20,
+      "name_vi": "Hải Phòng",
+      "name_en": "Hai Phong",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T16:06:04",
+      "updated_at": "2023-09-19T15:31:10"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 21,
+    "fields": {
+      "code": 21,
+      "name_vi": "Hưng Yên",
+      "name_en": "Hung Yen",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T22:02:16",
+      "updated_at": "2023-09-19T1:34:49"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 22,
+    "fields": {
+      "code": 22,
+      "name_vi": "Thái Bình",
+      "name_en": "Thai Binh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T0:38:06",
+      "updated_at": "2023-09-19T16:05:15"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 23,
+    "fields": {
+      "code": 23,
+      "name_vi": "Hà Nam",
+      "name_en": "Ha Nam",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T10:03:34",
+      "updated_at": "2023-09-19T1:14:03"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 24,
+    "fields": {
+      "code": 24,
+      "name_vi": "Nam Định",
+      "name_en": "Nam Dinh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T14:00:11",
+      "updated_at": "2023-09-19T0:31:43"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 25,
+    "fields": {
+      "code": 25,
+      "name_vi": "Ninh Bình",
+      "name_en": "Ninh Binh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T9:47:07",
+      "updated_at": "2023-09-19T4:49:00"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 26,
+    "fields": {
+      "code": 26,
+      "name_vi": "Thanh Hóa",
+      "name_en": "Thanh Hoa",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T1:40:34",
+      "updated_at": "2023-09-19T3:36:51"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 27,
+    "fields": {
+      "code": 27,
+      "name_vi": "Nghệ An",
+      "name_en": "Nghe An",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T11:20:32",
+      "updated_at": "2023-09-19T1:59:20"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 28,
+    "fields": {
+      "code": 28,
+      "name_vi": "Hà Tĩnh",
+      "name_en": "Ha Tinh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T19:39:27",
+      "updated_at": "2023-09-19T3:34:02"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 29,
+    "fields": {
+      "code": 29,
+      "name_vi": "Quảng Bình",
+      "name_en": "Quang Binh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T15:58:07",
+      "updated_at": "2023-09-19T13:13:13"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 30,
+    "fields": {
+      "code": 30,
+      "name_vi": "Quảng Trị",
+      "name_en": "Quang Tri",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T18:07:29",
+      "updated_at": "2023-09-19T8:55:39"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 31,
+    "fields": {
+      "code": 31,
+      "name_vi": "Thừa Thiên Huế",
+      "name_en": "Thua Thien Hue",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T3:22:47",
+      "updated_at": "2023-09-19T2:28:27"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 32,
+    "fields": {
+      "code": 32,
+      "name_vi": "Đà Nẵng",
+      "name_en": "Da Nang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T20:36:16",
+      "updated_at": "2023-09-19T16:10:05"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 33,
+    "fields": {
+      "code": 33,
+      "name_vi": "Quảng Nam",
+      "name_en": "Quang Nam",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T0:17:50",
+      "updated_at": "2023-09-19T22:45:58"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 34,
+    "fields": {
+      "code": 34,
+      "name_vi": "Quảng Ngãi",
+      "name_en": "Quang Ngai",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T6:15:15",
+      "updated_at": "2023-09-19T0:36:24"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 35,
+    "fields": {
+      "code": 35,
+      "name_vi": "Bình Định",
+      "name_en": "Binh Dinh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T1:22:36",
+      "updated_at": "2023-09-19T14:32:57"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 36,
+    "fields": {
+      "code": 36,
+      "name_vi": "Phú Yên",
+      "name_en": "Phu Yen",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T3:15:09",
+      "updated_at": "2023-09-19T8:35:50"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 37,
+    "fields": {
+      "code": 37,
+      "name_vi": "Khánh Hòa",
+      "name_en": "Khanh Hoa",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T14:31:51",
+      "updated_at": "2023-09-19T8:08:15"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 38,
+    "fields": {
+      "code": 38,
+      "name_vi": "Ninh Thuận",
+      "name_en": "Ninh Thuan",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T15:57:58",
+      "updated_at": "2023-09-19T11:37:01"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 39,
+    "fields": {
+      "code": 39,
+      "name_vi": "Bình Thuận",
+      "name_en": "Binh Thuan",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T21:57:34",
+      "updated_at": "2023-09-19T12:48:58"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 40,
+    "fields": {
+      "code": 40,
+      "name_vi": "Kon Tum",
+      "name_en": "Kon Tum",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T3:27:47",
+      "updated_at": "2023-09-19T16:44:23"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 41,
+    "fields": {
+      "code": 41,
+      "name_vi": "Gia Lai",
+      "name_en": "Gia Lai",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T10:21:33",
+      "updated_at": "2023-09-19T10:22:53"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 42,
+    "fields": {
+      "code": 42,
+      "name_vi": "Đắk Lắk",
+      "name_en": "Dak Lak",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T10:47:52",
+      "updated_at": "2023-09-19T0:47:16"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 43,
+    "fields": {
+      "code": 43,
+      "name_vi": "Đắk Nông",
+      "name_en": "Dak Nong",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T23:03:09",
+      "updated_at": "2023-09-19T8:13:33"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 44,
+    "fields": {
+      "code": 44,
+      "name_vi": "Lâm Đồng",
+      "name_en": "Lam Dong",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T23:05:35",
+      "updated_at": "2023-09-19T15:25:37"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 45,
+    "fields": {
+      "code": 45,
+      "name_vi": "Bình Phước",
+      "name_en": "Binh Phuoc",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T4:01:40",
+      "updated_at": "2023-09-19T16:16:48"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 46,
+    "fields": {
+      "code": 46,
+      "name_vi": "Tây Ninh",
+      "name_en": "Tay Ninh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T17:03:32",
+      "updated_at": "2023-09-19T16:05:38"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 47,
+    "fields": {
+      "code": 47,
+      "name_vi": "Bình Dương",
+      "name_en": "Binh Duong",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T2:08:29",
+      "updated_at": "2023-09-19T22:58:39"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 48,
+    "fields": {
+      "code": 48,
+      "name_vi": "Đồng Nai",
+      "name_en": "Dong Nai",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T23:38:24",
+      "updated_at": "2023-09-19T1:41:38"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 49,
+    "fields": {
+      "code": 49,
+      "name_vi": "Bà Rịa - Vũng Tàu",
+      "name_en": "Ba Ria - Vung Tau",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T13:03:48",
+      "updated_at": "2023-09-19T6:06:00"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 50,
+    "fields": {
+      "code": 50,
+      "name_vi": "Hồ Chí Minh",
+      "name_en": "Ho Chi Minh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T8:43:53",
+      "updated_at": "2023-09-19T19:53:48"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 51,
+    "fields": {
+      "code": 51,
+      "name_vi": "Long An",
+      "name_en": "Long An",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T7:51:56",
+      "updated_at": "2023-09-19T18:17:38"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 52,
+    "fields": {
+      "code": 52,
+      "name_vi": "Tiền Giang",
+      "name_en": "Tien Giang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T1:42:32",
+      "updated_at": "2023-09-19T8:12:38"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 53,
+    "fields": {
+      "code": 53,
+      "name_vi": "Bến Tre",
+      "name_en": "Ben Tre",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T10:49:18",
+      "updated_at": "2023-09-19T23:38:42"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 54,
+    "fields": {
+      "code": 54,
+      "name_vi": "Trà Vinh",
+      "name_en": "Tra Vinh",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T4:07:01",
+      "updated_at": "2023-09-19T8:29:09"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 55,
+    "fields": {
+      "code": 55,
+      "name_vi": "Vĩnh Long",
+      "name_en": "Vinh Long",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T9:14:59",
+      "updated_at": "2023-09-19T8:49:37"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 56,
+    "fields": {
+      "code": 56,
+      "name_vi": "Đồng Tháp",
+      "name_en": "Dong Thap",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T11:28:34",
+      "updated_at": "2023-09-19T9:11:36"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 57,
+    "fields": {
+      "code": 57,
+      "name_vi": "An Giang",
+      "name_en": "An Giang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T8:42:40",
+      "updated_at": "2023-09-19T0:45:22"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 58,
+    "fields": {
+      "code": 58,
+      "name_vi": "Kiên Giang",
+      "name_en": "Kien Giang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T21:02:53",
+      "updated_at": "2023-09-19T11:10:47"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 59,
+    "fields": {
+      "code": 59,
+      "name_vi": "Cần Thơ",
+      "name_en": "Can Tho",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T16:04:55",
+      "updated_at": "2023-09-19T23:26:23"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 60,
+    "fields": {
+      "code": 60,
+      "name_vi": "Hậu Giang",
+      "name_en": "Hau Giang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T18:59:26",
+      "updated_at": "2023-09-19T11:46:57"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 61,
+    "fields": {
+      "code": 61,
+      "name_vi": "Sóc Trăng",
+      "name_en": "Soc Trang",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T9:06:38",
+      "updated_at": "2023-09-19T23:05:39"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 62,
+    "fields": {
+      "code": 62,
+      "name_vi": "Bạc Liêu",
+      "name_en": "Bac Lieu",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T2:18:10",
+      "updated_at": "2023-09-19T18:45:46"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 63,
+    "fields": {
+      "code": 63,
+      "name_vi": "Cà Mau",
+      "name_en": "Ca Mau",
+      "country_id": 1,
+      "zip_code": null,
+      "created_at": "2023-09-19T9:40:04",
+      "updated_at": "2023-09-19T21:43:11"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 64,
+    "fields": {
+      "code": 64,
+      "name_vi": "Alabama",
+      "name_en": "Alabama",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T13:33:06",
+      "updated_at": "2023-09-19T1:33:17"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 65,
+    "fields": {
+      "code": 65,
+      "name_vi": "Alaska",
+      "name_en": "Alaska",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T17:46:53",
+      "updated_at": "2023-09-19T21:06:33"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 66,
+    "fields": {
+      "code": 66,
+      "name_vi": "Arizona",
+      "name_en": "Arizona",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T9:09:40",
+      "updated_at": "2023-09-19T12:30:11"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 67,
+    "fields": {
+      "code": 67,
+      "name_vi": "Arlansas",
+      "name_en": "Arlansas",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T23:54:03",
+      "updated_at": "2023-09-19T2:27:32"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 68,
+    "fields": {
+      "code": 68,
+      "name_vi": "California",
+      "name_en": "California",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T2:19:53",
+      "updated_at": "2023-09-19T7:58:37"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 69,
+    "fields": {
+      "code": 69,
+      "name_vi": "Colorado",
+      "name_en": "Colorado",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T12:06:42",
+      "updated_at": "2023-09-19T22:53:58"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 70,
+    "fields": {
+      "code": 70,
+      "name_vi": "Connecticut",
+      "name_en": "Connecticut",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T7:03:07",
+      "updated_at": "2023-09-19T11:42:49"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 71,
+    "fields": {
+      "code": 71,
+      "name_vi": "Delaware",
+      "name_en": "Delaware",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T3:06:50",
+      "updated_at": "2023-09-19T1:10:54"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 72,
+    "fields": {
+      "code": 72,
+      "name_vi": "Florida",
+      "name_en": "Florida",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T22:59:58",
+      "updated_at": "2023-09-19T11:43:09"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 73,
+    "fields": {
+      "code": 73,
+      "name_vi": "Georgia",
+      "name_en": "Georgia",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T23:04:10",
+      "updated_at": "2023-09-19T21:21:46"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 74,
+    "fields": {
+      "code": 74,
+      "name_vi": "Hawaii",
+      "name_en": "Hawaii",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T4:08:28",
+      "updated_at": "2023-09-19T8:48:19"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 75,
+    "fields": {
+      "code": 75,
+      "name_vi": "Idaho",
+      "name_en": "Idaho",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T0:02:25",
+      "updated_at": "2023-09-19T13:33:47"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 76,
+    "fields": {
+      "code": 76,
+      "name_vi": "Illinois",
+      "name_en": "Illinois",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T8:51:13",
+      "updated_at": "2023-09-19T1:31:05"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 77,
+    "fields": {
+      "code": 77,
+      "name_vi": "Indiana",
+      "name_en": "Indiana",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T8:16:17",
+      "updated_at": "2023-09-19T8:21:53"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 78,
+    "fields": {
+      "code": 78,
+      "name_vi": "Iowa",
+      "name_en": "Iowa",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T22:18:45",
+      "updated_at": "2023-09-19T23:31:07"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 79,
+    "fields": {
+      "code": 79,
+      "name_vi": "Kansas",
+      "name_en": "Kansas",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T10:27:43",
+      "updated_at": "2023-09-19T4:54:40"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 80,
+    "fields": {
+      "code": 80,
+      "name_vi": "Kentucky",
+      "name_en": "Kentucky",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T11:24:59",
+      "updated_at": "2023-09-19T15:00:19"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 81,
+    "fields": {
+      "code": 81,
+      "name_vi": "Louisiana",
+      "name_en": "Louisiana",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T5:00:26",
+      "updated_at": "2023-09-19T6:46:27"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 82,
+    "fields": {
+      "code": 82,
+      "name_vi": "Maine",
+      "name_en": "Maine",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T16:57:55",
+      "updated_at": "2023-09-19T15:23:30"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 83,
+    "fields": {
+      "code": 83,
+      "name_vi": "Maryland",
+      "name_en": "Maryland",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T12:31:46",
+      "updated_at": "2023-09-19T10:25:03"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 84,
+    "fields": {
+      "code": 84,
+      "name_vi": "Massachusetts",
+      "name_en": "Massachusetts",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T5:45:33",
+      "updated_at": "2023-09-19T11:04:55"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 85,
+    "fields": {
+      "code": 85,
+      "name_vi": "Michigan",
+      "name_en": "Michigan",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T4:54:19",
+      "updated_at": "2023-09-19T23:04:11"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 86,
+    "fields": {
+      "code": 86,
+      "name_vi": "Minnesota",
+      "name_en": "Minnesota",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T14:38:23",
+      "updated_at": "2023-09-19T19:32:30"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 87,
+    "fields": {
+      "code": 87,
+      "name_vi": "Mississippi",
+      "name_en": "Mississippi",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T13:26:12",
+      "updated_at": "2023-09-19T14:06:49"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 88,
+    "fields": {
+      "code": 88,
+      "name_vi": "Missouri",
+      "name_en": "Missouri",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T15:31:37",
+      "updated_at": "2023-09-19T10:18:31"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 89,
+    "fields": {
+      "code": 89,
+      "name_vi": "Montana",
+      "name_en": "Montana",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T20:28:13",
+      "updated_at": "2023-09-19T20:51:07"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 90,
+    "fields": {
+      "code": 90,
+      "name_vi": "Nebraska",
+      "name_en": "Nebraska",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T17:11:54",
+      "updated_at": "2023-09-19T10:55:47"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 91,
+    "fields": {
+      "code": 91,
+      "name_vi": "Nevada",
+      "name_en": "Nevada",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T17:06:59",
+      "updated_at": "2023-09-19T19:49:03"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 92,
+    "fields": {
+      "code": 92,
+      "name_vi": "New Hampshire",
+      "name_en": "New Hampshire",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T8:39:00",
+      "updated_at": "2023-09-19T17:47:39"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 93,
+    "fields": {
+      "code": 93,
+      "name_vi": "New Jersey",
+      "name_en": "New Jersey",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T16:29:21",
+      "updated_at": "2023-09-19T10:26:27"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 94,
+    "fields": {
+      "code": 94,
+      "name_vi": "New Mexico",
+      "name_en": "New Mexico",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T0:18:54",
+      "updated_at": "2023-09-19T9:31:48"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 95,
+    "fields": {
+      "code": 95,
+      "name_vi": "New York",
+      "name_en": "New York",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T7:44:24",
+      "updated_at": "2023-09-19T14:36:08"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 96,
+    "fields": {
+      "code": 96,
+      "name_vi": "North Carolina",
+      "name_en": "North Carolina",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T4:38:13",
+      "updated_at": "2023-09-19T8:55:59"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 97,
+    "fields": {
+      "code": 97,
+      "name_vi": "North Dakota",
+      "name_en": "North Dakota",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T15:06:38",
+      "updated_at": "2023-09-19T6:18:20"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 98,
+    "fields": {
+      "code": 98,
+      "name_vi": "Ohio",
+      "name_en": "Ohio",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T19:26:56",
+      "updated_at": "2023-09-19T20:27:16"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 99,
+    "fields": {
+      "code": 99,
+      "name_vi": "Oklahoma",
+      "name_en": "Oklahoma",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T1:56:29",
+      "updated_at": "2023-09-19T1:24:10"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 100,
+    "fields": {
+      "code": 100,
+      "name_vi": "Oregon",
+      "name_en": "Oregon",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T2:32:54",
+      "updated_at": "2023-09-19T12:41:32"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 101,
+    "fields": {
+      "code": 101,
+      "name_vi": "Pennsylvania",
+      "name_en": "Pennsylvania",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T5:54:35",
+      "updated_at": "2023-09-19T7:13:49"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 102,
+    "fields": {
+      "code": 102,
+      "name_vi": "Rhode Island",
+      "name_en": "Rhode Island",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T8:55:51",
+      "updated_at": "2023-09-19T20:28:19"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 103,
+    "fields": {
+      "code": 103,
+      "name_vi": "South Carolina",
+      "name_en": "South Carolina",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T1:51:09",
+      "updated_at": "2023-09-19T14:23:23"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 104,
+    "fields": {
+      "code": 104,
+      "name_vi": "South Dakota",
+      "name_en": "South Dakota",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T13:48:21",
+      "updated_at": "2023-09-19T8:14:41"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 105,
+    "fields": {
+      "code": 105,
+      "name_vi": "Tennessee",
+      "name_en": "Tennessee",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T13:22:25",
+      "updated_at": "2023-09-19T15:13:30"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 106,
+    "fields": {
+      "code": 106,
+      "name_vi": "Texas",
+      "name_en": "Texas",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T9:50:53",
+      "updated_at": "2023-09-19T1:18:23"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 107,
+    "fields": {
+      "code": 107,
+      "name_vi": "Utah",
+      "name_en": "Utah",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T2:25:52",
+      "updated_at": "2023-09-19T3:40:23"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 108,
+    "fields": {
+      "code": 108,
+      "name_vi": "Vermont",
+      "name_en": "Vermont",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T23:17:10",
+      "updated_at": "2023-09-19T9:38:10"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 109,
+    "fields": {
+      "code": 109,
+      "name_vi": "Virginia",
+      "name_en": "Virginia",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T5:19:05",
+      "updated_at": "2023-09-19T11:35:37"
+    }
+  },
+  {
+    "model": "location.province",
+    "pk": 110,
+    "fields": {
+      "code": 110,
+      "name_vi": "Washington",
+      "name_en": "Washington",
+      "country_id": 2,
+      "zip_code": null,
+      "created_at": "2023-09-19T15:26:41",
+      "updated_at": "2023-09-19T14:52:46"
+    }
+  }
+]

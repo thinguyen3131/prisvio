@@ -5,6 +5,7 @@ from rest_framework.routers import DefaultRouter, SimpleRouter
 from prismvio.menu_merchant.api.views import (
     CategoryListCreateView,
     CategoryRetrieveUpdateDestroyView,
+    GetCategoryData,
     HashtagListCreateView,
     HashtagRetrieveUpdateDestroyView,
     ParentIDListView,
@@ -34,4 +35,5 @@ urlpatterns = [
     path("categories/", CategoryListCreateView.as_view(), name="category-list-create"),
     path("categories/<int:pk>/", CategoryRetrieveUpdateDestroyView.as_view(), name="category-detail"),
     path("parent_ids/", ParentIDListView.as_view(), name="parent-id-list"),
+    path("get_category_data/", GetCategoryData.as_view(), name="get_category_data"),
 ]

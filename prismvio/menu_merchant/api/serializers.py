@@ -1,6 +1,7 @@
 from rest_framework import serializers
 
 from prismvio.menu_merchant.models import Category, Hashtag, Products, Promotion, Services
+from prismvio.merchant.models import Merchant
 
 
 class HashtagSerializer(serializers.ModelSerializer):
@@ -116,4 +117,22 @@ class ServiceSerializer(serializers.ModelSerializer):
 class CategorySerializer(serializers.ModelSerializer):
     class Meta:
         model = Category
+        fields = "__all__"
+
+
+class MerchantSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Merchant
+        fields = "__all__"
+
+
+class ProductsSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Products
+        fields = "__all__"
+
+
+class ServicesSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Services
         fields = "__all__"

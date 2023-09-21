@@ -1,0 +1,26 @@
+[
+  {
+    "model": "location.country",
+    "pk": 1,
+    "fields": {
+      "code": 1,
+      "full_name_vi": "Việt Nam",
+      "full_name_en": "Viet Nam",
+      "zip_code": null,
+      "created_at": "2023-09-19T16:47:17",
+      "updated_at": "2023-09-19T4:17:26"
+    }
+  },
+  {
+    "model": "location.country",
+    "pk": 2,
+    "fields": {
+      "code": 2,
+      "full_name_vi": "Hoa Kỳ",
+      "full_name_en": "USA",
+      "zip_code": null,
+      "created_at": "2023-09-19T19:42:45",
+      "updated_at": "2023-09-19T23:30:49"
+    }
+  }
+]

@@ -1,19 +1,26 @@
 from copy import deepcopy
 from datetime import datetime
 
-from django.db.models import Q
+from django.db.models import F, Q
+from geopy.distance import geodesic
 from rest_framework import generics, status
+from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
+from rest_framework.views import APIView
 
 from prismvio.core.permissions import IsGetPermission
-from prismvio.menu_merchant.api.serializers import (
+from prismvio.menu_merchant.api.serializers import (  # get category for merchant product service
     CategorySerializer,
     HashtagSerializer,
+    MerchantSerializer,
     ProductSerializer,
+    ProductsSerializer,
     PromotionSerializer,
     ServiceSerializer,
+    ServicesSerializer,
 )
 from prismvio.menu_merchant.models import Category, Hashtag, Products, Promotion, Services
+from prismvio.merchant.models import Merchant
 from prismvio.utils.drf_utils import search
 
 
@@ -131,3 +138,67 @@ class ParentIDListView(generics.ListAPIView):
     queryset = Category.objects.filter(parent_id__isnull=False)
     serializer_class = CategorySerializer
     permission_classes = [IsGetPermission]
+
+
+class MerchantListAPIView(generics.ListAPIView):
+    serializer_class = MerchantSerializer
+
+    def get_queryset(self):
+        queryset = Merchant.objects.filter(categories__id=self.request.query_params.get("category_id"))
+        country_code = self.request.query_params.get("country_code")
+        province_code = self.request.query_params.get("province_code")
+        district_code = self.request.query_params.get("district_code")
+        ward_code = self.request.query_params.get("ward_code")
+        latitude = self.request.query_params.get("latitude")
+        longitude = self.request.query_params.get("longitude")
+        radius = float(self.request.query_params.get("radius", 1))  # Default radius is 1 km
+
+        if latitude and longitude:
+            queryset = [
+                merchant
+                for merchant in queryset
+                if geodesic((merchant.latitude, merchant.longitude), (latitude, longitude)).kilometers <= radius
+            ]
+
+        else:
+            if country_code:
+                queryset = queryset.filter(country__code=province_code)
+            if province_code:
+                queryset = queryset.filter(province__code=province_code)
+            if district_code:
+                queryset = queryset.filter(district__code=district_code)
+            if ward_code:
+                queryset = queryset.filter(ward__code=ward_code)
+
+        return queryset.annotate(sort_order=F("total_bookings")).order_by("-sort_order", "-created_at")
+
+
+class ProductsListAPIView(generics.ListAPIView):
+    serializer_class = ProductsSerializer
+
+    def get_queryset(self):
+        return Products.objects.filter(category__id=self.request.query_params.get("category_id"))
+
+
+class ServicesListAPIView(generics.ListAPIView):
+    serializer_class = ServicesSerializer
+
+    def get_queryset(self):
+        return Services.objects.filter(category__id=self.request.query_params.get("category_id"))
+
+
+class GetCategoryData(APIView):
+    permission_classes = (AllowAny,)
+
+    def get(self, request, *args, **kwargs):
+        merchants_view = MerchantListAPIView.as_view()
+        products_view = ProductsListAPIView.as_view()
+        services_view = ServicesListAPIView.as_view()
+
+        merchants_response = merchants_view(request._request).data
+        products_response = products_view(request._request).data
+        services_response = services_view(request._request).data
+
+        return Response(
+            {"merchants": merchants_response, "products": products_response, "services": services_response}
+        )

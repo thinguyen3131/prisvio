@@ -167,7 +167,7 @@ python manage.py search_index --rebuild --use-alias [--models [app[.model] app[.
 
 Recreate and repopulate the indices using aliases, but not deleting the indices that previously pointed to the aliases:
 ```
-python manage.py earch_index --rebuild --use-alias --use-alias-keep-index [--models [app[.model] app[.model] ...]] [--parallel] [--refresh]
+python manage.py search_index --rebuild --use-alias --use-alias-keep-index [--models [app[.model] app[.model] ...]] [--parallel] [--refresh]
 ```
 
 ### Run seed data 

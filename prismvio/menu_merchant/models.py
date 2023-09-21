@@ -43,13 +43,13 @@ class Category(models.Model):
     notes = models.CharField(max_length=200)
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
     hashtag = models.OneToOneField(Hashtag, on_delete=models.CASCADE, null=True, blank=True, related_name="category")
-    images = models.JSONField(default=list, null=True, blank=True)
+    image = models.CharField(default=None, null=True, blank=True, max_length=1000)
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
-        return f"{self.name_en}, parent: {self.parent_id}"
+        return f"{self.name_en}, parent: {self.parent}"
 
 
 class Promotion(models.Model):

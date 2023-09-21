@@ -35,11 +35,9 @@ class Merchant(models.Model):
     country_number = models.CharField(max_length=4, null=True, blank=True)
     platform_number = models.CharField(max_length=45, null=True, blank=True)
     website = models.CharField(null=True, blank=True, max_length=255)
-    timezone = TimeZoneField(default="Asia/Ho_Chi_Minh")
+    timezone = TimeZoneField(default="Asia/Ho_Chi_Minh", null=True, blank=True)
     currency = models.CharField(
-        max_length=20,
-        choices=MerchantCurrency.choices,
-        default=MerchantCurrency.VND,
+        max_length=20, choices=MerchantCurrency.choices, default=MerchantCurrency.VND.value, blank=True, null=True
     )
     uid = models.CharField(max_length=64, null=True, blank=True, unique=True)
     latitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
@@ -76,11 +74,13 @@ class Merchant(models.Model):
     is_staffs_visible = models.BooleanField(default=True)
     total_available_slot = models.IntegerField(default=0, null=True, blank=True)
     total_available_slots_unit = models.CharField(max_length=45, null=True, blank=True)
-    total_bookings = models.IntegerField(default=0, null=True, blank=True)
     deleted_at = models.DateTimeField(null=True, blank=True)
-    deleted_date = models.DateTimeField(null=True, blank=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True, blank=True)
-    updated_at = models.DateTimeField(auto_now=True, null=True, blank=True)
+    deleted_date = models.DateTimeField(
+        null=True,
+        blank=True,
+    )
+    created_at = models.DateTimeField(auto_now_add=True, blank=True, null=True)
+    updated_at = models.DateTimeField(auto_now=True, blank=True, null=True)
 
     objects = MerchantManager()
 
@@ -113,26 +113,24 @@ class Merchant(models.Model):
 
 class TimeslotCollectionMerchant(models.Model):
     merchant = models.ForeignKey(
-        Merchant, related_name="timeslotcollection", on_delete=models.CASCADE, null=True, blank=True
+        "merchant.Merchant", related_name="timeslotcollection", on_delete=models.CASCADE, null=True, blank=True
     )
     weekly = models.JSONField(default=list, null=True, blank=True)
     daily = models.JSONField(default=list, null=True, blank=True)
     shifts = models.JSONField(default=list, null=True, blank=True)
-
-    deleted_at = models.DateTimeField(null=True)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    deleted_at = models.DateTimeField(null=True, blank=True)
+    created_at = models.DateTimeField(auto_now_add=True, blank=True, null=True)
+    updated_at = models.DateTimeField(auto_now=True, blank=True, null=True)
 
 
 class ExclusionDate(models.Model):
     merchant = models.ForeignKey(
-        Merchant, related_name="exclusion_date", on_delete=models.CASCADE, null=True, blank=True
+        "merchant.Merchant", related_name="exclusion_date", on_delete=models.CASCADE, null=True, blank=True
     )
     note = models.CharField(max_length=255, blank=True, null=True)
-    dates = models.DateField(default=list, null=True, blank=True)
+    dates = models.JSONField(default=list, null=True, blank=True)
     start_time = models.TimeField(null=True, blank=True)
     end_time = models.TimeField(null=True, blank=True)
-
-    deleted_at = models.DateTimeField(null=True)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    deleted_at = models.DateTimeField(null=True, blank=True)
+    created_at = models.DateTimeField(auto_now_add=True, blank=True, null=True)
+    updated_at = models.DateTimeField(auto_now=True, blank=True, null=True)

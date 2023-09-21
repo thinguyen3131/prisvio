@@ -170,7 +170,7 @@ Recreate and repopulate the indices using aliases, but not deleting the indices 
 python manage.py search_index --rebuild --use-alias --use-alias-keep-index [--models [app[.model] app[.model] ...]] [--parallel] [--refresh]
 ```
 
-### Run seed data 
+### Run seed data
 ```
 export ELASTICSEARCH_DSL_AUTOSYNC=False
 python manage.py seed_dummy_data
@@ -179,7 +179,7 @@ python manage.py search_index --rebuild --parallel
 
 ### Register Elasticsearch DSL document
 Go to `search/documents/__init__.py`
-Update your documents: 
+Update your documents:
 ```
 __all__ = [
     "MerchantDocument"

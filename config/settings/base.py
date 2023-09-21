@@ -8,6 +8,8 @@ import environ
 from django.conf import settings
 from rest_framework.settings import APISettings
 
+from prismvio.utils.firebase.get_json import get_firebase_admin_json_key
+
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
 # prismvio/
 APPS_DIR = BASE_DIR / "prismvio"
@@ -409,3 +411,15 @@ EMAIL_USE_SSL = True
 EMAIL_HOST_USER = env("EMAIL_HOST_USER", default="vu.vu@prismtechinc.io")
 EMAIL_HOST_PASSWORD = env("EMAIL_HOST_PASSWORD", default="jgxoeqtgyztnmnjd")
 EMAIL_VERIFICATION_CODE_TIMEOUT = env("EMAIL_VERIFICATION_CODE_TIMEOUT", default=120)  # 2 minutes
+
+
+# Firebase
+# ALLOWED_HOSTS = ['*']
+FIREBASE_ADMIN_JSON_KEY = get_firebase_admin_json_key()
+FIREBASE_SERVICE_PASS_KEY = "UQ0lbl9IS29WemMC3w8PQTySuArUE0PT1F9AUNTKNPE="
+FIREBASE_SERVICE_PASS_LEN = 12
+FIREBASE_DB_URL = env("FIREBASE_DB_URL", default=None)
+FIREBASE_DB_AUTH_UID = env("FIREBASE_DB_AUTH_UID", default="django-backend-prism")
+# FIREBASE_ROOMS_KEY = env('FIREBASE_ROOMS_KEY', 'rooms')
+# FIREBASE_MESSAGES_KEY = env('FIREBASE_MESSAGES_KEY', 'messages')
+# FIREBASE_PROFILES_KEY = env('FIREBASE_PROFILES_KEY', 'profiles')

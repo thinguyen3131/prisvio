@@ -1,12 +1,11 @@
 from copy import deepcopy
 
 from django.db.models import Q
-
 from rest_framework import generics
 from rest_framework.permissions import AllowAny
 
-from prismvio.location.api.serializers import DistrictSerializer, ProvinceSerializer, WardSerializer, CountrySerializer
-from prismvio.location.models import District, Province, Ward, Country
+from prismvio.location.api.serializers import CountrySerializer, DistrictSerializer, ProvinceSerializer, WardSerializer
+from prismvio.location.models import Country, District, Province, Ward
 from prismvio.utils.drf_utils import search
 
 
@@ -16,7 +15,7 @@ class CountryListAPIView(generics.ListAPIView):
 
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
-        updated_at = query_params.get('updated_at')
+        updated_at = query_params.get("updated_at")
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
@@ -30,8 +29,8 @@ class ProvinceListAPIView(generics.ListAPIView):
 
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
-        updated_at = query_params.get('updated_at')
-        country_id = query_params.get('country_id')
+        updated_at = query_params.get("updated_at")
+        country_id = query_params.get("country_id")
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
@@ -47,8 +46,8 @@ class DistrictListAPIView(generics.ListAPIView):
 
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
-        updated_at = query_params.get('updated_at')
-        country_id = query_params.get('country_id')
+        updated_at = query_params.get("updated_at")
+        country_id = query_params.get("country_id")
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
@@ -64,8 +63,8 @@ class WardListAPIView(generics.ListAPIView):
 
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
-        updated_at = query_params.get('updated_at')
-        country_id = query_params.get('country_id')
+        updated_at = query_params.get("updated_at")
+        country_id = query_params.get("country_id")
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)

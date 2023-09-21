@@ -1,13 +1,11 @@
-
-from django.utils.translation import gettext_lazy as _
-
 import phonenumbers
+from django.utils.translation import gettext_lazy as _
 from phonenumbers import region_code_for_country_code
 from rest_framework.exceptions import ValidationError
 
 
 def validate_phone_number(value: str, country_code=None):
-    msg = _('Invalid phone number format.')
+    msg = _("Invalid phone number format.")
     try:
         phone = phonenumbers.parse(value, country_code)
         if not phone.country_code:
@@ -24,7 +22,7 @@ def validate_phone_number(value: str, country_code=None):
 
 
 def get_country_code_from_phone_number(value: str):
-    msg = _('Invalid phone number format.')
+    msg = _("Invalid phone number format.")
     try:
         phone = phonenumbers.parse(value)
     except Exception:

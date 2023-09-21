@@ -13,12 +13,14 @@ class ReportType(models.Model):
 class Report(models.Model):
     content = models.TextField(null=True, blank=True)
     report_type = models.ForeignKey(ReportType, null=True, blank=True, default=None, on_delete=models.SET_NULL)
-    user = models.ForeignKey(settings.AUTH_USER_MODEL,
-                             related_name='reports',
-                             null=True,
-                             blank=True,
-                             on_delete=models.SET_NULL,
-                             help_text="Reporter")
+    user = models.ForeignKey(
+        settings.AUTH_USER_MODEL,
+        related_name="reports",
+        null=True,
+        blank=True,
+        on_delete=models.SET_NULL,
+        help_text="Reporter",
+    )
     created_at = models.DateTimeField(auto_now_add=True, blank=True, null=True)
     updated_at = models.DateTimeField(auto_now=True, blank=True, null=True)
     deleted_at = models.DateTimeField(default=None, null=True, blank=True)

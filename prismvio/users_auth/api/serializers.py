@@ -135,10 +135,6 @@ class VerificationIdSerializer(serializers.Serializer):
 
         now = timezone.now()
         past_time = now - timedelta(minutes=IntervalLockTime.SEND.value)
-        print("============================")
-        print(past_time)
-        print(otp)
-        print("============================")
         otp_obj = OneTimePassword.objects.filter(
             signature=signature,
             otp_type=OTPType.EMAIL.value,
@@ -432,7 +428,6 @@ class UserCreateSerializer(UserValidationSerializer):
         return self.validate_identity_info(attrs)
 
     def create(self, validated_data):
-        print(validated_data)
         email = validated_data.get("email", None)
         signature = validated_data.pop("verification_id", None)
         phone_number = validated_data.get("phone_number", None)
@@ -470,3 +465,105 @@ class UserCreateSerializer(UserValidationSerializer):
             merchant.categories.set(category_ids)
 
         return user
+
+
+class PhonePasswordResetSerializer(serializers.ModelSerializer):
+    id_token = serializers.CharField(required=True)
+    password = serializers.CharField(required=True)
+
+    class Meta:
+        model = User
+        fields = (
+            "id_token",
+            "password",
+        )
+
+    def validate_password(self, raw_password):
+        django_validate_password(raw_password)
+        return raw_password
+
+    def create(self, validated_data):
+        password = validated_data.get("password")
+        id_token = validated_data.get("id_token")
+        _ = get_firebase_admin_service()
+
+        try:
+            decoded_token = auth.verify_id_token(id_token)
+        except ExpiredIdTokenError:
+            raise exceptions.ValidationError("Expired ID Token.", CODE.USER.EXPIRED_ID_TOKEN)
+        except Exception as err:
+            logger.error(str(err))
+            raise exceptions.ValidationError("Invalid ID Token.", CODE.USER.INVALID_ID_TOKEN)
+
+        if not decoded_token or not isinstance(decoded_token, dict):
+            raise exceptions.ValidationError("Invalid ID Token.", CODE.USER.INVALID_ID_TOKEN)
+
+        if "phone_number" not in decoded_token or not decoded_token["phone_number"]:
+            raise exceptions.ValidationError("Invalid ID Token.", CODE.USER.INVALID_ID_TOKEN)
+
+        phone_number = decoded_token["phone_number"]
+        try:
+            user = User.objects.get(
+                phone_number=phone_number,
+            )
+            raw_password = password
+            user.set_password(raw_password)
+            user.verified_phone_number_at = timezone.now()
+            user.save()
+            return user
+        except User.DoesNotExist:
+            raise exceptions.NotFound("User not found", "user_not_found")
+
+    def to_representation(self, instance):
+        return {
+            "success": True,
+            "phone_number": instance.phone_number,
+        }
+
+
+class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSerializer):
+    email = serializers.EmailField(required=True)
+    verification_id = serializers.CharField(required=True)
+    password = serializers.CharField(required=True)
+    otp = serializers.CharField(write_only=True, required=True)
+
+    class Meta:
+        model = User
+        fields = (
+            "email",
+            "password",
+            "verification_id",
+            "otp",
+        )
+
+    def validate_password(self, raw_password):
+        django_validate_password(raw_password)
+        return raw_password
+
+    def create(self, validated_data):
+        signature = validated_data.get("verification_id")
+        email = validated_data.get("email")
+        otp = validated_data.get("otp")
+        password = validated_data.get("password")
+
+        otp_obj = self.check_verification_id(signature, email, otp)
+        try:
+            user = User.objects.get(
+                email=email,
+            )
+        except User.DoesNotExist:
+            raise exceptions.NotFound("User not found", "user_not_found")
+
+        user.set_password(password)
+        user.verified_email_at = timezone.now()
+        user.save()
+
+        otp_obj.is_used = True
+        otp_obj.save()
+        return user
+
+    def to_representation(self, instance):
+        return {
+            "success": True,
+            "phone_number": instance.email,
+        }

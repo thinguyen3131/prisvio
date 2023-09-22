@@ -193,3 +193,4 @@ brew install postgresql
 export PGDATA='/usr/local/var/postgres' #check your package dir
 brew services list
 brew services stop postgresql@14
+docker system prune -a --volumes

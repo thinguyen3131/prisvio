@@ -55,10 +55,8 @@ class Category(models.Model):
 class Promotion(models.Model):
     name = models.CharField(max_length=255, null=True, blank=True)
     description = models.TextField(default=None, null=True, blank=True)
-    start_date = models.DateField(null=True, blank=False)
-    start_time = models.TimeField(null=True, blank=True)
-    end_date = models.DateField(null=True, blank=False)
-    end_time = models.TimeField(null=True, blank=True)
+    start_date = models.DateTimeField(null=True, blank=False)
+    end_date = models.DateTimeField(null=True, blank=False)
     discount = models.FloatField(null=True, blank=True, default=None)
     unit = models.CharField(max_length=255, null=True, blank=True, default=None)
     quantity = models.IntegerField(null=True, blank=True, default=None)

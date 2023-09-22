@@ -4,8 +4,8 @@ from django.core.management.base import BaseCommand
 
 class Command(BaseCommand):
     def handle(self, *args, **kwargs):
-        call_command("makemigrations")
-        call_command("migrate")
+        # call_command("makemigrations")
+        # call_command("migrate")
         call_command("loaddata", "email_template.json")
         call_command("loaddata", "create_hashtag.json")
         call_command("loaddata", "create_keyword.json")

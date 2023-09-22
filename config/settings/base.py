@@ -91,8 +91,9 @@ LOCAL_APPS = [
     "prismvio.merchant",
     "prismvio.staff",
     "prismvio.menu_merchant",
-    "prismvio.search",
     "prismvio.location",
+    # search should get end
+    "prismvio.search",
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS

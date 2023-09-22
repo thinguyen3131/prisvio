@@ -185,3 +185,11 @@ __all__ = [
     "MerchantDocument"
 ]
 ```
+python3.11 -m venv env
+source env/bin/activate
+python3.11 -m pip install pip --upgrade
+
+brew install postgresql
+export PGDATA='/usr/local/var/postgres' #check your package dir
+brew services list
+brew services stop postgresql@14

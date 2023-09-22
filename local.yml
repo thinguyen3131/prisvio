@@ -96,6 +96,8 @@ services:
       - "9200:9200"
     volumes:
       - prismvio_local_elasticsearch_data:/usr/share/elasticsearch/data
+    networks:
+      - es-net
     environment:
       xpack.security.enabled: false
       ES_JAVA_OPTS: "-Xmx256m -Xms256m"
@@ -108,8 +110,14 @@ services:
     container_name: prismvio_local_kibana
     image: docker.elastic.co/kibana/kibana:8.10.1
     environment:
-      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+      - ELASTICSEARCH_HOSTS=http://prismvio_local_elasticsearch:9200
     depends_on:
       - elasticsearch
     ports:
       - "5601:5601"
+    networks:
+      - es-net
+
+networks:
+  es-net:
+    driver: bridge

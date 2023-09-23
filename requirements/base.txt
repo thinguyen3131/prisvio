@@ -14,6 +14,8 @@ python-slugify==8.0.1
 shortuuid==1.0.11
 pytracking==0.2.2
 lxml==4.9.3  # https://lxml.de/
+pydantic==2.3.0
+six==1.16.0
 
 # Django
 # ------------------------------------------------------------------------------
@@ -25,8 +27,27 @@ crispy-bootstrap5==0.7  # https://github.com/django-crispy-forms/crispy-bootstra
 django-redis==5.3.0  # https://github.com/jazzband/django-redis
 # Django REST Framework
 djangorestframework==3.14.0  # https://github.com/encode/django-rest-framework
+djangorestframework-simplejwt==5.2.2
 django-cors-headers==4.2.0  # https://github.com/adamchainz/django-cors-headers
 # DRF-spectacular for api documentation
 drf-spectacular==0.26.4  # https://github.com/tfranzel/drf-spectacular
 django-tinymce==3.6.1  # https://github.com/jazzband/django-tinymce
 django-timezone-field==6.0  # https://github.com/mfogel/django-timezone-field/
+# DRF-spectacular for JWT
+PyJWT==2.8.0  # https://github.com/jpadilla/pyjwt
+python-jwt==2.0.1 # https://github.com/davedoesdev/python-jwt
+pyotp==2.9.0  # https://github.com/pyauth/pyotp
+# elasticsearch
+elasticsearch==8.9.0  # https://github.com/elastic/elasticsearch-py
+elasticsearch-dsl==8.9.0  # https://github.com/elastic/elasticsearch-dsl-py
+elastic-transport==8.4.0  # https://github.com/elastic/elastic-transport-python
+pydantic==2.3.0   # https://docs.pydantic.dev/latest/
+# FCM
+# fcm-django==2.0.0
+Faker==19.6.1
+fcm-django==2.0.0
+# psycopg-binary==3.1.10
+geopy==2.4.0 # https://github.com/geopy/geopy
+firebase-admin==6.2.0 # https://firebase.google.com/docs/admin/setup/
+python-decouple==3.8  # https://github.com/HBNetwork/python-decouple
+phonenumbers==8.13.21

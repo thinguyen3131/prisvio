@@ -2,7 +2,7 @@ from loguru._defaults import LOGURU_FORMAT
 
 from ..logging import InterceptHandler, configure_logger
 from .base import *  # noqa
-from .base import env
+from .base import SIMPLE_JWT, env
 
 # GENERAL
 # ------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ CELERY_TASK_EAGER_PROPAGATES = True
 # Your stuff...
 # ------------------------------------------------------------------------------
 CORS_ORIGIN_ALLOW_ALL = True
-
+SIMPLE_JWT["SIGNING_KEY"] = SECRET_KEY
 # config logger
 
 LOGGING = {
@@ -95,3 +95,7 @@ LOGGING = {
 }
 
 configure_logger(DEBUG, LOGURU_FORMAT)
+
+BASE_HOST = env("BASE_HOST", default="localhost:8000")
+BASE_HOST_PROTOCOL = env("BASE_HOST_PROTOCOL", default="https")
+BASE_URL = f"{BASE_HOST_PROTOCOL}://{BASE_HOST}"

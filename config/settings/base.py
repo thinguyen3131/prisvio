@@ -1,11 +1,14 @@
 """
 Base settings to build other settings files upon.
 """
+from datetime import timedelta
 from pathlib import Path
 
 import environ
 from django.conf import settings
 from rest_framework.settings import APISettings
+
+from prismvio.utils.firebase.get_json import get_firebase_admin_json_key
 
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
 # prismvio/
@@ -78,6 +81,8 @@ THIRD_PARTY_APPS = [
     "rest_framework.authtoken",
     "corsheaders",
     "drf_spectacular",
+    "rest_framework_simplejwt",
+    "rest_framework_simplejwt.token_blacklist",
 ]
 
 LOCAL_APPS = [
@@ -86,6 +91,9 @@ LOCAL_APPS = [
     "prismvio.merchant",
     "prismvio.staff",
     "prismvio.menu_merchant",
+    "prismvio.location",
+    # search should get end
+    "prismvio.search",
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
@@ -260,7 +268,7 @@ if USE_TZ:
     # https://docs.celeryq.dev/en/stable/userguide/configuration.html#std:setting-timezone
     CELERY_TIMEZONE = TIME_ZONE
 # https://docs.celeryq.dev/en/stable/userguide/configuration.html#std:setting-broker_url
-CELERY_BROKER_URL = env("CELERY_BROKER_URL")
+CELERY_BROKER_URL = env("CELERY_BROKER_URL", default="redis://localhost:6379")
 # https://docs.celeryq.dev/en/stable/userguide/configuration.html#std:setting-result_backend
 CELERY_RESULT_BACKEND = CELERY_BROKER_URL
 # https://docs.celeryq.dev/en/stable/userguide/configuration.html#result-extended
@@ -296,11 +304,47 @@ REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
         "rest_framework.authentication.SessionAuthentication",
         "rest_framework.authentication.TokenAuthentication",
+        "rest_framework_simplejwt.authentication.JWTAuthentication",
     ),
     "DEFAULT_RENDERER_CLASSES": ("rest_framework.renderers.JSONRenderer",),
     "DEFAULT_PERMISSION_CLASSES": ("rest_framework.permissions.IsAuthenticated",),
     "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
     "EXCEPTION_HANDLER": "prismvio.core.drf_exception.handler.exception_handler",
+    "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.LimitOffsetPagination",
+    "PAGE_SIZE": 10,
+}
+
+SIMPLE_JWT = {
+    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=1000),
+    "REFRESH_TOKEN_LIFETIME": timedelta(days=1),
+    "ROTATE_REFRESH_TOKENS": True,
+    "BLACKLIST_AFTER_ROTATION": True,
+    "UPDATE_LAST_LOGIN": False,
+    "ALGORITHM": "HS256",
+    "VERIFYING_KEY": "",
+    "AUDIENCE": None,
+    "ISSUER": None,
+    "JSON_ENCODER": None,
+    "JWK_URL": None,
+    "LEEWAY": 0,
+    "AUTH_HEADER_TYPES": ("Bearer",),
+    "AUTH_HEADER_NAME": "HTTP_AUTHORIZATION",
+    "USER_ID_FIELD": "id",
+    "USER_ID_CLAIM": "user_id",
+    "USER_AUTHENTICATION_RULE": "rest_framework_simplejwt.authentication.default_user_authentication_rule",
+    "AUTH_TOKEN_CLASSES": ("rest_framework_simplejwt.tokens.AccessToken",),
+    "TOKEN_TYPE_CLAIM": "token_type",
+    "TOKEN_USER_CLASS": "rest_framework_simplejwt.models.TokenUser",
+    "JTI_CLAIM": "jti",
+    "SLIDING_TOKEN_REFRESH_EXP_CLAIM": "refresh_exp",
+    "SLIDING_TOKEN_LIFETIME": timedelta(minutes=1000),
+    "SLIDING_TOKEN_REFRESH_LIFETIME": timedelta(days=1),
+    "TOKEN_OBTAIN_SERIALIZER": "rest_framework_simplejwt.serializers.TokenObtainPairSerializer",
+    "TOKEN_REFRESH_SERIALIZER": "rest_framework_simplejwt.serializers.TokenRefreshSerializer",
+    "TOKEN_VERIFY_SERIALIZER": "rest_framework_simplejwt.serializers.TokenVerifySerializer",
+    "TOKEN_BLACKLIST_SERIALIZER": "rest_framework_simplejwt.serializers.TokenBlacklistSerializer",
+    "SLIDING_TOKEN_OBTAIN_SERIALIZER": "rest_framework_simplejwt.serializers.TokenObtainSlidingSerializer",
+    "SLIDING_TOKEN_REFRESH_SERIALIZER": "rest_framework_simplejwt.serializers.TokenRefreshSlidingSerializer",
 }
 
 # django-cors-headers - https://github.com/adamchainz/django-cors-headers#setup
@@ -328,7 +372,7 @@ LOGURU_FORMAT = (
 DRF_EXCEPTION_USER_SETTINGS: dict = getattr(settings, "DRF_EXCEPTION", None)
 
 DRF_EXCEPTION_DEFAULTS: dict = {
-    "EXCEPTION_REPORTING": "riverflow.core.drf_exception.handler.exception_reporter",
+    "EXCEPTION_REPORTING": "prismvio.core.drf_exception.handler.exception_reporter",
     "ENABLE_IN_DEBUG": False,
     "NESTED_KEY_SEPARATOR": "__",
     "SUPPORT_MULTIPLE_EXCEPTIONS": True,
@@ -344,3 +388,54 @@ TESTING: bool = env.bool(
     "TESTING",
     default=False,
 )
+
+ELASTICSEARCH_HOST = env("ELASTICSEARCH_HOST", default="http://localhost:9200")
+ELASTICSEARCH_USERNAME = env("ELASTICSEARCH_USERNAME", default="elastic")
+ELASTICSEARCH_PASSWORD = env("ELASTICSEARCH_PASSWORD", default="PH3U-43bnSNQIGg8AJg9")
+
+ELASTICSEARCH_DSL = {
+    "default": {
+        "hosts": ELASTICSEARCH_HOST,
+    },
+}
+
+if ELASTICSEARCH_USERNAME and ELASTICSEARCH_PASSWORD:
+    ELASTICSEARCH_DSL["default"]["basic_auth"] = ELASTICSEARCH_USERNAME, ELASTICSEARCH_PASSWORD
+
+ELASTICSEARCH_DSL_AUTOSYNC = env.bool("ELASTICSEARCH_DSL_AUTOSYNC", default=True)
+ELASTICSEARCH_DSL_AUTO_REFRESH = env.bool("ELASTICSEARCH_DSL_AUTO_REFRESH", default=True)
+ELASTICSEARCH_DSL_INDEX_SETTINGS = env.dict("ELASTICSEARCH_DSL_INDEX_SETTINGS", default={})
+
+DEFAULT_LATITUDE = env.float("DEFAULT_LATITUDE", default=10.777576)
+DEFAULT_LONGITUDE = env.float("DEFAULT_LONGITUDE", default=106.702808)
+
+DEFAULT_COUNTRY_CODE = env("DEFAULT_COUNTRY_CODE", default="VN")
+DEFAULT_COUNTRY_PHONE = env("DEFAULT_COUNTRY_PHONE", default="+84")
+
+
+BASE_HOST = env("BASE_HOST", default="api.prismtech.vn")
+BASE_HOST_PROTOCOL = env("BASE_HOST_PROTOCOL", default="https")
+BASE_URL = f"{BASE_HOST_PROTOCOL}://{BASE_HOST}"
+
+# email settings
+EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_HOST = env("EMAIL_HOST", default="smtp.gmail.com")
+EMAIL_USE_TLS = False
+EMAIL_PORT = env("EMAIL_PORT", default="465")
+EMAIL_USE_SSL = True
+EMAIL_HOST_USER = env("EMAIL_HOST_USER", default="vu.vu@prismtechinc.io")
+EMAIL_HOST_PASSWORD = env("EMAIL_HOST_PASSWORD", default="jgxoeqtgyztnmnjd")
+EMAIL_VERIFICATION_CODE_TIMEOUT = env("EMAIL_VERIFICATION_CODE_TIMEOUT", default=120)  # 2 minutes
+
+
+# Firebase
+# ALLOWED_HOSTS = ['*']
+FIREBASE_ADMIN_JSON_KEY = get_firebase_admin_json_key()
+FIREBASE_SERVICE_PASS_KEY = "UQ0lbl9IS29WemMC3w8PQTySuArUE0PT1F9AUNTKNPE="
+FIREBASE_SERVICE_PASS_LEN = 12
+FIREBASE_DB_URL = env("FIREBASE_DB_URL", default=None)
+FIREBASE_DB_AUTH_UID = env("FIREBASE_DB_AUTH_UID", default="django-backend-prism")
+# FIREBASE_ROOMS_KEY = env('FIREBASE_ROOMS_KEY', 'rooms')
+# FIREBASE_MESSAGES_KEY = env('FIREBASE_MESSAGES_KEY', 'messages')
+# FIREBASE_PROFILES_KEY = env('FIREBASE_PROFILES_KEY', 'profiles')
+FIREBASE_ADMIN_BASE64_KEY = env("FIREBASE_ADMIN_BASE64_KEY", default=None)

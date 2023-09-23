@@ -132,3 +132,65 @@ Add urls for API:
 ```
 prismvio/api/urls.py
 ```
+
+
+## Search - Elasticsearch
+### ENV
+Check ELASTICSEARCH_DSL in the django settings.
+
+
+### Management Commands
+Delete all indices in Elasticsearch or only the indices associate with a model (--models):
+```
+python manage.py search_index --delete [-f] [--models [app[.model] app[.model] ...]]
+```
+
+Create the indices and their mapping in Elasticsearch:
+```
+python manage.py search_index --create [--models [app[.model] app[.model] ...]]
+```
+
+Populate the Elasticsearch mappings with the Django models data (index need to be existing):
+```
+python manage.py search_index --populate [--models [app[.model] app[.model] ...]] [--parallel] [--refresh]
+```
+
+Recreate and repopulate the indices:
+```
+python manage.py search_index --rebuild [-f] [--models [app[.model] app[.model] ...]] [--parallel] [--refresh]
+```
+
+Recreate and repopulate the indices using aliases:
+```
+python manage.py search_index --rebuild --use-alias [--models [app[.model] app[.model] ...]] [--parallel] [--refresh]
+```
+
+Recreate and repopulate the indices using aliases, but not deleting the indices that previously pointed to the aliases:
+```
+python manage.py search_index --rebuild --use-alias --use-alias-keep-index [--models [app[.model] app[.model] ...]] [--parallel] [--refresh]
+```
+
+### Run seed data
+```
+export ELASTICSEARCH_DSL_AUTOSYNC=False
+python manage.py seed_dummy_data
+python manage.py search_index --rebuild --parallel
+```
+
+### Register Elasticsearch DSL document
+Go to `search/documents/__init__.py`
+Update your documents:
+```
+__all__ = [
+    "MerchantDocument"
+]
+```
+python3.11 -m venv env
+source env/bin/activate
+python3.11 -m pip install pip --upgrade
+
+brew install postgresql
+export PGDATA='/usr/local/var/postgres' #check your package dir
+brew services list
+brew services stop postgresql@14
+docker system prune -a --volumes

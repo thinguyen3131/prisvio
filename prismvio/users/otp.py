@@ -20,7 +20,7 @@ __all__ = [
     "require_new_otp",
 ]
 
-from users.models import OneTimePassword
+from prismvio.users.models import OneTimePassword
 
 
 class OTPError(Exception):

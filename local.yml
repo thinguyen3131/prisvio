@@ -1,8 +1,9 @@
-version: '3'
+version: '3.9'
 
 volumes:
   prismvio_local_postgres_data: {}
   prismvio_local_postgres_data_backups: {}
+  prismvio_local_elasticsearch_data: {}
 
 services:
   django: &django
@@ -34,6 +35,8 @@ services:
       - prismvio_local_postgres_data_backups:/backups
     env_file:
       - ./.envs/.local/.postgres
+    ports:
+      - '5432:5432'
 
   docs:
     image: prismvio_local_docs
@@ -54,6 +57,8 @@ services:
   redis:
     image: redis:6
     container_name: prismvio_local_redis
+    ports:
+      - '6379:6379'
 
   celeryworker:
     <<: *django
@@ -82,3 +87,37 @@ services:
     ports:
       - '5555:5555'
     command: /start-flower
+
+  elasticsearch:
+    container_name: prismvio_local_elasticsearch
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.10.1
+    restart: always
+    ports:
+      - "9200:9200"
+    volumes:
+      - prismvio_local_elasticsearch_data:/usr/share/elasticsearch/data
+    networks:
+      - es-net
+    environment:
+      xpack.security.enabled: false
+      ES_JAVA_OPTS: "-Xmx256m -Xms256m"
+      discovery.type: single-node
+      network.host: "0.0.0.0"
+      bootstrap.memory_lock: "true"
+
+
+  kibana:
+    container_name: prismvio_local_kibana
+    image: docker.elastic.co/kibana/kibana:8.10.1
+    environment:
+      - ELASTICSEARCH_HOSTS=http://prismvio_local_elasticsearch:9200
+    depends_on:
+      - elasticsearch
+    ports:
+      - "5601:5601"
+    networks:
+      - es-net
+
+networks:
+  es-net:
+    driver: bridge

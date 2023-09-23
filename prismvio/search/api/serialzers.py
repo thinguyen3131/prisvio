@@ -6,6 +6,7 @@ from timezone_field.rest_framework import TimeZoneSerializerField
 from prismvio.menu_merchant.models import Category
 from prismvio.merchant.models import Merchant
 from prismvio.utils import haversine
+from prismvio.menu_merchant.api.serializers import SearchMerchantSerializer
 
 
 def validate_latitude(value):
@@ -72,7 +73,7 @@ class MerchantQueryParamsSerializer(serializers.Serializer):
         return attr
 
 
-class SearchMerchantSerializer(serializers.ModelSerializer):
+class SearchMerchantSerializer(SearchMerchantSerializer):
     timezone = TimeZoneSerializerField(use_pytz=True, read_only=True)
     distance = serializers.SerializerMethodField()
 

@@ -1,0 +1,1760 @@
+[
+    {
+        "name": "Karaoke Ngọc Phát",
+        "latitude": 10.90748,
+        "longitude": 106.79492,
+        "address": "Karaoke Ngọc Phát, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "C1 Karaoke-Coffee",
+        "latitude": 10.9177,
+        "longitude": 106.78232,
+        "address": "C1 Karaoke-Coffee, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Quán karaoke"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            }
+        ]
+    },
+    {
+        "name": "Game Ái VI",
+        "latitude": 10.91866,
+        "longitude": 106.78236,
+        "address": "Game Ái VI, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Khu vực trò chơi điện tử"
+            },
+            {
+                "name": "Quán cà phê internet"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Thanh Tùng",
+        "latitude": 10.89961,
+        "longitude": 106.79275,
+        "address": "Karaoke Thanh Tùng, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Mỹ Yến",
+        "latitude": 10.92818,
+        "longitude": 106.80547,
+        "address": "Karaoke Mỹ Yến, Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Như Quyên",
+        "latitude": 10.91563,
+        "longitude": 106.76921,
+        "address": "Karaoke Như Quyên, TL.743, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "TL.743",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nhậu Năm Liểu",
+        "latitude": 10.92761,
+        "longitude": 106.8109,
+        "address": "Quán Nhậu Năm Liểu, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nhậu 79",
+        "latitude": 10.92773,
+        "longitude": 106.81321,
+        "address": "Quán Nhậu 79, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nhậu 79",
+        "latitude": 10.92773,
+        "longitude": 106.81321,
+        "address": "Quán Nhậu 79, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bida Mai Danh",
+        "latitude": 10.92839,
+        "longitude": 106.81781,
+        "address": "Bida Mai Danh, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Lava Club",
+        "latitude": 10.94229,
+        "longitude": 106.80457,
+        "address": "Lava Club, 29C2 Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke A Thiện",
+        "latitude": 10.93121,
+        "longitude": 106.81821,
+        "address": "Karaoke A Thiện, Hẻm 703 Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Hẻm 703 Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Kiên Thổ",
+        "latitude": 10.93614,
+        "longitude": 106.81468,
+        "address": "Kiên Thổ, Đường Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bia Sệt Bảo Thy",
+        "latitude": 10.93917,
+        "longitude": 106.81192,
+        "address": "Bia Sệt Bảo Thy, Đường Bùi Hữu Nghĩa, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Ngọc Dung",
+        "latitude": 10.89254,
+        "longitude": 106.76708,
+        "address": "Karaoke Ngọc Dung, Đường M, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường M",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Vk Edm Festival",
+        "latitude": 10.88262,
+        "longitude": 106.78183,
+        "address": "Vk Edm Festival, Đường Số 4, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Số 4",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Khu Sinh Thai Vuon Mong Mo",
+        "latitude": 10.90608,
+        "longitude": 106.82695,
+        "address": "Khu Sinh Thai Vuon Mong Mo, Hẻm 29/53 Bùi Hữu Nghĩa, Phường Tân Vạn, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Vạn",
+        "street": "Hẻm 29/53 Bùi Hữu Nghĩa",
+        "postal_code": "76124",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Vườn Mộng Mơ",
+        "latitude": 10.95153,
+        "longitude": 106.7864,
+        "address": "Vườn Mộng Mơ, Đường Bùi Hữu Nghĩa, Phường Tân Hạnh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Hạnh",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76121",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Cafe - Karaoke Thủy Phong",
+        "latitude": 10.92349,
+        "longitude": 106.8293,
+        "address": "Cafe - Karaoke Thủy Phong, Đường Đặng Đại Độ, Phường Hiệp Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hiệp Hòa",
+        "street": "Đường Đặng Đại Độ",
+        "postal_code": "76126",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Phường Tân Hạnh",
+        "latitude": 10.94978,
+        "longitude": 106.77797,
+        "address": "Phường Tân Hạnh, Đường Phạm Văn Diêu, Phường Tân Hạnh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Hạnh",
+        "street": "Đường Phạm Văn Diêu",
+        "postal_code": "76121",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bia Tươi Sài Gòn 19A Chi Nhánh 2",
+        "latitude": 10.91605,
+        "longitude": 106.75208,
+        "address": "Bia Tươi Sài Gòn 19A Chi Nhánh 2, Đường Nguyễn Thị Minh Khai, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bida",
+        "latitude": 10.95271,
+        "longitude": 106.78521,
+        "address": "Bida, Đường Bùi Hữu Nghĩa, Phường Tân Hạnh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Hạnh",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76121",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Đồng Giao",
+        "latitude": 10.88188,
+        "longitude": 106.76758,
+        "address": "Đồng Giao, Đường Số 11, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 11",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Dạ Tương Phùng",
+        "latitude": 10.95327,
+        "longitude": 106.80125,
+        "address": "Karaoke Dạ Tương Phùng, Hẻm 171 Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Hẻm 171 Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "The South Ink Tattoo",
+        "latitude": 10.94716,
+        "longitude": 106.81524,
+        "address": "The South Ink Tattoo, Đường Lê Thánh Tôn, Phường Thanh Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thanh Bình",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "76106",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Xỏ khuyên & Xăm cơ thể"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Hòa Bình",
+        "latitude": 10.93602,
+        "longitude": 106.8262,
+        "address": "Karaoke Hòa Bình, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            },
+            {
+                "name": "Vui chơi & Giải trí"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Nhựt Hùng",
+        "latitude": 10.95305,
+        "longitude": 106.80419,
+        "address": "Karaoke Nhựt Hùng, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Trà Ca Nhạc Little Hà Nội",
+        "latitude": 10.93916,
+        "longitude": 106.82456,
+        "address": "Phòng Trà Ca Nhạc Little Hà Nội, 8 Đường Cách Mạng Tháng 8, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Billiards Club",
+        "latitude": 10.94944,
+        "longitude": 106.81259,
+        "address": "Billiards Club, Hẻm 8 Huỳnh Văn Lũy, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Hẻm 8 Huỳnh Văn Lũy",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Kiều Loan",
+        "latitude": 10.95475,
+        "longitude": 106.79629,
+        "address": "Karaoke Kiều Loan, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            },
+            {
+                "name": "Vui chơi & Giải trí"
+            }
+        ]
+    },
+    {
+        "name": "Billard Quốc Tuấn",
+        "latitude": 10.95379,
+        "longitude": 106.80255,
+        "address": "Billard Quốc Tuấn, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nơi cung cấp bể bơi và bàn bi-a chung"
+            }
+        ]
+    },
+    {
+        "name": "An Nam Coffee & Beer",
+        "latitude": 10.95379,
+        "longitude": 106.80255,
+        "address": "An Nam Coffee & Beer, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke 90",
+        "latitude": 10.94227,
+        "longitude": 106.82225,
+        "address": "Karaoke 90, 90 Đường Cách Mạng Tháng 8, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Ngân",
+        "latitude": 10.94319,
+        "longitude": 106.82137,
+        "address": "Cafe Ngân, 140 Đường Cách Mạng Tháng 8, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Mainie+",
+        "latitude": 10.94907,
+        "longitude": 106.81412,
+        "address": "Mainie+, 40 Đường Cách Mạng Tháng 8, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Yên Khang",
+        "latitude": 10.95291,
+        "longitude": 106.80662,
+        "address": "Karaoke Yên Khang, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Cảm Giác Mới",
+        "latitude": 10.95354,
+        "longitude": 106.80669,
+        "address": "Karaoke Cảm Giác Mới, ĐƯỜNG Nhà Mở KP1, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "ĐƯỜNG Nhà Mở KP1",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Ngọc Trâm",
+        "latitude": 10.94117,
+        "longitude": 106.82462,
+        "address": "Karaoke Ngọc Trâm, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "La Vie En Rose Bistro Coffee & Bar",
+        "latitude": 10.94484,
+        "longitude": 106.82115,
+        "address": "La Vie En Rose Bistro Coffee & Bar, Đường Võ Thị Sáu, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Trà Vinh Quán",
+        "latitude": 10.87434,
+        "longitude": 106.80676,
+        "address": "Karaoke Trà Vinh Quán, Đường Số 621, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Số 621",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Tra Ngọc Mai",
+        "latitude": 10.92704,
+        "longitude": 106.83303,
+        "address": "Phòng Tra Ngọc Mai, Cầu Bửu Hòa, Phường Hiệp Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hiệp Hòa",
+        "street": "Cầu Bửu Hòa",
+        "postal_code": "76126",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida Máy Lạnh Minh Tiền",
+        "latitude": 10.9431,
+        "longitude": 106.82399,
+        "address": "Câu Lạc Bộ Bida Máy Lạnh Minh Tiền, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bia Tươi Cao Cấp",
+        "latitude": 10.90224,
+        "longitude": 106.74905,
+        "address": "Bia Tươi Cao Cấp, Đường Nguyễn Đức Thiệu, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Đức Thiệu",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nhậu Tiểu Hổ",
+        "latitude": 10.88361,
+        "longitude": 106.75998,
+        "address": "Quán Nhậu Tiểu Hổ, Đường Nguyễn Tri Phương, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nhậu Mạnh Dũng",
+        "latitude": 10.88353,
+        "longitude": 106.75981,
+        "address": "Quán Nhậu Mạnh Dũng, 422 Hẻm 27A Đường Nguyễn Tri Phương, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Hẻm 27A Đường Nguyễn Tri Phương",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Bia Lạnh Út Thời",
+        "latitude": 10.95229,
+        "longitude": 106.81398,
+        "address": "Bia Lạnh Út Thời, Hẻm 67/82 Đường Huỳnh Văn Lũy, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Hẻm 67/82 Đường Huỳnh Văn Lũy",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bida Thu",
+        "latitude": 10.94073,
+        "longitude": 106.8274,
+        "address": "Bida Thu, Đường Nguyễn Thành Đồng, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường Nguyễn Thành Đồng",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Cánh Buồm",
+        "latitude": 10.95442,
+        "longitude": 106.81032,
+        "address": "Karaoke Cánh Buồm, Đường Hồ Văn Đại, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Hồ Văn Đại",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Billiards Thanh Minh",
+        "latitude": 10.93799,
+        "longitude": 106.82974,
+        "address": "Billiards Thanh Minh, Đường Nguyễn Thành Phương, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường Nguyễn Thành Phương",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Karaoke 410",
+        "latitude": 10.95862,
+        "longitude": 106.79078,
+        "address": "Tiệm Karaoke 410, Đường Nguyễn Đình Chiểu, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Dnd Club",
+        "latitude": 10.94917,
+        "longitude": 106.82056,
+        "address": "Dnd Club, Hẻm 321 Đường 30 Tháng 4, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Hẻm 321 Đường 30 Tháng 4",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Họa Mi",
+        "latitude": 10.94728,
+        "longitude": 106.82307,
+        "address": "Karaoke Họa Mi, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Nơi cung cấp bể bơi và bàn bi-a chung"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke A Khoa",
+        "latitude": 10.94608,
+        "longitude": 106.82439,
+        "address": "Karaoke A Khoa, Hẻm 94 Võ Thị Sáu, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Hẻm 94 Võ Thị Sáu",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Minh Tattoo Studio",
+        "latitude": 10.95061,
+        "longitude": 106.81963,
+        "address": "Minh Tattoo Studio, 68 Đường Hưng Đạo Vương, Phường Thanh Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thanh Bình",
+        "street": "Đường Hưng Đạo Vương",
+        "postal_code": "76106",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Xỏ khuyên & Xăm cơ thể"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Karaoke",
+        "latitude": 10.94883,
+        "longitude": 106.82247,
+        "address": "Karaoke Karaoke, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke 131",
+        "latitude": 10.95102,
+        "longitude": 106.8199,
+        "address": "Karaoke 131, 1 Đường Hưng Đạo Vương, Phường Thanh Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thanh Bình",
+        "street": "Đường Hưng Đạo Vương",
+        "postal_code": "76106",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "King Karaoke",
+        "latitude": 10.94683,
+        "longitude": 106.82524,
+        "address": "King Karaoke, 53-55 Đường Võ Thị Sáu, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Tattoo-Bienhoa",
+        "latitude": 10.94683,
+        "longitude": 106.82524,
+        "address": "Tattoo-Bienhoa, Đường Võ Thị Sáu, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Xỏ khuyên & Xăm cơ thể"
+            }
+        ]
+    },
+    {
+        "name": "Phoenix Photo",
+        "latitude": 10.94155,
+        "longitude": 106.82998,
+        "address": "Phoenix Photo, Hẻm 113/14 Nguyễn Thành Đồng, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Hẻm 113/14 Nguyễn Thành Đồng",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Dịch vụ chụp ảnh"
+            }
+        ]
+    },
+    {
+        "name": "T & T Tattoo",
+        "latitude": 10.87617,
+        "longitude": 106.7638,
+        "address": "T & T Tattoo, 54 Hẻm 11 Đường Số 1, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Hẻm 11 Đường Số 1",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Xỏ khuyên & Xăm cơ thể"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Sinh Viên",
+        "latitude": 10.86745,
+        "longitude": 106.78644,
+        "address": "Karaoke Sinh Viên, Quốc Lộ 1A, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Quốc Lộ 1A",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Cũ Cà Phê",
+        "latitude": 10.94402,
+        "longitude": 106.82908,
+        "address": "Tiệm Cũ Cà Phê, Đường N1, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường N1",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Quán cà phê internet"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nhậu Bình Dân Pé Chuột Phục Vụ Các Món Nhậu Bình Dân",
+        "latitude": 10.95308,
+        "longitude": 106.81912,
+        "address": "Quán Nhậu Bình Dân Pé Chuột Phục Vụ Các Món Nhậu Bình Dân, Hẻm 71 Hưng Đạo Vương, Phường Trung Dũng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Trung Dũng",
+        "street": "Hẻm 71 Hưng Đạo Vương",
+        "postal_code": "76118",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nhậu Bình Dân Pé Chuột",
+        "latitude": 10.95309,
+        "longitude": 106.81915,
+        "address": "Quán Nhậu Bình Dân Pé Chuột, Hẻm 71 Hưng Đạo Vương, Phường Trung Dũng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Trung Dũng",
+        "street": "Hẻm 71 Hưng Đạo Vương",
+        "postal_code": "76118",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Pé Chuột Phục Vụ Các Món Nhậu Bình Dân",
+        "latitude": 10.95309,
+        "longitude": 106.81916,
+        "address": "Pé Chuột Phục Vụ Các Món Nhậu Bình Dân, Hẻm 71 Hưng Đạo Vương, Phường Trung Dũng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Trung Dũng",
+        "street": "Hẻm 71 Hưng Đạo Vương",
+        "postal_code": "76118",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Tip Top Bar",
+        "latitude": 10.94695,
+        "longitude": 106.82715,
+        "address": "Tip Top Bar, Đường Võ Thị Sáu, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Gia Đình Minh Hiếu",
+        "latitude": 10.87783,
+        "longitude": 106.75922,
+        "address": "Karaoke Gia Đình Minh Hiếu, Đường Lê Văn Tách, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường Lê Văn Tách",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Vui chơi & Giải trí"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Gia Đình Ánh Dương",
+        "latitude": 10.87767,
+        "longitude": 106.75911,
+        "address": "Karaoke Gia Đình Ánh Dương, Đường Lê Văn Tách, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường Lê Văn Tách",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Quán karaoke"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Billiards And Cafe 969",
+        "latitude": 10.95588,
+        "longitude": 106.81698,
+        "address": "Billiards And Cafe 969, Đường Nguyễn Ái Quốc, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Gia Bảo",
+        "latitude": 10.94701,
+        "longitude": 106.82819,
+        "address": "Karaoke Gia Bảo, Đường Võ Thị Sáu, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Club",
+        "latitude": 10.95092,
+        "longitude": 106.82449,
+        "address": "Club, Đường Hưng Đạo Vương, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hưng Đạo Vương",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Giải trí hoặc âm nhạc sống"
+            },
+            {
+                "name": "Vui chơi & Giải trí"
+            }
+        ]
+    },
+    {
+        "name": "Bia Hơi Hà Nội Thắng Cố Tây Bắc",
+        "latitude": 10.94037,
+        "longitude": 106.74967,
+        "address": "Bia Hơi Hà Nội Thắng Cố Tây Bắc, 363 Đường Lê Hồng Phong, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Lê Hồng Phong",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Tigon",
+        "latitude": 10.95592,
+        "longitude": 106.81782,
+        "address": "Karaoke Tigon, Đường Nguyễn Ái Quốc, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Legend Beer",
+        "latitude": 10.94484,
+        "longitude": 106.83123,
+        "address": "Legend Beer, Đường D20, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường D20",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Billiards-Cafe Máy Lạnh 969",
+        "latitude": 10.96039,
+        "longitude": 106.80981,
+        "address": "Câu Lạc Bộ Billiards-Cafe Máy Lạnh 969, Đường Nguyễn Du, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Điểm Cung Cấp Trò Chơi Điện Tử Phúc Loan",
+        "latitude": 10.8645,
+        "longitude": 106.79066,
+        "address": "Điểm Cung Cấp Trò Chơi Điện Tử Phúc Loan, Đường Số 18, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Số 18",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Khu vực trò chơi điện tử"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Gia Đình Kim Phương",
+        "latitude": 10.87545,
+        "longitude": 106.75893,
+        "address": "Karaoke Gia Đình Kim Phương, 1A, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "1A",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Gia Đình Nai Vàng",
+        "latitude": 10.86439,
+        "longitude": 106.78215,
+        "address": "Karaoke Gia Đình Nai Vàng, Đường Lê Văn Chí, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Lê Văn Chí",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Aó Cưới Queen Bình Dương",
+        "latitude": 10.90869,
+        "longitude": 106.74049,
+        "address": "Aó Cưới Queen Bình Dương, Đường Tỉnh 743B, Phường Bình Hòa, Thuận An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Thuận An",
+        "ward": "Phường Bình Hòa",
+        "street": "Đường Tỉnh 743B",
+        "postal_code": "75208",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Vlkey Entertaiment",
+        "latitude": 10.94704,
+        "longitude": 106.831,
+        "address": "Vlkey Entertaiment, Đường N2, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường N2",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "H5 Club, Biên Hoà",
+        "latitude": 10.94757,
+        "longitude": 106.83103,
+        "address": "H5 Club, Biên Hoà, Đường Võ Thị Sáu, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Yoa",
+        "latitude": 10.94876,
+        "longitude": 106.83002,
+        "address": "Karaoke Yoa, Đường D9, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường D9",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke 110",
+        "latitude": 10.95588,
+        "longitude": 106.82194,
+        "address": "Karaoke 110, 110 Đường Nguyễn Ái Quốc, Phường Trung Dũng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Trung Dũng",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76118",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Gia Đình",
+        "latitude": 10.95602,
+        "longitude": 106.82179,
+        "address": "Karaoke Gia Đình, Đường Nguyễn Ái Quốc, Phường Trung Dũng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Trung Dũng",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76118",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "An Ngọc Trà Hoa",
+        "latitude": 10.86285,
+        "longitude": 106.79044,
+        "address": "An Ngọc Trà Hoa, Hẻm 43 Đường Số 18, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Hẻm 43 Đường Số 18",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Phòng trà"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Thiên Kim",
+        "latitude": 10.94859,
+        "longitude": 106.83063,
+        "address": "Karaoke Thiên Kim, Đường D11, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường D11",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Khách sạn"
+            }
+        ]
+    },
+    {
+        "name": "Bida Thanh Linh",
+        "latitude": 10.95588,
+        "longitude": 106.82235,
+        "address": "Bida Thanh Linh, Đường Nguyễn Ái Quốc, Phường Trung Dũng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Trung Dũng",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76118",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nơi cung cấp bể bơi và bàn bi-a chung"
+            }
+        ]
+    },
+    {
+        "name": "Tâm Duyên Wedding",
+        "latitude": 10.87548,
+        "longitude": 106.75637,
+        "address": "Tâm Duyên Wedding, QL. 1A, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "QL. 1A",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    }
+]

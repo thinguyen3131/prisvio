@@ -1,0 +1,1967 @@
+[
+    {
+        "name": "Lò Bánh Mì",
+        "latitude": 10.82829,
+        "longitude": 106.62053,
+        "address": "Lò Bánh Mì, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bread Talk",
+        "latitude": 10.8282,
+        "longitude": 106.62011,
+        "address": "Bread Talk, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Chococo - Công Ty Bánh Kẹo Choco",
+        "latitude": 10.82433,
+        "longitude": 106.63024,
+        "address": "Chococo - Công Ty Bánh Kẹo Choco, 10 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cửa hàng kẹo"
+            }
+        ]
+    },
+    {
+        "name": "Duy Khoi Bakery",
+        "latitude": 10.83044,
+        "longitude": 106.62469,
+        "address": "Duy Khoi Bakery, Đường Song Hành, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Hà Nội Nóng Giòn",
+        "latitude": 10.83188,
+        "longitude": 106.62702,
+        "address": "Lò Bánh Mì Hà Nội Nóng Giòn, Đường Đông Hưng Thuận 2, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 2",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Kem Như Ý",
+        "latitude": 10.82254,
+        "longitude": 106.63245,
+        "address": "Tiệm Bánh Kem Như Ý, Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Mekong Bakery",
+        "latitude": 10.82906,
+        "longitude": 106.61663,
+        "address": "Mekong Bakery, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Gia Bảo Bakery",
+        "latitude": 10.83433,
+        "longitude": 106.62846,
+        "address": "Gia Bảo Bakery, 259 Hẻm 2 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 2 Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cafeteria"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Ngọt Bons Gâteaux De Paris",
+        "latitude": 10.81429,
+        "longitude": 106.62667,
+        "address": "Bánh Ngọt Bons Gâteaux De Paris, Đường D13, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường D13",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Hoàng Phát",
+        "latitude": 10.83185,
+        "longitude": 106.63351,
+        "address": "Bánh Kem Hoàng Phát, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Tuấn Mập",
+        "latitude": 10.83531,
+        "longitude": 106.62021,
+        "address": "Bánh Mì Tuấn Mập, Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Lạc Quang",
+        "latitude": 10.83387,
+        "longitude": 106.61736,
+        "address": "Lò Bánh Mì Lạc Quang, Hẻm 265 Tân Thới Nhất 13B, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 265 Tân Thới Nhất 13B",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bakery Bảo Ngọc A Plus",
+        "latitude": 10.81951,
+        "longitude": 106.63512,
+        "address": "Bakery Bảo Ngọc A Plus, Đường Nguyễn Sĩ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Sĩ Sách",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Sinh Đôi",
+        "latitude": 10.81311,
+        "longitude": 106.62622,
+        "address": "Lò Bánh Mì Sinh Đôi, Đường D9, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường D9",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Love Pie L.P. Bakery",
+        "latitude": 10.82654,
+        "longitude": 106.63619,
+        "address": "Love Pie L.P. Bakery, Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cơ sở giáo dục"
+            }
+        ]
+    },
+    {
+        "name": "ABC Trường Chinh",
+        "latitude": 10.83547,
+        "longitude": 106.62011,
+        "address": "ABC Trường Chinh, 448 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Bánh Đức Hậu Bakery",
+        "latitude": 10.83214,
+        "longitude": 106.63376,
+        "address": "Cửa Hàng Bánh Đức Hậu Bakery, 167 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Hoàng Phúc Bakery",
+        "latitude": 10.81296,
+        "longitude": 106.62258,
+        "address": "Bánh Kem Hoàng Phúc Bakery, 223 Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Tây Thạnh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Hoàng Phúc",
+        "latitude": 10.83561,
+        "longitude": 106.6194,
+        "address": "Bánh Kem Hoàng Phúc, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Gia Huy",
+        "latitude": 10.83642,
+        "longitude": 106.62727,
+        "address": "Lò Bánh Mì Gia Huy, Đường Đông Hưng Thuận 2, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 2",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Kim",
+        "latitude": 10.8134,
+        "longitude": 106.6295,
+        "address": "Tiệm Bánh Kim, Hẻm 38 Đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Hẻm 38 Đường Chế Lan Viên",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Seven Bakery",
+        "latitude": 10.83679,
+        "longitude": 106.62749,
+        "address": "Seven Bakery, 150 Đường Đông Hưng Thuận 2, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 2",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Như Ý",
+        "latitude": 10.83655,
+        "longitude": 106.62867,
+        "address": "Bánh Kem Như Ý, Đường ĐHT 8, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường ĐHT 8",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì",
+        "latitude": 10.81176,
+        "longitude": 106.62423,
+        "address": "Lò Bánh Mì, Đường Nguyễn Hữu Tiến, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Nguyễn Hữu Tiến",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Điện Hải Yến",
+        "latitude": 10.81172,
+        "longitude": 106.62427,
+        "address": "Lò Bánh Mì Điện Hải Yến, 117 Đường Nguyễn Hữu Tiến, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Nguyễn Hữu Tiến",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Minh Thư",
+        "latitude": 10.83454,
+        "longitude": 106.6159,
+        "address": "Bánh Kem Minh Thư, 76A Hẻm 53 Đường Tân Thới Nhất 1, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 53 Đường Tân Thới Nhất 1",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Hà Nội Bảo Thy 9",
+        "latitude": 10.83464,
+        "longitude": 106.61583,
+        "address": "Bánh Mì Hà Nội Bảo Thy 9, 37 Hẻm 37 Đường Tân Thới Nhất 1, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 37 Đường Tân Thới Nhất 1",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Chuyên Cung Cấp Các Loại Bánh Mì",
+        "latitude": 10.83723,
+        "longitude": 106.61898,
+        "address": "Chuyên Cung Cấp Các Loại Bánh Mì, 548 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Xây dựng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Hà Nội Bảo Thy",
+        "latitude": 10.83121,
+        "longitude": 106.61201,
+        "address": "Bánh Mì Hà Nội Bảo Thy, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Đặc Ruột",
+        "latitude": 10.83263,
+        "longitude": 106.6127,
+        "address": "Lò Bánh Mì Đặc Ruột, Đường Tân Thới Nhất 8, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 8",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Mạnh Dũng",
+        "latitude": 10.83918,
+        "longitude": 106.62976,
+        "address": "Tiệm Bánh Mạnh Dũng, 429 Hẻm 1 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 1 Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Mekong Bakery",
+        "latitude": 10.83217,
+        "longitude": 106.61072,
+        "address": "Mekong Bakery, 268 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Luca Bakery",
+        "latitude": 10.83611,
+        "longitude": 106.63561,
+        "address": "Bánh Kem Luca Bakery, 265 Đường Phan Huy Ích, Phường 14, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 14",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "71418",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Bakery 3m",
+        "latitude": 10.82928,
+        "longitude": 106.64027,
+        "address": "Bakery 3m, Đường Huỳnh Văn Nghệ, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Bàn Tay Việt",
+        "latitude": 10.83205,
+        "longitude": 106.63948,
+        "address": "Tiệm Bánh Bàn Tay Việt, Đường Nguyễn Tư Giản, Phường 12, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 12",
+        "street": "Đường Nguyễn Tư Giản",
+        "postal_code": "71420",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Tấn Phát",
+        "latitude": 10.84074,
+        "longitude": 106.63022,
+        "address": "Lò Bánh Mì Tấn Phát, 2 Hẻm 19 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 19 Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Quang Trung",
+        "latitude": 10.83148,
+        "longitude": 106.64079,
+        "address": "Bánh Mì Quang Trung, Hẻm 203 Huỳnh Văn Nghệ, Phường 12, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 12",
+        "street": "Hẻm 203 Huỳnh Văn Nghệ",
+        "postal_code": "71420",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Thành Phát Bakery",
+        "latitude": 10.80734,
+        "longitude": 106.62202,
+        "address": "Thành Phát Bakery, Đường Lê Trọng Tấn, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Lê Trọng Tấn",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Phụng Hưng",
+        "latitude": 10.80737,
+        "longitude": 106.62164,
+        "address": "Lò Bánh Mì Phụng Hưng, Đường Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Sơn Kỳ",
+        "street": "Đường Tân Thắng",
+        "postal_code": "72010",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Sản xuất thực phẩm"
+            }
+        ]
+    },
+    {
+        "name": "Cafe 85",
+        "latitude": 10.80844,
+        "longitude": 106.63127,
+        "address": "Cafe 85, Đường Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Nguyễn Hữu Dật",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Quang Nhật",
+        "latitude": 10.80634,
+        "longitude": 106.62759,
+        "address": "Bánh Kem Quang Nhật, Đường Lê Trọng Tấn, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Sơn Kỳ",
+        "street": "Đường Lê Trọng Tấn",
+        "postal_code": "72010",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Kinh Đô",
+        "latitude": 10.80767,
+        "longitude": 106.63296,
+        "address": "Kinh Đô, 70000 Hẻm 725 Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Hẻm 725 Trường Chinh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bếp bánh Thanh Loan",
+        "latitude": 10.84388,
+        "longitude": 106.62524,
+        "address": "Bếp bánh Thanh Loan, Đường DN9, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường DN9",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Trung Thu Tấn Phát",
+        "latitude": 10.81431,
+        "longitude": 106.60571,
+        "address": "Bánh Trung Thu Tấn Phát, 674 Đường Lê Trọng Tấn, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa",
+        "street": "Đường Lê Trọng Tấn",
+        "postal_code": "71913",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Quán Phương - Tân Kỳ Tân Quý",
+        "latitude": 10.80308,
+        "longitude": 106.6305,
+        "address": "Quán Phương - Tân Kỳ Tân Quý, 189 Đường Tân Kỳ Tân Quý, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Sơn Nhì",
+        "street": "Đường Tân Kỳ Tân Quý",
+        "postal_code": "72008",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Hoàng Yến",
+        "latitude": 10.81561,
+        "longitude": 106.60306,
+        "address": "Lò Bánh Mì Hoàng Yến, Đường Phạm Đăng Giảng, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa",
+        "street": "Đường Phạm Đăng Giảng",
+        "postal_code": "71913",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Tráng Muối Ớt Tây Ninh Số 9 TMT13A, Quận 12, TP.HCM",
+        "latitude": 10.84637,
+        "longitude": 106.61471,
+        "address": "Bánh Tráng Muối Ớt Tây Ninh Số 9 TMT13A, Quận 12, TP.HCM, Đường Trung Mỹ Tây 13A, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Trung Mỹ Tây",
+        "street": "Đường Trung Mỹ Tây 13A",
+        "postal_code": "71507",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Dịch vụ thương mại nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Kichi-Kichi-Aeon Mall Tân Phú",
+        "latitude": 10.80171,
+        "longitude": 106.61753,
+        "address": "Kichi-Kichi-Aeon Mall Tân Phú, Đường N4, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Sơn Kỳ",
+        "street": "Đường N4",
+        "postal_code": "72010",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Chợ/Gian hàng ẩm thực"
+            },
+            {
+                "name": "Cafeteria"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Năm Quang",
+        "latitude": 10.8025,
+        "longitude": 106.63495,
+        "address": "Lò Bánh Năm Quang, 40 Đường Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Sơn Nhì",
+        "street": "Đường Tân Sơn Nhì",
+        "postal_code": "72008",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Breadtalk Tân Phú Aeon Mall",
+        "latitude": 10.80093,
+        "longitude": 106.61839,
+        "address": "Breadtalk Tân Phú Aeon Mall, Đường Bờ Bao 2, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Sơn Kỳ",
+        "street": "Đường Bờ Bao 2",
+        "postal_code": "72010",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Grival Tân Sơn Nhì",
+        "latitude": 10.80216,
+        "longitude": 106.63436,
+        "address": "Grival Tân Sơn Nhì, 79 Đường Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Sơn Nhì",
+        "street": "Đường Tân Sơn Nhì",
+        "postal_code": "72008",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Quang Trung 2",
+        "latitude": 10.84713,
+        "longitude": 106.63476,
+        "address": "Quang Trung 2, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Paris Baguette",
+        "latitude": 10.80066,
+        "longitude": 106.61729,
+        "address": "Paris Baguette, Bờ Bao Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Sơn Kỳ",
+        "street": "Bờ Bao Tân Thắng",
+        "postal_code": "72010",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bonjourbakery",
+        "latitude": 10.84569,
+        "longitude": 106.6382,
+        "address": "Bonjourbakery, 1254 Đường Quang Trung, Phường 14, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 14",
+        "street": "Đường Quang Trung",
+        "postal_code": "71418",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ngon Nhất Bakery",
+        "latitude": 10.81652,
+        "longitude": 106.60035,
+        "address": "Ngon Nhất Bakery, Đường Hồ Văn Long, Phường Bình Hưng Hòa B, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa B",
+        "street": "Đường Hồ Văn Long",
+        "postal_code": "71914",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Homemade Chuông Gió",
+        "latitude": 10.84574,
+        "longitude": 106.61035,
+        "address": "Homemade Chuông Gió, Đường Nguyễn Thị Huê, Xã Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Bà Điểm",
+        "street": "Đường Nguyễn Thị Huê",
+        "postal_code": "71714",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Đại Long Bakery",
+        "latitude": 10.84776,
+        "longitude": 106.63516,
+        "address": "Đại Long Bakery, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Đạt Nhất",
+        "latitude": 10.80129,
+        "longitude": 106.63676,
+        "address": "Bánh Kem Đạt Nhất, Đường Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Sơn Nhì",
+        "street": "Đường Âu Cơ",
+        "postal_code": "72008",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Tráng Mireu",
+        "latitude": 10.8074,
+        "longitude": 106.64505,
+        "address": "Bánh Tráng Mireu, Hẻm 48 Văn Chung, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Hẻm 48 Văn Chung",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem-Su Kem",
+        "latitude": 10.84537,
+        "longitude": 106.64234,
+        "address": "Bánh Kem-Su Kem, Đường Phạm Văn Chiêu, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Đường Phạm Văn Chiêu",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Hiệu Bánh Thành Đạt",
+        "latitude": 10.80331,
+        "longitude": 106.64167,
+        "address": "Hiệu Bánh Thành Đạt, Đường Ngô Bệ, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Đường Ngô Bệ",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Thảo Nguyên",
+        "latitude": 10.84541,
+        "longitude": 106.64241,
+        "address": "Tiệm Bánh Thảo Nguyên, 28 Đường Phạm Văn Chiêu, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Đường Phạm Văn Chiêu",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Bánh Kem Thảo Nguyên",
+        "latitude": 10.84554,
+        "longitude": 106.64232,
+        "address": "Cửa Hàng Bánh Kem Thảo Nguyên, Đường Phạm Văn Chiêu, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Đường Phạm Văn Chiêu",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Chả Cá Nóng Vũng Tàu",
+        "latitude": 10.84562,
+        "longitude": 106.64259,
+        "address": "Bánh Mì Chả Cá Nóng Vũng Tàu, Đường Phạm Văn Chiêu, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Đường Phạm Văn Chiêu",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tạp Hóa Bán Sỉ Và Lẻ Nguyên Dương",
+        "latitude": 10.83902,
+        "longitude": 106.64847,
+        "address": "Tạp Hóa Bán Sỉ Và Lẻ Nguyên Dương, 954 Đường Quang Trung, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Đường Quang Trung",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Thanh Thủy",
+        "latitude": 10.79833,
+        "longitude": 106.61576,
+        "address": "Lò Bánh Mì Thanh Thủy, Đường Tân Kỳ Tân Quý, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Quý",
+        "street": "Đường Tân Kỳ Tân Quý",
+        "postal_code": "72011",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Trí Nguyên",
+        "latitude": 10.83781,
+        "longitude": 106.59961,
+        "address": "Trí Nguyên, Đường Phan Văn Đối, Xã Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Bà Điểm",
+        "street": "Đường Phan Văn Đối",
+        "postal_code": "71714",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Shi Cake",
+        "latitude": 10.85064,
+        "longitude": 106.61446,
+        "address": "Tiệm Bánh Shi Cake, Đường Song Hành Quốc Lộ 22, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Trung Mỹ Tây",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71507",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "V Bread Sản Xuất & Kinh Doanh Bánh Mỳ-Bánh Ngọt",
+        "latitude": 10.80044,
+        "longitude": 106.63943,
+        "address": "V Bread Sản Xuất & Kinh Doanh Bánh Mỳ-Bánh Ngọt, 424 Đường Trường Chinh, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 14",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72112",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Bánh Đức Phát",
+        "latitude": 10.80036,
+        "longitude": 106.63938,
+        "address": "Cửa Hàng Bánh Đức Phát, 457 Đường Trường Chinh, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 14",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72112",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Ú Nu Bakery",
+        "latitude": 10.80471,
+        "longitude": 106.64509,
+        "address": "Tiệm Bánh Ú Nu Bakery, Đường Nguyễn Quang Bích, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Đường Nguyễn Quang Bích",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Mây Bakery",
+        "latitude": 10.79587,
+        "longitude": 106.62447,
+        "address": "Mây Bakery, 107B Đường Gò Dầu, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Quý",
+        "street": "Đường Gò Dầu",
+        "postal_code": "72011",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Dịch vụ B2B"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Mỹ Chi",
+        "latitude": 10.83138,
+        "longitude": 106.5959,
+        "address": "Lò Bánh Mì Mỹ Chi, Đường Phan Văn Đối, Xã Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Bà Điểm",
+        "street": "Đường Phan Văn Đối",
+        "postal_code": "71714",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Hỷ Lâm Môn",
+        "latitude": 10.80239,
+        "longitude": 106.64341,
+        "address": "Hỷ Lâm Môn, 416 Đường Cộng Hòa, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Đường Cộng Hòa",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Hỷ Lâm Môn",
+        "latitude": 10.80237,
+        "longitude": 106.64348,
+        "address": "Tiệm Bánh Hỷ Lâm Môn, Đường Cộng Hòa, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Đường Cộng Hòa",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Mai Hương",
+        "latitude": 10.8512,
+        "longitude": 106.63734,
+        "address": "Tiệm Bánh Mai Hương, 1026 Hẻm 85 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 85 Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Misa Bakery - Tân Sơn Nhì",
+        "latitude": 10.79584,
+        "longitude": 106.63097,
+        "address": "Misa Bakery - Tân Sơn Nhì, Hẻm 303/18 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Sơn Nhì",
+        "street": "Hẻm 303/18 Tân Sơn Nhì",
+        "postal_code": "72008",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Như Loan",
+        "latitude": 10.79514,
+        "longitude": 106.629,
+        "address": "Bánh Kem Như Loan, Đường Gò Dầu, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Quý",
+        "street": "Đường Gò Dầu",
+        "postal_code": "72011",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Hoàng Phát",
+        "latitude": 10.8468,
+        "longitude": 106.64501,
+        "address": "Bánh Kem Hoàng Phát, Đường Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 9",
+        "street": "Đường Phạm Văn Chiêu",
+        "postal_code": "71417",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Bình Định 77",
+        "latitude": 10.84383,
+        "longitude": 106.64792,
+        "address": "Bánh Mì Bình Định 77, Đường Nguyễn Văn Khối, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Đường Nguyễn Văn Khối",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Kim Hằng",
+        "latitude": 10.79995,
+        "longitude": 106.607,
+        "address": "Tiệm Bánh Kim Hằng, 160 Đường 26 Tháng 3, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa",
+        "street": "Đường 26 Tháng 3",
+        "postal_code": "71913",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Quán ăn nhanh"
+            }
+        ]
+    },
+    {
+        "name": "Bão Shop",
+        "latitude": 10.79673,
+        "longitude": 106.63808,
+        "address": "Bão Shop, 948 Đường Âu Cơ, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 14",
+        "street": "Đường Âu Cơ",
+        "postal_code": "72112",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Chewychewy",
+        "latitude": 10.79659,
+        "longitude": 106.63778,
+        "address": "Chewychewy, Đường Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Sơn Nhì",
+        "street": "Đường Âu Cơ",
+        "postal_code": "72008",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì- Bánh Hỏi Chị Hòa",
+        "latitude": 10.84343,
+        "longitude": 106.65041,
+        "address": "Bánh Mì- Bánh Hỏi Chị Hòa, Đường Nguyễn Văn Khối, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Đường Nguyễn Văn Khối",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Bánh Trung Thu",
+        "latitude": 10.85626,
+        "longitude": 106.62187,
+        "address": "Đại Lý Bánh Trung Thu, Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Trung Mỹ Tây",
+        "street": "Đường Tô Ký",
+        "postal_code": "71507",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Huy Phát",
+        "latitude": 10.83969,
+        "longitude": 106.653,
+        "address": "Huy Phát, Hẻm 872 Đường Quang Trung, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Hẻm 872 Đường Quang Trung",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Thổ Nhĩ Kỳ",
+        "latitude": 10.79609,
+        "longitude": 106.63911,
+        "address": "Bánh Mì Thổ Nhĩ Kỳ, 90 Đường Ba Vân, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 14",
+        "street": "Đường Ba Vân",
+        "postal_code": "72112",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Quán Dì Bảy-An Giang",
+        "latitude": 10.79595,
+        "longitude": 106.63887,
+        "address": "Quán Dì Bảy-An Giang, 100 Đường Ba Vân, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 14",
+        "street": "Đường Ba Vân",
+        "postal_code": "72112",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Xèo Miền Tây",
+        "latitude": 10.79252,
+        "longitude": 106.62455,
+        "address": "Bánh Xèo Miền Tây, 54 Đường Tây Sơn, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Quý",
+        "street": "Đường Tây Sơn",
+        "postal_code": "72011",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Đồng Tiến Bakery",
+        "latitude": 10.79285,
+        "longitude": 106.62974,
+        "address": "Đồng Tiến Bakery, 248 Đường Độc Lập, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Quý",
+        "street": "Đường Độc Lập",
+        "postal_code": "72011",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Heo Quay Tuyết Nhi",
+        "latitude": 10.84634,
+        "longitude": 106.60019,
+        "address": "Lò Bánh Mì Heo Quay Tuyết Nhi, Đường Nguyễn Ảnh Thủ, Xã Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Bà Điểm",
+        "street": "Đường Nguyễn Ảnh Thủ",
+        "postal_code": "71714",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bakery Gia Hào",
+        "latitude": 10.84779,
+        "longitude": 106.64741,
+        "address": "Bakery Gia Hào, Đường Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 9",
+        "street": "Đường Phạm Văn Chiêu",
+        "postal_code": "71417",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "A Tròn Bakery",
+        "latitude": 10.79259,
+        "longitude": 106.63083,
+        "address": "A Tròn Bakery, 135 Đường Độc Lập, Phường Tân Thành, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Thành",
+        "street": "Đường Độc Lập",
+        "postal_code": "72007",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Bảo Ngân",
+        "latitude": 10.85743,
+        "longitude": 106.62599,
+        "address": "Bánh Mì Bảo Ngân, Đường Đông Bắc, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Chánh Hiệp",
+        "street": "Đường Đông Bắc",
+        "postal_code": "71506",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Chợ/Gian hàng ẩm thực"
+            }
+        ]
+    },
+    {
+        "name": "Thiên Bakery",
+        "latitude": 10.80048,
+        "longitude": 106.64741,
+        "address": "Thiên Bakery, Đường Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Đường Hoàng Hoa Thám",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Pháp Đại Minh",
+        "latitude": 10.79238,
+        "longitude": 106.63268,
+        "address": "Bánh Mì Pháp Đại Minh, 166 Đường Độc Lập, Phường Tân Thành, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Thành",
+        "street": "Đường Độc Lập",
+        "postal_code": "72007",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Chợ/Gian hàng ẩm thực"
+            }
+        ]
+    },
+    {
+        "name": "Chocolate Graphics Cộng Hoà",
+        "latitude": 10.80251,
+        "longitude": 106.65005,
+        "address": "Chocolate Graphics Cộng Hoà, Hẻm 232 Đường Cộng Hoà, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 12",
+        "street": "Hẻm 232 Đường Cộng Hoà",
+        "postal_code": "72111",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng kẹo"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Tín Nghĩa Bakery",
+        "latitude": 10.85816,
+        "longitude": 106.62033,
+        "address": "Tín Nghĩa Bakery, Đường Tân Chánh Hiệp 35, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Chánh Hiệp",
+        "street": "Đường Tân Chánh Hiệp 35",
+        "postal_code": "71506",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bánh Tiến Linh",
+        "latitude": 10.79127,
+        "longitude": 106.6189,
+        "address": "Tiệm Bánh Tiến Linh, Đường Lê Sát, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Quý",
+        "street": "Đường Lê Sát",
+        "postal_code": "72011",
+        "categories": [
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    }
+]

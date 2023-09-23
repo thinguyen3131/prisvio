@@ -1,0 +1,1652 @@
+[
+    {
+        "name": "Câu Lạc Bộ Thể Dục Thể Thao Hải Bình",
+        "latitude": 10.91337,
+        "longitude": 106.79734,
+        "address": "Câu Lạc Bộ Thể Dục Thể Thao Hải Bình, QL.1K, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "QL.1K",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Khu liên hợp hoặc sân vận động thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Xông Hơi Xoa Bóp Tân Phú Thịnh Gia",
+        "latitude": 10.90694,
+        "longitude": 106.79485,
+        "address": "Xông Hơi Xoa Bóp Tân Phú Thịnh Gia, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Billiards No. 1",
+        "latitude": 10.91698,
+        "longitude": 106.78231,
+        "address": "Câu Lạc Bộ Billiards No. 1, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Dục Thể Thao Kim Tú",
+        "latitude": 10.90055,
+        "longitude": 106.79269,
+        "address": "Câu Lạc Bộ Thể Dục Thể Thao Kim Tú, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Khu liên hợp hoặc sân vận động thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Chăm Sóc Thẩm Mỹ-Thể Dục Thẩm Mỹ BK",
+        "latitude": 10.90133,
+        "longitude": 106.77607,
+        "address": "Chăm Sóc Thẩm Mỹ-Thể Dục Thẩm Mỹ BK, 52 Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Massage Liên Ngân",
+        "latitude": 10.92957,
+        "longitude": 106.80532,
+        "address": "Massage Liên Ngân, Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Billiards Chinh",
+        "latitude": 10.91515,
+        "longitude": 106.77095,
+        "address": "Billiards Chinh, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Xông Hơi Xao Bóp Thùy Vân",
+        "latitude": 10.90393,
+        "longitude": 106.7722,
+        "address": "Xông Hơi Xao Bóp Thùy Vân, Đường Trần Hưng Đạo, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Biconsi",
+        "latitude": 10.93137,
+        "longitude": 106.77755,
+        "address": "Biconsi, Đường Huỳnh Thị Tươi, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Huỳnh Thị Tươi",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Massage Phương Đông",
+        "latitude": 10.8914,
+        "longitude": 106.78774,
+        "address": "Massage Phương Đông, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố An Hòa",
+        "latitude": 10.93529,
+        "longitude": 106.8013,
+        "address": "Nhà Văn Hóa Khu Phố An Hòa, Đường Hoàng Minh Chánh, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Hoàng Minh Chánh",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Văn Hóa Phường Dĩ An",
+        "latitude": 10.91067,
+        "longitude": 106.76642,
+        "address": "Trung Tâm Văn Hóa Phường Dĩ An, Đường Nguyễn Du, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thể Dục Thẩm Mỹ Thể Hình Sức Sống Mới 2",
+        "latitude": 10.89012,
+        "longitude": 106.78117,
+        "address": "Trung Tâm Thể Dục Thẩm Mỹ Thể Hình Sức Sống Mới 2, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thể Dục Thẩm Mỹ Thể Hình Sức Sống Mới II",
+        "latitude": 10.89012,
+        "longitude": 106.78117,
+        "address": "Trung Tâm Thể Dục Thẩm Mỹ Thể Hình Sức Sống Mới II, QL.1K, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "QL.1K",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Clb Bida Y Thanh",
+        "latitude": 10.8897,
+        "longitude": 106.77961,
+        "address": "Clb Bida Y Thanh, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Bida 289",
+        "latitude": 10.92831,
+        "longitude": 106.81801,
+        "address": "Karaoke Bida 289, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bóng Đá Danh Lan",
+        "latitude": 10.93473,
+        "longitude": 106.81597,
+        "address": "Câu Lạc Bộ Bóng Đá Danh Lan, Đường Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Massage Triều Châu",
+        "latitude": 10.90941,
+        "longitude": 106.75988,
+        "address": "Massage Triều Châu, Đường Nguyễn Trãi, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Dục Thể Thao Và Fitness Hóa An",
+        "latitude": 10.93854,
+        "longitude": 106.81247,
+        "address": "Câu Lạc Bộ Thể Dục Thể Thao Và Fitness Hóa An, Đường Bùi Hữu Nghĩa, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Trung tâm biểu diễn nghệ thuật"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Bida 18K",
+        "latitude": 10.90914,
+        "longitude": 106.75975,
+        "address": "Cafe Bida 18K, Đường Nguyễn Trãi, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh Duy Đức BH",
+        "latitude": 10.93342,
+        "longitude": 106.8175,
+        "address": "Điện Lạnh Duy Đức BH, Đường Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Trung tâm biểu diễn nghệ thuật"
+            },
+            {
+                "name": "Dịch vụ sửa chữa"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố 2 Phường Bửu Hòa",
+        "latitude": 10.93013,
+        "longitude": 106.82063,
+        "address": "Nhà Văn Hóa Khu Phố 2 Phường Bửu Hòa, Hẻm 628 Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Hẻm 628 Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Billar Quỳnh Anh",
+        "latitude": 10.89117,
+        "longitude": 106.76797,
+        "address": "Câu Lạc Bộ Billar Quỳnh Anh, 208 Đường Số 11, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 11",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bóng Đá Trà My",
+        "latitude": 10.88652,
+        "longitude": 106.7736,
+        "address": "Câu Lạc Bộ Bóng Đá Trà My, Xa Lộ Hà Nội, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Xông Hơi Massage Yến Vy",
+        "latitude": 10.91066,
+        "longitude": 106.75818,
+        "address": "Xông Hơi Massage Yến Vy, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố 4 Phường Bửu Hòa",
+        "latitude": 10.9282,
+        "longitude": 106.82273,
+        "address": "Nhà Văn Hóa Khu Phố 4 Phường Bửu Hòa, Hẻm 522 Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Hẻm 522 Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bóng Đá Như Ý",
+        "latitude": 10.94069,
+        "longitude": 106.81322,
+        "address": "Câu Lạc Bộ Bóng Đá Như Ý, Hẻm 1022 Bùi Hữu Nghĩa, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Hẻm 1022 Bùi Hữu Nghĩa",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida 6 Lửa",
+        "latitude": 10.88635,
+        "longitude": 106.77174,
+        "address": "Câu Lạc Bộ Bida 6 Lửa, Đường Số 9, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 9",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Ấp 2",
+        "latitude": 10.94938,
+        "longitude": 106.78639,
+        "address": "Nhà Văn Hóa Ấp 2, Hẻm Số 1505 Bùi Hữu Nghĩa, Phường Tân Hạnh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Hạnh",
+        "street": "Hẻm Số 1505 Bùi Hữu Nghĩa",
+        "postal_code": "76121",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Hồ Bơi Bình Thắng",
+        "latitude": 10.88694,
+        "longitude": 106.81574,
+        "address": "Hồ Bơi Bình Thắng, Đường 30 Tháng 4, Phường Bình An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình An",
+        "street": "Đường 30 Tháng 4",
+        "postal_code": "75310",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Bể bơi"
+            }
+        ]
+    },
+    {
+        "name": "Xông Hơi Xoa Bóp Rạng Đông",
+        "latitude": 10.90271,
+        "longitude": 106.75526,
+        "address": "Xông Hơi Xoa Bóp Rạng Đông, ĐƯỜNG Mồi, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "ĐƯỜNG Mồi",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "K'Tuấn",
+        "latitude": 10.90654,
+        "longitude": 106.82986,
+        "address": "K'Tuấn, Đường Bùi Hữu Nghĩa, Phường Tân Vạn, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Vạn",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76124",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Ấp 4",
+        "latitude": 10.94985,
+        "longitude": 106.778,
+        "address": "Nhà Văn Hóa Ấp 4, Đường Phạm Văn Diêu, Phường Tân Hạnh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Hạnh",
+        "street": "Đường Phạm Văn Diêu",
+        "postal_code": "76121",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bida Bạn Hữu",
+        "latitude": 10.8819,
+        "longitude": 106.77075,
+        "address": "Bida Bạn Hữu, 16 Đường Số 8, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 8",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Billiards Club Suka",
+        "latitude": 10.88017,
+        "longitude": 106.77356,
+        "address": "Billiards Club Suka, Đường Số 8, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 8",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bida Ngọc Sơn",
+        "latitude": 10.91156,
+        "longitude": 106.75236,
+        "address": "Bida Ngọc Sơn, 743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Cử Tạ-Thể Hình Bình Minh",
+        "latitude": 10.881,
+        "longitude": 106.8126,
+        "address": "Câu Lạc Bộ Cử Tạ-Thể Hình Bình Minh, Đường Số 1, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Số 1",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Massage Thanh Lịch",
+        "latitude": 10.89254,
+        "longitude": 106.75871,
+        "address": "Massage Thanh Lịch, Đường Nguyễn Tri Phương, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Văn Hóa Thể Thao Học Tập Cộng Đồng Xã Hiệp Hòa",
+        "latitude": 10.93292,
+        "longitude": 106.82684,
+        "address": "Trung Tâm Văn Hóa Thể Thao Học Tập Cộng Đồng Xã Hiệp Hòa, Đường Đỗ Văn Thi, Phường Hiệp Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hiệp Hòa",
+        "street": "Đường Đỗ Văn Thi",
+        "postal_code": "76126",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Club Patin Linh Xuân",
+        "latitude": 10.8793,
+        "longitude": 106.77267,
+        "address": "Club Patin Linh Xuân, 133 Đường Số 6, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 6",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sân Bóng Đá Mini Cỏ Nhân Tạo",
+        "latitude": 10.9485,
+        "longitude": 106.81198,
+        "address": "Sân Bóng Đá Mini Cỏ Nhân Tạo, 46 Đường Huỳnh Văn Lũy, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Huỳnh Văn Lũy",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Massage Vạn Tấn Lộc",
+        "latitude": 10.88942,
+        "longitude": 106.75964,
+        "address": "Massage Vạn Tấn Lộc, Đường Nguyễn Tri Phương, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Giải Trí Thể Dục Thể Thaođồng Dao",
+        "latitude": 10.88196,
+        "longitude": 106.76741,
+        "address": "Câu Lạc Bộ Giải Trí Thể Dục Thể Thaođồng Dao, Đường Số 11, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 11",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Khu liên hợp hoặc sân vận động thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sân Bóng Đá Mini Thiên Lộc",
+        "latitude": 10.90431,
+        "longitude": 106.83182,
+        "address": "Sân Bóng Đá Mini Thiên Lộc, Đường Bùi Hữu Nghĩa, Phường Bình An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình An",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "75310",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Sân Vận Động",
+        "latitude": 10.94935,
+        "longitude": 106.81227,
+        "address": "Sân Vận Động, Đường Huỳnh Văn Lũy, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Huỳnh Văn Lũy",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida N. 3N",
+        "latitude": 10.89861,
+        "longitude": 106.83,
+        "address": "Câu Lạc Bộ Bida N. 3N, ĐT.743A, Phường Bình An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình An",
+        "street": "ĐT.743A",
+        "postal_code": "75310",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bida 68",
+        "latitude": 10.88073,
+        "longitude": 106.76795,
+        "address": "Bida 68, Đường Số 5, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 5",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Câu lạc bộ thể dục hoặc sức khỏe"
+            }
+        ]
+    },
+    {
+        "name": "K. H. K",
+        "latitude": 10.93801,
+        "longitude": 106.8254,
+        "address": "K. H. K, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bida Thanh Thủy",
+        "latitude": 10.95325,
+        "longitude": 106.80373,
+        "address": "Bida Thanh Thủy, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Dục Thẩm Mỹ & Spa Phương Thảo",
+        "latitude": 10.88072,
+        "longitude": 106.76766,
+        "address": "Câu Lạc Bộ Thể Dục Thẩm Mỹ & Spa Phương Thảo, Đường Số 5, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 5",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida Quốc Tuấn",
+        "latitude": 10.95343,
+        "longitude": 106.80338,
+        "address": "Câu Lạc Bộ Bida Quốc Tuấn, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Spa Nhã Lan",
+        "latitude": 10.9439,
+        "longitude": 106.82036,
+        "address": "Spa Nhã Lan, Đường Cách Mạng Tháng 8, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Tập Thể Dục T&T Yoga Aerobic",
+        "latitude": 10.94192,
+        "longitude": 106.82261,
+        "address": "Phòng Tập Thể Dục T&T Yoga Aerobic, Đường Cách Mạng Tháng 8, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Spa Nguyễn Cảnh",
+        "latitude": 10.94257,
+        "longitude": 106.82204,
+        "address": "Spa Nguyễn Cảnh, Đường Cách Mạng Tháng 8, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố 2 Phường Bửu Long",
+        "latitude": 10.95427,
+        "longitude": 106.80159,
+        "address": "Nhà Văn Hóa Khu Phố 2 Phường Bửu Long, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Cá Giải Trí Sông Mây",
+        "latitude": 10.95236,
+        "longitude": 106.80769,
+        "address": "Câu Cá Giải Trí Sông Mây, Đường Nguyễn Ái Quốc, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Ấp 1 Xã Tân Thạnh",
+        "latitude": 10.9549,
+        "longitude": 106.78374,
+        "address": "Nhà Văn Hóa Ấp 1 Xã Tân Thạnh, Hẻm Số 1615 Bùi Hữu Nghĩa, Phường Tân Hạnh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Hạnh",
+        "street": "Hẻm Số 1615 Bùi Hữu Nghĩa",
+        "postal_code": "76121",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bida Thanh Minh",
+        "latitude": 10.91323,
+        "longitude": 106.7493,
+        "address": "Bida Thanh Minh, 743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida Thái Bình",
+        "latitude": 10.88448,
+        "longitude": 106.76181,
+        "address": "Câu Lạc Bộ Bida Thái Bình, Hẻm 521 Đường Nguyễn Tri Phương, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Hẻm 521 Đường Nguyễn Tri Phương",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Massage Domi",
+        "latitude": 10.87664,
+        "longitude": 106.81056,
+        "address": "Massage Domi, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Học Tập Cộng Đồng Phường Hòa Bình",
+        "latitude": 10.95234,
+        "longitude": 106.80929,
+        "address": "Trung Tâm Học Tập Cộng Đồng Phường Hòa Bình, Đường Cách Mạng Tháng 8, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố 2",
+        "latitude": 10.94119,
+        "longitude": 106.82442,
+        "address": "Nhà Văn Hóa Khu Phố 2, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Khu vực tổ chức hoạt động chung"
+            }
+        ]
+    },
+    {
+        "name": "Billiards Club Hoàng Mai",
+        "latitude": 10.87288,
+        "longitude": 106.79988,
+        "address": "Billiards Club Hoàng Mai, Đường T2, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường T2",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố 3 Phường Quang Vinh",
+        "latitude": 10.95126,
+        "longitude": 106.81214,
+        "address": "Nhà Văn Hóa Khu Phố 3 Phường Quang Vinh, Đường Cách Mạng Tháng 8, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Dục Thể Hình Phước Thịnh",
+        "latitude": 10.95382,
+        "longitude": 106.80669,
+        "address": "Câu Lạc Bộ Thể Dục Thể Hình Phước Thịnh, ĐƯỜNG Nhà Mở KP1, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "ĐƯỜNG Nhà Mở KP1",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Curves",
+        "latitude": 10.94897,
+        "longitude": 106.81628,
+        "address": "Curves, 1 Đường Nguyễn Văn Nghĩa, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Nguyễn Văn Nghĩa",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Bida Cao Nguyên",
+        "latitude": 10.87502,
+        "longitude": 106.80872,
+        "address": "Bida Cao Nguyên, Đường Tân Lập, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Tân Lập",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Truyền Thống Xã Hiệp Hòa",
+        "latitude": 10.93462,
+        "longitude": 106.82981,
+        "address": "Nhà Truyền Thống Xã Hiệp Hòa, Đường Đặng Văn Trơn, Phường Hiệp Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hiệp Hòa",
+        "street": "Đường Đặng Văn Trơn",
+        "postal_code": "76126",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm La Bonta",
+        "latitude": 10.94953,
+        "longitude": 106.81604,
+        "address": "Trung Tâm La Bonta, Đường Phan Chu Trinh, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Phan Chu Trinh",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Hình Linh Xuân",
+        "latitude": 10.87997,
+        "longitude": 106.76555,
+        "address": "Câu Lạc Bộ Thể Hình Linh Xuân, 21 Đường Số 5, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 5",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố 1",
+        "latitude": 10.95032,
+        "longitude": 106.8149,
+        "address": "Nhà Văn Hóa Khu Phố 1, Hẻm 34 Phan Chu Trinh, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Hẻm 34 Phan Chu Trinh",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Billiards Minh Tiền",
+        "latitude": 10.94293,
+        "longitude": 106.82396,
+        "address": "Billiards Minh Tiền, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida Tân Phú",
+        "latitude": 10.87185,
+        "longitude": 106.79925,
+        "address": "Câu Lạc Bộ Bida Tân Phú, Đường Xa Lộ Hà Nội, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Xa Lộ Hà Nội",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Bida Trường Vũ",
+        "latitude": 10.91062,
+        "longitude": 106.748,
+        "address": "Câu Lạc Bộ Bida Trường Vũ, Đường Tỉnh 743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Tỉnh 743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố 3",
+        "latitude": 10.94823,
+        "longitude": 106.81879,
+        "address": "Nhà Văn Hóa Khu Phố 3, Đường Lữ Mành, Phường Thanh Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thanh Bình",
+        "street": "Đường Lữ Mành",
+        "postal_code": "76106",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Hình Quang Lưu 1",
+        "latitude": 10.94537,
+        "longitude": 106.8222,
+        "address": "Câu Lạc Bộ Thể Hình Quang Lưu 1, Đường Võ Thị Sáu, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Thể Hình Nam Nữ-Xông Hơi X-Men",
+        "latitude": 10.95487,
+        "longitude": 106.80679,
+        "address": "Thể Hình Nam Nữ-Xông Hơi X-Men, Đường D2, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường D2",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Khu Phố 1",
+        "latitude": 10.95504,
+        "longitude": 106.80668,
+        "address": "Nhà Văn Hóa Khu Phố 1, Đường D2, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường D2",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Ngôi Nhà Sức Khỏe",
+        "latitude": 10.95535,
+        "longitude": 106.80603,
+        "address": "Ngôi Nhà Sức Khỏe, Đường N1, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường N1",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Xông Hơi Thành Nghĩa",
+        "latitude": 10.88271,
+        "longitude": 106.76095,
+        "address": "Xông Hơi Thành Nghĩa, Đường Nguyễn Tri Phương, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Spa Rosa",
+        "latitude": 10.94577,
+        "longitude": 106.82242,
+        "address": "Spa Rosa, Đường Võ Thị Sáu, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Ấp Tam Hòa",
+        "latitude": 10.93021,
+        "longitude": 106.83322,
+        "address": "Nhà Văn Hóa Ấp Tam Hòa, Đường Đặng Văn Trơn, Phường Hiệp Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hiệp Hòa",
+        "street": "Đường Đặng Văn Trơn",
+        "postal_code": "76126",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Pha Lê",
+        "latitude": 10.89895,
+        "longitude": 106.83371,
+        "address": "Pha Lê, Khu Phố Quyết Thắng, Phường Bình An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình An",
+        "street": "Khu Phố Quyết Thắng",
+        "postal_code": "75310",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thẩm Mỹ Sài Gòn",
+        "latitude": 10.87927,
+        "longitude": 106.76451,
+        "address": "Thẩm Mỹ Sài Gòn, Đường Số 5, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 5",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Văn Hóa Ấp Nhất Hòa",
+        "latitude": 10.93556,
+        "longitude": 106.83082,
+        "address": "Nhà Văn Hóa Ấp Nhất Hòa, Đường Đỗ Văn Thi, Phường Hiệp Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hiệp Hòa",
+        "street": "Đường Đỗ Văn Thi",
+        "postal_code": "76126",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Câu Lạc Bộ Thể Hình Nam Nữ Quang Lưu",
+        "latitude": 10.95653,
+        "longitude": 106.80384,
+        "address": "Câu Lạc Bộ Thể Hình Nam Nữ Quang Lưu, Đường N4, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường N4",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Tập Đa Năng",
+        "latitude": 10.9555,
+        "longitude": 106.8074,
+        "address": "Phòng Tập Đa Năng, Đường N1, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường N1",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Spa Hải Anh",
+        "latitude": 10.94574,
+        "longitude": 106.82316,
+        "address": "Spa Hải Anh, Đường Hà Huy Giáp, Phường Quyết Thắng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quyết Thắng",
+        "street": "Đường Hà Huy Giáp",
+        "postal_code": "76107",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            }
+        ]
+    }
+]

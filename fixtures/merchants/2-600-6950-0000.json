@@ -1,0 +1,1817 @@
+[
+    {
+        "name": "Quốc Toản Hớt Tóc",
+        "latitude": 10.82432,
+        "longitude": 106.6246,
+        "address": "Quốc Toản Hớt Tóc, Dương Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Dương Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "My Salon-Spa-Nails",
+        "latitude": 10.82423,
+        "longitude": 106.62357,
+        "address": "My Salon-Spa-Nails, Đường D2, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường D2",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Hà Linh",
+        "latitude": 10.82418,
+        "longitude": 106.62356,
+        "address": "Salon Hà Linh, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nail & Makeup Duyên Andy",
+        "latitude": 10.82507,
+        "longitude": 106.62604,
+        "address": "Nail & Makeup Duyên Andy, Đường TTN 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường TTN 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thẩm Mỹ Hoài Anh",
+        "latitude": 10.82611,
+        "longitude": 106.62604,
+        "address": "Thẩm Mỹ Hoài Anh, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Hoàng Châu",
+        "latitude": 10.82364,
+        "longitude": 106.62243,
+        "address": "Hoàng Châu, Đường Tân Thới Nhất 21, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 21",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Salon Phương Tâm",
+        "latitude": 10.82625,
+        "longitude": 106.62281,
+        "address": "Salon Phương Tâm, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tại Đây Có Bán Mỹ Phẩm Hàn Quốc",
+        "latitude": 10.82711,
+        "longitude": 106.62457,
+        "address": "Tại Đây Có Bán Mỹ Phẩm Hàn Quốc, 8 Hẻm 3 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 3 Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Spa HĐ",
+        "latitude": 10.82642,
+        "longitude": 106.62657,
+        "address": "Spa HĐ, 1 Hẻm 1 Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Hẻm 1 Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Uốn Tóc",
+        "latitude": 10.82754,
+        "longitude": 106.62444,
+        "address": "Uốn Tóc, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Halie Beauty Spa",
+        "latitude": 10.82667,
+        "longitude": 106.62663,
+        "address": "Halie Beauty Spa, 29 Hẻm 1 Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Hẻm 1 Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thuy Spa",
+        "latitude": 10.82746,
+        "longitude": 106.62529,
+        "address": "Thuy Spa, Giao Lộ Ngã Ba Thuận Kiều, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Giao Lộ Ngã Ba Thuận Kiều",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Thẩm mỹ viện nhuộm da"
+            }
+        ]
+    },
+    {
+        "name": "MR Đ",
+        "latitude": 10.82745,
+        "longitude": 106.62355,
+        "address": "MR Đ, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Tóc Lanh Nguyễn",
+        "latitude": 10.82212,
+        "longitude": 106.62271,
+        "address": "Tiệm Tóc Lanh Nguyễn, Đường B, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường B",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thẩm Mỹ Viện Tuyết Chinh",
+        "latitude": 10.82793,
+        "longitude": 106.6245,
+        "address": "Thẩm Mỹ Viện Tuyết Chinh, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Sona Cosmetics & Spa",
+        "latitude": 10.82758,
+        "longitude": 106.62608,
+        "address": "Sona Cosmetics & Spa, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "HKD Hóa Mỹ Phẩm Phú Quý",
+        "latitude": 10.82772,
+        "longitude": 106.62605,
+        "address": "HKD Hóa Mỹ Phẩm Phú Quý, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Ly Ly Nail",
+        "latitude": 10.82174,
+        "longitude": 106.62254,
+        "address": "Ly Ly Nail, Đường D3, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường D3",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nail Tóc Xinh",
+        "latitude": 10.82242,
+        "longitude": 106.62151,
+        "address": "Nail Tóc Xinh, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hair Beauty Salon Đức Dũng",
+        "latitude": 10.8278,
+        "longitude": 106.62258,
+        "address": "Hair Beauty Salon Đức Dũng, 52 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cửa hàng bán đồ gia dụng/Nội thất"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            },
+            {
+                "name": "Chuyên gia nhãn khoa"
+            }
+        ]
+    },
+    {
+        "name": "Trúc Spa",
+        "latitude": 10.82783,
+        "longitude": 106.62253,
+        "address": "Trúc Spa, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Hoàng Tuấn Academy",
+        "latitude": 10.82354,
+        "longitude": 106.62068,
+        "address": "Hoàng Tuấn Academy, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hớt Tóc Phương Anh",
+        "latitude": 10.82775,
+        "longitude": 106.6221,
+        "address": "Hớt Tóc Phương Anh, 43 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hair Salon Hiệp Nguyễn",
+        "latitude": 10.82748,
+        "longitude": 106.6273,
+        "address": "Hair Salon Hiệp Nguyễn, 14 Hẻm 26 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 26 Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nails & Spa",
+        "latitude": 10.82841,
+        "longitude": 106.62572,
+        "address": "Nails & Spa, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Ngọc Hân",
+        "latitude": 10.82497,
+        "longitude": 106.62046,
+        "address": "Salon Ngọc Hân, Đường Dương Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Dương Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hùng Anh Home Spa",
+        "latitude": 10.82759,
+        "longitude": 106.62174,
+        "address": "Hùng Anh Home Spa, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Shop Huỳnh Gia",
+        "latitude": 10.82823,
+        "longitude": 106.62211,
+        "address": "Shop Huỳnh Gia, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tommy Hair",
+        "latitude": 10.82786,
+        "longitude": 106.62161,
+        "address": "Tommy Hair, 55 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Kim Xuân",
+        "latitude": 10.82813,
+        "longitude": 106.62185,
+        "address": "Salon Kim Xuân, 74 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thảo Nail",
+        "latitude": 10.82596,
+        "longitude": 106.62009,
+        "address": "Thảo Nail, Hẻm 87 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 87 Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hoàng Anh Beauty Spa",
+        "latitude": 10.8283,
+        "longitude": 106.6218,
+        "address": "Hoàng Anh Beauty Spa, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Nguồn Cosmetics",
+        "latitude": 10.82872,
+        "longitude": 106.62245,
+        "address": "Nguồn Cosmetics, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Trà My",
+        "latitude": 10.82843,
+        "longitude": 106.62193,
+        "address": "Trà My, 32 Hẻm 74 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 74 Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Sinh Đôi",
+        "latitude": 10.82364,
+        "longitude": 106.61975,
+        "address": "Salon Sinh Đôi, R28 Đường Số 15, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Số 15",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Cao Cấp Nhật Kim Anh",
+        "latitude": 10.82811,
+        "longitude": 106.62117,
+        "address": "Mỹ Phẩm Cao Cấp Nhật Kim Anh, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Beauty Salon Tóc Thời Đại",
+        "latitude": 10.82816,
+        "longitude": 106.62102,
+        "address": "Beauty Salon Tóc Thời Đại, 32/5 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Hồng Lê",
+        "latitude": 10.82911,
+        "longitude": 106.62676,
+        "address": "Hồng Lê, Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Đào Tạo Nghề Chuyên Nghiệp",
+        "latitude": 10.82911,
+        "longitude": 106.62676,
+        "address": "Trung Tâm Đào Tạo Nghề Chuyên Nghiệp, Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "30 Shine",
+        "latitude": 10.8281,
+        "longitude": 106.62073,
+        "address": "30 Shine, 76 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Hoàn Vũ",
+        "latitude": 10.82308,
+        "longitude": 106.62964,
+        "address": "Mỹ Phẩm Hoàn Vũ, Đường Trường Chinh, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nu Na",
+        "latitude": 10.83004,
+        "longitude": 106.6251,
+        "address": "Nu Na, Đường Song Hành QL 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành QL 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Shinning Beauty",
+        "latitude": 10.82527,
+        "longitude": 106.61894,
+        "address": "Shinning Beauty, Hẻm 1/8/67 Tân Thới Nhất 22, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 1/8/67 Tân Thới Nhất 22",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Chuyên Nail Làm Móng Hằng",
+        "latitude": 10.82621,
+        "longitude": 106.61908,
+        "address": "Chuyên Nail Làm Móng Hằng, Đường Tân Thới Nhất 22, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 22",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Lami",
+        "latitude": 10.82293,
+        "longitude": 106.62987,
+        "address": "Lami, Đường Trường Chinh, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Chăm Sóc Móng",
+        "latitude": 10.82645,
+        "longitude": 106.61905,
+        "address": "Chăm Sóc Móng, Đường Tân Thới Nhất 22, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 22",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thuy's Nail",
+        "latitude": 10.82645,
+        "longitude": 106.61905,
+        "address": "Thuy's Nail, Đường Tân Thới Nhất 22, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 22",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Trân Mi",
+        "latitude": 10.83005,
+        "longitude": 106.6266,
+        "address": "Trân Mi, 13 Hẻm 155 Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Hẻm 155 Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Dịch vụ sửa chữa"
+            }
+        ]
+    },
+    {
+        "name": "Hair Salon Bắc Trần Tiến",
+        "latitude": 10.83046,
+        "longitude": 106.62334,
+        "address": "Hair Salon Bắc Trần Tiến, 186 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Hasaki.Vn",
+        "latitude": 10.82521,
+        "longitude": 106.63068,
+        "address": "Hasaki.Vn, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "30 Shine Store",
+        "latitude": 10.82546,
+        "longitude": 106.63072,
+        "address": "30 Shine Store, 36 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thắm Beauty",
+        "latitude": 10.82836,
+        "longitude": 106.61936,
+        "address": "Thắm Beauty, 111 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Hair Solon Cẩm Hiền",
+        "latitude": 10.83044,
+        "longitude": 106.62694,
+        "address": "Hair Solon Cẩm Hiền, Đường Đông Hưng Thuận 2, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 2",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Yến Nhi",
+        "latitude": 10.83094,
+        "longitude": 106.62303,
+        "address": "Salon Yến Nhi, 222 Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Tóc Lê Sương",
+        "latitude": 10.83045,
+        "longitude": 106.62761,
+        "address": "Salon Tóc Lê Sương, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Beauty Salon Kim Thanh",
+        "latitude": 10.82613,
+        "longitude": 106.63116,
+        "address": "Beauty Salon Kim Thanh, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Tóc Anh Thư",
+        "latitude": 10.82555,
+        "longitude": 106.63127,
+        "address": "Tiệm Tóc Anh Thư, 5B Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Ivy Spa",
+        "latitude": 10.8285,
+        "longitude": 106.61887,
+        "address": "Ivy Spa, 123 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Gội Đầu Thảo Dược",
+        "latitude": 10.83058,
+        "longitude": 106.62776,
+        "address": "Gội Đầu Thảo Dược, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tạp Hóa Xách Tay Nhật- Hàn",
+        "latitude": 10.82433,
+        "longitude": 106.63142,
+        "address": "Tạp Hóa Xách Tay Nhật- Hàn, 23 Hẻm 45 Tân Trụ, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Hẻm 45 Tân Trụ",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Uốn Tóc Phương Anh",
+        "latitude": 10.82668,
+        "longitude": 106.61778,
+        "address": "Uốn Tóc Phương Anh, Hẻm 11 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 11 Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Beauty Salon Ngọc Phúc",
+        "latitude": 10.8267,
+        "longitude": 106.63122,
+        "address": "Beauty Salon Ngọc Phúc, 47A Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Hoàng Sơn Cắt Tóc Bình Dân",
+        "latitude": 10.824,
+        "longitude": 106.63162,
+        "address": "Hoàng Sơn Cắt Tóc Bình Dân, Đường Tân Trụ, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Tân Trụ",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Uốn Tóc Thanh Ly",
+        "latitude": 10.82757,
+        "longitude": 106.61798,
+        "address": "Uốn Tóc Thanh Ly, Hẻm 129 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 129 Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Viện Tóc Family Hair",
+        "latitude": 10.83103,
+        "longitude": 106.62752,
+        "address": "Viện Tóc Family Hair, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Da Sáng Dáng Xinh",
+        "latitude": 10.82553,
+        "longitude": 106.63165,
+        "address": "Da Sáng Dáng Xinh, Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Beauty Salon Ấn Tượng",
+        "latitude": 10.82221,
+        "longitude": 106.63131,
+        "address": "Beauty Salon Ấn Tượng, Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hớt Tóc Nam Kiệt",
+        "latitude": 10.82557,
+        "longitude": 106.63177,
+        "address": "Hớt Tóc Nam Kiệt, Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tóc Nữ Thủy",
+        "latitude": 10.8286,
+        "longitude": 106.61825,
+        "address": "Tóc Nữ Thủy, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hớt Tóc A Kỳ",
+        "latitude": 10.8286,
+        "longitude": 106.61825,
+        "address": "Hớt Tóc A Kỳ, 129 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Cửa hàng cắt tóc nam"
+            }
+        ]
+    },
+    {
+        "name": "Cắt Tóc Trúc Mai",
+        "latitude": 10.83194,
+        "longitude": 106.62463,
+        "address": "Cắt Tóc Trúc Mai, Hẻm 222 Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Hẻm 222 Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Uốn Tóc Kim Phụng",
+        "latitude": 10.82405,
+        "longitude": 106.632,
+        "address": "Uốn Tóc Kim Phụng, Đường Tân Trụ, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Tân Trụ",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Spa Rose Kiểu",
+        "latitude": 10.831,
+        "longitude": 106.62848,
+        "address": "Spa Rose Kiểu, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Tóc Mai Lan",
+        "latitude": 10.83082,
+        "longitude": 106.62017,
+        "address": "Salon Tóc Mai Lan, Đường Tân Thới Nhất 13C, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 13C",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Hớt Tóc Phúc",
+        "latitude": 10.8275,
+        "longitude": 106.63177,
+        "address": "Hớt Tóc Phúc, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Quỳnh Như Beauty",
+        "latitude": 10.83097,
+        "longitude": 106.61981,
+        "address": "Quỳnh Như Beauty, Hẻm 11 Đường Tân Thới Nhất 12, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 11 Đường Tân Thới Nhất 12",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Uốn Tóc Như Ý",
+        "latitude": 10.82338,
+        "longitude": 106.63238,
+        "address": "Uốn Tóc Như Ý, Đường Tân Trụ, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Tân Trụ",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Uốn Tóc Phương Lan",
+        "latitude": 10.82772,
+        "longitude": 106.63191,
+        "address": "Tiệm Uốn Tóc Phương Lan, 80 Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nail Hằng",
+        "latitude": 10.8278,
+        "longitude": 106.63191,
+        "address": "Nail Hằng, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Vinh Hải",
+        "latitude": 10.8313,
+        "longitude": 106.62009,
+        "address": "Mỹ Phẩm Vinh Hải, Đường Tân Thới Nhất 13C, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 13C",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Ngọc Hương",
+        "latitude": 10.8313,
+        "longitude": 106.62009,
+        "address": "Mỹ Phẩm Ngọc Hương, Đường Tân Thới Nhất 13C, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 13C",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Giang Nail-Mi-Spa",
+        "latitude": 10.82103,
+        "longitude": 106.63171,
+        "address": "Giang Nail-Mi-Spa, Đường Tống Văn Hên, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Tống Văn Hên",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Shilli Beauty",
+        "latitude": 10.82892,
+        "longitude": 106.61767,
+        "address": "Shilli Beauty, 120 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nails Như Ý",
+        "latitude": 10.83128,
+        "longitude": 106.62894,
+        "address": "Nails Như Ý, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Tóc Quân Huyền",
+        "latitude": 10.83128,
+        "longitude": 106.62894,
+        "address": "Tiệm Tóc Quân Huyền, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Thúy Quỳnh",
+        "latitude": 10.83188,
+        "longitude": 106.62791,
+        "address": "Thúy Quỳnh, Đường ĐHT 10B, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường ĐHT 10B",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nail Như Ngân",
+        "latitude": 10.8318,
+        "longitude": 106.62816,
+        "address": "Nail Như Ngân, Đường ĐHT 10B, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường ĐHT 10B",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Nối Mi Make Up Tú Uyên",
+        "latitude": 10.83266,
+        "longitude": 106.62493,
+        "address": "Nối Mi Make Up Tú Uyên, Đường Đông Hưng Thuận 45, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 45",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Phương Nhi",
+        "latitude": 10.83118,
+        "longitude": 106.61967,
+        "address": "Phương Nhi, Hẻm 11 Đường Tân Thới Nhất 12, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 11 Đường Tân Thới Nhất 12",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Lý",
+        "latitude": 10.82286,
+        "longitude": 106.63252,
+        "address": "Salon Lý, Đường Tân Trụ, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Tân Trụ",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Mỹ Phẩm Nga Shop",
+        "latitude": 10.83256,
+        "longitude": 106.62646,
+        "address": "Mỹ Phẩm Nga Shop, Đường Đông Hưng Thuận 45, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 45",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Tít Nail",
+        "latitude": 10.83257,
+        "longitude": 106.62652,
+        "address": "Tít Nail, Đường Đông Hưng Thuận 45, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 45",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Ngọc Ẩn",
+        "latitude": 10.81656,
+        "longitude": 106.62596,
+        "address": "Ngọc Ẩn, 53 Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Tây Thạnh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Uốn Tóc Hồng Nhung",
+        "latitude": 10.82248,
+        "longitude": 106.63256,
+        "address": "Uốn Tóc Hồng Nhung, Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Uốn Tóc Nguyễn Ly",
+        "latitude": 10.83175,
+        "longitude": 106.62032,
+        "address": "Uốn Tóc Nguyễn Ly, Đường Tân Thới Nhất 13C, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 13C",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    },
+    {
+        "name": "Salon Như Quỳnh",
+        "latitude": 10.83175,
+        "longitude": 106.62032,
+        "address": "Salon Như Quỳnh, Đường Tân Thới Nhất 13C, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 13C",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            }
+        ]
+    }
+]

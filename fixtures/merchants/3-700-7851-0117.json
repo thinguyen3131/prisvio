@@ -1,0 +1,1739 @@
+[
+    {
+        "name": "Hải Lân Forklift",
+        "latitude": 10.91809,
+        "longitude": 106.78331,
+        "address": "Hải Lân Forklift, Đường Mỹ Phước-Tân Vạn, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Mỹ Phước-Tân Vạn",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Tự Lái 4C Đến 7C",
+        "latitude": 10.90844,
+        "longitude": 106.78029,
+        "address": "Cho Thuê Xe Tự Lái 4C Đến 7C, Đường Nguyễn Thái Học, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Nguyễn Thái Học",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Xe Gia Đình Bi Bi",
+        "latitude": 10.90835,
+        "longitude": 106.77565,
+        "address": "Dịch Vụ Xe Gia Đình Bi Bi, Nguyễn Thái Học, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Nguyễn Thái Học",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ-Du Lịch Thành Đạt",
+        "latitude": 10.93472,
+        "longitude": 106.79782,
+        "address": "Dịch Vụ-Du Lịch Thành Đạt, Đường Hoàng Minh Chánh, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Hoàng Minh Chánh",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch",
+        "latitude": 10.93087,
+        "longitude": 106.80568,
+        "address": "Dịch Vụ Du Lịch, Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Hợp Tác Xã Vận Tải Dĩ An Châu Nguyên",
+        "latitude": 10.90657,
+        "longitude": 106.76975,
+        "address": "Hợp Tác Xã Vận Tải Dĩ An Châu Nguyên, Đường Số 6, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Số 6",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe 4 7 16 Chỗ Thanh Long",
+        "latitude": 10.92759,
+        "longitude": 106.81175,
+        "address": "Cho Thuê Xe 4 7 16 Chỗ Thanh Long, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Trần Chiến Thắng",
+        "latitude": 10.92455,
+        "longitude": 106.76777,
+        "address": "Bãi Xe Trần Chiến Thắng, Đường Mỹ Phước Tân Vạn, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Mỹ Phước Tân Vạn",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Thanh Lâm",
+        "latitude": 10.92777,
+        "longitude": 106.81397,
+        "address": "Dịch Vụ Du Lịch Thanh Lâm, Đường Nguyễn Tri Phương, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Taxi Gia Đình Hồng Hà",
+        "latitude": 10.91151,
+        "longitude": 106.76295,
+        "address": "Taxi Gia Đình Hồng Hà, Đường Nguyễn Du, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Net 79",
+        "latitude": 10.93429,
+        "longitude": 106.76945,
+        "address": "Net 79, Đường Huỳnh Thị Tươi, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Huỳnh Thị Tươi",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Đức Khang",
+        "latitude": 10.89665,
+        "longitude": 106.76699,
+        "address": "Công Ty Đức Khang, Đường Ngô Thì Nhậm, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Ngô Thì Nhậm",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Lộc Lộc Phát",
+        "latitude": 10.93482,
+        "longitude": 106.76854,
+        "address": "Lộc Lộc Phát, Đường Huỳnh Thị Tươi, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Huỳnh Thị Tươi",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Lan Phụng",
+        "latitude": 10.94278,
+        "longitude": 106.80331,
+        "address": "Dịch Vụ Du Lịch Lan Phụng, Đường Bùi Hữu Nghĩa, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Xuân Phú",
+        "latitude": 10.94429,
+        "longitude": 106.79925,
+        "address": "Dịch Vụ Du Lịch Xuân Phú, Đường Bùi Hữu Nghĩa, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Anh Tú",
+        "latitude": 10.93205,
+        "longitude": 106.81895,
+        "address": "Cho Thuê Xe Anh Tú, Đường Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe Thùy Dung",
+        "latitude": 10.92502,
+        "longitude": 106.82293,
+        "address": "Dịch Vụ Cho Thuê Xe Thùy Dung, Đường Bùi Hữu Nghĩa, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cty TNHH Dịch Vụ Vận Tải Và Dạy Nghề Thành Đạt",
+        "latitude": 10.93574,
+        "longitude": 106.76656,
+        "address": "Cty TNHH Dịch Vụ Vận Tải Và Dạy Nghề Thành Đạt, Đường Huỳnh Thị Tươi, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Huỳnh Thị Tươi",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Cho Thuê Loa Kéo",
+        "latitude": 10.92079,
+        "longitude": 106.82455,
+        "address": "Dịch Vụ Du Lịch Cho Thuê Loa Kéo, Đường Bùi Hữu Nghĩa, Phường Tân Vạn, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Vạn",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76124",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Xe Du Lịch",
+        "latitude": 10.92049,
+        "longitude": 106.82474,
+        "address": "Dịch Vụ Xe Du Lịch, Đường Bùi Hữu Nghĩa, Phường Tân Vạn, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Vạn",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postal_code": "76124",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "DV 7 Chỗ MR Tuấn",
+        "latitude": 10.92404,
+        "longitude": 106.82447,
+        "address": "DV 7 Chỗ MR Tuấn, Đường Trần Văn Ơn, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Trần Văn Ơn",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Thành Công Nhận Hợp Đồng Cho Thuê Xe",
+        "latitude": 10.90376,
+        "longitude": 106.75756,
+        "address": "Du Lịch Thành Công Nhận Hợp Đồng Cho Thuê Xe, Đường Số 5 TĐC, Phường Dĩ An, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Dĩ An",
+        "street": "Đường Số 5 TĐC",
+        "postal_code": "75306",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe Chạy Hợp Đồng",
+        "latitude": 10.93715,
+        "longitude": 106.76395,
+        "address": "Dịch Vụ Cho Thuê Xe Chạy Hợp Đồng, 81 Đường Thanh Niên, Phường Tân Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Bình",
+        "street": "Đường Thanh Niên",
+        "postal_code": "75312",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.88464,
+        "longitude": 106.76985,
+        "address": "Cho Thuê Xe Du Lịch, Đường Số 7, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 7",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.8867,
+        "longitude": 106.76539,
+        "address": "Cho Thuê Xe Du Lịch, Hẻm 113 Đường Số 11, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Hẻm 113 Đường Số 11",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Kim Xuyến",
+        "latitude": 10.94574,
+        "longitude": 106.81475,
+        "address": "Dịch Vụ Du Lịch Kim Xuyến, Đường Lê Thánh Tôn, Phường Thanh Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thanh Bình",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "76106",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Hồng Huệ",
+        "latitude": 10.87702,
+        "longitude": 106.77713,
+        "address": "Du Lịch Hồng Huệ, 163 Đường Số 8, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 8",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Xe Du Lịch Phúc Hướng",
+        "latitude": 10.87742,
+        "longitude": 106.80855,
+        "address": "Dịch Vụ Xe Du Lịch Phúc Hướng, Đường Vành Đai, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Vành Đai",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Ngọc Quý",
+        "latitude": 10.93345,
+        "longitude": 106.82786,
+        "address": "Ngọc Quý, 65 Đường Đỗ Văn Thi, Phường Hiệp Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hiệp Hòa",
+        "street": "Đường Đỗ Văn Thi",
+        "postal_code": "76126",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Vân Anh Cho Thuê Xe Tự Lái",
+        "latitude": 10.87701,
+        "longitude": 106.80832,
+        "address": "Du Lịch Vân Anh Cho Thuê Xe Tự Lái, Đường Vành Đai, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Vành Đai",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe Du Lịch Hồng Hạnh",
+        "latitude": 10.95475,
+        "longitude": 106.79401,
+        "address": "Dịch Vụ Cho Thuê Xe Du Lịch Hồng Hạnh, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe Du Lịch Quốc Huy",
+        "latitude": 10.87509,
+        "longitude": 106.77823,
+        "address": "Dịch Vụ Cho Thuê Xe Du Lịch Quốc Huy, 248 Đường Số 8, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 8",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Khu Nhà Trọ An Cư",
+        "latitude": 10.88386,
+        "longitude": 106.7631,
+        "address": "Khu Nhà Trọ An Cư, Khu Phố Bình Đường 4, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Khu Phố Bình Đường 4",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Trúc Vân",
+        "latitude": 10.87683,
+        "longitude": 106.7733,
+        "address": "Dịch Vụ Du Lịch Trúc Vân, Đường Số 10, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 10",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe 7 Chỗ",
+        "latitude": 10.95583,
+        "longitude": 106.79227,
+        "address": "Cho Thuê Xe 7 Chỗ, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Vận Tải TM Du Lịch Như Ý",
+        "latitude": 10.8765,
+        "longitude": 106.77326,
+        "address": "Công Ty TNHH Vận Tải TM Du Lịch Như Ý, 14 Hẻm 24 Đường Số 10, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Hẻm 24 Đường Số 10",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Giàu",
+        "latitude": 10.95233,
+        "longitude": 106.80902,
+        "address": "Giàu, 513 Đường Cách Mạng Tháng 8, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Tự Lái",
+        "latitude": 10.95612,
+        "longitude": 106.79226,
+        "address": "Cho Thuê Xe Tự Lái, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Thu Nguyệt",
+        "latitude": 10.95222,
+        "longitude": 106.80991,
+        "address": "Dịch Vụ Du Lịch Thu Nguyệt, Đường Cách Mạng Tháng 8, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Cường Thanh",
+        "latitude": 10.91475,
+        "longitude": 106.74877,
+        "address": "Du Lịch Cường Thanh, Đường Tỉnh 743C, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Tỉnh 743C",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch Thanh Bạch",
+        "latitude": 10.94914,
+        "longitude": 106.81597,
+        "address": "Cho Thuê Xe Du Lịch Thanh Bạch, Đường Phan Chu Trinh, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Phan Chu Trinh",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Ngọc Mai",
+        "latitude": 10.95155,
+        "longitude": 106.81204,
+        "address": "Dịch Vụ Du Lịch Ngọc Mai, 128 Đường Cách Mạng Tháng 8, Phường Hòa Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hòa Bình",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "76122",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Thanh Hải",
+        "latitude": 10.88044,
+        "longitude": 106.76498,
+        "address": "Du Lịch Thanh Hải, Đường Số 13, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Số 13",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.88487,
+        "longitude": 106.75956,
+        "address": "Cho Thuê Xe Du Lịch, Đường Nguyễn Tri Phương, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường Nguyễn Tri Phương",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe & Bảo Hiểm Minh Nhã",
+        "latitude": 10.87789,
+        "longitude": 106.76658,
+        "address": "Dịch Vụ Cho Thuê Xe & Bảo Hiểm Minh Nhã, 94 Xa Lộ Hà Nội, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe Ngọc 79",
+        "latitude": 10.95529,
+        "longitude": 106.80799,
+        "address": "Dịch Vụ Cho Thuê Xe Ngọc 79, Đường N1, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường N1",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Như Huệ",
+        "latitude": 10.95548,
+        "longitude": 106.80826,
+        "address": "Dịch Vụ Du Lịch Như Huệ, Đường N2, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường N2",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe Du Lịch Như Huệ",
+        "latitude": 10.95701,
+        "longitude": 106.80581,
+        "address": "Dịch Vụ Cho Thuê Xe Du Lịch Như Huệ, Đường N6, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường N6",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Ngọc Thảo",
+        "latitude": 10.87532,
+        "longitude": 106.81527,
+        "address": "Du Lịch Ngọc Thảo, 447 Đường Hoàng Hữu Nam, Phường Long Bình, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Long Bình",
+        "street": "Đường Hoàng Hữu Nam",
+        "postal_code": "71217",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Phúc Bảo Car",
+        "latitude": 10.95634,
+        "longitude": 106.8089,
+        "address": "Phúc Bảo Car, Đường N4, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường N4",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.95192,
+        "longitude": 106.81769,
+        "address": "Cho Thuê Xe Du Lịch, Hẻm 110 Phan Đình Phùng, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Hẻm 110 Phan Đình Phùng",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Quốc Kiệt",
+        "latitude": 10.87487,
+        "longitude": 106.81627,
+        "address": "Du Lịch Quốc Kiệt, 2 Đường Số 11, Phường Long Bình, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Long Bình",
+        "street": "Đường Số 11",
+        "postal_code": "71217",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Trang Anh",
+        "latitude": 10.9582,
+        "longitude": 106.80663,
+        "address": "Dịch Vụ Du Lịch Trang Anh, Đường D2, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường D2",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Nhận Chạy Hợp Đồng Xe Tỷ Mụi",
+        "latitude": 10.95828,
+        "longitude": 106.80664,
+        "address": "Nhận Chạy Hợp Đồng Xe Tỷ Mụi, Đường D2, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường D2",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Từ Lợi",
+        "latitude": 10.87834,
+        "longitude": 106.76128,
+        "address": "Từ Lợi, Đường Lê Văn Tách, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Xuân",
+        "street": "Đường Lê Văn Tách",
+        "postal_code": "71309",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch Cẩm Nhung",
+        "latitude": 10.87834,
+        "longitude": 106.76128,
+        "address": "Cho Thuê Xe Du Lịch Cẩm Nhung, Đường Lê Văn Tách, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường Lê Văn Tách",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Nam Tâm Phát",
+        "latitude": 10.95768,
+        "longitude": 106.80972,
+        "address": "Công Ty TNHH Nam Tâm Phát, Đường Nguyễn Du, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe Du Lịch Phi Thy",
+        "latitude": 10.86764,
+        "longitude": 106.80525,
+        "address": "Dịch Vụ Cho Thuê Xe Du Lịch Phi Thy, Đường Số 154, Phường Tân Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Tân Phú",
+        "street": "Đường Số 154",
+        "postal_code": "71218",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.95165,
+        "longitude": 106.82281,
+        "address": "Cho Thuê Xe Du Lịch, Đường 30 Tháng 4, Phường Trung Dũng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Trung Dũng",
+        "street": "Đường 30 Tháng 4",
+        "postal_code": "76118",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Bảo Phúc",
+        "latitude": 10.88868,
+        "longitude": 106.83411,
+        "address": "Du Lịch Bảo Phúc, Đường Nguyễn Xiển, Phường Long Bình, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Long Bình",
+        "street": "Đường Nguyễn Xiển",
+        "postal_code": "71217",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Xuân Thu",
+        "latitude": 10.94827,
+        "longitude": 106.82718,
+        "address": "Dịch Vụ Du Lịch Xuân Thu, Đường D3, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường D3",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Hoàng Vũ",
+        "latitude": 10.88862,
+        "longitude": 106.83412,
+        "address": "Du Lịch Hoàng Vũ, Đường Nguyễn Xiển, Phường Long Bình, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Long Bình",
+        "street": "Đường Nguyễn Xiển",
+        "postal_code": "71217",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Ngọc Thảo",
+        "latitude": 10.88782,
+        "longitude": 106.83411,
+        "address": "Du Lịch Ngọc Thảo, Đường Nguyễn Xiển, Phường Long Bình, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Long Bình",
+        "street": "Đường Nguyễn Xiển",
+        "postal_code": "71217",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Xe Du Lịch Duy Tân",
+        "latitude": 10.96022,
+        "longitude": 106.81013,
+        "address": "Dịch Vụ Xe Du Lịch Duy Tân, Đường Nguyễn Du, Phường Quang Vinh, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Quang Vinh",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "76119",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Thuê Xe Hợp Đồng",
+        "latitude": 10.94546,
+        "longitude": 106.83105,
+        "address": "Thuê Xe Hợp Đồng, Đường N10, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường N10",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Ba Thà",
+        "latitude": 10.86489,
+        "longitude": 106.80104,
+        "address": "Dịch Vụ Du Lịch Ba Thà, Đường 100, Phường Tân Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Tân Phú",
+        "street": "Đường 100",
+        "postal_code": "71218",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Trung Chánh",
+        "latitude": 10.86888,
+        "longitude": 106.81387,
+        "address": "Trung Chánh, 426 Đường Hoàng Hữu Nam, Phường Tân Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Tân Phú",
+        "street": "Đường Hoàng Hữu Nam",
+        "postal_code": "71218",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Minh Vỹ",
+        "latitude": 10.8718,
+        "longitude": 106.76397,
+        "address": "Minh Vỹ, 1141 Đường Kha Vạn Cân, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Kha Vạn Cân",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Phi Thy",
+        "latitude": 10.86811,
+        "longitude": 106.81373,
+        "address": "Dịch Vụ Du Lịch Phi Thy, 321 Đường Hoàng Hữu Nam, Phường Tân Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Tân Phú",
+        "street": "Đường Hoàng Hữu Nam",
+        "postal_code": "71218",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Hưng Minh Khôi",
+        "latitude": 10.94927,
+        "longitude": 106.82914,
+        "address": "Công Ty TNHH Hưng Minh Khôi, Đường N5, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường N5",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Chi Nhánh Công Ty TNHH Tvo",
+        "latitude": 10.94919,
+        "longitude": 106.82934,
+        "address": "Chi Nhánh Công Ty TNHH Tvo, Đường D7, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường D7",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            },
+            {
+                "name": "Bãi đậu xe"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.95911,
+        "longitude": 106.81644,
+        "address": "Cho Thuê Xe Du Lịch, Khu Phố 10, Phường Tân Phong, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Tân Phong",
+        "street": "Khu Phố 10",
+        "postal_code": "76117",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Kim Loan",
+        "latitude": 10.87056,
+        "longitude": 106.76342,
+        "address": "Cho Thuê Xe Kim Loan, 1320 Đường Kha Vạn Cân, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Kha Vạn Cân",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Thanh Tuyết",
+        "latitude": 10.96663,
+        "longitude": 106.79378,
+        "address": "Dịch Vụ Du Lịch Thanh Tuyết, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Viên Cho Thuê Xe Du Lịch",
+        "latitude": 10.96721,
+        "longitude": 106.79473,
+        "address": "Viên Cho Thuê Xe Du Lịch, A37 Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Thanh Việt",
+        "latitude": 10.96747,
+        "longitude": 106.79505,
+        "address": "Dịch Vụ Du Lịch Thanh Việt, Đường Huỳnh Văn Nghệ, Phường Bửu Long, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Long",
+        "street": "Đường Huỳnh Văn Nghệ",
+        "postal_code": "76120",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            },
+            {
+                "name": "Dịch vụ vận chuyển"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Xe",
+        "latitude": 10.90669,
+        "longitude": 106.84587,
+        "address": "Dịch Vụ Xe, Hẻm 25/33 Lê Văn Duyệt, Phường An Bình, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường An Bình",
+        "street": "Hẻm 25/33 Lê Văn Duyệt",
+        "postal_code": "76128",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Anh Phương",
+        "latitude": 10.8603,
+        "longitude": 106.78783,
+        "address": "Du Lịch Anh Phương, Hẻm 25 Đường Số 17, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Hẻm 25 Đường Số 17",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Kim Ngọc",
+        "latitude": 10.87544,
+        "longitude": 106.75274,
+        "address": "Kim Ngọc, 1 Đường An Bình, Phường An Bình, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường An Bình",
+        "street": "Đường An Bình",
+        "postal_code": "75307",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Du Lịch Gia Trung",
+        "latitude": 10.85917,
+        "longitude": 106.78213,
+        "address": "Du Lịch Gia Trung, 264 Đường Linh Trung, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Linh Trung",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch Yến Trang",
+        "latitude": 10.9489,
+        "longitude": 106.83617,
+        "address": "Cho Thuê Xe Du Lịch Yến Trang, Đường Võ Thị Sáu, Phường Thống Nhất, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Thống Nhất",
+        "street": "Đường Võ Thị Sáu",
+        "postal_code": "76108",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.95685,
+        "longitude": 106.82885,
+        "address": "Cho Thuê Xe Du Lịch, Đường Phạm Văn Thuận, Phường Trung Dũng, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Trung Dũng",
+        "street": "Đường Phạm Văn Thuận",
+        "postal_code": "76118",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Tấn Kham",
+        "latitude": 10.85827,
+        "longitude": 106.80122,
+        "address": "Tấn Kham, Hẻm 9 Đường Nam Cao, Phường Tân Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Tân Phú",
+        "street": "Hẻm 9 Đường Nam Cao",
+        "postal_code": "71218",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch Hoàng Bách",
+        "latitude": 10.85954,
+        "longitude": 106.77428,
+        "address": "Cho Thuê Xe Du Lịch Hoàng Bách, 22 Đường Số 11, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Số 11",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Tấn Khan",
+        "latitude": 10.85756,
+        "longitude": 106.80125,
+        "address": "Dịch Vụ Du Lịch Tấn Khan, Đường Nam Cao, Phường Tân Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Tân Phú",
+        "street": "Đường Nam Cao",
+        "postal_code": "71218",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch Nguyen Linh VI",
+        "latitude": 10.87999,
+        "longitude": 106.74425,
+        "address": "Cho Thuê Xe Du Lịch Nguyen Linh VI, 138 Đường Lê Thị Hoa, Phường Bình Chiểu, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Bình Chiểu",
+        "street": "Đường Lê Thị Hoa",
+        "postal_code": "71313",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch Quốc Bảo",
+        "latitude": 10.86655,
+        "longitude": 106.7581,
+        "address": "Cho Thuê Xe Du Lịch Quốc Bảo, Đường Đào Trinh Nhất, Phường Linh Tây, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Tây",
+        "street": "Đường Đào Trinh Nhất",
+        "postal_code": "71310",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Cho Thuê Xe Du Lịch Ngọc Bích",
+        "latitude": 10.85866,
+        "longitude": 106.81348,
+        "address": "Dịch Vụ Cho Thuê Xe Du Lịch Ngọc Bích, 205 Đường Hoàng Hữu Nam, Phường Tân Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Tân Phú",
+        "street": "Đường Hoàng Hữu Nam",
+        "postal_code": "71218",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.90307,
+        "longitude": 106.85129,
+        "address": "Cho Thuê Xe Du Lịch, Hẻm 71 Quốc Lộ 51, Phường Long Bình Tân, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Long Bình Tân",
+        "street": "Hẻm 71 Quốc Lộ 51",
+        "postal_code": "76129",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Cát An Hòa",
+        "latitude": 10.8597,
+        "longitude": 106.76679,
+        "address": "Công Ty TNHH Cát An Hòa, 86 Đường Số 6, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Số 6",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Thương Mại Dịch Vụ Du Lịch Chiến Yến Thịnh",
+        "latitude": 10.85607,
+        "longitude": 106.77487,
+        "address": "Thương Mại Dịch Vụ Du Lịch Chiến Yến Thịnh, 49 Đường Lê Văn Chí, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Trung",
+        "street": "Đường Lê Văn Chí",
+        "postal_code": "71308",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Dịch Vụ Du Lịch Đức Lập",
+        "latitude": 10.86166,
+        "longitude": 106.76118,
+        "address": "Dịch Vụ Du Lịch Đức Lập, 1226 Đường Kha Vạn Cân, Phường Linh Tây, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Linh Tây",
+        "street": "Đường Kha Vạn Cân",
+        "postal_code": "71310",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Tấn Kham-Cho Thuê Xe Du Lịch",
+        "latitude": 10.85649,
+        "longitude": 106.81048,
+        "address": "Tấn Kham-Cho Thuê Xe Du Lịch, HẺM 102 Số 179, Phường Tân Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Tân Phú",
+        "street": "HẺM 102 Số 179",
+        "postal_code": "71218",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Hậu",
+        "latitude": 10.87425,
+        "longitude": 106.74512,
+        "address": "Hậu, Đường Số 13, Phường Bình Chiểu, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Bình Chiểu",
+        "street": "Đường Số 13",
+        "postal_code": "71313",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Cho Thuê Xe Du Lịch",
+        "latitude": 10.85309,
+        "longitude": 106.79281,
+        "address": "Cho Thuê Xe Du Lịch, 275 Đường Man Thiện, Phường Hiệp Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Hiệp Phú",
+        "street": "Đường Man Thiện",
+        "postal_code": "71206",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    },
+    {
+        "name": "Thương Mại Dịch Vụ Du Lịch Trường Sơn",
+        "latitude": 10.853,
+        "longitude": 106.79287,
+        "address": "Thương Mại Dịch Vụ Du Lịch Trường Sơn, 168 Đường Man Thiện, Phường Hiệp Phú, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Hiệp Phú",
+        "street": "Đường Man Thiện",
+        "postal_code": "71206",
+        "categories": [
+            {
+                "name": "Hãng cho thuê xe ô tô"
+            }
+        ]
+    }
+]

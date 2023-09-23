@@ -1,0 +1,1820 @@
+[
+    {
+        "name": "Nghiện Ăn Vặt",
+        "latitude": 10.82418,
+        "longitude": 106.62441,
+        "address": "Nghiện Ăn Vặt, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Trà Tắc Trà Chanh",
+        "latitude": 10.82418,
+        "longitude": 106.62441,
+        "address": "Trà Tắc Trà Chanh, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Heo Mẹt Tây Bắc",
+        "latitude": 10.82448,
+        "longitude": 106.624,
+        "address": "Heo Mẹt Tây Bắc, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nhậu 5 Gà",
+        "latitude": 10.82438,
+        "longitude": 106.62378,
+        "address": "Quán Nhậu 5 Gà, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Mì Quảng Cô Tứ",
+        "latitude": 10.8242,
+        "longitude": 106.6234,
+        "address": "Mì Quảng Cô Tứ, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "A Xìn",
+        "latitude": 10.82405,
+        "longitude": 106.62254,
+        "address": "A Xìn, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Rovina Coffee",
+        "latitude": 10.82393,
+        "longitude": 106.62243,
+        "address": "Rovina Coffee, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cơm Cô 5",
+        "latitude": 10.82674,
+        "longitude": 106.62501,
+        "address": "Cơm Cô 5, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Đá Sữa Nước Cam - Mía",
+        "latitude": 10.82534,
+        "longitude": 106.62668,
+        "address": "Cà Phê Đá Sữa Nước Cam - Mía, Đường TTN 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường TTN 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Lò Bánh Mì Út Linh",
+        "latitude": 10.82384,
+        "longitude": 106.62203,
+        "address": "Lò Bánh Mì Út Linh, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Phở Hà Nội",
+        "latitude": 10.82392,
+        "longitude": 106.62192,
+        "address": "Phở Hà Nội, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Vựa Hải Sản Tươi Sống Bé Xinh",
+        "latitude": 10.82626,
+        "longitude": 106.62667,
+        "address": "Vựa Hải Sản Tươi Sống Bé Xinh, Đường Trường Chinh, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Ăn 76",
+        "latitude": 10.82192,
+        "longitude": 106.62472,
+        "address": "Quán Ăn 76, Dương Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Dương Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Cuốn - Bánh Ướt",
+        "latitude": 10.82738,
+        "longitude": 106.62465,
+        "address": "Bánh Cuốn - Bánh Ướt, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Ý Ngọc",
+        "latitude": 10.82739,
+        "longitude": 106.62482,
+        "address": "Quán Cơm Ý Ngọc, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Khọt Miền Tây",
+        "latitude": 10.8274,
+        "longitude": 106.62379,
+        "address": "Bánh Khọt Miền Tây, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "34A Bò Kho",
+        "latitude": 10.8275,
+        "longitude": 106.62401,
+        "address": "34A Bò Kho, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Cam Vắt Trà Vắt",
+        "latitude": 10.82737,
+        "longitude": 106.62551,
+        "address": "Cà Phê Cam Vắt Trà Vắt, Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Xuân Mai",
+        "latitude": 10.82739,
+        "longitude": 106.62347,
+        "address": "Quán Cơm Xuân Mai, 31 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Hủ Tiếu Bánh Canh",
+        "latitude": 10.82726,
+        "longitude": 106.62632,
+        "address": "Hủ Tiếu Bánh Canh, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Sinh Tố Nước Ép Trà Sữa",
+        "latitude": 10.82376,
+        "longitude": 106.62128,
+        "address": "Cà Phê Sinh Tố Nước Ép Trà Sữa, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Nem Nướng - Bò Lá Lốt",
+        "latitude": 10.8275,
+        "longitude": 106.6262,
+        "address": "Nem Nướng - Bò Lá Lốt, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Du Học Nhật Bản",
+        "latitude": 10.82798,
+        "longitude": 106.62447,
+        "address": "Du Học Nhật Bản, 69 Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Cơ sở giáo dục"
+            }
+        ]
+    },
+    {
+        "name": "Bảo Long Hủ Tiếu",
+        "latitude": 10.82738,
+        "longitude": 106.62661,
+        "address": "Bảo Long Hủ Tiếu, Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Bò Nướng Đà Lạt",
+        "latitude": 10.82738,
+        "longitude": 106.62233,
+        "address": "Tiệm Bò Nướng Đà Lạt, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Làng Chài Phú Quốc",
+        "latitude": 10.82763,
+        "longitude": 106.62265,
+        "address": "Làng Chài Phú Quốc, 35 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Dừa Xiêm Bến Tre",
+        "latitude": 10.82788,
+        "longitude": 106.6262,
+        "address": "Dừa Xiêm Bến Tre, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Mộc-Hải Sản Tươi Sống",
+        "latitude": 10.82784,
+        "longitude": 106.6224,
+        "address": "Quán Mộc-Hải Sản Tươi Sống, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cá Sạch Phú Yên Chuyên Cung Cấp Các Loại Hải Sản Sạch Thực Phẩm Sạch",
+        "latitude": 10.82809,
+        "longitude": 106.62283,
+        "address": "Cá Sạch Phú Yên Chuyên Cung Cấp Các Loại Hải Sản Sạch Thực Phẩm Sạch, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Chợ/Gian hàng ẩm thực"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Sinh Tố Giải Khát Phương Truyền",
+        "latitude": 10.82533,
+        "longitude": 106.62056,
+        "address": "Cafe Sinh Tố Giải Khát Phương Truyền, Đường Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán E Bo",
+        "latitude": 10.82497,
+        "longitude": 106.62046,
+        "address": "Quán E Bo, Đường Dương Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Dương Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Kim Chiều",
+        "latitude": 10.82497,
+        "longitude": 106.62046,
+        "address": "Kim Chiều, Đường Dương Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Dương Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bún Bò Huế 268",
+        "latitude": 10.82588,
+        "longitude": 106.62062,
+        "address": "Bún Bò Huế 268, Đường Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Điểm Tâm Sáng Trung Lệ",
+        "latitude": 10.82759,
+        "longitude": 106.62174,
+        "address": "Điểm Tâm Sáng Trung Lệ, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            }
+        ]
+    },
+    {
+        "name": "Bún Đậu Mắm Tôm Dì Tư",
+        "latitude": 10.82852,
+        "longitude": 106.62554,
+        "address": "Bún Đậu Mắm Tôm Dì Tư, Đường Song Hành Quốc Lộ 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành Quốc Lộ 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Cửa hàng tóc thời trang"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Cuốn Thịt Nướng",
+        "latitude": 10.8245,
+        "longitude": 106.62037,
+        "address": "Bánh Cuốn Thịt Nướng, Đường Thị Giang, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Thị Giang",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Nước Mía Cà Phê",
+        "latitude": 10.82873,
+        "longitude": 106.6246,
+        "address": "Nước Mía Cà Phê, Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Chè Thái Thập Cẩm",
+        "latitude": 10.82785,
+        "longitude": 106.62736,
+        "address": "Chè Thái Thập Cẩm, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Chè 67",
+        "latitude": 10.82832,
+        "longitude": 106.62674,
+        "address": "Chè 67, Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Mì Quảng Sông Thu",
+        "latitude": 10.82813,
+        "longitude": 106.62185,
+        "address": "Mì Quảng Sông Thu, 74 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Nước Mía Trà Tắc",
+        "latitude": 10.829,
+        "longitude": 106.62438,
+        "address": "Nước Mía Trà Tắc, Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Gà Ác Hưng Thịnh",
+        "latitude": 10.82867,
+        "longitude": 106.62687,
+        "address": "Gà Ác Hưng Thịnh, 71A Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Kem",
+        "latitude": 10.82792,
+        "longitude": 106.62103,
+        "address": "Đại Lý Kem, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bình Tôm",
+        "latitude": 10.82655,
+        "longitude": 106.62008,
+        "address": "Bình Tôm, Hẻm 87 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 87 Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Ốc Long Hải",
+        "latitude": 10.82364,
+        "longitude": 106.61975,
+        "address": "Quán Ốc Long Hải, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Thằng Bờm Ẩm Thực Ba Miền",
+        "latitude": 10.82885,
+        "longitude": 106.62678,
+        "address": "Thằng Bờm Ẩm Thực Ba Miền, 85 Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Nhà Làm",
+        "latitude": 10.82788,
+        "longitude": 106.62849,
+        "address": "Trà Sữa Nhà Làm, Đường Chung Cư Thái An, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Chung Cư Thái An",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Út Hà Hủ Tiếu Mực",
+        "latitude": 10.82926,
+        "longitude": 106.62696,
+        "address": "Út Hà Hủ Tiếu Mực, 66A Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Trái Cây Miền Tây",
+        "latitude": 10.83009,
+        "longitude": 106.62494,
+        "address": "Trái Cây Miền Tây, Đường Song Hành QL 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành QL 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Halong Pearl Yogurt",
+        "latitude": 10.82817,
+        "longitude": 106.62007,
+        "address": "Halong Pearl Yogurt, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Ốp La-Thịt-Chả Xôi",
+        "latitude": 10.82655,
+        "longitude": 106.61906,
+        "address": "Bánh Mì Ốp La-Thịt-Chả Xôi, 8 Hẻm 1/8 Đường Tân Thới Nhất 22, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 1/8 Đường Tân Thới Nhất 22",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Sữa Chua Trân Châu The Han",
+        "latitude": 10.8298,
+        "longitude": 106.62701,
+        "address": "Sữa Chua Trân Châu The Han, 111 Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Taiwan-Cafe-Đá Sạch",
+        "latitude": 10.82852,
+        "longitude": 106.62878,
+        "address": "Trà Sữa Taiwan-Cafe-Đá Sạch, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Trà Tắc Bánh Tráng Trộn",
+        "latitude": 10.82989,
+        "longitude": 106.62216,
+        "address": "Trà Sữa Trà Tắc Bánh Tráng Trộn, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cơm Gà Xối Mỡ Bibo",
+        "latitude": 10.82749,
+        "longitude": 106.61912,
+        "address": "Cơm Gà Xối Mỡ Bibo, Hẻm 123/57 Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 123/57 Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "My Housse",
+        "latitude": 10.83067,
+        "longitude": 106.62484,
+        "address": "My Housse, Đường Song Hành QL 22, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành QL 22",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Thanh Thanh",
+        "latitude": 10.83025,
+        "longitude": 106.62726,
+        "address": "Trà Sữa Thanh Thanh, Hẻm 112 Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Hẻm 112 Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê-Sinh Tố-Nước Ép",
+        "latitude": 10.83025,
+        "longitude": 106.62726,
+        "address": "Cà Phê-Sinh Tố-Nước Ép, 112 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Ăn Khánh Tuyền",
+        "latitude": 10.83039,
+        "longitude": 106.622,
+        "address": "Quán Ăn Khánh Tuyền, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bán Đặc Sản Phan Thiết",
+        "latitude": 10.83039,
+        "longitude": 106.622,
+        "address": "Bán Đặc Sản Phan Thiết, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Sách Fabico Phan Văn Hớn",
+        "latitude": 10.8286,
+        "longitude": 106.6194,
+        "address": "Nhà Sách Fabico Phan Văn Hớn, 102 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Trà Tắc-Trà Đào-Trà Chanh",
+        "latitude": 10.83057,
+        "longitude": 106.62695,
+        "address": "Trà Tắc-Trà Đào-Trà Chanh, Đường Đông Hưng Thuận 2, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 2",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Gỏi Khô Bò",
+        "latitude": 10.83057,
+        "longitude": 106.62695,
+        "address": "Gỏi Khô Bò, Đường Đông Hưng Thuận 2, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 2",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bột Chiên Huy",
+        "latitude": 10.83057,
+        "longitude": 106.62695,
+        "address": "Bột Chiên Huy, Đường Đông Hưng Thuận 2, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Đông Hưng Thuận 2",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Mía Ngon",
+        "latitude": 10.83041,
+        "longitude": 106.62733,
+        "address": "Mía Ngon, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Thỏ",
+        "latitude": 10.82543,
+        "longitude": 106.63101,
+        "address": "Trà Sữa Thỏ, 1 Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Sinh Tố Cô Toàn",
+        "latitude": 10.82188,
+        "longitude": 106.63049,
+        "address": "Sinh Tố Cô Toàn, Đường Trường Chinh, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "The Jena Coffee & Tea",
+        "latitude": 10.82598,
+        "longitude": 106.631,
+        "address": "The Jena Coffee & Tea, Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Yến Sào Nha Đam",
+        "latitude": 10.82534,
+        "longitude": 106.63116,
+        "address": "Yến Sào Nha Đam, Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Gạo Miền Tây",
+        "latitude": 10.8285,
+        "longitude": 106.61887,
+        "address": "Đại Lý Gạo Miền Tây, 123 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Showroom Trang Trí Nội Thất Minh Phát",
+        "latitude": 10.83083,
+        "longitude": 106.62722,
+        "address": "Showroom Trang Trí Nội Thất Minh Phát, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Cửa hàng phần cứng hoặc trung tâm DIY"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            },
+            {
+                "name": "Trung tâm hội nghị hoặc triển lãm"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Kem Hương Phát",
+        "latitude": 10.83085,
+        "longitude": 106.62746,
+        "address": "Bánh Kem Hương Phát, 155 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Huệ Xôi-Cơm-Bánh Ướt",
+        "latitude": 10.83092,
+        "longitude": 106.62166,
+        "address": "Huệ Xôi-Cơm-Bánh Ướt, Đường Trường Chinh, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Yến Trang",
+        "latitude": 10.83159,
+        "longitude": 106.62425,
+        "address": "Quán Yến Trang, Đường Song Hành, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Song Hành",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Massage Hồng Kông",
+        "latitude": 10.83097,
+        "longitude": 106.6275,
+        "address": "Massage Hồng Kông, 161 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Trung tâm chăm sóc sức khỏe & Dịch vụ"
+            }
+        ]
+    },
+    {
+        "name": "Bún Lụi",
+        "latitude": 10.83099,
+        "longitude": 106.62761,
+        "address": "Bún Lụi, 146A Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Ăn 146A",
+        "latitude": 10.83099,
+        "longitude": 106.62761,
+        "address": "Quán Ăn 146A, 146A Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Tỏi Đen",
+        "latitude": 10.83168,
+        "longitude": 106.62397,
+        "address": "Tỏi Đen, Đường Trường Chinh, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Đường Trường Chinh",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Minh Ngọc",
+        "latitude": 10.82176,
+        "longitude": 106.63109,
+        "address": "Trà Sữa Minh Ngọc, 14 Hẻm 14 Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Hẻm 14 Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Anh Phúc Cơm Bình Dân",
+        "latitude": 10.82854,
+        "longitude": 106.61846,
+        "address": "Quán Anh Phúc Cơm Bình Dân, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Mr.Bean Coffee",
+        "latitude": 10.8285,
+        "longitude": 106.61841,
+        "address": "Mr.Bean Coffee, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Moew Food",
+        "latitude": 10.82758,
+        "longitude": 106.61789,
+        "address": "Moew Food, Hẻm 129 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 129 Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Năm Căn Cà Mau",
+        "latitude": 10.82006,
+        "longitude": 106.63014,
+        "address": "Năm Căn Cà Mau, Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Tây Thạnh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Trân Châu Q. A",
+        "latitude": 10.82783,
+        "longitude": 106.61792,
+        "address": "Trà Sữa Trân Châu Q. A, Hẻm 129 Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Hẻm 129 Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Mạnh Dũng",
+        "latitude": 10.82557,
+        "longitude": 106.63177,
+        "address": "Quán Cơm Mạnh Dũng, Đường Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Cống Lở",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Tuấn Hà Nội",
+        "latitude": 10.83118,
+        "longitude": 106.62759,
+        "address": "Bánh Mì Tuấn Hà Nội, 153 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Sản xuất thực phẩm"
+            }
+        ]
+    },
+    {
+        "name": "K Milk Tea",
+        "latitude": 10.82004,
+        "longitude": 106.63026,
+        "address": "K Milk Tea, Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Tây Thạnh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Xuân Hải Sản",
+        "latitude": 10.83133,
+        "longitude": 106.62748,
+        "address": "Xuân Hải Sản, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Trà Sữa Hello",
+        "latitude": 10.82167,
+        "longitude": 106.63136,
+        "address": "Trà Sữa Hello, Đường Tống Văn Hên, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Tống Văn Hên",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Sữa Kiến An",
+        "latitude": 10.82226,
+        "longitude": 106.6317,
+        "address": "Cửa Hàng Sữa Kiến An, Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Nước Mía-Rau Má-Nước Cam",
+        "latitude": 10.83088,
+        "longitude": 106.62868,
+        "address": "Nước Mía-Rau Má-Nước Cam, Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Đông Hưng Thuận",
+        "street": "Đường Nguyễn Văn Quá",
+        "postal_code": "71508",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cam Ép Trà Tắc",
+        "latitude": 10.83071,
+        "longitude": 106.61999,
+        "address": "Cam Ép Trà Tắc, Đường Tân Thới Nhất 13C, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 13C",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Ăn Vặt Sutin",
+        "latitude": 10.82253,
+        "longitude": 106.63188,
+        "address": "Ăn Vặt Sutin, Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Bia Minh Chánh",
+        "latitude": 10.82238,
+        "longitude": 106.63189,
+        "address": "Đại Lý Bia Minh Chánh, Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cơm Bảo Thương",
+        "latitude": 10.82251,
+        "longitude": 106.63196,
+        "address": "Cơm Bảo Thương, 47 Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 15",
+        "street": "Đường Nguyễn Phúc Chu",
+        "postal_code": "72109",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    }
+]

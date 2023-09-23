@@ -1,0 +1,2012 @@
+[
+    {
+        "name": "Cafe Le Duong Nguyen Sieu",
+        "latitude": 10.77752,
+        "longitude": 106.70332,
+        "address": "Cafe Le Duong Nguyen Sieu, Đường Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Runam",
+        "latitude": 10.77775,
+        "longitude": 106.70211,
+        "address": "Runam, Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cafeteria"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "My Life Juice",
+        "latitude": 10.77828,
+        "longitude": 106.70299,
+        "address": "My Life Juice, 45 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "BB-Mart Café",
+        "latitude": 10.77768,
+        "longitude": 106.70199,
+        "address": "BB-Mart Café, Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "K Café",
+        "latitude": 10.77806,
+        "longitude": 106.70348,
+        "address": "K Café, 74A4 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Quán ăn nhanh"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Góc Cafe Những Con Bô' Câu Be'o U'",
+        "latitude": 10.77809,
+        "longitude": 106.70214,
+        "address": "Góc Cafe Những Con Bô' Câu Be'o U', Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Bệt Park Hyatt",
+        "latitude": 10.77695,
+        "longitude": 106.7035,
+        "address": "Cafe Bệt Park Hyatt, Đường Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe 173",
+        "latitude": 10.77708,
+        "longitude": 106.70173,
+        "address": "Cafe 173, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Dong Du Street - Side Cafe",
+        "latitude": 10.77719,
+        "longitude": 106.704,
+        "address": "Dong Du Street - Side Cafe, 9 Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Centro Café Bistro Lounge",
+        "latitude": 10.77657,
+        "longitude": 106.70358,
+        "address": "Centro Café Bistro Lounge, Đường Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            }
+        ]
+    },
+    {
+        "name": "Hatvala Tea & Coffee",
+        "latitude": 10.77888,
+        "longitude": 106.70302,
+        "address": "Hatvala Tea & Coffee, 52 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Phòng trà"
+            }
+        ]
+    },
+    {
+        "name": "Grival",
+        "latitude": 10.77756,
+        "longitude": 106.70415,
+        "address": "Grival, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Amazon Cafe - Hai Bà Trưng",
+        "latitude": 10.77733,
+        "longitude": 106.70415,
+        "address": "Amazon Cafe - Hai Bà Trưng, 97 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "La Fontaine - Coffee To Go",
+        "latitude": 10.77723,
+        "longitude": 106.70422,
+        "address": "La Fontaine - Coffee To Go, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Brown Coffee",
+        "latitude": 10.77819,
+        "longitude": 106.70434,
+        "address": "Brown Coffee, Đường Cao Bá Quát, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Cao Bá Quát",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Luis Coffee Pub - Hai Bà Trưng",
+        "latitude": 10.77914,
+        "longitude": 106.70235,
+        "address": "Luis Coffee Pub - Hai Bà Trưng, 76 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Sky 22 - Coffee & Tea",
+        "latitude": 10.77855,
+        "longitude": 106.70148,
+        "address": "Sky 22 - Coffee & Tea, 22 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Book & Juices Cafe",
+        "latitude": 10.77596,
+        "longitude": 106.70298,
+        "address": "Book & Juices Cafe, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Rhapsody",
+        "latitude": 10.77828,
+        "longitude": 106.70127,
+        "address": "Rhapsody, 26 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Sombrero Cafe - Lý Tự Trọng",
+        "latitude": 10.77828,
+        "longitude": 106.70127,
+        "address": "Sombrero Cafe - Lý Tự Trọng, 26 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Tea Cup @ Union Square",
+        "latitude": 10.7763,
+        "longitude": 106.70165,
+        "address": "Tea Cup @ Union Square, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Ancien",
+        "latitude": 10.77793,
+        "longitude": 106.70102,
+        "address": "Ancien, 158 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Lacàph",
+        "latitude": 10.77583,
+        "longitude": 106.70328,
+        "address": "Lacàph, 151 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Café L'Usine",
+        "latitude": 10.77583,
+        "longitude": 106.70328,
+        "address": "Café L'Usine, 151 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Highland Coffee",
+        "latitude": 10.7778,
+        "longitude": 106.70095,
+        "address": "Highland Coffee, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Chatterbox Café",
+        "latitude": 10.77694,
+        "longitude": 106.70457,
+        "address": "Chatterbox Café, 71 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Caphe Coc",
+        "latitude": 10.77921,
+        "longitude": 106.70193,
+        "address": "Caphe Coc, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Vỉa Hè Sheraton",
+        "latitude": 10.77576,
+        "longitude": 106.70324,
+        "address": "Cafe Vỉa Hè Sheraton, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "L'Amant Saigon Designer House",
+        "latitude": 10.77576,
+        "longitude": 106.70324,
+        "address": "L'Amant Saigon Designer House, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Nuoc Cam Le Duong",
+        "latitude": 10.77779,
+        "longitude": 106.70081,
+        "address": "Nuoc Cam Le Duong, 34 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Street Coffee",
+        "latitude": 10.77861,
+        "longitude": 106.70107,
+        "address": "Street Coffee, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Sub",
+        "latitude": 10.77645,
+        "longitude": 106.70108,
+        "address": "Cà Phê Sub, Đường Lê Thánh Tôn, Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Hồ Chí Minh",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Cóc Sheraton",
+        "latitude": 10.77602,
+        "longitude": 106.70147,
+        "address": "Cafe Cóc Sheraton, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Ali Coffee",
+        "latitude": 10.77815,
+        "longitude": 106.70075,
+        "address": "Ali Coffee, 227 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Moc Cafe 38 Ly Tu Trong",
+        "latitude": 10.77764,
+        "longitude": 106.70067,
+        "address": "Moc Cafe 38 Ly Tu Trong, 38 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Fio Coffee",
+        "latitude": 10.77764,
+        "longitude": 106.70067,
+        "address": "Fio Coffee, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Jked Cafe",
+        "latitude": 10.7783,
+        "longitude": 106.70078,
+        "address": "Jked Cafe, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Era Coffee",
+        "latitude": 10.77586,
+        "longitude": 106.70413,
+        "address": "Era Coffee, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Café & Bar Mojo",
+        "latitude": 10.77558,
+        "longitude": 106.70371,
+        "address": "Café & Bar Mojo, 88 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Vui chơi & Giải trí"
+            }
+        ]
+    },
+    {
+        "name": "Chuyện Cà Phê",
+        "latitude": 10.77546,
+        "longitude": 106.70356,
+        "address": "Chuyện Cà Phê, 1 Đường Nguyễn Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Saigon Cafe Suada",
+        "latitude": 10.77531,
+        "longitude": 106.70261,
+        "address": "Saigon Cafe Suada, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nướng 5 Ku - Lê Thánh Tôn",
+        "latitude": 10.77975,
+        "longitude": 106.70382,
+        "address": "Quán Nướng 5 Ku - Lê Thánh Tôn, 31 Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Quán ăn nhanh"
+            }
+        ]
+    },
+    {
+        "name": "Ginza - Bar Restaurant",
+        "latitude": 10.77949,
+        "longitude": 106.7043,
+        "address": "Ginza - Bar Restaurant, 29 Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Bar Qing",
+        "latitude": 10.77593,
+        "longitude": 106.7046,
+        "address": "Bar Qing, 31 Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Sang Tao Café",
+        "latitude": 10.77614,
+        "longitude": 106.70483,
+        "address": "Sang Tao Café, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Quán Bar Cô Gái Di - Gan",
+        "latitude": 10.77904,
+        "longitude": 106.70483,
+        "address": "Quán Bar Cô Gái Di - Gan, 11B Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Hc - Tax Center",
+        "latitude": 10.77514,
+        "longitude": 106.70201,
+        "address": "Hc - Tax Center, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Rio",
+        "latitude": 10.77842,
+        "longitude": 106.70032,
+        "address": "Cafe Rio, 233 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Urban Station",
+        "latitude": 10.77842,
+        "longitude": 106.70032,
+        "address": "Urban Station, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cam Vắt Đường Phố Đông Du",
+        "latitude": 10.77662,
+        "longitude": 106.70529,
+        "address": "Cam Vắt Đường Phố Đông Du, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe 37 Hai Ba Trung",
+        "latitude": 10.77634,
+        "longitude": 106.70524,
+        "address": "Cafe 37 Hai Ba Trung, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Bệt Đông Du",
+        "latitude": 10.7751,
+        "longitude": 106.70407,
+        "address": "Cafe Bệt Đông Du, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Saigon River Cafe",
+        "latitude": 10.7755,
+        "longitude": 106.7048,
+        "address": "Saigon River Cafe, Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Diamond Club",
+        "latitude": 10.77684,
+        "longitude": 106.7,
+        "address": "Cà Phê Diamond Club, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Oto Cafe",
+        "latitude": 10.77539,
+        "longitude": 106.70469,
+        "address": "Oto Cafe, Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Thiếu Thủy",
+        "latitude": 10.78041,
+        "longitude": 106.70337,
+        "address": "Cà Phê Thiếu Thủy, 40 Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Khánh Anh",
+        "latitude": 10.77582,
+        "longitude": 106.70514,
+        "address": "Cà Phê Khánh Anh, 22 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Lạc",
+        "latitude": 10.77596,
+        "longitude": 106.70526,
+        "address": "Cà Phê Lạc, 14 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Ty Audio",
+        "latitude": 10.78043,
+        "longitude": 106.70349,
+        "address": "Ty Audio, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Le Petit Bake&Cake",
+        "latitude": 10.77557,
+        "longitude": 106.70499,
+        "address": "Le Petit Bake&Cake, 33 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cốc Cafe",
+        "latitude": 10.77535,
+        "longitude": 106.70482,
+        "address": "Cốc Cafe, 37 Hẻm 71 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 71 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Katinat Nguyễn Du",
+        "latitude": 10.77937,
+        "longitude": 106.70038,
+        "address": "Katinat Nguyễn Du, 57 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quầy hàng đặc sản"
+            }
+        ]
+    },
+    {
+        "name": "Snowwie Illy",
+        "latitude": 10.77525,
+        "longitude": 106.70086,
+        "address": "Snowwie Illy, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Casbah Pub - Nguyễn Du",
+        "latitude": 10.77916,
+        "longitude": 106.70018,
+        "address": "Casbah Pub - Nguyễn Du, 59 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            }
+        ]
+    },
+    {
+        "name": "Thức Coffee",
+        "latitude": 10.77692,
+        "longitude": 106.6998,
+        "address": "Thức Coffee, 156 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cafeteria"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Hoa Da",
+        "latitude": 10.78066,
+        "longitude": 106.70351,
+        "address": "Cafe Hoa Da, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Suger",
+        "latitude": 10.77464,
+        "longitude": 106.70401,
+        "address": "Suger, Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Gloria Jeans",
+        "latitude": 10.77895,
+        "longitude": 106.6999,
+        "address": "Cà Phê Gloria Jeans, Công Trường Công Xã Paris, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Công Trường Công Xã Paris",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Colour Cafe Restaurant J.V Co",
+        "latitude": 10.77441,
+        "longitude": 106.70305,
+        "address": "Colour Cafe Restaurant J.V Co, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Hàng Sài Gòn Thái VI Cá Hải Sản",
+        "latitude": 10.77449,
+        "longitude": 106.70361,
+        "address": "Nhà Hàng Sài Gòn Thái VI Cá Hải Sản, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Phòng trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Khách sạn hoặc nhà trọ"
+            },
+            {
+                "name": "Khách sạn"
+            }
+        ]
+    },
+    {
+        "name": "Tản Mạn",
+        "latitude": 10.77501,
+        "longitude": 106.70482,
+        "address": "Tản Mạn, Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "La Braceria",
+        "latitude": 10.78028,
+        "longitude": 106.70465,
+        "address": "La Braceria, 11 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "11:11 Cafe",
+        "latitude": 10.77506,
+        "longitude": 106.70071,
+        "address": "11:11 Cafe, 144/7 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Coffee Mây",
+        "latitude": 10.77876,
+        "longitude": 106.69968,
+        "address": "Coffee Mây, 82 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Vergnano Cafe",
+        "latitude": 10.77818,
+        "longitude": 106.70611,
+        "address": "Vergnano Cafe, 6 Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Bar Cửu Long",
+        "latitude": 10.77442,
+        "longitude": 106.70386,
+        "address": "Bar Cửu Long, 100 Hẻm 71 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 71 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Bông Hậu",
+        "latitude": 10.77426,
+        "longitude": 106.70312,
+        "address": "Cà Phê Bông Hậu, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Bitter Sweet Coffee House - Lê Thánh Tôn",
+        "latitude": 10.77537,
+        "longitude": 106.70024,
+        "address": "Bitter Sweet Coffee House - Lê Thánh Tôn, 81 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Coc 94 Nguyen Du",
+        "latitude": 10.77777,
+        "longitude": 106.69939,
+        "address": "Cafe Coc 94 Nguyen Du, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Nguyễn Du, Quận 1, Ho Chi Minh City, Vietnam",
+        "latitude": 10.78058,
+        "longitude": 106.70117,
+        "address": "Nguyễn Du, Quận 1, Ho Chi Minh City, Vietnam, Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Chợ/Gian hàng ẩm thực"
+            }
+        ]
+    },
+    {
+        "name": "Missing-Bus Coffee",
+        "latitude": 10.77448,
+        "longitude": 106.70133,
+        "address": "Missing-Bus Coffee, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "The Old Compass Cafe And Bar",
+        "latitude": 10.7748,
+        "longitude": 106.70071,
+        "address": "The Old Compass Cafe And Bar, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Nika Cafe",
+        "latitude": 10.77632,
+        "longitude": 106.69951,
+        "address": "Nika Cafe, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Thinker & Dreamer",
+        "latitude": 10.77457,
+        "longitude": 106.70097,
+        "address": "Thinker & Dreamer, 26 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cửa hàng kẹo"
+            }
+        ]
+    },
+    {
+        "name": "Dasis Tea & Coffee House",
+        "latitude": 10.78048,
+        "longitude": 106.70079,
+        "address": "Dasis Tea & Coffee House, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Quen I Cafe",
+        "latitude": 10.78043,
+        "longitude": 106.70493,
+        "address": "Quen I Cafe, 20 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cà Phê Regina",
+        "latitude": 10.77827,
+        "longitude": 106.69925,
+        "address": "Cà Phê Regina, 86 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê internet"
+            }
+        ]
+    },
+    {
+        "name": "Trà Đá Nguyễn Huệ",
+        "latitude": 10.77402,
+        "longitude": 106.70322,
+        "address": "Trà Đá Nguyễn Huệ, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Le Duong Nguyen Hue",
+        "latitude": 10.77402,
+        "longitude": 106.70322,
+        "address": "Cafe Le Duong Nguyen Hue, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Vỉa Hè",
+        "latitude": 10.77404,
+        "longitude": 106.70344,
+        "address": "Cafe Vỉa Hè, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê internet"
+            }
+        ]
+    },
+    {
+        "name": "Press Corner Coffee And Lounge - Phan Văn Đạt",
+        "latitude": 10.77533,
+        "longitude": 106.70567,
+        "address": "Press Corner Coffee And Lounge - Phan Văn Đạt, 3 Đường Phan Văn Đạt, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Phan Văn Đạt",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "No Wifi Cafe",
+        "latitude": 10.77484,
+        "longitude": 106.70043,
+        "address": "No Wifi Cafe, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Khahncasa",
+        "latitude": 10.7745,
+        "longitude": 106.70472,
+        "address": "Khahncasa, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Hoa Mộc Lan",
+        "latitude": 10.78052,
+        "longitude": 106.70498,
+        "address": "Cafe Hoa Mộc Lan, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Trung Nguyen - Corner Hbt Ntmk",
+        "latitude": 10.78058,
+        "longitude": 106.70069,
+        "address": "Trung Nguyen - Corner Hbt Ntmk, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Café Terrace",
+        "latitude": 10.77436,
+        "longitude": 106.70102,
+        "address": "Café Terrace, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Quán cà phê internet"
+            }
+        ]
+    },
+    {
+        "name": "Cafe Thiên Hương",
+        "latitude": 10.7808,
+        "longitude": 106.70471,
+        "address": "Cafe Thiên Hương, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    }
+]

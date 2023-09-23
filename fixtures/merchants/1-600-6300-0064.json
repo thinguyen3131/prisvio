@@ -1,0 +1,1970 @@
+[
+    {
+        "name": "Chocolate Graphics",
+        "latitude": 10.77773,
+        "longitude": 106.70233,
+        "address": "Chocolate Graphics, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Chocolate Graphics",
+        "latitude": 10.77809,
+        "longitude": 106.70214,
+        "address": "Chocolate Graphics, 72 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Ivoire Pastry Boutique",
+        "latitude": 10.7778,
+        "longitude": 106.70394,
+        "address": "Ivoire Pastry Boutique, 28 Đường Cao Bá Quát, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Cao Bá Quát",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Nước 76",
+        "latitude": 10.7789,
+        "longitude": 106.70261,
+        "address": "Quán Nước 76, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Hải Sản-Chế Biến Mang Đi",
+        "latitude": 10.77914,
+        "longitude": 106.70235,
+        "address": "Siêu Thị Hải Sản-Chế Biến Mang Đi, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Hải Sản Hoàng Gia",
+        "latitude": 10.77914,
+        "longitude": 106.70235,
+        "address": "Hải Sản Hoàng Gia, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Kem Fella",
+        "latitude": 10.77531,
+        "longitude": 106.70261,
+        "address": "Cửa Hàng Kem Fella, 90 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "The Local Coffee",
+        "latitude": 10.77531,
+        "longitude": 106.70261,
+        "address": "The Local Coffee, 90 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Abunbo",
+        "latitude": 10.7751,
+        "longitude": 106.70286,
+        "address": "Abunbo, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Vintage Wine Saigon",
+        "latitude": 10.77988,
+        "longitude": 106.7043,
+        "address": "Vintage Wine Saigon, 17/12 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Akuruhi Group",
+        "latitude": 10.78019,
+        "longitude": 106.70454,
+        "address": "Akuruhi Group, 3 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Sữa Chua Trân Châu Hạ Long Cơ Sở 168",
+        "latitude": 10.77449,
+        "longitude": 106.70351,
+        "address": "Sữa Chua Trân Châu Hạ Long Cơ Sở 168, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Ogo Juices And Smoothies",
+        "latitude": 10.77512,
+        "longitude": 106.70059,
+        "address": "Ogo Juices And Smoothies, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Chuk Chuk",
+        "latitude": 10.77446,
+        "longitude": 106.70409,
+        "address": "Chuk Chuk, 81 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "DV TM Quỳnh Mai",
+        "latitude": 10.77753,
+        "longitude": 106.699,
+        "address": "DV TM Quỳnh Mai, 95 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Kem Bạch Đằng",
+        "latitude": 10.77437,
+        "longitude": 106.70075,
+        "address": "Kem Bạch Đằng, 28 Hẻm 36 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 36 Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn nhanh"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Thinker & Dreamer",
+        "latitude": 10.77402,
+        "longitude": 106.70419,
+        "address": "Thinker & Dreamer, 42 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Trà Sữa Yi Fang",
+        "latitude": 10.77372,
+        "longitude": 106.70341,
+        "address": "Tiệm Trà Sữa Yi Fang, Đường Huỳnh Thúc Kháng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Huỳnh Thúc Kháng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "MC Material Cafe",
+        "latitude": 10.77721,
+        "longitude": 106.70684,
+        "address": "MC Material Cafe, 9 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Việt Nam Trúc Mập",
+        "latitude": 10.77352,
+        "longitude": 106.7033,
+        "address": "Quán Cơm Việt Nam Trúc Mập, 20 Đường Huỳnh Thúc Kháng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Huỳnh Thúc Kháng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Linh Thương",
+        "latitude": 10.77349,
+        "longitude": 106.70347,
+        "address": "Quán Cơm Linh Thương, Đường Huỳnh Thúc Kháng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Huỳnh Thúc Kháng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Neca Fresh Yogurt",
+        "latitude": 10.77329,
+        "longitude": 106.70332,
+        "address": "Neca Fresh Yogurt, 122-124 Hẻm 117 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 117 Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bún Mắm Bến Thành",
+        "latitude": 10.77808,
+        "longitude": 106.6984,
+        "address": "Bún Mắm Bến Thành, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Tocotoco",
+        "latitude": 10.77318,
+        "longitude": 106.70338,
+        "address": "Tocotoco, Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "The Alley",
+        "latitude": 10.77315,
+        "longitude": 106.7034,
+        "address": "The Alley, 114 Hẻm 117 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 117 Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Phòng trà"
+            }
+        ]
+    },
+    {
+        "name": "Thế Giới Trái Cây",
+        "latitude": 10.77417,
+        "longitude": 106.69982,
+        "address": "Thế Giới Trái Cây, 104 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Jus Tôn Thất Thiệp",
+        "latitude": 10.77321,
+        "longitude": 106.70165,
+        "address": "Jus Tôn Thất Thiệp, 49 Hẻm 42 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 42 Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Fanny",
+        "latitude": 10.77396,
+        "longitude": 106.69992,
+        "address": "Fanny, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Thịt Nướng Heo Quay",
+        "latitude": 10.78207,
+        "longitude": 106.70155,
+        "address": "Bánh Mì Thịt Nướng Heo Quay, 54 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Koi Thé Saigon Garden",
+        "latitude": 10.77295,
+        "longitude": 106.70341,
+        "address": "Koi Thé Saigon Garden, 108 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Phòng trà"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Tiêu Sắc Màu",
+        "latitude": 10.77277,
+        "longitude": 106.70351,
+        "address": "Bánh Tiêu Sắc Màu, Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Saigon Steak 123 European Steakhouse",
+        "latitude": 10.77322,
+        "longitude": 106.70045,
+        "address": "Saigon Steak 123 European Steakhouse, 65 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Agatajapan.Cafe Yukimura",
+        "latitude": 10.7732,
+        "longitude": 106.7004,
+        "address": "Agatajapan.Cafe Yukimura, 92-94 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Cuốn Thanh Trì Hà Nội Kim Liên",
+        "latitude": 10.78249,
+        "longitude": 106.70381,
+        "address": "Bánh Cuốn Thanh Trì Hà Nội Kim Liên, Đường Chu Mạnh Trinh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Chu Mạnh Trinh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Quán Tealive",
+        "latitude": 10.7741,
+        "longitude": 106.69913,
+        "address": "Quán Tealive, Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Căn Tin T Plus",
+        "latitude": 10.77416,
+        "longitude": 106.69906,
+        "address": "Căn Tin T Plus, Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm 107",
+        "latitude": 10.77256,
+        "longitude": 106.7034,
+        "address": "Quán Cơm 107, 107 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Snowee",
+        "latitude": 10.77276,
+        "longitude": 106.70469,
+        "address": "Snowee, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Tổng Công Ty Bến Thành",
+        "latitude": 10.77455,
+        "longitude": 106.69843,
+        "address": "Tổng Công Ty Bến Thành, 27 Đường Nguyễn Trung Trực, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Trung Trực",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Chợ"
+            },
+            {
+                "name": "Thợ kim hoàn"
+            },
+            {
+                "name": "Xây dựng"
+            },
+            {
+                "name": "Cơ quan và tổ chức"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            },
+            {
+                "name": "Hãng môi giới bất động sản"
+            }
+        ]
+    },
+    {
+        "name": "Kobe",
+        "latitude": 10.7724,
+        "longitude": 106.70377,
+        "address": "Kobe, Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Nước Ép Trái Cây",
+        "latitude": 10.77256,
+        "longitude": 106.70457,
+        "address": "Nước Ép Trái Cây, Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Boost Juice Bars",
+        "latitude": 10.77249,
+        "longitude": 106.7045,
+        "address": "Boost Juice Bars, 58 Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "K Milk Tea",
+        "latitude": 10.77338,
+        "longitude": 106.7063,
+        "address": "K Milk Tea, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Việt Nam",
+        "latitude": 10.77509,
+        "longitude": 106.69782,
+        "address": "Quán Cơm Việt Nam, 33 Đường Nguyễn Trung Trực, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Trung Trực",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Rau Má Mix",
+        "latitude": 10.77219,
+        "longitude": 106.70393,
+        "address": "Rau Má Mix, Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Koithe-Ngô Đức Kế",
+        "latitude": 10.77221,
+        "longitude": 106.70422,
+        "address": "Koithe-Ngô Đức Kế, 76 Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Snow8 Ly Tu Trong",
+        "latitude": 10.77471,
+        "longitude": 106.69794,
+        "address": "Snow8 Ly Tu Trong, 68 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Trưa Bảo Dũng",
+        "latitude": 10.77544,
+        "longitude": 106.69724,
+        "address": "Quán Cơm Trưa Bảo Dũng, 39A Hẻm 33 Đường Nguyễn Trung Trực, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 33 Đường Nguyễn Trung Trực",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Bắc",
+        "latitude": 10.78215,
+        "longitude": 106.70685,
+        "address": "Quán Cơm Bắc, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "Toocha",
+        "latitude": 10.77157,
+        "longitude": 106.70404,
+        "address": "Toocha, 53 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "The Nutty House",
+        "latitude": 10.77122,
+        "longitude": 106.70354,
+        "address": "The Nutty House, Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Trà Cà Phê Minh Huy",
+        "latitude": 10.77122,
+        "longitude": 106.70354,
+        "address": "Quán Trà Cà Phê Minh Huy, Đường Hàm Nghi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bà Bính",
+        "latitude": 10.78369,
+        "longitude": 106.70524,
+        "address": "Bà Bính, Đường Nguyễn Trung Ngạn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Trung Ngạn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "甘蔗汁摊",
+        "latitude": 10.77332,
+        "longitude": 106.69767,
+        "address": "甘蔗汁摊, Đường Thủ Khoa Huân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Thủ Khoa Huân",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Trưa Văn Phòng",
+        "latitude": 10.7842,
+        "longitude": 106.70315,
+        "address": "Quán Cơm Trưa Văn Phòng, 34 Đường Nguyễn Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Thủy Sản Bá Thành",
+        "latitude": 10.78372,
+        "longitude": 106.70545,
+        "address": "Cửa Hàng Thủy Sản Bá Thành, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Lạc Trà",
+        "latitude": 10.77156,
+        "longitude": 106.70596,
+        "address": "Lạc Trà, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Yoboba Yogurt Smoothie And Boba",
+        "latitude": 10.77156,
+        "longitude": 106.70596,
+        "address": "Yoboba Yogurt Smoothie And Boba, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Bình Dân",
+        "latitude": 10.78122,
+        "longitude": 106.69681,
+        "address": "Quán Cơm Bình Dân, Đường Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Phú Thiện Seafood - Hải Sản Phú Quốc",
+        "latitude": 10.77306,
+        "longitude": 106.69739,
+        "address": "Phú Thiện Seafood - Hải Sản Phú Quốc, 174 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Eco Fruits",
+        "latitude": 10.78411,
+        "longitude": 106.70015,
+        "address": "Eco Fruits, 9 Đường Mạc Đĩnh Chi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Đĩnh Chi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Th True Mart",
+        "latitude": 10.77073,
+        "longitude": 106.70016,
+        "address": "Th True Mart, Đường Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Hàm Nghi",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bò Kho Cô Mai",
+        "latitude": 10.78392,
+        "longitude": 106.69906,
+        "address": "Bò Kho Cô Mai, 25 Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cửa hàng món ngon"
+            }
+        ]
+    },
+    {
+        "name": "Gà Ta Xứ Quảng",
+        "latitude": 10.77044,
+        "longitude": 106.70471,
+        "address": "Gà Ta Xứ Quảng, Đường Hồ Tùng Mậu, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Hồ Tùng Mậu",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bún Mộc Thanh Mai",
+        "latitude": 10.77213,
+        "longitude": 106.69753,
+        "address": "Bún Mộc Thanh Mai, 1 Đường Nguyễn An Ninh, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn An Ninh",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Phở Số 1 Hà Nội",
+        "latitude": 10.7847,
+        "longitude": 106.7,
+        "address": "Phở Số 1 Hà Nội, 19 Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Bún Bò Huế 44",
+        "latitude": 10.76997,
+        "longitude": 106.70393,
+        "address": "Bún Bò Huế 44, 31 Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Chị Bôn",
+        "latitude": 10.78342,
+        "longitude": 106.6977,
+        "address": "Chị Bôn, 120 Đường Hai Bà Trưng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Sinh Tố Thảo",
+        "latitude": 10.76981,
+        "longitude": 106.70289,
+        "address": "Sinh Tố Thảo, 15 Đường Pasteur, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Pasteur",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Fruits T&T",
+        "latitude": 10.77959,
+        "longitude": 106.69512,
+        "address": "Fruits T&T, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cô Hương Béo",
+        "latitude": 10.78497,
+        "longitude": 106.70018,
+        "address": "Quán Cô Hương Béo, Hẻm 19 Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 19 Nguyễn Thị Minh Khai",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Béo Ơi Quán",
+        "latitude": 10.78494,
+        "longitude": 106.69977,
+        "address": "Béo Ơi Quán, Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            }
+        ]
+    },
+    {
+        "name": "Eus Fruit",
+        "latitude": 10.76963,
+        "longitude": 106.70271,
+        "address": "Eus Fruit, Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Hà Nội",
+        "latitude": 10.78518,
+        "longitude": 106.70012,
+        "address": "Bánh Mì Hà Nội, Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Rượu bia"
+            },
+            {
+                "name": "Hiệu bánh"
+            }
+        ]
+    },
+    {
+        "name": "A Din",
+        "latitude": 10.76944,
+        "longitude": 106.70241,
+        "address": "A Din, Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Phở Thìn",
+        "latitude": 10.76972,
+        "longitude": 106.70035,
+        "address": "Phở Thìn, 55 Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì 362",
+        "latitude": 10.78389,
+        "longitude": 106.69741,
+        "address": "Bánh Mì 362, 136 Đường Hai Bà Trưng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Quán ăn nhanh"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Cơm Tấm Sườn",
+        "latitude": 10.78553,
+        "longitude": 106.70059,
+        "address": "Cơm Tấm Sườn, 15M Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Bánh Mì Má Hải",
+        "latitude": 10.78561,
+        "longitude": 106.70058,
+        "address": "Bánh Mì Má Hải, 18B Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Rau Má Mix",
+        "latitude": 10.78572,
+        "longitude": 106.70088,
+        "address": "Rau Má Mix, Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Ka-L'x Fruits And Vegetables",
+        "latitude": 10.78572,
+        "longitude": 106.70088,
+        "address": "Ka-L'x Fruits And Vegetables, 15F Hẻm 18A Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Hẻm 18A Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Juicy",
+        "latitude": 10.78584,
+        "longitude": 106.70092,
+        "address": "Juicy, 18A Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Văn Phòng - Bến Chương Dương",
+        "latitude": 10.76942,
+        "longitude": 106.70515,
+        "address": "Quán Cơm Văn Phòng - Bến Chương Dương, Đường Chương Dương, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Chương Dương",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Nước Ép Yaourt Đá Bánh Flan",
+        "latitude": 10.78595,
+        "longitude": 106.70111,
+        "address": "Nước Ép Yaourt Đá Bánh Flan, Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm 46",
+        "latitude": 10.77234,
+        "longitude": 106.69582,
+        "address": "Quán Cơm 46, 46 Đường Trương Định, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Trương Định",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Biker Shield",
+        "latitude": 10.76905,
+        "longitude": 106.70134,
+        "address": "Biker Shield, 10 Hẻm 158 Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Hẻm 158 Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Sữa Chua Trân Châu Hạ Long Cơ Sở 108",
+        "latitude": 10.78491,
+        "longitude": 106.69803,
+        "address": "Sữa Chua Trân Châu Hạ Long Cơ Sở 108, 6 Đường Trần Cao Vân, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Trần Cao Vân",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Sữa Chua Trân Châu Hạ Long Cơ Sở 108",
+        "latitude": 10.78491,
+        "longitude": 106.69803,
+        "address": "Sữa Chua Trân Châu Hạ Long Cơ Sở 108, 6 Đường Trần Cao Vân, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Trần Cao Vân",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Motown Gastropub",
+        "latitude": 10.76899,
+        "longitude": 106.70128,
+        "address": "Motown Gastropub, 9 Hẻm 158 Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Hẻm 158 Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Saigon Smoothies",
+        "latitude": 10.78606,
+        "longitude": 106.70067,
+        "address": "Saigon Smoothies, 12 Đường Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Thị Minh Khai",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Quầy hàng đặc sản"
+            },
+            {
+                "name": "Cửa hàng kẹo"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Nectar Smoothies",
+        "latitude": 10.78076,
+        "longitude": 106.69444,
+        "address": "Nectar Smoothies, Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Văn Tần",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Quán ăn nhanh"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Quán Cơm Gà 16",
+        "latitude": 10.77269,
+        "longitude": 106.69533,
+        "address": "Quán Cơm Gà 16, 223 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Quán Trà Sữa Sokocha",
+        "latitude": 10.7726,
+        "longitude": 106.69528,
+        "address": "Quán Trà Sữa Sokocha, 233 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Phòng trà"
+            }
+        ]
+    },
+    {
+        "name": "Bún Bò Huế Cơm Trưa Văn Phòng",
+        "latitude": 10.78556,
+        "longitude": 106.69872,
+        "address": "Bún Bò Huế Cơm Trưa Văn Phòng, Đường Mạc Đĩnh Chi, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Mạc Đĩnh Chi",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hiệu bánh"
+            },
+            {
+                "name": "Cửa hàng kẹo"
+            }
+        ]
+    },
+    {
+        "name": "Ninja Saigon",
+        "latitude": 10.76902,
+        "longitude": 106.7002,
+        "address": "Ninja Saigon, Đường Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Phó Đức Chính",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Sinh Tố Nước Ép Trái Cây Anh Phán",
+        "latitude": 10.76915,
+        "longitude": 106.69976,
+        "address": "Sinh Tố Nước Ép Trái Cây Anh Phán, Đường Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Thái Bình",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    },
+    {
+        "name": "Green Trà",
+        "latitude": 10.78166,
+        "longitude": 106.69468,
+        "address": "Green Trà, Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Pasteur",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Đặc sản & Đồ uống"
+            }
+        ]
+    }
+]

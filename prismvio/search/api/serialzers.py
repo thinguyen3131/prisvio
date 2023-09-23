@@ -3,10 +3,10 @@ from django.core.exceptions import ValidationError
 from rest_framework import serializers
 from timezone_field.rest_framework import TimeZoneSerializerField
 
+from prismvio.menu_merchant.api.serializers import SearchMerchantSerializer
 from prismvio.menu_merchant.models import Category
 from prismvio.merchant.models import Merchant
 from prismvio.utils import haversine
-from prismvio.menu_merchant.api.serializers import SearchMerchantSerializer
 
 
 def validate_latitude(value):

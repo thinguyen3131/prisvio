@@ -1,0 +1,1625 @@
+[
+    {
+        "name": "Giữ Xe Ngày Và Đêm",
+        "latitude": 10.82418,
+        "longitude": 106.62441,
+        "address": "Giữ Xe Ngày Và Đêm, Đường Tân Thới Nhất 17, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Tân Thới Nhất 17",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe",
+        "latitude": 10.82816,
+        "longitude": 106.62018,
+        "address": "Bãi Giữ Xe, Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Đường Phan Văn Hớn",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            },
+            {
+                "name": "Nơi đỗ xe đạp, xe đạp máy & xe scooter"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Giữ Xe Lô A",
+        "latitude": 10.81627,
+        "longitude": 106.6213,
+        "address": "Nhà Giữ Xe Lô A, Đường Kênh 19/5, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Kênh 19/5",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Garage Auto Phát Lộc",
+        "latitude": 10.8159,
+        "longitude": 106.63177,
+        "address": "Garage Auto Phát Lộc, 863 Đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Đường Trường Chinh",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Bãi đỗ xe nhiều tầng"
+            },
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe A Long",
+        "latitude": 10.8207,
+        "longitude": 106.61367,
+        "address": "Bãi Giữ Xe A Long, Đường M14, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa",
+        "street": "Đường M14",
+        "postal_code": "71913",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Nhận Giữ Xe 2 Bánh 4 Bánh",
+        "latitude": 10.8355,
+        "longitude": 106.63619,
+        "address": "Nhận Giữ Xe 2 Bánh 4 Bánh, 160 Đường Phan Huy Ích, Phường 12, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 12",
+        "street": "Đường Phan Huy Ích",
+        "postal_code": "71420",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Minh Trí Giữ Xe Ô Tô",
+        "latitude": 10.80836,
+        "longitude": 106.62007,
+        "address": "Minh Trí Giữ Xe Ô Tô, Hẻm 380 Lê Trọng Tấn, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Hẻm 380 Lê Trọng Tấn",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Vương Quốc",
+        "latitude": 10.83976,
+        "longitude": 106.61631,
+        "address": "Công Ty Cổ Phần Vương Quốc, Tổ 4 Khu Phố 1, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Tổ 4 Khu Phố 1",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 24 Trên 24",
+        "latitude": 10.81967,
+        "longitude": 106.60638,
+        "address": "Bãi Xe 24 Trên 24, Hẻm 77/13 Phạm Đăng Giảng, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa",
+        "street": "Hẻm 77/13 Phạm Đăng Giảng",
+        "postal_code": "71913",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Ô Tô 24/24",
+        "latitude": 10.81729,
+        "longitude": 106.60707,
+        "address": "Giữ Xe Ô Tô 24/24, Hẻm 666 Đường Lê Trọng Tấn, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa",
+        "street": "Hẻm 666 Đường Lê Trọng Tấn",
+        "postal_code": "71913",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Hiếu Ngọc Bãi Xe Hiếu Ngọc 1",
+        "latitude": 10.83467,
+        "longitude": 106.64066,
+        "address": "Công Ty Hiếu Ngọc Bãi Xe Hiếu Ngọc 1, 116 Đường Bùi Quang Là, Phường 12, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 12",
+        "street": "Đường Bùi Quang Là",
+        "postal_code": "71420",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Nam Hải Phú",
+        "latitude": 10.83593,
+        "longitude": 106.60822,
+        "address": "Bãi Xe Nam Hải Phú, Quốc Lộ 1A, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Nhất",
+        "street": "Quốc Lộ 1A",
+        "postal_code": "71510",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Nguyễn Ngọc",
+        "latitude": 10.82776,
+        "longitude": 106.60357,
+        "address": "Bãi Xe Nguyễn Ngọc, 1A, Xã Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Bà Điểm",
+        "street": "1A",
+        "postal_code": "71714",
+        "categories": [
+            {
+                "name": "Bãi đậu xe"
+            },
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Lê Hà",
+        "latitude": 10.84571,
+        "longitude": 106.61903,
+        "address": "Bãi Xe Lê Hà, 1A, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "1A",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Bãi đỗ xe nhiều tầng"
+            },
+            {
+                "name": "Đỗ xe"
+            },
+            {
+                "name": "Bãi đậu xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Lê Hà",
+        "latitude": 10.8458,
+        "longitude": 106.61912,
+        "address": "Bãi Xe Lê Hà, 7 Quốc Lộ 1A, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Hưng Thuận",
+        "street": "Quốc Lộ 1A",
+        "postal_code": "71509",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe 24/7",
+        "latitude": 10.82896,
+        "longitude": 106.60254,
+        "address": "Bãi Giữ Xe 24/7, Đường Tiền Lân 12, Xã Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Bà Điểm",
+        "street": "Đường Tiền Lân 12",
+        "postal_code": "71714",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô Xe Máy 24 Trên 24 Ba Dũng",
+        "latitude": 10.80421,
+        "longitude": 106.63382,
+        "address": "Bãi Giữ Xe Ô Tô Xe Máy 24 Trên 24 Ba Dũng, Hẻm 74 Đường Tân Kỳ Tân Quý, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tây Thạnh",
+        "street": "Hẻm 74 Đường Tân Kỳ Tân Quý",
+        "postal_code": "72009",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô-Xe Tải 320",
+        "latitude": 10.80167,
+        "longitude": 106.62497,
+        "address": "Bãi Giữ Xe Ô Tô-Xe Tải 320, 320 Đường Tân Kỳ Tân Quý, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Sơn Nhì",
+        "street": "Đường Tân Kỳ Tân Quý",
+        "postal_code": "72008",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe 24/24 Thuận Phát III",
+        "latitude": 10.80949,
+        "longitude": 106.60381,
+        "address": "Bãi Giữ Xe 24/24 Thuận Phát III, Đường Số 3, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa",
+        "street": "Đường Số 3",
+        "postal_code": "71913",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Giữ Và Chăm Sóc Xe VK 928",
+        "latitude": 10.8052,
+        "longitude": 106.64185,
+        "address": "Cửa Hàng Giữ Và Chăm Sóc Xe VK 928, Đường Nguyễn Đức Thuận, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Đường Nguyễn Đức Thuận",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Mai Phương",
+        "latitude": 10.80493,
+        "longitude": 106.6421,
+        "address": "Mai Phương, Đường Nguyễn Đức Thuận, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Đường Nguyễn Đức Thuận",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô",
+        "latitude": 10.85147,
+        "longitude": 106.6164,
+        "address": "Bãi Giữ Xe Ô Tô, Đường TMT 2A, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Trung Mỹ Tây",
+        "street": "Đường TMT 2A",
+        "postal_code": "71507",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe 90S",
+        "latitude": 10.80004,
+        "longitude": 106.63872,
+        "address": "Bãi Giữ Xe 90S, Hẻm 481 Đường Trường Chinh, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 14",
+        "street": "Hẻm 481 Đường Trường Chinh",
+        "postal_code": "72112",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bai Xe Minh Phúc",
+        "latitude": 10.8042,
+        "longitude": 106.64446,
+        "address": "Bai Xe Minh Phúc, Hẻm 37 Đường C1, Phường 13, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 13",
+        "street": "Hẻm 37 Đường C1",
+        "postal_code": "72110",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Hiểu Ngọc",
+        "latitude": 10.83933,
+        "longitude": 106.64994,
+        "address": "Bãi Xe Hiểu Ngọc, Đường Số 21, Phường 8, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 8",
+        "street": "Đường Số 21",
+        "postal_code": "71419",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty 358",
+        "latitude": 10.84617,
+        "longitude": 106.64822,
+        "address": "Công Ty 358, Đường Số 7, Phường 9, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 9",
+        "street": "Đường Số 7",
+        "postal_code": "71417",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 358",
+        "latitude": 10.84659,
+        "longitude": 106.6488,
+        "address": "Bãi Xe 358, Hẻm 158/45 Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 9",
+        "street": "Hẻm 158/45 Phạm Văn Chiêu",
+        "postal_code": "71417",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Phát Thịnh",
+        "latitude": 10.83461,
+        "longitude": 106.5923,
+        "address": "Bãi Xe Phát Thịnh, Đường Số 10, Xã Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Bà Điểm",
+        "street": "Đường Số 10",
+        "postal_code": "71714",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Đậu Xe Ô Tô Sake",
+        "latitude": 10.79415,
+        "longitude": 106.60936,
+        "address": "Bãi Đậu Xe Ô Tô Sake, Đường Tân Kỳ Tân Quý, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa",
+        "street": "Đường Tân Kỳ Tân Quý",
+        "postal_code": "71913",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Đi Chợ",
+        "latitude": 10.79066,
+        "longitude": 106.62423,
+        "address": "Giữ Xe Đi Chợ, Đường Tây Sơn, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Quý",
+        "street": "Đường Tây Sơn",
+        "postal_code": "72011",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe 273 24/24 Nhận Giữ Các Loại Xe Ôtô Rửa Xe Ôtô",
+        "latitude": 10.84964,
+        "longitude": 106.65073,
+        "address": "Bãi Giữ Xe 273 24/24 Nhận Giữ Các Loại Xe Ôtô Rửa Xe Ôtô, Đường Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 9",
+        "street": "Đường Phạm Văn Chiêu",
+        "postal_code": "71417",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Điểm Giữ Xe Hạnh Phúc",
+        "latitude": 10.84402,
+        "longitude": 106.59228,
+        "address": "Điểm Giữ Xe Hạnh Phúc, Đường Tiền Lân 18, Xã Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Bà Điểm",
+        "street": "Đường Tiền Lân 18",
+        "postal_code": "71714",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Befit Yoga",
+        "latitude": 10.8502,
+        "longitude": 106.65266,
+        "address": "Giữ Xe Befit Yoga, 338 Hẻm 380 Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 9",
+        "street": "Hẻm 380 Phạm Văn Chiêu",
+        "postal_code": "71417",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô Xe Máy Thạch Đà",
+        "latitude": 10.85142,
+        "longitude": 106.65148,
+        "address": "Bãi Giữ Xe Ô Tô Xe Máy Thạch Đà, Hẻm 15 Đường Số 59, Phường 14, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 14",
+        "street": "Hẻm 15 Đường Số 59",
+        "postal_code": "71418",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 24/24 Phong Phú",
+        "latitude": 10.8005,
+        "longitude": 106.59308,
+        "address": "Bãi Xe 24/24 Phong Phú, Đường Số 1, Phường Bình Hưng Hòa B, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa B",
+        "street": "Đường Số 1",
+        "postal_code": "71914",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 24/24 Liên Minh 2",
+        "latitude": 10.80041,
+        "longitude": 106.59311,
+        "address": "Bãi Xe 24/24 Liên Minh 2, Đường Số 1, Phường Bình Hưng Hòa B, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa B",
+        "street": "Đường Số 1",
+        "postal_code": "71914",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH MTV XD TM VT Hoàng Lê Sơn",
+        "latitude": 10.86351,
+        "longitude": 106.63343,
+        "address": "Công Ty TNHH MTV XD TM VT Hoàng Lê Sơn, Đường Dương Thị Mười, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Chánh Hiệp",
+        "street": "Đường Dương Thị Mười",
+        "postal_code": "71506",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô 24 Trên 24 Phong Vinh",
+        "latitude": 10.80618,
+        "longitude": 106.5882,
+        "address": "Bãi Giữ Xe Ô Tô 24 Trên 24 Phong Vinh, Đường Bình Thành, Phường Bình Hưng Hòa B, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa B",
+        "street": "Đường Bình Thành",
+        "postal_code": "71914",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Du Lịch",
+        "latitude": 10.84731,
+        "longitude": 106.65833,
+        "address": "Giữ Xe Du Lịch, Đường Số 1, Phường 11, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 11",
+        "street": "Đường Số 1",
+        "postal_code": "71421",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Ô Tô 549",
+        "latitude": 10.85326,
+        "longitude": 106.654,
+        "address": "Bãi Xe Ô Tô 549, 549 Hẻm 548/58 Đường Lê Văn Thọ, Phường 14, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 14",
+        "street": "Hẻm 548/58 Đường Lê Văn Thọ",
+        "postal_code": "71418",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Tân Hoàn Cầu",
+        "latitude": 10.78702,
+        "longitude": 106.64058,
+        "address": "Bãi Giữ Xe Tân Hoàn Cầu, Đường Tân Thành, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Hòa Thạnh",
+        "street": "Đường Tân Thành",
+        "postal_code": "72006",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe-Garage Hoàng Gia",
+        "latitude": 10.81741,
+        "longitude": 106.58268,
+        "address": "Bãi Xe-Garage Hoàng Gia, Đường Liên Ấp 5-6, Xã Vĩnh Lộc A, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Bình Chánh",
+        "ward": "Xã Vĩnh Lộc A",
+        "street": "Đường Liên Ấp 5-6",
+        "postal_code": "71821",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Garage Ô Tô Đức Tiến",
+        "latitude": 10.80389,
+        "longitude": 106.66218,
+        "address": "Garage Ô Tô Đức Tiến, Đường Phan Thúc Duyện, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 4",
+        "street": "Đường Phan Thúc Duyện",
+        "postal_code": "72106",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Nhận Giữ Xe Ô Tô",
+        "latitude": 10.78308,
+        "longitude": 106.63612,
+        "address": "Nhận Giữ Xe Ô Tô, Đường Lũy Bán Bích, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Hòa Thạnh",
+        "street": "Đường Lũy Bán Bích",
+        "postal_code": "72006",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Út Tân Nhận Giữ Ô Tô",
+        "latitude": 10.84862,
+        "longitude": 106.66172,
+        "address": "Út Tân Nhận Giữ Ô Tô, 111 Hẻm 79 Đường Số 2, Phường 16, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 16",
+        "street": "Hẻm 79 Đường Số 2",
+        "postal_code": "71416",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô 24/24",
+        "latitude": 10.86283,
+        "longitude": 106.60108,
+        "address": "Bãi Giữ Xe Ô Tô 24/24, Đường Số 2, Xã Xuân Thới Đông, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Xuân Thới Đông",
+        "street": "Đường Số 2",
+        "postal_code": "71715",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe",
+        "latitude": 10.84929,
+        "longitude": 106.6627,
+        "address": "Giữ Xe, Hẻm 945 Lê Đức Thọ, Phường 16, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 16",
+        "street": "Hẻm 945 Lê Đức Thọ",
+        "postal_code": "71416",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Garage Kho Bãi Xe Hoàng Xuyên",
+        "latitude": 10.80359,
+        "longitude": 106.58326,
+        "address": "Garage Kho Bãi Xe Hoàng Xuyên, Đường Liên Khu 4-5, Xã Vĩnh Lộc B, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Bình Chánh",
+        "ward": "Xã Vĩnh Lộc B",
+        "street": "Đường Liên Khu 4-5",
+        "postal_code": "71819",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Anh Thư",
+        "latitude": 10.77921,
+        "longitude": 106.63148,
+        "address": "Giữ Xe Anh Thư, 206 Đường Thoại Ngọc Hầu, Phường Phú Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Phú Thạnh",
+        "street": "Đường Thoại Ngọc Hầu",
+        "postal_code": "72013",
+        "categories": [
+            {
+                "name": "Bãi đậu xe"
+            },
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 24.24H",
+        "latitude": 10.87048,
+        "longitude": 106.62819,
+        "address": "Bãi Xe 24.24H, 113-115 Đường Lâm Thị Hố, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Chánh Hiệp",
+        "street": "Đường Lâm Thị Hố",
+        "postal_code": "71506",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Năm Phèn",
+        "latitude": 10.81885,
+        "longitude": 106.5778,
+        "address": "Giữ Xe Năm Phèn, Đường Liên Ấp 5-6, Xã Vĩnh Lộc A, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Bình Chánh",
+        "ward": "Xã Vĩnh Lộc A",
+        "street": "Đường Liên Ấp 5-6",
+        "postal_code": "71821",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH Kho Bãi Vĩnh Lộc Bảo Thiện",
+        "latitude": 10.80795,
+        "longitude": 106.5799,
+        "address": "Công Ty TNHH Kho Bãi Vĩnh Lộc Bảo Thiện, Đường Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Bình Chánh",
+        "ward": "Xã Vĩnh Lộc B",
+        "street": "Đường Võ Văn Vân",
+        "postal_code": "71819",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Tây Bắc Bãi Đỗ Xe",
+        "latitude": 10.86531,
+        "longitude": 106.59988,
+        "address": "Tây Bắc Bãi Đỗ Xe, Quốc Lộ 22, Xã Xuân Thới Đông, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Xuân Thới Đông",
+        "street": "Quốc Lộ 22",
+        "postal_code": "71715",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Dương Hiếu II",
+        "latitude": 10.87079,
+        "longitude": 106.61218,
+        "address": "Dương Hiếu II, Đường Mỹ Huề, Xã Trung Chánh, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Trung Chánh",
+        "street": "Đường Mỹ Huề",
+        "postal_code": "71716",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Ô Tô 24 24",
+        "latitude": 10.87081,
+        "longitude": 106.63998,
+        "address": "Giữ Xe Ô Tô 24 24, 423A Đường Nguyễn Thị Kiểu, Phường Tân Thới Hiệp, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Tân Thới Hiệp",
+        "street": "Đường Nguyễn Thị Kiểu",
+        "postal_code": "71511",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "HTX Vận Tải Cơ Giới I Tân Bình Nhận Giữ Xe Ô Tô",
+        "latitude": 10.77659,
+        "longitude": 106.63683,
+        "address": "HTX Vận Tải Cơ Giới I Tân Bình Nhận Giữ Xe Ô Tô, 318 Đường Trịnh Đình Trọng, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Hòa Thạnh",
+        "street": "Đường Trịnh Đình Trọng",
+        "postal_code": "72006",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            },
+            {
+                "name": "Khu liên hợp hoặc sân vận động thể thao"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Phát Tài",
+        "latitude": 10.78134,
+        "longitude": 106.59959,
+        "address": "Giữ Xe Phát Tài, Đường Mã Lò, Phường Bình Hưng Hòa A, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa A",
+        "street": "Đường Mã Lò",
+        "postal_code": "71912",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 24/24",
+        "latitude": 10.80421,
+        "longitude": 106.57787,
+        "address": "Bãi Xe 24/24, 6 Đường Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Bình Chánh",
+        "ward": "Xã Vĩnh Lộc B",
+        "street": "Đường Võ Văn Vân",
+        "postal_code": "71819",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Đậu Xe Quang Trung",
+        "latitude": 10.86154,
+        "longitude": 106.65919,
+        "address": "Bãi Đậu Xe Quang Trung, 1069 Quốc Lộ 1A, Phường Thới An, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Thới An",
+        "street": "Quốc Lộ 1A",
+        "postal_code": "71513",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Ô Tô Số 15",
+        "latitude": 10.77934,
+        "longitude": 106.60131,
+        "address": "Giữ Ô Tô Số 15, Đường Số 18B, Phường Bình Hưng Hòa A, Quận Bình Tân, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Tân",
+        "ward": "Phường Bình Hưng Hòa A",
+        "street": "Đường Số 18B",
+        "postal_code": "71912",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô 117 Âu Cơ",
+        "latitude": 10.7783,
+        "longitude": 106.64552,
+        "address": "Bãi Giữ Xe Ô Tô 117 Âu Cơ, Đường Âu Cơ, Phường Phú Trung, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Phú Trung",
+        "street": "Đường Âu Cơ",
+        "postal_code": "72016",
+        "categories": [
+            {
+                "name": "Bãi đậu xe"
+            },
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe",
+        "latitude": 10.85795,
+        "longitude": 106.58489,
+        "address": "Bãi Giữ Xe, Đường Nguyễn Thị Thử, Xã Xuân Thới Thượng, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Xuân Thới Thượng",
+        "street": "Đường Nguyễn Thị Thử",
+        "postal_code": "71713",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Hùng Thịnh Bãi Giữ Xe Ô Tô 24/24",
+        "latitude": 10.83363,
+        "longitude": 106.57204,
+        "address": "Hùng Thịnh Bãi Giữ Xe Ô Tô 24/24, Đường Phạm Văn Sáng, Xã Vĩnh Lộc A, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Bình Chánh",
+        "ward": "Xã Vĩnh Lộc A",
+        "street": "Đường Phạm Văn Sáng",
+        "postal_code": "71821",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô Hùng Thịnh Phát",
+        "latitude": 10.8075,
+        "longitude": 106.67487,
+        "address": "Bãi Giữ Xe Ô Tô Hùng Thịnh Phát, 125 Hẻm 134 Đường Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Phú Nhuận",
+        "ward": "Phường 9",
+        "street": "Hẻm 134 Đường Đào Duy Anh",
+        "postal_code": "72216",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Tài Đức",
+        "latitude": 10.87542,
+        "longitude": 106.61137,
+        "address": "Bãi Xe Tài Đức, Đường Tô Ký, Xã Trung Chánh, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Trung Chánh",
+        "street": "Đường Tô Ký",
+        "postal_code": "71716",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Sáu Phát",
+        "latitude": 10.77203,
+        "longitude": 106.62655,
+        "address": "Sáu Phát, 233 Đường Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Hiệp Tân",
+        "street": "Đường Hòa Bình",
+        "postal_code": "72014",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe",
+        "latitude": 10.85075,
+        "longitude": 106.67121,
+        "address": "Bãi Giữ Xe, Đường Số 6, Phường 15, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 15",
+        "street": "Đường Số 6",
+        "postal_code": "71414",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe",
+        "latitude": 10.77935,
+        "longitude": 106.65254,
+        "address": "Giữ Xe, Hẻm 373 Lý Thường Kiệt, Phường 8, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 8",
+        "street": "Hẻm 373 Lý Thường Kiệt",
+        "postal_code": "72116",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Coop Mart",
+        "latitude": 10.77109,
+        "longitude": 106.62923,
+        "address": "Bãi Giữ Xe Coop Mart, Đường Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Hiệp Tân",
+        "street": "Đường Hòa Bình",
+        "postal_code": "72014",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe",
+        "latitude": 10.79756,
+        "longitude": 106.67207,
+        "address": "Bãi Giữ Xe, 261 Đường Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Phú Nhuận",
+        "ward": "Phường 10",
+        "street": "Đường Nguyễn Văn Trỗi",
+        "postal_code": "72218",
+        "categories": [
+            {
+                "name": "Bãi đậu xe"
+            },
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe Bảo Ngọc",
+        "latitude": 10.87253,
+        "longitude": 106.65026,
+        "address": "Bãi Xe Bảo Ngọc, Đường Trần Thị Cờ, Phường Thới An, Quận 12, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 12",
+        "ward": "Phường Thới An",
+        "street": "Đường Trần Thị Cờ",
+        "postal_code": "71513",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Nguyễn Kim",
+        "latitude": 10.77559,
+        "longitude": 106.64854,
+        "address": "Bãi Giữ Xe Nguyễn Kim, Đường Lạc Long Quân, Phường 10, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 10",
+        "street": "Đường Lạc Long Quân",
+        "postal_code": "72114",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Miễn Phí",
+        "latitude": 10.78508,
+        "longitude": 106.66276,
+        "address": "Giữ Xe Miễn Phí, Đường Bắc Hải, Phường 6, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Bình",
+        "ward": "Phường 6",
+        "street": "Đường Bắc Hải",
+        "postal_code": "72117",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 24 Trên 24 Rửa Xe 77",
+        "latitude": 10.83571,
+        "longitude": 106.67976,
+        "address": "Bãi Xe 24 Trên 24 Rửa Xe 77, Đường Lê Thị Hồng, Phường 17, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 17",
+        "street": "Đường Lê Thị Hồng",
+        "postal_code": "71413",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Đậu Xe Lạc Long Quân",
+        "latitude": 10.77158,
+        "longitude": 106.64155,
+        "address": "Bãi Đậu Xe Lạc Long Quân, Đường Tống Văn Trân, Phường 5, Quận 11, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 11",
+        "ward": "Phường 5",
+        "street": "Đường Tống Văn Trân",
+        "postal_code": "72608",
+        "categories": [
+            {
+                "name": "Bãi đậu xe"
+            },
+            {
+                "name": "Đỗ xe"
+            },
+            {
+                "name": "Bãi đỗ xe nhiều tầng"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Bình An",
+        "latitude": 10.7801,
+        "longitude": 106.65949,
+        "address": "Bãi Giữ Xe Bình An, B5 Đường Thành Thái, Phường 14, Quận 10, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 10",
+        "ward": "Phường 14",
+        "street": "Đường Thành Thái",
+        "postal_code": "72506",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Mai",
+        "latitude": 10.81838,
+        "longitude": 106.56729,
+        "address": "Bãi Giữ Xe Mai, Đường Liên Ấp 2-6, Xã Vĩnh Lộc A, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Bình Chánh",
+        "ward": "Xã Vĩnh Lộc A",
+        "street": "Đường Liên Ấp 2-6",
+        "postal_code": "71821",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ôtô Số 2",
+        "latitude": 10.77075,
+        "longitude": 106.64288,
+        "address": "Bãi Giữ Xe Ôtô Số 2, 2 Đường Tống Văn Trân, Phường 5, Quận 11, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 11",
+        "ward": "Phường 5",
+        "street": "Đường Tống Văn Trân",
+        "postal_code": "72608",
+        "categories": [
+            {
+                "name": "Bãi đậu xe"
+            },
+            {
+                "name": "Đỗ xe"
+            },
+            {
+                "name": "Bãi đỗ xe nhiều tầng"
+            }
+        ]
+    },
+    {
+        "name": "Điểm Giữ Xe Nhà Hàng Thủy Tạ",
+        "latitude": 10.76889,
+        "longitude": 106.63734,
+        "address": "Điểm Giữ Xe Nhà Hàng Thủy Tạ, Đường Hòa Bình, Phường Phú Trung, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Phú Trung",
+        "street": "Đường Hòa Bình",
+        "postal_code": "72016",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Đậu Xe Ngọc Phụng",
+        "latitude": 10.8735,
+        "longitude": 106.59413,
+        "address": "Bãi Đậu Xe Ngọc Phụng, Quốc Lộ 22, Xã Xuân Thới Đông, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Xuân Thới Đông",
+        "street": "Quốc Lộ 22",
+        "postal_code": "71715",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 24/24",
+        "latitude": 10.77938,
+        "longitude": 106.66022,
+        "address": "Bãi Xe 24/24, C30 Đường Thành Thái, Phường 14, Quận 10, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 10",
+        "ward": "Phường 14",
+        "street": "Đường Thành Thái",
+        "postal_code": "72506",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Thiên Ân",
+        "latitude": 10.77047,
+        "longitude": 106.64369,
+        "address": "Bãi Giữ Xe Thiên Ân, Đường Tống Văn Trân, Phường 5, Quận 11, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 11",
+        "ward": "Phường 5",
+        "street": "Đường Tống Văn Trân",
+        "postal_code": "72608",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Xe 29",
+        "latitude": 10.76747,
+        "longitude": 106.63008,
+        "address": "Bãi Xe 29, 29 Hẻm 133 Đường Nguyễn Văn Vịnh, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Hiệp Tân",
+        "street": "Hẻm 133 Đường Nguyễn Văn Vịnh",
+        "postal_code": "72014",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe Má Linh",
+        "latitude": 10.76698,
+        "longitude": 106.62595,
+        "address": "Giữ Xe Má Linh, 149 Đường Lý Thánh Tông, Phường Tân Thới Hòa, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Thới Hòa",
+        "street": "Đường Lý Thánh Tông",
+        "postal_code": "72015",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô Sâm Minh Tú",
+        "latitude": 10.84169,
+        "longitude": 106.68058,
+        "address": "Bãi Giữ Xe Ô Tô Sâm Minh Tú, Hẻm 350 Lê Đức Thọ, Phường 6, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Gò Vấp",
+        "ward": "Phường 6",
+        "street": "Hẻm 350 Lê Đức Thọ",
+        "postal_code": "71412",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe 24/7 Anh Quốc",
+        "latitude": 10.87461,
+        "longitude": 106.59516,
+        "address": "Giữ Xe 24/7 Anh Quốc, 679 Đường Trung Mỹ-Tân Xuân, Xã Tân Xuân, Huyện Hóc Môn, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Hóc Môn",
+        "ward": "Xã Tân Xuân",
+        "street": "Đường Trung Mỹ-Tân Xuân",
+        "postal_code": "71717",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Bãi Giữ Xe Ô Tô Năm Thủy",
+        "latitude": 10.79263,
+        "longitude": 106.57542,
+        "address": "Bãi Giữ Xe Ô Tô Năm Thủy, Đường Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Huyện Bình Chánh",
+        "ward": "Xã Vĩnh Lộc B",
+        "street": "Đường Võ Văn Vân",
+        "postal_code": "71819",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Giữ Xe",
+        "latitude": 10.76624,
+        "longitude": 106.62567,
+        "address": "Giữ Xe, Hẻm 149 Đường Lý Thánh Tông, Phường Tân Thới Hòa, Quận Tân Phú, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Tân Phú",
+        "ward": "Phường Tân Thới Hòa",
+        "street": "Hẻm 149 Đường Lý Thánh Tông",
+        "postal_code": "72015",
+        "categories": [
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    }
+]

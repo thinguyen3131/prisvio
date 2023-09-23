@@ -9,11 +9,11 @@ from firebase_admin.auth import ExpiredIdTokenError
 from loguru import logger
 from rest_framework import exceptions, serializers
 
+from prismvio.core.firebase import get_firebase_admin_service
 from prismvio.users.enums import IntervalLockTime, OTPAction, OTPType
 from prismvio.users.models.otp import OneTimePassword
 from prismvio.users.otp import LimitedError, get_otp_instance, is_valid_otp_instance
 from prismvio.utils.exceptions import CODE
-from prismvio.utils.firebase import get_firebase_admin_service
 from prismvio.utils.phonenumber import get_country_code_from_phone_number, validate_phone_number
 
 User = get_user_model()

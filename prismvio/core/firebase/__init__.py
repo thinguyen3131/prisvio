@@ -1,4 +1,4 @@
-from prismvio.utils.firebase.firebase_admin import FirebaseAdminService
+from prismvio.core.firebase.firebase_admin import FirebaseAdminService
 
 firebase_admin_service = None
 

@@ -1,0 +1,2078 @@
+[
+    {
+        "name": "Nhà Hàng Square One",
+        "latitude": 10.77752,
+        "longitude": 106.70332,
+        "address": "Nhà Hàng Square One, Đường Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Powerbowl",
+        "latitude": 10.77798,
+        "longitude": 106.70232,
+        "address": "Powerbowl, Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Q Bar",
+        "latitude": 10.77703,
+        "longitude": 106.70321,
+        "address": "Q Bar, Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Hàng Cafe O'Brien's",
+        "latitude": 10.7781,
+        "longitude": 106.70342,
+        "address": "Nhà Hàng Cafe O'Brien's, 74A3 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Câu lạc bộ giải trí"
+            }
+        ]
+    },
+    {
+        "name": "Trang Web Hinh Nguyen Huy Hoang",
+        "latitude": 10.77825,
+        "longitude": 106.70327,
+        "address": "Trang Web Hinh Nguyen Huy Hoang, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Dịch vụ kinh doanh"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quảng cáo, tiếp thị, PR và nghiên cứu thị trường"
+            }
+        ]
+    },
+    {
+        "name": "O'Brien's",
+        "latitude": 10.77825,
+        "longitude": 106.70327,
+        "address": "O'Brien's, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Starrynite Bar",
+        "latitude": 10.77674,
+        "longitude": 106.7028,
+        "address": "Starrynite Bar, Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "2 Lam Sơn-Martini Bar",
+        "latitude": 10.77759,
+        "longitude": 106.70367,
+        "address": "2 Lam Sơn-Martini Bar, Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bounce",
+        "latitude": 10.77744,
+        "longitude": 106.70179,
+        "address": "Bounce, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Flower Corner - Vườn Hoa Giấy",
+        "latitude": 10.77842,
+        "longitude": 106.7036,
+        "address": "Flower Corner - Vườn Hoa Giấy, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giày dép"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Chill Bar",
+        "latitude": 10.77629,
+        "longitude": 106.70276,
+        "address": "Chill Bar, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Hát Thành Phố",
+        "latitude": 10.77633,
+        "longitude": 106.70336,
+        "address": "Nhà Hát Thành Phố, 7 Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm biểu diễn nghệ thuật"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Giải trí hoặc âm nhạc sống"
+            },
+            {
+                "name": "Rạp chiếu phim"
+            },
+            {
+                "name": "Nhà hát, Âm nhạc & Văn hóa"
+            },
+            {
+                "name": "Thắng cảnh hoặc điểm du lịch"
+            },
+            {
+                "name": "Khu di tích"
+            },
+            {
+                "name": "Trung tâm hội nghị hoặc triển lãm"
+            }
+        ]
+    },
+    {
+        "name": "Blanchy S Lounge",
+        "latitude": 10.7773,
+        "longitude": 106.70418,
+        "address": "Blanchy S Lounge, 95 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Quầy Cocktail"
+            }
+        ]
+    },
+    {
+        "name": "The Mist Dance Show",
+        "latitude": 10.77614,
+        "longitude": 106.70295,
+        "address": "The Mist Dance Show, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Playground",
+        "latitude": 10.77752,
+        "longitude": 106.70132,
+        "address": "Playground, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "You Are Models",
+        "latitude": 10.77827,
+        "longitude": 106.70147,
+        "address": "You Are Models, 45A Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Last Call",
+        "latitude": 10.77614,
+        "longitude": 106.7034,
+        "address": "Last Call, Đường Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Lam Sơn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Xóm Mê Giày",
+        "latitude": 10.77828,
+        "longitude": 106.70127,
+        "address": "Xóm Mê Giày, 26 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Game On Sport Pub Sài Gòn",
+        "latitude": 10.77726,
+        "longitude": 106.70453,
+        "address": "Game On Sport Pub Sài Gòn, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Chu Bar",
+        "latitude": 10.77793,
+        "longitude": 106.70102,
+        "address": "Chu Bar, 158 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Luxury 1 Bar",
+        "latitude": 10.77693,
+        "longitude": 106.70453,
+        "address": "Luxury 1 Bar, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Mc Queen Lounge",
+        "latitude": 10.77873,
+        "longitude": 106.70426,
+        "address": "Mc Queen Lounge, Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Phòng trà"
+            }
+        ]
+    },
+    {
+        "name": "Bbq & Beer De Salita",
+        "latitude": 10.77924,
+        "longitude": 106.70372,
+        "address": "Bbq & Beer De Salita, Đường Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thi Sách",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bar Apocalypse Now",
+        "latitude": 10.77702,
+        "longitude": 106.70472,
+        "address": "Bar Apocalypse Now, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Nightfall Bar",
+        "latitude": 10.77802,
+        "longitude": 106.70481,
+        "address": "Nightfall Bar, 5E Đường Nguyễn Siêu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Siêu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Nu Lounge",
+        "latitude": 10.77693,
+        "longitude": 106.70483,
+        "address": "Nu Lounge, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Blue Gecko",
+        "latitude": 10.77976,
+        "longitude": 106.70267,
+        "address": "Blue Gecko, 31 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Nightspot Wine Bar",
+        "latitude": 10.77558,
+        "longitude": 106.70371,
+        "address": "Nightspot Wine Bar, 88 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "C H A N G E.",
+        "latitude": 10.77602,
+        "longitude": 106.70123,
+        "address": "C H A N G E., Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "A B O V E.",
+        "latitude": 10.77602,
+        "longitude": 106.70123,
+        "address": "A B O V E., Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Rooftop Garden",
+        "latitude": 10.77589,
+        "longitude": 106.70131,
+        "address": "Rooftop Garden, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Level 23 Sheraton",
+        "latitude": 10.77552,
+        "longitude": 106.70383,
+        "address": "Level 23 Sheraton, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Bar Rooftop Garden",
+        "latitude": 10.77567,
+        "longitude": 106.70152,
+        "address": "Bar Rooftop Garden, 141 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Villa",
+        "latitude": 10.7754,
+        "longitude": 106.70354,
+        "address": "Villa, 131D Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Cyclo Lounge Saigon",
+        "latitude": 10.77829,
+        "longitude": 106.70058,
+        "address": "Cyclo Lounge Saigon, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Đại lý du lịch & Vé"
+            }
+        ]
+    },
+    {
+        "name": "Clb Billiards 51",
+        "latitude": 10.7766,
+        "longitude": 106.70496,
+        "address": "Clb Billiards 51, 51 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "Bernie's Irish Bar & Restaurant",
+        "latitude": 10.77931,
+        "longitude": 106.70447,
+        "address": "Bernie's Irish Bar & Restaurant, 19 Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quán rượu nhỏ"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Billiards 49",
+        "latitude": 10.77656,
+        "longitude": 106.705,
+        "address": "Billiards 49, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Mars Bar",
+        "latitude": 10.77656,
+        "longitude": 106.705,
+        "address": "Mars Bar, 49 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Hai Chị Em - Two Sister Bar Billiards & Cafe",
+        "latitude": 10.77645,
+        "longitude": 106.70497,
+        "address": "Hai Chị Em - Two Sister Bar Billiards & Cafe, 44 Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Jazz Bop",
+        "latitude": 10.77887,
+        "longitude": 106.70496,
+        "address": "Jazz Bop, Đường Cao Bá Quát, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Cao Bá Quát",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Aura",
+        "latitude": 10.7763,
+        "longitude": 106.70497,
+        "address": "Aura, 15 Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Snow Bar",
+        "latitude": 10.77634,
+        "longitude": 106.70501,
+        "address": "Snow Bar, Đường Đông Du, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đông Du",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Hiền & Bob's Place",
+        "latitude": 10.77644,
+        "longitude": 106.70512,
+        "address": "Hiền & Bob's Place, 43 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Pub-Bar & Restaurant",
+        "latitude": 10.77898,
+        "longitude": 106.70503,
+        "address": "Pub-Bar & Restaurant, Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "King Karaoke",
+        "latitude": 10.77995,
+        "longitude": 106.70392,
+        "address": "King Karaoke, 16 Đường Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Thái Văn Lung",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "La Fenêtre De Soleil",
+        "latitude": 10.77691,
+        "longitude": 106.7002,
+        "address": "La Fenêtre De Soleil, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Xách Balo Lên Và Đi",
+        "latitude": 10.77493,
+        "longitude": 106.70304,
+        "address": "Xách Balo Lên Và Đi, 72 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Billards 35",
+        "latitude": 10.7763,
+        "longitude": 106.70527,
+        "address": "Billards 35, 35 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Phòng Trà Sóng Nhạc",
+        "latitude": 10.77498,
+        "longitude": 106.70191,
+        "address": "Phòng Trà Sóng Nhạc, 39 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            }
+        ]
+    },
+    {
+        "name": "The King Karaoke & Rooftop 31-33 Hai Bà Trưng P.Bến Nghé Q.1",
+        "latitude": 10.77629,
+        "longitude": 106.70528,
+        "address": "The King Karaoke & Rooftop 31-33 Hai Bà Trưng P.Bến Nghé Q.1, 31-33 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Karaoke Gia Đình",
+        "latitude": 10.77623,
+        "longitude": 106.70536,
+        "address": "Karaoke Gia Đình, 27 Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Malt",
+        "latitude": 10.77539,
+        "longitude": 106.70469,
+        "address": "Malt, 46-48 Hẻm 71 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 71 Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Foot Massage",
+        "latitude": 10.77558,
+        "longitude": 106.70493,
+        "address": "Foot Massage, 36 Đường Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Mạc Thị Bưởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Quán Bar Smile",
+        "latitude": 10.78029,
+        "longitude": 106.70482,
+        "address": "Quán Bar Smile, 15 Hẻm 15 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 15 Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Cgv Cinemas",
+        "latitude": 10.77469,
+        "longitude": 106.70097,
+        "address": "Cgv Cinemas, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Rạp B",
+        "latitude": 10.77928,
+        "longitude": 106.70592,
+        "address": "Rạp B, Đường Nguyễn Siêu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Siêu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Rạp A",
+        "latitude": 10.77928,
+        "longitude": 106.70592,
+        "address": "Rạp A, Đường Nguyễn Siêu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Siêu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "The Soul Of Vietnam",
+        "latitude": 10.78054,
+        "longitude": 106.70481,
+        "address": "The Soul Of Vietnam, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Đồng Dao",
+        "latitude": 10.77744,
+        "longitude": 106.69906,
+        "address": "Đồng Dao, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Vntop",
+        "latitude": 10.77404,
+        "longitude": 106.70402,
+        "address": "Vntop, 50 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Sax N'Art Club",
+        "latitude": 10.77441,
+        "longitude": 106.70079,
+        "address": "Sax N'Art Club, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Zigzagger",
+        "latitude": 10.77753,
+        "longitude": 106.699,
+        "address": "Zigzagger, 95 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Jazz Club",
+        "latitude": 10.77437,
+        "longitude": 106.70075,
+        "address": "Jazz Club, 28 Hẻm 36 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 36 Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Câu lạc bộ jazz"
+            },
+            {
+                "name": "Vui chơi & Giải trí"
+            }
+        ]
+    },
+    {
+        "name": "Saigonmusic Media",
+        "latitude": 10.77382,
+        "longitude": 106.70368,
+        "address": "Saigonmusic Media, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Xe",
+        "latitude": 10.77382,
+        "longitude": 106.70368,
+        "address": "Siêu Xe, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Mưa Rừng",
+        "latitude": 10.77462,
+        "longitude": 106.70536,
+        "address": "Mưa Rừng, Đường Hồ Huấn Nghiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Hồ Huấn Nghiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Máy Bay Bà Già",
+        "latitude": 10.77375,
+        "longitude": 106.70369,
+        "address": "Máy Bay Bà Già, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "02 Gold Club-Nhà Hàng Thành Đạt",
+        "latitude": 10.77495,
+        "longitude": 106.70582,
+        "address": "02 Gold Club-Nhà Hàng Thành Đạt, 2 Hẻm 10 Đường Hồ Huấn Nghiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 10 Đường Hồ Huấn Nghiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            }
+        ]
+    },
+    {
+        "name": "Chua Bar",
+        "latitude": 10.77362,
+        "longitude": 106.70361,
+        "address": "Chua Bar, Đường Huỳnh Thúc Kháng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Huỳnh Thúc Kháng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Drinks",
+        "latitude": 10.77356,
+        "longitude": 106.70232,
+        "address": "Drinks, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Hangover",
+        "latitude": 10.77354,
+        "longitude": 106.7024,
+        "address": "Hangover, 38 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Overtime Bar",
+        "latitude": 10.77353,
+        "longitude": 106.70236,
+        "address": "Overtime Bar, 40 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Pium Bar",
+        "latitude": 10.77353,
+        "longitude": 106.70223,
+        "address": "Pium Bar, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Phatty's Bar - Hoa Quỳnh",
+        "latitude": 10.77353,
+        "longitude": 106.70223,
+        "address": "Phatty's Bar - Hoa Quỳnh, 46-48 Hẻm 42 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 42 Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán ăn bình dân"
+            },
+            {
+                "name": "Cà Phê/Trà"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Zheng Lounge Bar",
+        "latitude": 10.77419,
+        "longitude": 106.70521,
+        "address": "Zheng Lounge Bar, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "F A C K M O O D",
+        "latitude": 10.77373,
+        "longitude": 106.70435,
+        "address": "F A C K M O O D, 30 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Quảng Sanh Long",
+        "latitude": 10.77373,
+        "longitude": 106.70435,
+        "address": "Quảng Sanh Long, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Phatty Sport Bar Và Grill",
+        "latitude": 10.77349,
+        "longitude": 106.70217,
+        "address": "Phatty Sport Bar Và Grill, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Landmark",
+        "latitude": 10.77799,
+        "longitude": 106.70709,
+        "address": "Landmark, 5B Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Roll-Royce Bar Và Cafe",
+        "latitude": 10.77335,
+        "longitude": 106.70248,
+        "address": "Roll-Royce Bar Và Cafe, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Zone 87 Complex",
+        "latitude": 10.77354,
+        "longitude": 106.70419,
+        "address": "Zone 87 Complex, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Nhafe-Studio & Bar",
+        "latitude": 10.77828,
+        "longitude": 106.69851,
+        "address": "Nhafe-Studio & Bar, 178 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Suppa Kold Beer",
+        "latitude": 10.78113,
+        "longitude": 106.70527,
+        "address": "Suppa Kold Beer, 15A Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Nhà Hàng Temple Club",
+        "latitude": 10.77334,
+        "longitude": 106.70205,
+        "address": "Nhà Hàng Temple Club, 31 Hẻm 42 Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 42 Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Chợ/Gian hàng ẩm thực"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            }
+        ]
+    },
+    {
+        "name": "Rich Club & Karaoke",
+        "latitude": 10.77808,
+        "longitude": 106.6984,
+        "address": "Rich Club & Karaoke, 99 Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quán karaoke"
+            }
+        ]
+    },
+    {
+        "name": "Mercy Club & Lounge",
+        "latitude": 10.77324,
+        "longitude": 106.70326,
+        "address": "Mercy Club & Lounge, 122 Hẻm 117 Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 117 Đường Hồ Tùng Mậu",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "The Midnight",
+        "latitude": 10.77315,
+        "longitude": 106.70249,
+        "address": "The Midnight, Hẻm 151 Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hẻm 151 Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Restaurant Bar 29",
+        "latitude": 10.77413,
+        "longitude": 106.70571,
+        "address": "Restaurant Bar 29, Đường Ngô Đức Kế, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Ngô Đức Kế",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Viva",
+        "latitude": 10.77873,
+        "longitude": 106.70729,
+        "address": "Viva, 2A Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Insomnia Bar",
+        "latitude": 10.78133,
+        "longitude": 106.70545,
+        "address": "Insomnia Bar, 13B Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Quán cà phê"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "Atrium Lounge",
+        "latitude": 10.77456,
+        "longitude": 106.70631,
+        "address": "Atrium Lounge, 8-15 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Câu lạc bộ đêm"
+            }
+        ]
+    },
+    {
+        "name": "Pool Bar - Renaissance Riverside Hotel",
+        "latitude": 10.77456,
+        "longitude": 106.70631,
+        "address": "Pool Bar - Renaissance Riverside Hotel, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            }
+        ]
+    },
+    {
+        "name": "L'Amor",
+        "latitude": 10.78061,
+        "longitude": 106.69929,
+        "address": "L'Amor, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Quần áo phụ nữ"
+            },
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Quần áo & Phụ kiện"
+            }
+        ]
+    },
+    {
+        "name": "CLB Tennis Số 3",
+        "latitude": 10.77959,
+        "longitude": 106.70702,
+        "address": "CLB Tennis Số 3, 3A Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Xây dựng"
+            }
+        ]
+    },
+    {
+        "name": "Cun House",
+        "latitude": 10.78161,
+        "longitude": 106.70508,
+        "address": "Cun House, 2 Đường Chu Mạnh Trinh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Chu Mạnh Trinh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Foot & Spa Miumiu",
+        "latitude": 10.78181,
+        "longitude": 106.70485,
+        "address": "Foot & Spa Miumiu, 4 Đường Chu Mạnh Trinh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Chu Mạnh Trinh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cơ sở hoặc địa điểm thể thao"
+            },
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Burswood Entertainment Complex",
+        "latitude": 10.78214,
+        "longitude": 106.70406,
+        "address": "Burswood Entertainment Complex, Đường Chu Mạnh Trinh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Chu Mạnh Trinh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            }
+        ]
+    },
+    {
+        "name": "Kingdom Beer Club",
+        "latitude": 10.77907,
+        "longitude": 106.70739,
+        "address": "Kingdom Beer Club, 3B Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Giải trí về đêm"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Vui chơi & Giải trí"
+            }
+        ]
+    }
+]

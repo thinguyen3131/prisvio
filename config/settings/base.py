@@ -8,7 +8,7 @@ import environ
 from django.conf import settings
 from rest_framework.settings import APISettings
 
-from prismvio.utils.firebase.get_json import get_firebase_admin_json_key
+from prismvio.core.firebase.get_json import get_firebase_admin_json_key
 
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
 # prismvio/

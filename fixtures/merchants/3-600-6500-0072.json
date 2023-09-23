@@ -1,0 +1,1661 @@
+[
+    {
+        "name": "Vinitech Biến Tần",
+        "latitude": 10.9144,
+        "longitude": 106.79487,
+        "address": "Vinitech Biến Tần, Đường Mỹ Phước-Tân Vạn, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Mỹ Phước-Tân Vạn",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Chiếu Sáng Đô Thị Miền Nam",
+        "latitude": 10.90901,
+        "longitude": 106.79535,
+        "address": "Công Ty Chiếu Sáng Đô Thị Miền Nam, 382 Xa Lộ Hà Nội, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Hòa Phát",
+        "latitude": 10.90774,
+        "longitude": 106.79059,
+        "address": "Hòa Phát, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh Hoàng Lâm",
+        "latitude": 10.90774,
+        "longitude": 106.79059,
+        "address": "Điện Lạnh Hoàng Lâm, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Hùng Duyên",
+        "latitude": 10.9088,
+        "longitude": 106.78724,
+        "address": "Hùng Duyên, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Ánh Dương",
+        "latitude": 10.90871,
+        "longitude": 106.78707,
+        "address": "Cửa Hàng Điện Ánh Dương, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Thoại Di Động Minh Thư",
+        "latitude": 10.90865,
+        "longitude": 106.78699,
+        "address": "Cửa Hàng Điện Thoại Di Động Minh Thư, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Chi Nhánh Công Ty TNHH Cơ Khí Đại Kim",
+        "latitude": 10.90907,
+        "longitude": 106.78607,
+        "address": "Chi Nhánh Công Ty TNHH Cơ Khí Đại Kim, Đường Tỉnh 743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Tỉnh 743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Tử Hoàng Anh",
+        "latitude": 10.90907,
+        "longitude": 106.78574,
+        "address": "Cửa Hàng Điện Tử Hoàng Anh, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Hoang Nam Computer @Binhduong",
+        "latitude": 10.90666,
+        "longitude": 106.79404,
+        "address": "Hoang Nam Computer @Binhduong, ĐT.743B, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "ĐT.743B",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Tử K Thành",
+        "latitude": 10.90686,
+        "longitude": 106.79524,
+        "address": "Điện Tử K Thành, Hẻm 629 Đường Bình Thung, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Hẻm 629 Đường Bình Thung",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Đăng Kí Internet",
+        "latitude": 10.90692,
+        "longitude": 106.79573,
+        "address": "Đại Lý Đăng Kí Internet, Hẻm 629 Đường Bình Thung, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Hẻm 629 Đường Bình Thung",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Máy-Nội Thất Phú Hưng Thịnh",
+        "latitude": 10.90949,
+        "longitude": 106.78453,
+        "address": "Điện Máy-Nội Thất Phú Hưng Thịnh, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Nguyễn Vũ Cửa Hàng Vật Tư Điện Lạnh",
+        "latitude": 10.9099,
+        "longitude": 106.78387,
+        "address": "Nguyễn Vũ Cửa Hàng Vật Tư Điện Lạnh, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Viettel Điểm Cung Cấp Dịch Vụ Viễn Thông",
+        "latitude": 10.9099,
+        "longitude": 106.78386,
+        "address": "Viettel Điểm Cung Cấp Dịch Vụ Viễn Thông, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "A Hiện",
+        "latitude": 10.90556,
+        "longitude": 106.7946,
+        "address": "A Hiện, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Tổng Phân Phối Sỉ Lẻ Asi Vina",
+        "latitude": 10.90511,
+        "longitude": 106.79149,
+        "address": "Tổng Phân Phối Sỉ Lẻ Asi Vina, Đường 5B, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường 5B",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Giới Thiệu Sản Phẩm Cao Việt Nguyên",
+        "latitude": 10.90529,
+        "longitude": 106.79451,
+        "address": "Cửa Hàng Giới Thiệu Sản Phẩm Cao Việt Nguyên, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Quán cà phê"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng ĐTDĐ Huỳnh Phương",
+        "latitude": 10.91336,
+        "longitude": 106.78234,
+        "address": "Cửa Hàng ĐTDĐ Huỳnh Phương, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Thoại Di Động Thuận Thành 6",
+        "latitude": 10.91469,
+        "longitude": 106.78225,
+        "address": "Cửa Hàng Điện Thoại Di Động Thuận Thành 6, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Vũ Thu",
+        "latitude": 10.9155,
+        "longitude": 106.7823,
+        "address": "Cửa Hàng Vũ Thu, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Nhật Hào Thiết Bị Điện",
+        "latitude": 10.91357,
+        "longitude": 106.78198,
+        "address": "Nhật Hào Thiết Bị Điện, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Tuấn Mobile",
+        "latitude": 10.91555,
+        "longitude": 106.78207,
+        "address": "Tuấn Mobile, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH TM DV Viễn Thông Đức Lộc",
+        "latitude": 10.91236,
+        "longitude": 106.78194,
+        "address": "Công Ty TNHH TM DV Viễn Thông Đức Lộc, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh-Năng Lượng Phú Chung",
+        "latitude": 10.91163,
+        "longitude": 106.78205,
+        "address": "Điện Lạnh-Năng Lượng Phú Chung, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH MTV Phát Triển Công Nghệ Greek Tech",
+        "latitude": 10.91302,
+        "longitude": 106.78169,
+        "address": "Công Ty TNHH MTV Phát Triển Công Nghệ Greek Tech, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "CP Hồng Thịnh",
+        "latitude": 10.91122,
+        "longitude": 106.78202,
+        "address": "CP Hồng Thịnh, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "A Phong",
+        "latitude": 10.91122,
+        "longitude": 106.78202,
+        "address": "A Phong, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Tử Hoàng Long",
+        "latitude": 10.91917,
+        "longitude": 106.78289,
+        "address": "Điện Tử Hoàng Long, Đường N8, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường N8",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Thành Đạt",
+        "latitude": 10.91495,
+        "longitude": 106.78148,
+        "address": "Thành Đạt, Đường Đông An, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Đông An",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Điện Thoại Di Động Nam Cường",
+        "latitude": 10.91895,
+        "longitude": 106.78239,
+        "address": "Siêu Thị Điện Thoại Di Động Nam Cường, Đường D1, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường D1",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Máy Bơm Nước Lê Hoàn",
+        "latitude": 10.91241,
+        "longitude": 106.78127,
+        "address": "Máy Bơm Nước Lê Hoàn, Đường Đông An, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Đông An",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Hoàng Quân",
+        "latitude": 10.91857,
+        "longitude": 106.80135,
+        "address": "Cửa Hàng Hoàng Quân, QL.1K, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "QL.1K",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Cổ Phần Cơ Điện Lạnh Hải Phòng",
+        "latitude": 10.90386,
+        "longitude": 106.79408,
+        "address": "Công Ty Cổ Phần Cơ Điện Lạnh Hải Phòng, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Tổng Kho Thiết Bị Điện-Đèn Trang Trí-Camera Minh Khôi",
+        "latitude": 10.90379,
+        "longitude": 106.79393,
+        "address": "Tổng Kho Thiết Bị Điện-Đèn Trang Trí-Camera Minh Khôi, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Quốc Trưởng",
+        "latitude": 10.90367,
+        "longitude": 106.79358,
+        "address": "Quốc Trưởng, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Cửa hàng phần cứng hoặc trung tâm DIY"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện-Nước Tiến Phát",
+        "latitude": 10.91123,
+        "longitude": 106.78124,
+        "address": "Cửa Hàng Điện-Nước Tiến Phát, Hẻm 8C Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Hẻm 8C Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Sở Điện Cơ Hoài Anh",
+        "latitude": 10.91152,
+        "longitude": 106.78101,
+        "address": "Cơ Sở Điện Cơ Hoài Anh, Hẻm 8C Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Hẻm 8C Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Máy Xanh",
+        "latitude": 10.90329,
+        "longitude": 106.79355,
+        "address": "Điện Máy Xanh, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng ĐTDĐ Phước Nguyệt",
+        "latitude": 10.90325,
+        "longitude": 106.7939,
+        "address": "Cửa Hàng ĐTDĐ Phước Nguyệt, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Phú Gia Phát",
+        "latitude": 10.91188,
+        "longitude": 106.78059,
+        "address": "Cửa Hàng Phú Gia Phát, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh Bảo Thư",
+        "latitude": 10.91176,
+        "longitude": 106.78052,
+        "address": "Điện Lạnh Bảo Thư, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Thoại Hải Dương",
+        "latitude": 10.90984,
+        "longitude": 106.78102,
+        "address": "Cửa Hàng Điện Thoại Hải Dương, Hẻm 8C Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Hẻm 8C Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Khanh Apple",
+        "latitude": 10.9026,
+        "longitude": 106.79324,
+        "address": "Khanh Apple, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh Thanh Chương",
+        "latitude": 10.90261,
+        "longitude": 106.7937,
+        "address": "Điện Lạnh Thanh Chương, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Gia Đình Nhỏ",
+        "latitude": 10.91213,
+        "longitude": 106.77998,
+        "address": "Siêu Thị Gia Đình Nhỏ, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Cửa hàng điện tử"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Nước Cẩm Tú",
+        "latitude": 10.90759,
+        "longitude": 106.80175,
+        "address": "Cửa Hàng Điện Nước Cẩm Tú, Đường Mỹ Phước-Tân Vạn, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Mỹ Phước-Tân Vạn",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh Hiệp Phát",
+        "latitude": 10.90814,
+        "longitude": 106.78129,
+        "address": "Điện Lạnh Hiệp Phát, Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Điện Máy Điện Hoàng Việt I",
+        "latitude": 10.90796,
+        "longitude": 106.78135,
+        "address": "Trung Tâm Điện Máy Điện Hoàng Việt I, Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng ĐTDĐ Quốc Bình",
+        "latitude": 10.91225,
+        "longitude": 106.77964,
+        "address": "Cửa Hàng ĐTDĐ Quốc Bình, ĐT.743B, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "ĐT.743B",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Thoại 365",
+        "latitude": 10.90796,
+        "longitude": 106.78106,
+        "address": "Cửa Hàng Điện Thoại 365, Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Sửa Chữa Mua Bán ĐTDĐ 365",
+        "latitude": 10.90796,
+        "longitude": 106.78106,
+        "address": "Trung Tâm Sửa Chữa Mua Bán ĐTDĐ 365, Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Hằng Yến",
+        "latitude": 10.90221,
+        "longitude": 106.7957,
+        "address": "Hằng Yến, ĐT.743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "ĐT.743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Nguyên Hưng",
+        "latitude": 10.90852,
+        "longitude": 106.78023,
+        "address": "Nguyên Hưng, Đường Nguyễn Thái Học, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Nguyễn Thái Học",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Cảnh",
+        "latitude": 10.90157,
+        "longitude": 106.79323,
+        "address": "Cửa Hàng Cảnh, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Gia Thu",
+        "latitude": 10.90215,
+        "longitude": 106.79591,
+        "address": "Gia Thu, Đường Tỉnh 743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh 743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH MTV Thương Mại Và Dịch Vụ Điện & Tin Học Trọng Tâm",
+        "latitude": 10.90117,
+        "longitude": 106.79323,
+        "address": "Công Ty TNHH MTV Thương Mại Và Dịch Vụ Điện & Tin Học Trọng Tâm, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Tử Bá Tước",
+        "latitude": 10.90104,
+        "longitude": 106.7928,
+        "address": "Điện Tử Bá Tước, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh Điện Cơ Thanh Sơn",
+        "latitude": 10.91298,
+        "longitude": 106.77841,
+        "address": "Điện Lạnh Điện Cơ Thanh Sơn, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Cơ Tiến Hùng",
+        "latitude": 10.91338,
+        "longitude": 106.77729,
+        "address": "Điện Cơ Tiến Hùng, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Gas Anh Quân 2",
+        "latitude": 10.8993,
+        "longitude": 106.79266,
+        "address": "Gas Anh Quân 2, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh Thiên Phát",
+        "latitude": 10.90117,
+        "longitude": 106.79947,
+        "address": "Điện Lạnh Thiên Phát, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Nước Gia Dụng Lập Cường",
+        "latitude": 10.92322,
+        "longitude": 106.80423,
+        "address": "Điện Nước Gia Dụng Lập Cường, Hẻm 2394 Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Hẻm 2394 Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Ngọc Khánh",
+        "latitude": 10.90105,
+        "longitude": 106.79986,
+        "address": "Cửa Hàng Ngọc Khánh, ĐT.743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "ĐT.743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Hoàng Quốc Bảo",
+        "latitude": 10.92342,
+        "longitude": 106.8043,
+        "address": "Hoàng Quốc Bảo, Hẻm 2394 Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Hẻm 2394 Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Điện Lạnh Trần Thông",
+        "latitude": 10.89986,
+        "longitude": 106.78505,
+        "address": "Cơ Điện Lạnh Trần Thông, Đường Nguyễn Văn Cừ, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Nguyễn Văn Cừ",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cơ Điện Lạnh Mạnh Quỳnh",
+        "latitude": 10.89812,
+        "longitude": 106.79195,
+        "address": "Cơ Điện Lạnh Mạnh Quỳnh, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty Điện Tử Điện Lạnh Đa Linh",
+        "latitude": 10.90275,
+        "longitude": 106.78016,
+        "address": "Công Ty Điện Tử Điện Lạnh Đa Linh, Hẻm 44 Đường Hai Bà Trưng, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Hẻm 44 Đường Hai Bà Trưng",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Máy An Bình",
+        "latitude": 10.898,
+        "longitude": 106.79224,
+        "address": "Cửa Hàng Điện Máy An Bình, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Tiệm Điện Nước Hòa Bình",
+        "latitude": 10.89784,
+        "longitude": 106.79199,
+        "address": "Tiệm Điện Nước Hòa Bình, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Thanh Ngọc",
+        "latitude": 10.90333,
+        "longitude": 106.80427,
+        "address": "Thanh Ngọc, Đường Bình Thung, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Bình Thung",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Tấn Tài",
+        "latitude": 10.90402,
+        "longitude": 106.77849,
+        "address": "Tấn Tài, Đường Nguyễn Bính, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Nguyễn Bính",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Audio Bằng Cường",
+        "latitude": 10.90179,
+        "longitude": 106.78045,
+        "address": "Audio Bằng Cường, Hẻm 45 Đường Hai Bà Trưng, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Hẻm 45 Đường Hai Bà Trưng",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng An Khang",
+        "latitude": 10.9256,
+        "longitude": 106.80395,
+        "address": "Cửa Hàng An Khang, Hẻm 6 Đường Nguyễn Văn Lung, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Hẻm 6 Đường Nguyễn Văn Lung",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Nước Khởi Phát",
+        "latitude": 10.90125,
+        "longitude": 106.78058,
+        "address": "Điện Nước Khởi Phát, 6/13 Hẻm 45 Đường Hai Bà Trưng, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Hẻm 45 Đường Hai Bà Trưng",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Kinh Nam Trung Tâm Máy Móc & Thiết Bị Công Nghiệp",
+        "latitude": 10.89713,
+        "longitude": 106.79184,
+        "address": "Đại Kinh Nam Trung Tâm Máy Móc & Thiết Bị Công Nghiệp, Xa Lộ Hà Nội, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Máy Điện Gia Dụng Hóa An",
+        "latitude": 10.92584,
+        "longitude": 106.8045,
+        "address": "Điện Máy Điện Gia Dụng Hóa An, Hẻm 7 Đường Nguyễn Văn Lung, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Hẻm 7 Đường Nguyễn Văn Lung",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Ắc Quy Thanh Nguyễn",
+        "latitude": 10.925,
+        "longitude": 106.8054,
+        "address": "Ắc Quy Thanh Nguyễn, Đường Nguyễn Ái Quốc, Phường Bửu Hòa, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Bửu Hòa",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76125",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Duy Tân Mua Bán Điện Thoại",
+        "latitude": 10.90068,
+        "longitude": 106.78046,
+        "address": "Duy Tân Mua Bán Điện Thoại, Đường Hai Bà Trưng, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý Điện Cơ Huỳnh Châu",
+        "latitude": 10.9143,
+        "longitude": 106.77395,
+        "address": "Đại Lý Điện Cơ Huỳnh Châu, TL.743, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "TL.743",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Phụ Kiện Xanh",
+        "latitude": 10.90049,
+        "longitude": 106.78059,
+        "address": "Phụ Kiện Xanh, Đường Hai Bà Trưng, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Thoại Chip Pro",
+        "latitude": 10.90247,
+        "longitude": 106.80508,
+        "address": "Cửa Hàng Điện Thoại Chip Pro, Đường Bình Thung, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Bình Thung",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH TM Thiết Bị Điện Blue River",
+        "latitude": 10.906,
+        "longitude": 106.77586,
+        "address": "Công Ty TNHH TM Thiết Bị Điện Blue River, Đường Trần Quang Khải, Phường Tân Đông Hiệp, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Tân Đông Hiệp",
+        "street": "Đường Trần Quang Khải",
+        "postal_code": "75311",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Sửa Chữa Điện Thoại Bình Phan Series",
+        "latitude": 10.92579,
+        "longitude": 106.80515,
+        "address": "Trung Tâm Sửa Chữa Điện Thoại Bình Phan Series, Đường Nguyễn Văn Lung, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Văn Lung",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng VLXD Thái Dương",
+        "latitude": 10.89952,
+        "longitude": 106.80177,
+        "address": "Cửa Hàng VLXD Thái Dương, Đường Tỉnh 743A, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "Đường Tỉnh 743A",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Lạnh Tấn Phát",
+        "latitude": 10.90085,
+        "longitude": 106.77984,
+        "address": "Điện Lạnh Tấn Phát, Đường Nguyễn Bính, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Nguyễn Bính",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Bình Sơn",
+        "latitude": 10.92524,
+        "longitude": 106.8059,
+        "address": "Cửa Hàng Bình Sơn, Đường Nguyễn Ái Quốc, Phường Hóa An, Biên Hòa, Đồng Nai, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Đồng Nai",
+        "district": "Biên Hòa",
+        "ward": "Phường Hóa An",
+        "street": "Đường Nguyễn Ái Quốc",
+        "postal_code": "76123",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Điện Cơ Tuấn Ty",
+        "latitude": 10.89946,
+        "longitude": 106.80216,
+        "address": "Điện Cơ Tuấn Ty, TL.743, Phường Bình Thắng, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Bình Thắng",
+        "street": "TL.743",
+        "postal_code": "75309",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Công Ty TNHH MTV Kỹ Thuật Cơ Điện Lạnh Hồ Giáo",
+        "latitude": 10.89929,
+        "longitude": 106.78096,
+        "address": "Công Ty TNHH MTV Kỹ Thuật Cơ Điện Lạnh Hồ Giáo, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            }
+        ]
+    },
+    {
+        "name": "Đa Kết Nối",
+        "latitude": 10.8959,
+        "longitude": 106.79144,
+        "address": "Đa Kết Nối, Xa Lộ Hà Nội, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Xa Lộ Hà Nội",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Điện Nước Gia Dụng Nhật Linh",
+        "latitude": 10.89833,
+        "longitude": 106.78182,
+        "address": "Cửa Hàng Điện Nước Gia Dụng Nhật Linh, Đường Trần Hưng Đạo, Phường Đông Hòa, Dĩ An, Bình Dương, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Phường Đông Hòa",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "75308",
+        "categories": [
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    }
+]

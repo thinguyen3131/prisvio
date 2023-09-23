@@ -1,0 +1,2021 @@
+[
+    {
+        "name": "PARKSON",
+        "latitude": 10.77783,
+        "longitude": 106.70251,
+        "address": "PARKSON, 39 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thương Mại Parkson",
+        "latitude": 10.77758,
+        "longitude": 106.70239,
+        "address": "Trung Tâm Thương Mại Parkson, 136 Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Parkson Saigon Tourist",
+        "latitude": 10.77773,
+        "longitude": 106.70233,
+        "address": "Parkson Saigon Tourist, 35BIS Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "PARKSON",
+        "latitude": 10.77773,
+        "longitude": 106.70233,
+        "address": "PARKSON, Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Thánh Tôn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị Lotteria",
+        "latitude": 10.77659,
+        "longitude": 106.70261,
+        "address": "Siêu Thị Lotteria, 136 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "VINCOM",
+        "latitude": 10.7787,
+        "longitude": 106.70188,
+        "address": "VINCOM, 45 Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Quần áo & Phụ kiện"
+            },
+            {
+                "name": "Quần áo nam"
+            },
+            {
+                "name": "Quần áo phụ nữ"
+            },
+            {
+                "name": "Quần áo trẻ em"
+            },
+            {
+                "name": "Thợ kim hoàn"
+            },
+            {
+                "name": "Cửa hàng đồ chơi"
+            },
+            {
+                "name": "Cắt tóc & Tạo mẫu"
+            },
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Đỗ xe"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thương Mại Opera View",
+        "latitude": 10.77614,
+        "longitude": 106.70295,
+        "address": "Trung Tâm Thương Mại Opera View, 161 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            }
+        ]
+    },
+    {
+        "name": "Vincom Centre Sai Gon",
+        "latitude": 10.77827,
+        "longitude": 106.70147,
+        "address": "Vincom Centre Sai Gon, 45A Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Vincom Center",
+        "latitude": 10.77827,
+        "longitude": 106.70147,
+        "address": "Vincom Center, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Vinaone - Cơm Phở Beefsteak - Unionsquare",
+        "latitude": 10.77622,
+        "longitude": 106.70179,
+        "address": "Vinaone - Cơm Phở Beefsteak - Unionsquare, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thương Mại Union Square",
+        "latitude": 10.77621,
+        "longitude": 106.70179,
+        "address": "Trung Tâm Thương Mại Union Square, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            }
+        ]
+    },
+    {
+        "name": "The New Playground",
+        "latitude": 10.77811,
+        "longitude": 106.70116,
+        "address": "The New Playground, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lý Tự Trọng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Union Square",
+        "latitude": 10.7764,
+        "longitude": 106.70154,
+        "address": "Union Square, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Vòng Tròn Đỏ",
+        "latitude": 10.77516,
+        "longitude": 106.70277,
+        "address": "Vòng Tròn Đỏ, 82 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Liberty Central",
+        "latitude": 10.77468,
+        "longitude": 106.70077,
+        "address": "Liberty Central, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "TIMES SQUARE",
+        "latitude": 10.7743,
+        "longitude": 106.70488,
+        "address": "TIMES SQUARE, Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thương Mại Quốc Tế Ibc",
+        "latitude": 10.77611,
+        "longitude": 106.70645,
+        "address": "Trung Tâm Thương Mại Quốc Tế Ibc, Đường Công Trường Mê Linh, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Công Trường Mê Linh",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Takashimaya Việt Nam",
+        "latitude": 10.77403,
+        "longitude": 106.70107,
+        "address": "Takashimaya Việt Nam, Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Pasteur",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Nhà hàng"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thương Mại Lucky Plaza",
+        "latitude": 10.77386,
+        "longitude": 106.70422,
+        "address": "Trung Tâm Thương Mại Lucky Plaza, 38 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Quà tặng, đồ cổ và tác phẩm nghệ thuật"
+            }
+        ]
+    },
+    {
+        "name": "Lucky Plaza",
+        "latitude": 10.77422,
+        "longitude": 106.70515,
+        "address": "Lucky Plaza, 69 Đường Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Đồng Khởi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Saigon Garden",
+        "latitude": 10.77351,
+        "longitude": 106.70392,
+        "address": "Saigon Garden, 99 Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Nguyễn Huệ",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Người bán hoa"
+            }
+        ]
+    },
+    {
+        "name": "Toilet Saigon Center",
+        "latitude": 10.77348,
+        "longitude": 106.70162,
+        "address": "Toilet Saigon Center, Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Thiệp",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Taka Plaza",
+        "latitude": 10.77438,
+        "longitude": 106.69972,
+        "address": "Taka Plaza, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Shop New Viet",
+        "latitude": 10.77306,
+        "longitude": 106.70246,
+        "address": "Shop New Viet, Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Thất Đạm",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "3A Station",
+        "latitude": 10.77959,
+        "longitude": 106.70702,
+        "address": "3A Station, 3A Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Takashimaya Ho Chi Minh City",
+        "latitude": 10.77328,
+        "longitude": 106.70057,
+        "address": "Takashimaya Ho Chi Minh City, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            }
+        ]
+    },
+    {
+        "name": "M.A.C Takashimaya",
+        "latitude": 10.77331,
+        "longitude": 106.70036,
+        "address": "M.A.C Takashimaya, 65 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Taka Square Ho Chi Min City",
+        "latitude": 10.77319,
+        "longitude": 106.70042,
+        "address": "Taka Square Ho Chi Min City, Đường Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Annam Gourmet Market",
+        "latitude": 10.77318,
+        "longitude": 106.70021,
+        "address": "Annam Gourmet Market, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thương Mại Saigon Square",
+        "latitude": 10.77285,
+        "longitude": 106.70028,
+        "address": "Trung Tâm Thương Mại Saigon Square, Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Sài Gòn Square",
+        "latitude": 10.77279,
+        "longitude": 106.70031,
+        "address": "Sài Gòn Square, 77 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Dụng cụ văn phòng và dịch vụ"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Diamond",
+        "latitude": 10.78058,
+        "longitude": 106.6982,
+        "address": "Diamond, Đường Phạm Ngọc Thạch, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Phạm Ngọc Thạch",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Mochi Diamond Plaza",
+        "latitude": 10.781,
+        "longitude": 106.69849,
+        "address": "Mochi Diamond Plaza, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Saigon Square Shopping Mall",
+        "latitude": 10.77262,
+        "longitude": 106.70044,
+        "address": "Saigon Square Shopping Mall, 81 Đường Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Saigon Square",
+        "latitude": 10.78136,
+        "longitude": 106.70687,
+        "address": "Saigon Square, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Benthanh Boutiques",
+        "latitude": 10.77283,
+        "longitude": 106.69921,
+        "address": "Benthanh Boutiques, Đường Lê Lợi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Lê Lợi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng bách hóa"
+            },
+            {
+                "name": "Quần áo & Phụ kiện"
+            }
+        ]
+    },
+    {
+        "name": "Bitexco Financial Tower",
+        "latitude": 10.77152,
+        "longitude": 106.70447,
+        "address": "Bitexco Financial Tower, Hải Triều, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Hải Triều",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Central Plaza",
+        "latitude": 10.78385,
+        "longitude": 106.70226,
+        "address": "Central Plaza, 17 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Hóa Chất Petrolimex - CN Hóa Chất Sài Gòn",
+        "latitude": 10.78445,
+        "longitude": 106.70375,
+        "address": "Hóa Chất Petrolimex - CN Hóa Chất Sài Gòn, 37 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Tôn Đức Thắng",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Dụng cụ văn phòng và dịch vụ"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "SOFITEL Saigon Plaza",
+        "latitude": 10.78467,
+        "longitude": 106.70279,
+        "address": "SOFITEL Saigon Plaza, 17 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Nghé",
+        "street": "Đường Lê Duẩn",
+        "postal_code": "71006",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Bến Thành",
+        "latitude": 10.77176,
+        "longitude": 106.69801,
+        "address": "Chợ Bến Thành, Đường Công Trường Quách Thị Trang, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Công Trường Quách Thị Trang",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Điểm thu hút Khách du lịch"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Novaland Gallery",
+        "latitude": 10.78556,
+        "longitude": 106.69474,
+        "address": "Novaland Gallery, 179 Đường Hai Bà Trưng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Bạt Tám Tám Tài",
+        "latitude": 10.76638,
+        "longitude": 106.69889,
+        "address": "Cửa Hàng Bạt Tám Tám Tài, 311 Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            },
+            {
+                "name": "Phần cứng, nhà và vườn"
+            },
+            {
+                "name": "Cửa hàng bán đồ gia dụng/Nội thất"
+            },
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Dân Sinh",
+        "latitude": 10.76642,
+        "longitude": 106.69873,
+        "address": "Chợ Dân Sinh, 336 Đường Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Thái Bình",
+        "street": "Đường Nguyễn Công Trứ",
+        "postal_code": "71010",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "Central Market",
+        "latitude": 10.76888,
+        "longitude": 106.69417,
+        "address": "Central Market, Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Đường Phạm Ngũ Lão",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Thủ Công Mỹ Nghệ Hacota",
+        "latitude": 10.78988,
+        "longitude": 106.7023,
+        "address": "Cửa Hàng Thủ Công Mỹ Nghệ Hacota, 8 Đường Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Bỉnh Khiêm",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Cửa hàng chuyên dụng"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Đồ thủ công mỹ nghệ"
+            }
+        ]
+    },
+    {
+        "name": "Naturalium - Taka Plaza Saigon",
+        "latitude": 10.76904,
+        "longitude": 106.69378,
+        "address": "Naturalium - Taka Plaza Saigon, 4 Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Đường Phạm Ngũ Lão",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Trung Tâm Thương Mại Zen Plaza",
+        "latitude": 10.77062,
+        "longitude": 106.69214,
+        "address": "Trung Tâm Thương Mại Zen Plaza, Đường Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Zenplaza",
+        "latitude": 10.7706,
+        "longitude": 106.6921,
+        "address": "Zenplaza, 54-56 Đường Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "RomeA",
+        "latitude": 10.77819,
+        "longitude": 106.68992,
+        "address": "RomeA, 117 Đường Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Saigon Boutique Plaza 54 Nguyễn Văn Tráng",
+        "latitude": 10.77099,
+        "longitude": 106.69172,
+        "address": "Saigon Boutique Plaza 54 Nguyễn Văn Tráng, 54 Hẻm 41 Đường Nguyễn Văn Tráng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Bến Thành",
+        "street": "Hẻm 41 Đường Nguyễn Văn Tráng",
+        "postal_code": "71009",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Co.Op Smile",
+        "latitude": 10.77421,
+        "longitude": 106.68853,
+        "address": "Co.Op Smile, Đường Cách Mạng Tháng 8, Phường 5, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 5",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "72406",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Central Market",
+        "latitude": 10.76782,
+        "longitude": 106.69155,
+        "address": "Central Market, 1 Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Đường Phạm Ngũ Lão",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Đa Kao",
+        "latitude": 10.79258,
+        "longitude": 106.69683,
+        "address": "Chợ Đa Kao, 23 Đường Nguyễn Huy Tự, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Huy Tự",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "International Plaza",
+        "latitude": 10.76729,
+        "longitude": 106.69004,
+        "address": "International Plaza, 343 Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Đường Phạm Ngũ Lão",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Tòa nhà chung cư"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Tòa Nhà The LANDMARK81",
+        "latitude": 10.79412,
+        "longitude": 106.70145,
+        "address": "Tòa Nhà The LANDMARK81, 22 Đường Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Thạnh",
+        "ward": "Phường 15",
+        "street": "Đường Điện Biên Phủ",
+        "postal_code": "72320",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Dịch vụ kinh doanh"
+            }
+        ]
+    },
+    {
+        "name": "Shop Luni",
+        "latitude": 10.76518,
+        "longitude": 106.69153,
+        "address": "Shop Luni, 19 Hẻm 102 Đường Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Hẻm 102 Đường Cống Quỳnh",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "DNTN Kinh Doanh Vàng Đông Phương",
+        "latitude": 10.79311,
+        "longitude": 106.69658,
+        "address": "DNTN Kinh Doanh Vàng Đông Phương, 7 Đường Nguyễn Huy Tự, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Đa Kao",
+        "street": "Đường Nguyễn Huy Tự",
+        "postal_code": "71007",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Hoa & Đồ trang sức"
+            }
+        ]
+    },
+    {
+        "name": "Bakerland 27B Nguyễn Thông, P7, Q3, HCM",
+        "latitude": 10.77699,
+        "longitude": 106.68581,
+        "address": "Bakerland 27B Nguyễn Thông, P7, Q3, HCM, 27B Hẻm 62 Đường Nguyễn Thông, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Hẻm 62 Đường Nguyễn Thông",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Tiện Ích Foodcomart",
+        "latitude": 10.78912,
+        "longitude": 106.68981,
+        "address": "Cửa Hàng Tiện Ích Foodcomart, 8 Đường Hai Bà Trưng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Thái Bình",
+        "latitude": 10.76685,
+        "longitude": 106.68865,
+        "address": "Chợ Thái Bình, Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Phạm Ngũ Lão",
+        "street": "Đường Phạm Ngũ Lão",
+        "postal_code": "71012",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Tân Định",
+        "latitude": 10.78974,
+        "longitude": 106.68989,
+        "address": "Chợ Tân Định, Đường Hai Bà Trưng, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Tân Định",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71008",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Nhà hàng"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Nga",
+        "latitude": 10.76126,
+        "longitude": 106.69567,
+        "address": "Chợ Nga, Đường Võ Văn Kiệt, Phường Cô Giang, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Cô Giang",
+        "street": "Đường Võ Văn Kiệt",
+        "postal_code": "71013",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Chợ/Gian hàng ẩm thực"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "Ichiban Market",
+        "latitude": 10.79221,
+        "longitude": 106.6925,
+        "address": "Ichiban Market, 124 Hẻm 102 Trần Quang Khải, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Tân Định",
+        "street": "Hẻm 102 Trần Quang Khải",
+        "postal_code": "71008",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng tiện lợi"
+            },
+            {
+                "name": "Siêu thị"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Vườn Chuối",
+        "latitude": 10.77283,
+        "longitude": 106.68464,
+        "address": "Chợ Vườn Chuối, 428 Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 5",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "72406",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "Shee Store",
+        "latitude": 10.79078,
+        "longitude": 106.68843,
+        "address": "Shee Store, 392 Đường Hai Bà Trưng, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Tân Định",
+        "street": "Đường Hai Bà Trưng",
+        "postal_code": "71008",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Win Win Center",
+        "latitude": 10.78256,
+        "longitude": 106.68333,
+        "address": "Win Win Center, Đường Trương Định, Phường 9, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 9",
+        "street": "Đường Trương Định",
+        "postal_code": "72414",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Emart Sala",
+        "latitude": 10.77161,
+        "longitude": 106.72202,
+        "address": "Emart Sala, Đường Hoàng Thế Thiện, Phường An Lợi Đông, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường An Lợi Đông",
+        "street": "Đường Hoàng Thế Thiện",
+        "postal_code": "71111",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "An Phú Plaza",
+        "latitude": 10.78728,
+        "longitude": 106.68494,
+        "address": "An Phú Plaza, Đường Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường Võ Thị Sáu",
+        "street": "Đường Lý Chính Thắng",
+        "postal_code": "72415",
+        "categories": [
+            {
+                "name": "Tòa nhà chung cư"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Quản lý bất động sản"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "Thiso Mall (Thu Duc City)",
+        "latitude": 10.77253,
+        "longitude": 106.72265,
+        "address": "Thiso Mall (Thu Duc City), 10 Đường Mai Chí Thọ, Phường Thủ Thiêm, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường Thủ Thiêm",
+        "street": "Đường Mai Chí Thọ",
+        "postal_code": "71110",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Saigon Pearl",
+        "latitude": 10.79093,
+        "longitude": 106.7183,
+        "address": "Saigon Pearl, Đường Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Thạnh",
+        "ward": "Phường 22",
+        "street": "Đường Nguyễn Hữu Cảnh",
+        "postal_code": "72324",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "K300 Nguyễn Trãi",
+        "latitude": 10.76365,
+        "longitude": 106.68704,
+        "address": "K300 Nguyễn Trãi, 214 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Cư Trinh",
+        "street": "Nguyễn Trãi",
+        "postal_code": "71014",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cửa Hàng Icenter Cao Thắng",
+        "latitude": 10.76893,
+        "longitude": 106.68337,
+        "address": "Cửa Hàng Icenter Cao Thắng, 15 Đường Cao Thắng, Phường 5, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 5",
+        "street": "Đường Cao Thắng",
+        "postal_code": "72406",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Cửa hàng điện tử gia dụng"
+            }
+        ]
+    },
+    {
+        "name": "Nino Maxx",
+        "latitude": 10.78155,
+        "longitude": 106.68177,
+        "address": "Nino Maxx, Đường Bà Huyện Thanh Quan, Phường 9, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 9",
+        "street": "Đường Bà Huyện Thanh Quan",
+        "postal_code": "72414",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Tòa nhà chung cư"
+            }
+        ]
+    },
+    {
+        "name": "VINCOM",
+        "latitude": 10.77614,
+        "longitude": 106.68059,
+        "address": "VINCOM, 3C Đường 3 Tháng 2, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 10",
+        "ward": "Phường 12",
+        "street": "Đường 3 Tháng 2",
+        "postal_code": "72510",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Yellozone, Ho Chi Minh City",
+        "latitude": 10.76026,
+        "longitude": 106.68878,
+        "address": "Yellozone, Ho Chi Minh City, 391 Đường Trần Hưng Đạo, Phường Cầu Kho, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Cầu Kho",
+        "street": "Đường Trần Hưng Đạo",
+        "postal_code": "71015",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Co.Opmart",
+        "latitude": 10.8,
+        "longitude": 106.69645,
+        "address": "Co.Opmart, Đường Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Thạnh",
+        "ward": "Phường 3",
+        "street": "Đường Đinh Tiên Hoàng",
+        "postal_code": "72317",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ An Khánh",
+        "latitude": 10.78308,
+        "longitude": 106.72584,
+        "address": "Chợ An Khánh, Đường Lương Định Của, Phường An Khánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Thủ Đức",
+        "ward": "Phường An Khánh",
+        "street": "Đường Lương Định Của",
+        "postal_code": "71109",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Bàn Cờ",
+        "latitude": 10.7685,
+        "longitude": 106.68075,
+        "address": "Chợ Bàn Cờ, Đường Nguyễn Đình Chiểu, Phường 3, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 3",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "72417",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Cao Ốc Nguyễn Phúc Nguyên",
+        "latitude": 10.78055,
+        "longitude": 106.67893,
+        "address": "Cao Ốc Nguyễn Phúc Nguyên, 167 Hẻm 165 Đường Nguyễn Phúc Nguyên, Phường 10, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 10",
+        "street": "Hẻm 165 Đường Nguyễn Phúc Nguyên",
+        "postal_code": "72413",
+        "categories": [
+            {
+                "name": "Doanh nghiệp"
+            },
+            {
+                "name": "Bar hoặc Quán rượu"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Súp Cua Bàn Cờ",
+        "latitude": 10.7701,
+        "longitude": 106.67994,
+        "address": "Súp Cua Bàn Cờ, Đường Bàn Cờ, Phường 3, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 3",
+        "street": "Đường Bàn Cờ",
+        "postal_code": "72417",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Đặc sản & Đồ uống"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Chợ"
+            },
+            {
+                "name": "Doanh nghiệp"
+            }
+        ]
+    },
+    {
+        "name": "TNL Plaza",
+        "latitude": 10.75647,
+        "longitude": 106.69105,
+        "address": "TNL Plaza, Đường Bến Vân Đồn, Phường 1, Quận 4, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 4",
+        "ward": "Phường 1",
+        "street": "Đường Bến Vân Đồn",
+        "postal_code": "72811",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Nowzone",
+        "latitude": 10.76397,
+        "longitude": 106.68241,
+        "address": "Nowzone, Đường Nguyễn Văn Cừ, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường Nguyễn Cư Trinh",
+        "street": "Đường Nguyễn Văn Cừ",
+        "postal_code": "71014",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Fuji Market.Vn",
+        "latitude": 10.76817,
+        "longitude": 106.68007,
+        "address": "Fuji Market.Vn, 571 Đường Nguyễn Đình Chiểu, Phường 3, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 3",
+        "street": "Đường Nguyễn Đình Chiểu",
+        "postal_code": "72417",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Finelife Food Store",
+        "latitude": 10.77563,
+        "longitude": 106.67821,
+        "address": "Finelife Food Store, Đường Số 2, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 10",
+        "ward": "Phường 12",
+        "street": "Đường Số 2",
+        "postal_code": "72510",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "VINCOM",
+        "latitude": 10.79473,
+        "longitude": 106.72229,
+        "address": "VINCOM, Điện Biên Phủ, Phường 22, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Thạnh",
+        "ward": "Phường 22",
+        "street": "Điện Biên Phủ",
+        "postal_code": "72324",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Thái Nguyên Mart",
+        "latitude": 10.76785,
+        "longitude": 106.67775,
+        "address": "Thái Nguyên Mart, Hẻm 633 Điện Biên Phủ, Phường 1, Quận 3, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 1",
+        "street": "Hẻm 633 Điện Biên Phủ",
+        "postal_code": "72419",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Co.Opmart",
+        "latitude": 10.79974,
+        "longitude": 106.71828,
+        "address": "Co.Opmart, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Bình Thạnh",
+        "ward": "Phường 25",
+        "street": "Đường Điện Biên Phủ",
+        "postal_code": "72308",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Siêu Thị smart",
+        "latitude": 10.76165,
+        "longitude": 106.67953,
+        "address": "Siêu Thị smart, Đường Trần Bình Trọng, Phường 4, Quận 5, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 5",
+        "ward": "Phường 4",
+        "street": "Đường Trần Bình Trọng",
+        "postal_code": "72711",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Hoa Hồ Thị Kỷ",
+        "latitude": 10.76528,
+        "longitude": 106.67692,
+        "address": "Chợ Hoa Hồ Thị Kỷ, Đường Hồ Thị Kỷ, Phường 1, Quận 10, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 10",
+        "ward": "Phường 1",
+        "street": "Đường Hồ Thị Kỷ",
+        "postal_code": "72520",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Bàu Sen",
+        "latitude": 10.75921,
+        "longitude": 106.67797,
+        "address": "Chợ Bàu Sen, Đường An Dương Vương, Phường 4, Quận 5, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 5",
+        "ward": "Phường 4",
+        "street": "Đường An Dương Vương",
+        "postal_code": "72711",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "P Shop",
+        "latitude": 10.75822,
+        "longitude": 106.6785,
+        "address": "P Shop, 24A Hẻm 138 Đường Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 5",
+        "ward": "Phường 3",
+        "street": "Hẻm 138 Đường Nguyễn Trãi",
+        "postal_code": "72710",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Quần áo & Phụ kiện"
+            },
+            {
+                "name": "Quần áo nam"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Bàu Sen",
+        "latitude": 10.75748,
+        "longitude": 106.67892,
+        "address": "Chợ Bàu Sen, Đường Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 5",
+        "ward": "Phường 3",
+        "street": "Đường Nguyễn Trãi",
+        "postal_code": "72710",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "Store Support Center",
+        "latitude": 10.80115,
+        "longitude": 106.68186,
+        "address": "Store Support Center, 1 Đường Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Phú Nhuận",
+        "ward": "Phường 3",
+        "street": "Đường Phan Đăng Lưu",
+        "postal_code": "72213",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Hòa Hưng",
+        "latitude": 10.7834,
+        "longitude": 106.67113,
+        "address": "Chợ Hòa Hưng, 539A Đường Cách Mạng Tháng 8, Phường 15, Quận 10, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 10",
+        "ward": "Phường 15",
+        "street": "Đường Cách Mạng Tháng 8",
+        "postal_code": "72512",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Hàng tiêu dùng"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "Chợ Phường 2",
+        "latitude": 10.76299,
+        "longitude": 106.67353,
+        "address": "Chợ Phường 2, Đường Hòa Hảo, Phường 2, Quận 10, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 10",
+        "ward": "Phường 2",
+        "street": "Đường Hòa Hảo",
+        "postal_code": "72519",
+        "categories": [
+            {
+                "name": "Siêu thị"
+            },
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            },
+            {
+                "name": "Chợ"
+            }
+        ]
+    },
+    {
+        "name": "Viễn Thông A",
+        "latitude": 10.76993,
+        "longitude": 106.67079,
+        "address": "Viễn Thông A, Đường Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận 10",
+        "ward": "Phường 12",
+        "street": "Đường Sư Vạn Hạnh",
+        "postal_code": "72510",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    },
+    {
+        "name": "Đại Lý MH Real Estate Mua & Bán",
+        "latitude": 10.79187,
+        "longitude": 106.67307,
+        "address": "Đại Lý MH Real Estate Mua & Bán, 314 Đường Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "country_code": "VNM",
+        "country_name": "Việt Nam",
+        "city": "Hồ Chí Minh",
+        "district": "Quận Phú Nhuận",
+        "ward": "Phường 11",
+        "street": "Đường Huỳnh Văn Bánh",
+        "postal_code": "72206",
+        "categories": [
+            {
+                "name": "Trung tâm mua sắm hoặc trung tâm thương mại"
+            }
+        ]
+    }
+]

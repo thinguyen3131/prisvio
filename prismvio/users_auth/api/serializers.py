@@ -10,13 +10,13 @@ from rest_framework import exceptions, serializers
 from rest_framework_simplejwt.serializers import PasswordField, TokenRefreshSerializer
 from rest_framework_simplejwt.tokens import RefreshToken
 
+from prismvio.core.firebase import get_firebase_admin_service
 from prismvio.location.models import Country, District, Province, Ward
 from prismvio.menu_merchant.models import Category
 from prismvio.merchant.models import Merchant
 from prismvio.users.api.validate_serializers import UserValidationSerializer, VerificationIdSerializer
 from prismvio.users_auth.exceptions import LoginFailException
 from prismvio.utils.exceptions import CODE
-from prismvio.utils.firebase import get_firebase_admin_service
 
 User = get_user_model()
 

@@ -37,6 +37,7 @@ urlpatterns += [
     path("api/merchants/", include("prismvio.merchant.api.urls")),
     path("api/menu_merchant/", include("prismvio.menu_merchant.api.urls")),
     path("api/staffs/", include("prismvio.staff.api.urls")),
+    path("api/location/", include("prismvio.location.api.urls")),
     path("api/search/", include("prismvio.search.api.urls")),  # new
     # DRF auth token
     path("auth-token/", obtain_auth_token),

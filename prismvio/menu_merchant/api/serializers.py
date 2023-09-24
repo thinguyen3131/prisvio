@@ -139,7 +139,7 @@ class ServicesSerializer(serializers.ModelSerializer):
 
 
 class SearchMerchantSerializer(serializers.ModelSerializer):
-    # Khai báo trường promotion lớn nhất và 4 products, services mới nhất
+    # Declare the largest promotion field and the 4 newest products and services
     max_discount_promotion = serializers.SerializerMethodField()
     latest_products = serializers.SerializerMethodField()
     latest_services = serializers.SerializerMethodField()
@@ -181,16 +181,16 @@ class SearchMerchantSerializer(serializers.ModelSerializer):
         ]
 
     def get_max_discount_promotion(self, obj):
-        # Lọc ra promotion có discount lớn nhất
-        max_discount_promotion = Promotion.objects.filter(merchant=obj).order_by("-discount").first()
+        # Filter out the promotion with the biggest discount
+        max_discount_promotion = Promotion.objects.filter(merchant=obj).order_by('-discount').first()
         return PromotionSerializer(max_discount_promotion).data if max_discount_promotion else None
 
     def get_latest_products(self, obj):
-        # Lấy 4 products được tạo mới nhất
-        products = obj.products.order_by("-created_at")[:4]
+        # Get the 4 most recently created products
+        products = obj.products.order_by('-created_at')[:4]
         return ProductsSerializer(products, many=True).data
 
     def get_latest_services(self, obj):
-        # Lấy 4 services được tạo mới nhất
-        services = obj.service.order_by("-created_at")[:4]
+        # Get the 4 most recently created services
+        services = obj.service.order_by('-created_at')[:4]
         return ServicesSerializer(services, many=True).data

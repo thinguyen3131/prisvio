@@ -146,12 +146,39 @@ class SearchMerchantSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Merchant
-        fields = ['id', 'owner', 'name', 'description', 'email', 'phone_number', 'country_code', 'country_number', 
-                  'platform_number', 'website', 'timezone', 'currency', 'uid', 'latitude', 'longitude', 'address', 
-                  'is_active', 'hashtags', 'categories', 'keywords', 'country', 'province', 'district', 'ward', 
-                  'is_staffs_visible', 'total_available_slot', 'total_available_slots_unit', 'total_bookings', 
-                  'max_discount_promotion', 'latest_products', 'latest_services']
-
+        fields = [
+            "id",
+            "owner",
+            "name",
+            "description",
+            "email",
+            "phone_number",
+            "country_code",
+            "country_number",
+            "platform_number",
+            "website",
+            "timezone",
+            "currency",
+            "uid",
+            "latitude",
+            "longitude",
+            "address",
+            "is_active",
+            "hashtags",
+            "categories",
+            "keywords",
+            "country",
+            "province",
+            "district",
+            "ward",
+            "is_staffs_visible",
+            "total_available_slot",
+            "total_available_slots_unit",
+            "total_bookings",
+            "max_discount_promotion",
+            "latest_products",
+            "latest_services",
+        ]
 
     def get_max_discount_promotion(self, obj):
         # Filter out the promotion with the biggest discount
@@ -159,7 +186,7 @@ class SearchMerchantSerializer(serializers.ModelSerializer):
         return PromotionSerializer(max_discount_promotion).data if max_discount_promotion else None
 
     def get_latest_products(self, obj):
-        # Get the 4 most recently created productsà 
+        # Get the 4 most recently created products
         products = obj.products.order_by('-created_at')[:4]
         return ProductsSerializer(products, many=True).data
 

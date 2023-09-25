@@ -6,8 +6,8 @@ class UserManager(BaseUserManager):
     def create_user(self, username=None, email=None, phone_number=None, password=None, **extra_fields):
         if not username and not email and not phone_number:
             raise ValueError("At least one of username, email, or phone number is required.")
-        if not password:
-            raise ValueError("Password is required.")
+        # if not password:
+        #     raise ValueError("Password is required.")
 
         email = self.normalize_email(email)
         user = self.model(username=username, email=email, phone_number=phone_number, **extra_fields)

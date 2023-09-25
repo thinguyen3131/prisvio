@@ -83,6 +83,7 @@ THIRD_PARTY_APPS = [
     "drf_spectacular",
     "rest_framework_simplejwt",
     "rest_framework_simplejwt.token_blacklist",
+    "social_django",
 ]
 
 LOCAL_APPS = [
@@ -92,6 +93,7 @@ LOCAL_APPS = [
     "prismvio.staff",
     "prismvio.menu_merchant",
     "prismvio.location",
+    "prismvio.social_login",
     # search should get end
     "prismvio.search",
 ]
@@ -107,6 +109,8 @@ MIGRATION_MODULES = {"sites": "prismvio.contrib.sites.migrations"}
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#authentication-backends
 AUTHENTICATION_BACKENDS = [
+    "social_core.backends.google.GoogleOAuth2",
+    "social_core.backends.microsoft.MicrosoftOAuth2",
     "django.contrib.auth.backends.ModelBackend",
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#auth-user-model
@@ -429,13 +433,17 @@ EMAIL_VERIFICATION_CODE_TIMEOUT = env("EMAIL_VERIFICATION_CODE_TIMEOUT", default
 
 
 # Firebase
-# ALLOWED_HOSTS = ['*']
 FIREBASE_ADMIN_JSON_KEY = get_firebase_admin_json_key()
 FIREBASE_SERVICE_PASS_KEY = "UQ0lbl9IS29WemMC3w8PQTySuArUE0PT1F9AUNTKNPE="
 FIREBASE_SERVICE_PASS_LEN = 12
 FIREBASE_DB_URL = env("FIREBASE_DB_URL", default=None)
 FIREBASE_DB_AUTH_UID = env("FIREBASE_DB_AUTH_UID", default="django-backend-prism")
-# FIREBASE_ROOMS_KEY = env('FIREBASE_ROOMS_KEY', 'rooms')
-# FIREBASE_MESSAGES_KEY = env('FIREBASE_MESSAGES_KEY', 'messages')
-# FIREBASE_PROFILES_KEY = env('FIREBASE_PROFILES_KEY', 'profiles')
 FIREBASE_ADMIN_BASE64_KEY = env("FIREBASE_ADMIN_BASE64_KEY", default=None)
+
+# Google Login
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = env("SOCIAL_AUTH_GOOGLE_OAUTH2_KEY", default="")
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = env("SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET", default="")
+SOCIAL_AUTH_GOOGLE_OAUTH2_REDIRECT_URI = env(
+    "SOCIAL_AUTH_GOOGLE_OAUTH2_REDIRECT_URI",
+    default="http://localhost:19753/redirect/google/",
+)

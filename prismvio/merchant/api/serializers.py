@@ -103,7 +103,6 @@ class MerchantPreviewSerializer(serializers.ModelSerializer):
     class Meta:
         model = Merchant
         fields = "__all__"
-        read_only_fields = fields
 
 
 class ExclusionDateSerializer(serializers.ModelSerializer):

@@ -1,6 +1,7 @@
 import re
 
 from django.contrib.auth import get_user_model
+from django.contrib.auth.hashers import make_password
 from django.contrib.auth.password_validation import validate_password as django_validate_password
 from django.utils import timezone
 from django.utils.translation import gettext as _
@@ -128,26 +129,24 @@ class MeDetailSerializer(UserValidationSerializer):
 
     def update(self, instance, validated_data):
         email = validated_data.get("email", None)
+        otp = validated_data.get("otp", None)
         signature = validated_data.pop("verification_id", None)
         phone_number = validated_data.get("phone_number", None)
         id_token = validated_data.pop("id_token", None)
-        email_verified = validated_data.pop("email_verified", None)
-        phone_verified = validated_data.pop("phone_verified", None)
+        email_verified = validated_data.get("email_verified", None)
+        phone_verified = validated_data.get("phone_verified", None)
         category_ids = validated_data.pop("category_ids", None)
-        if phone_verified is not None:
-            validated_data["phone_verified"] = True if phone_verified else False
-        if email_verified is not None:
-            validated_data["email_verified"] = True if email_verified else False
-        if category_ids is not None:
-            instance.categories.set(category_ids)
         otp_obj = None
-        if email and instance.email != email:
-            otp_obj = self.check_verification_id(signature, email)
+        if email and instance.email != email and email_verified is True:
+            otp_obj = self.check_verification_id(signature, email, otp)
             validated_data["verified_email_at"] = timezone.now()
 
-        if phone_number and instance.phone_number != phone_number:
+        if phone_number and instance.phone_number != phone_number and phone_verified is True:
             self.check_id_token(id_token, phone_number)
             validated_data["verified_phone_number_at"] = timezone.now()
+
+        if category_ids is not None:
+            instance.categories.set(category_ids)
 
         for k, v in validated_data.items():
             if k == "title":
@@ -193,3 +192,48 @@ class UpdatePasswordSerializer(serializers.Serializer):
 
 class DeactivateUserActiveStatusSerializer(serializers.Serializer):
     refresh_token = serializers.CharField(required=True)
+
+
+class SubUserSerializer(serializers.ModelSerializer):
+    username = serializers.CharField(required=True, max_length=100)
+    parent_id = serializers.IntegerField(required=True)
+    password = serializers.CharField(required=True)
+
+    class Meta:
+        model = User
+        fields = ["id", "username", "email", "full_name", "phone_number", "password", "gender", "parent_id"]
+        extra_kwargs = {"password": {"write_only": True}}
+
+    def validate_username(self, value):
+        try:
+            User.objects.get(username=value)
+            raise serializers.ValidationError(_("username has already exists"))
+        except User.DoesNotExist:
+            return value
+
+    def validate_new_password(self, value):
+        try:
+            django_validate_password(value)
+        except Exception:
+            raise serializers.ValidationError(_("Invalid new password"))
+        return make_password(value)
+
+    def validate_parent_id(self, value):
+        try:
+            parent = User.objects.get(id=value)
+        except User.DoesNotExist:
+            raise serializers.ValidationError(_("Parent user with the given id does not exist"))
+        return parent
+
+    def create(self, validated_data):
+        username = validated_data.get("username")
+        password = validated_data.get("password")
+        parent = validated_data.get("parent_id")
+        data = {
+            "username": username,
+            "password": password,
+            "full_name": username,
+            "gender": parent.gender,
+            "parent_id": parent.pk,
+        }
+        return super().create(data)

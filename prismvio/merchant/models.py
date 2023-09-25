@@ -75,6 +75,7 @@ class Merchant(models.Model):
     total_available_slot = models.IntegerField(default=0, null=True, blank=True)
     total_available_slots_unit = models.CharField(max_length=45, null=True, blank=True)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
+    opening_date = models.DateTimeField(null=True, blank=True)
     deleted_at = models.DateTimeField(null=True, blank=True)
     deleted_date = models.DateTimeField(
         null=True,

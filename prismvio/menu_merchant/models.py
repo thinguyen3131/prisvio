@@ -90,7 +90,7 @@ class Products(models.Model):
     images = models.JSONField(default=list, null=True, blank=True)
     merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
     category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
-    keyword = models.ManyToManyField(Keyword, blank=True, related_name="products")
+    keywords = models.ManyToManyField(Keyword, blank=True, related_name="products")
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
     hidden = models.BooleanField(default=False)
@@ -107,7 +107,7 @@ class Products(models.Model):
 class Services(models.Model):
     name = models.CharField(max_length=255, null=False)
     category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, related_name="service")
-    keyword = models.ManyToManyField(Keyword, blank=True, related_name="service")
+    keywords = models.ManyToManyField(Keyword, blank=True, related_name="service")
     hashtags = models.ManyToManyField(Hashtag, related_name="service", blank=True)
     description = models.TextField(default=None, null=True, blank=True)
     time = models.FloatField()

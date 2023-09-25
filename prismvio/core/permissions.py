@@ -98,7 +98,7 @@ class IsGetPermission(permissions.BasePermission):
 
         # Check for ownership.
         is_authenticated = bool(request.user and request.user.is_authenticated)
-        if is_authenticated and isinstance(obj, User) and obj == request.user:
+        if is_authenticated and obj.owner and obj.owner == request.user:
             return True
         return False
 

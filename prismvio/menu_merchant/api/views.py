@@ -45,9 +45,12 @@ class PromotionListCreateView(generics.ListCreateAPIView):
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
         updated_at = query_params.get("updated_at")
+        merchant_id = query_params.get("merchant_id")
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
+        if merchant_id:
+            where &= Q(merchant_id=merchant_id)
         queryset = Promotion.objects.select_related("merchant").filter(where)
         return search(queryset=queryset, query_params=query_params, model=Promotion, exclude_fields=["updated_at"])
 
@@ -107,9 +110,12 @@ class ProductListCreateView(generics.ListCreateAPIView):
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
         updated_at = query_params.get("updated_at")
+        merchant_id = query_params.get("merchant_id")
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
+        if merchant_id:
+            where &= Q(merchant_id=merchant_id)
         queryset = Products.objects.select_related("merchant").filter(where)
         return search(queryset=queryset, query_params=query_params, model=Products, exclude_fields=["updated_at"])
 
@@ -136,9 +142,12 @@ class ServiceListCreateView(generics.ListCreateAPIView):
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
         updated_at = query_params.get("updated_at")
+        merchant_id = query_params.get("merchant_id")
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
+        if merchant_id:
+            where &= Q(merchant_id=merchant_id)
         queryset = Services.objects.select_related("merchant").filter(where)
         return search(queryset=queryset, query_params=query_params, model=Services, exclude_fields=["updated_at"])
 

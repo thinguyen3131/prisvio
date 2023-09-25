@@ -32,6 +32,11 @@ class MerchantDetailView(generics.RetrieveUpdateDestroyAPIView):
     serializer_class = MerchantPreviewSerializer
     permission_classes = [MerchantPermission]
 
+    def get_serializer_class(self):
+        if self.request.method.lower() == "get":
+            return MerchantPreviewSerializer
+        return MerchantSerializer
+
     def get_object(self):
         try:
             return Merchant.objects.get(pk=self.kwargs.get("pk"))

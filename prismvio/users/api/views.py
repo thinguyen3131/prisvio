@@ -8,6 +8,7 @@ from django.http import JsonResponse
 from django.utils import timezone
 from rest_framework import exceptions, status
 from rest_framework.generics import RetrieveUpdateAPIView, UpdateAPIView
+from rest_framework import exceptions, generics
 from rest_framework.response import Response
 from rest_framework.status import (
     HTTP_200_OK,
@@ -25,6 +26,7 @@ from prismvio.users.api.serializers import (
     MeDetailSerializer,
     PrivacySettingSerializer,
     SendEmailVerificationCodeSerializer,
+    SubUserSerializer,
     UpdatePasswordSerializer,
 )
 from prismvio.users.enums import IntervalLockTime, OTPAction, OTPType
@@ -116,14 +118,14 @@ class SendValidateEmailVerificationCode(EmailVerificationCodeBaseView):
         return super().post(request)
 
 
-class MyProfileView(RetrieveUpdateAPIView):
+class MyProfileView(generics.RetrieveUpdateAPIView):
     serializer_class = MeDetailSerializer
 
     def get_object(self):
         return self.request.user
 
 
-class MyPasswordView(UpdateAPIView):
+class MyPasswordView(generics.UpdateAPIView):
     serializer_class = UpdatePasswordSerializer
     http_method_names = ["put"]
 
@@ -191,6 +193,7 @@ class DeactivateAPIView(APIView):
         )
 
 
+
 class PrivacySettingAPIView(APIView):
     permission_classes = [IsBusinessAdminOrAdmin]
 
@@ -238,3 +241,23 @@ class PrivacySettingAPIView(APIView):
             privacy_setting.delete()
             return Response(status=status.HTTP_204_NO_CONTENT)
         return Response(status=status.HTTP_404_NOT_FOUND)
+
+class SubUserCreateAPIView(generics.CreateAPIView):
+    serializer_class = SubUserSerializer
+
+
+class SendOTPEmailPasswordResetView(EmailVerificationCodeBaseView):
+    def get_otp_action(self):
+        return OTPAction.PASSWORD_RESET.value
+
+    def validate_email(self, email):
+        try:
+            User.objects.get(
+                email=email,
+            )
+        except User.DoesNotExist:
+            raise exceptions.NotFound("User not found", "user_not_found")
+
+    def post(self, request):
+        return super().post(request)
+

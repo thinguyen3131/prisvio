@@ -84,6 +84,7 @@ class Merchant(models.Model):
     )
     created_at = models.DateTimeField(auto_now_add=True, blank=True, null=True)
     updated_at = models.DateTimeField(auto_now=True, blank=True, null=True)
+    banner = models.JSONField(default=dict, null=True, blank=True, help_text="Banner")
 
     objects = MerchantManager()
 

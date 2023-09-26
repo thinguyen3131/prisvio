@@ -8,7 +8,7 @@ from prismvio.bookings.enums import BookingStatusEnum
 from prismvio.bookings.models import Booking, BookingProduct, BookingPromotion, BookingService
 from prismvio.bookings.services.push import PushBookingMessage
 from prismvio.bookings.tasks import create_booking_event_task
-from prismvio.menu_merchant.models import Products, Promotion, Services
+from prismvio.menu_merchant.models import Product, Promotion, Service
 
 
 class CancelBookingSerializer(serializers.ModelSerializer):
@@ -35,7 +35,7 @@ class CancelBookingSerializer(serializers.ModelSerializer):
 
 class ServiceSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Services
+        model = Service
         exclude = (
             "hashtags",
             "merchant",
@@ -50,7 +50,7 @@ class ServiceSerializer(serializers.ModelSerializer):
 
 class ProductSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Products
+        model = Product
         exclude = ("hashtags", "images", "merchant", "owner")
 
 
@@ -62,9 +62,7 @@ class PromotionSerializer(serializers.ModelSerializer):
 
 class BookingServiceSerializer(serializers.ModelSerializer):
     service = ServiceSerializer(read_only=True)
-    service_id = serializers.PrimaryKeyRelatedField(
-        write_only=True, source="services", queryset=Services.objects.all()
-    )
+    service_id = serializers.PrimaryKeyRelatedField(write_only=True, source="services", queryset=Service.objects.all())
 
     class Meta:
         model = BookingService
@@ -83,6 +81,7 @@ class BookingServiceSerializer(serializers.ModelSerializer):
             "service_info",
             "staff_info",
             "merchant_info",
+            "user_info",
         )
         extra_kwargs = {
             "start_date": {"required": True},
@@ -131,9 +130,7 @@ class BookingServiceSerializer(serializers.ModelSerializer):
 
 class BookingProductSerializer(serializers.ModelSerializer):
     product = ProductSerializer(read_only=True)
-    product_id = serializers.PrimaryKeyRelatedField(
-        write_only=True, source="products", queryset=Products.objects.all()
-    )
+    product_id = serializers.PrimaryKeyRelatedField(write_only=True, source="products", queryset=Product.objects.all())
 
     class Meta:
         model = BookingProduct

@@ -11,9 +11,11 @@ else:
 
 urlpatterns = [
     path("send_email_otp/", views.SendValidateEmailVerificationCode.as_view(), name="send-email-otp"),
+    path("send_email_otp/password/reset/", views.SendOTPEmailPasswordResetView.as_view(), name="otp-password-reset"),
     path("me/", views.MyProfileView.as_view(), name="user-me"),
     path("me/password/", views.MyPasswordView.as_view(), name="user-me-password"),
     path("exists/", views.UserExistsAPIView.as_view(), name="users-exists"),
     path("deactivate/", views.DeactivateAPIView.as_view(), name="deactivate-user"),
     path("privacy-setting/<int:pk>/", views.PrivacySettingAPIView.as_view(), name="privacy-setting"),
+    path("subuser/", views.SubUserCreateAPIView.as_view(), name="create-subuser"),
 ]

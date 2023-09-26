@@ -108,6 +108,7 @@ class Product(models.Model):
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    sold_quantity = models.IntegerField(default=0, help_text="Product sold quantity")
     objects = ServicesProductsManager()
 
     def __str__(self):
@@ -146,6 +147,7 @@ class Service(models.Model):
     merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, related_name="services")
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    sold_quantity = models.IntegerField(default=0, null=True, blank=True, help_text="Service sold quantity")
     objects = ServicesProductsManager()
 
     def __str__(self):

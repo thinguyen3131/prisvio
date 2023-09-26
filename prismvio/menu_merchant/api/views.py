@@ -9,8 +9,9 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from prismvio.core.permissions import IsGetPermission
-from prismvio.menu_merchant.api.serializers import (  # get category for merchant product service
+from prismvio.menu_merchant.api.serializers import (
     CategorySerializer,
+    CollectionSerializer,
     HashtagSerializer,
     MerchantSerializer,
     ProductSerializer,
@@ -19,7 +20,7 @@ from prismvio.menu_merchant.api.serializers import (  # get category for merchan
     ServiceSerializer,
     ServicesSerializer,
 )
-from prismvio.menu_merchant.models import Category, Hashtag, Product, Promotion, Service
+from prismvio.menu_merchant.models import Category, Collection, Hashtag, Product, Promotion, Service
 from prismvio.merchant.models import Merchant
 from prismvio.utils.drf_utils import search
 
@@ -44,9 +45,12 @@ class PromotionListCreateView(generics.ListCreateAPIView):
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
         updated_at = query_params.get("updated_at")
+        merchant_id = query_params.get("merchant_id")
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
+        if merchant_id:
+            where &= Q(merchant_id=merchant_id)
         queryset = Promotion.objects.select_related("merchant").filter(where)
         return search(queryset=queryset, query_params=query_params, model=Promotion, exclude_fields=["updated_at"])
 
@@ -54,8 +58,8 @@ class PromotionListCreateView(generics.ListCreateAPIView):
         all_day = request.data.get("all_day", False)
 
         if all_day:
-            products = Product.objects.filter(hidden=False, deleted_at=False)
-            services = Service.objects.filter(hidden=False, deleted_at=False)
+            products = Product.objects.filter(hidden=False, deleted_at__isnull=True)
+            services = Service.objects.filter(hidden=False, deleted_at__isnull=True)
 
             promotion_serializer = self.get_serializer(data=request.data)
             promotion_serializer.is_valid(raise_exception=True)
@@ -77,12 +81,12 @@ class PromotionListCreateView(generics.ListCreateAPIView):
 
         if not promotion.all_day:
             for product_id in products:
-                product = Product.objects.filter(id=product_id, hidden=False, deleted_at=False).first()
+                product = Product.objects.filter(id=product_id, hidden=False, deleted_at__isnull=True).first()
                 if product:
                     promotion.products.add(product)
 
             for service_id in services:
-                service = Service.objects.filter(id=service_id, hidden=False, deleted_at=False).first()
+                service = Service.objects.filter(id=service_id, hidden=False, deleted_at__isnull=True).first()
                 if service:
                     promotion.services.add(service)
 
@@ -103,11 +107,31 @@ class ProductListCreateView(generics.ListCreateAPIView):
     serializer_class = ProductSerializer
     permission_classes = [IsGetPermission]
 
+    def get_queryset(self):
+        query_params = deepcopy(self.request.query_params)
+        updated_at = query_params.get("updated_at")
+        merchant_id = query_params.get("merchant_id")
+        where = Q()
+        if updated_at:
+            where &= Q(updated_at__gt=updated_at)
+        if merchant_id:
+            where &= Q(merchant_id=merchant_id)
+        queryset = Product.objects.select_related("merchant").filter(where)
+        return search(queryset=queryset, query_params=query_params, model=Product, exclude_fields=["updated_at"])
+
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
 
 class ProductRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
     queryset = Product.objects.all()
     serializer_class = ProductSerializer
     permission_classes = [IsGetPermission]
+
+    def perform_destroy(self, instance):
+        instance.deleted_at = datetime.now()
+        instance.updated_at = datetime.now()
+        instance.save()
 
 
 class ServiceListCreateView(generics.ListCreateAPIView):
@@ -115,11 +139,34 @@ class ServiceListCreateView(generics.ListCreateAPIView):
     serializer_class = ServiceSerializer
     permission_classes = [IsGetPermission]
 
+    def get_queryset(self):
+        query_params = deepcopy(self.request.query_params)
+        updated_at = query_params.get("updated_at")
+        merchant_id = query_params.get("merchant_id")
+        where = Q()
+        if updated_at:
+            where &= Q(updated_at__gt=updated_at)
+        if merchant_id:
+            where &= Q(merchant_id=merchant_id)
+        queryset = Service.objects.select_related("merchant").filter(where)
+        return search(
+            queryset=queryset, query_params=query_params, model=Service, exclude_fields=["updated_at", "merchant"]
+        )
+
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
 
 class ServiceRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
     queryset = Service.objects.all()
     serializer_class = ServiceSerializer
     permission_classes = [IsGetPermission]
+
+    def perform_destroy(self, instance):
+        instance.deleted_at = datetime.now()
+        instance.updated_at = datetime.now()
+        instance.save()
+        instance.staff.clear()
 
 
 class CategoryListCreateView(generics.ListCreateAPIView):
@@ -127,11 +174,26 @@ class CategoryListCreateView(generics.ListCreateAPIView):
     serializer_class = CategorySerializer
     permission_classes = [IsGetPermission]
 
+    def get_queryset(self):
+        query_params = deepcopy(self.request.query_params)
+        updated_at = query_params.get("updated_at")
+        where = Q()
+        if updated_at:
+            where &= Q(updated_at__gt=updated_at)
+        queryset = Category.objects.filter(where)
+        return search(queryset=queryset, query_params=query_params, model=Category, exclude_fields=["updated_at"])
+
 
 class CategoryRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
     queryset = Category.objects.all()
     serializer_class = CategorySerializer
     permission_classes = [IsGetPermission]
+
+    def perform_destroy(self, instance):
+        instance.deleted_at = datetime.now()
+        instance.updated_at = datetime.now()
+        instance.merchants.clear()
+        instance.save()
 
 
 class ParentIDListView(generics.ListAPIView):
@@ -202,3 +264,108 @@ class GetCategoryData(APIView):
         return Response(
             {"merchants": merchants_response, "products": products_response, "services": services_response}
         )
+
+
+class CreateCollectionView(APIView):
+    permission_classes = [IsGetPermission]
+
+    def post(self, request, *args, **kwargs):
+        serializer = CollectionSerializer(data=request.data)
+        if serializer.is_valid():
+            serializer.save(owner=request.user)
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+class CollectionUpdateView(APIView):
+    permission_classes = [IsGetPermission]
+
+    def put(self, request, pk, *args, **kwargs):
+        try:
+            collection = Collection.objects.get(pk=pk)
+        except Collection.DoesNotExist:
+            return Response(status=status.HTTP_404_NOT_FOUND)
+
+        serializer = CollectionSerializer(collection, data=request.data)
+        if serializer.is_valid():
+            serializer.save()
+            return Response(serializer.data, status=status.HTTP_200_OK)
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+class CollectionSortView(APIView):
+    permission_classes = [IsGetPermission]
+
+    def post(self, request, *args, **kwargs):
+        sorted_collection_data = request.data.get("sorted_collection_ids", [])
+        merchant_id = request.data.get("merchant_id")
+
+        if not sorted_collection_data or merchant_id is None:
+            return Response(
+                {"error": "sorted_collections and merchant_id are required."}, status=status.HTTP_400_BAD_REQUEST
+            )
+
+        # Create a mapping of collection IDs to their new order
+        new_order_mapping = {str(item["id"]): item["order"] for item in sorted_collection_data}
+
+        # Fetch collections for the specified merchant
+        collections = Collection.objects.filter(merchant_id=merchant_id)
+
+        # Update collection orders based on the mapping
+        for collection in collections:
+            new_order = new_order_mapping.get(str(collection.id))
+            if new_order is not None:
+                collection.order = new_order
+                collection.save()
+
+        serializer = CollectionSerializer(collections, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
+
+
+class CollectionListView(APIView):
+    permission_classes = (AllowAny,)
+
+    def get(self, request, *args, **kwargs):
+        merchant_id = request.query_params.get("merchant_id")
+        updated_at = request.query_params.get("updated_at")
+        if merchant_id is None:
+            return Response({"error": "merchant_id parameter is required."}, status=status.HTTP_400_BAD_REQUEST)
+
+        where = Q(merchant_id=merchant_id)
+        if updated_at:
+            where &= Q(updated_at__gt=updated_at)
+        collections = Collection.objects.filter(where)
+        collection_serializer = CollectionSerializer(collections, many=True)
+
+        data = {
+            "collections": collection_serializer.data,
+        }
+
+        return Response(data, status=status.HTTP_200_OK)
+
+
+class CollectionDetailView(APIView):
+    permission_classes = [IsGetPermission]
+
+    def get(self, request, collection_id, *args, **kwargs):
+        try:
+            collection = Collection.objects.get(id=collection_id)
+        except Collection.DoesNotExist:
+            return Response({"error": "Collection not found."}, status=status.HTTP_404_NOT_FOUND)
+
+        collection_serializer = CollectionSerializer(collection)
+        collection_data = collection_serializer.data
+
+        return Response(collection_data, status=status.HTTP_200_OK)
+
+    def delete(self, request, collection_id, *args, **kwargs):
+        try:
+            collection = Collection.objects.get(id=collection_id)
+        except Collection.DoesNotExist:
+            return Response({"error": "Collection not found."}, status=status.HTTP_404_NOT_FOUND)
+        collection.deleted_at = datetime.now()
+        collection.updated_at = datetime.now()
+        collection.save()
+        return Response(status=status.HTTP_200_OK)

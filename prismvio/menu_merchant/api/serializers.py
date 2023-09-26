@@ -1,7 +1,24 @@
+from django.db.models import Max
 from rest_framework import serializers
 
-from prismvio.menu_merchant.models import Category, Hashtag, Product, Promotion, Service
+from prismvio.menu_merchant.models import (
+    Category,
+    Collection,
+    CollectionItem,
+    Hashtag,
+    Keyword,
+    Product,
+    Promotion,
+    Service,
+)
 from prismvio.merchant.models import Merchant
+from prismvio.staff.models import Staff
+
+
+class KeywordSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Keyword
+        fields = "__all__"
 
 
 class HashtagSerializer(serializers.ModelSerializer):
@@ -17,17 +34,41 @@ class PromotionSerializer(serializers.ModelSerializer):
 
 
 class ProductSerializer(serializers.ModelSerializer):
-    hashtags = HashtagSerializer(many=True)
+    hashtags = HashtagSerializer(many=True, required=False, allow_null=True)
+    keywords = KeywordSerializer(many=True, required=False, allow_null=True)
     promotion_ids = serializers.ListField(child=serializers.IntegerField(), required=False, allow_null=True)
 
     class Meta:
         model = Product
         fields = "__all__"
 
+    def validate_original_price(self, value):
+        if value is not None and value < 0:
+            raise serializers.ValidationError("The original price must be equal or greater than zero")
+        return value
+
+    def validate_discount_price(self, value):
+        if value is not None and value < 0:
+            raise serializers.ValidationError("The discount price must be equal or greater than  zero")
+        return value
+
+    def validate_quantity(self, value):
+        if value is not None and value <= 0:
+            raise serializers.ValidationError("The quantity must be greater than zero")
+        return value
+
     def create(self, validated_data):
         hashtags_data = validated_data.pop("hashtags", [])
+        keywords = validated_data.pop("keywords", [])
         promotion_ids = validated_data.pop("promotion_ids", [])
         product = Product.objects.create(**validated_data)
+
+        if keywords:
+            for keyword in keywords:
+                name = keyword.get("name")
+                if name:
+                    key, _ = Keyword.objects.get_or_create(name=name)
+                    product.keywords.add(key)
 
         if hashtags_data:
             for hashtag_data in hashtags_data:
@@ -37,18 +78,27 @@ class ProductSerializer(serializers.ModelSerializer):
                     product.hashtags.add(hashtag)
         if promotion_ids:
             for promotion_data in promotion_ids:
-                print(promotion_data)
                 promotion = Promotion.objects.get(id=promotion_data)
                 promotion.products.add(product)
 
         return product
 
     def update(self, instance, validated_data):
-        hashtags_data = validated_data.pop("hashtags", [])
-        promotion_ids = validated_data.pop("promotion_ids", [])
+        hashtags_data = validated_data.pop("hashtags", None)
+        keywords = validated_data.pop("keywords", None)
+        promotion_ids = validated_data.pop("promotion_ids", None)
         instance = super().update(instance, validated_data)
-        instance.hashtags.clear()
-        if hashtags_data:
+
+        if keywords is not None:
+            instance.keywords.clear()
+            for keyword in keywords:
+                name = keyword.get("name")
+                if name:
+                    key, _ = Keyword.objects.get_or_create(name=name)
+                    instance.keywords.add(key)
+
+        if hashtags_data is not None:
+            instance.hashtags.clear()
             for hashtag_data in hashtags_data:
                 hashtag_name = hashtag_data.get("name")
                 if hashtag_name:
@@ -56,7 +106,7 @@ class ProductSerializer(serializers.ModelSerializer):
                     instance.hashtags.add(hashtag)
 
         # Check if 'promotion' is provided in the data
-        if promotion_ids:
+        if promotion_ids is not None:
             instance.promotions.clear()
             for promotion_id in promotion_ids:
                 promotion = Promotion.objects.get(id=promotion_id)
@@ -66,8 +116,10 @@ class ProductSerializer(serializers.ModelSerializer):
 
 
 class ServiceSerializer(serializers.ModelSerializer):
-    hashtags = HashtagSerializer(many=True)
+    hashtags = HashtagSerializer(many=True, required=False, allow_null=True)
+    keywords = KeywordSerializer(many=True, required=True, allow_null=True)
     promotion_ids = serializers.ListField(child=serializers.IntegerField(), required=False, allow_null=True)
+    staff_ids = serializers.ListField(child=serializers.IntegerField(), required=False, allow_null=True)
 
     class Meta:
         model = Service
@@ -75,8 +127,18 @@ class ServiceSerializer(serializers.ModelSerializer):
 
     def create(self, validated_data):
         hashtags_data = validated_data.pop("hashtags", [])
+        keywords = validated_data.pop("keywords", [])
         promotion_ids = validated_data.pop("promotion_ids", [])
+        staff_ids = validated_data.pop("staff_ids", [])
+
         service = Service.objects.create(**validated_data)
+
+        if keywords:
+            for keyword in keywords:
+                name = keyword.get("name")
+                if name:
+                    key, _ = Keyword.objects.get_or_create(name=name)
+                    service.keywords.add(key)
 
         if hashtags_data:
             for hashtag_data in hashtags_data:
@@ -86,18 +148,34 @@ class ServiceSerializer(serializers.ModelSerializer):
                     service.hashtags.add(hashtag)
         if promotion_ids:
             for promotion_data in promotion_ids:
-                print(promotion_data)
                 promotion = Promotion.objects.get(id=promotion_data)
                 promotion.services.add(service)
+
+        if staff_ids:
+            for staff_data in staff_ids:
+                staff = Staff.objects.get(id=staff_data)
+                service.staff.add(staff)
 
         return service
 
     def update(self, instance, validated_data):
-        hashtags_data = validated_data.pop("hashtags", [])
-        promotion_ids = validated_data.pop("promotion_ids", [])
+        hashtags_data = validated_data.pop("hashtags", None)
+        keywords = validated_data.pop("keywords", None)
+        promotion_ids = validated_data.pop("promotion_ids", None)
+        staff_ids = validated_data.pop("staff_ids", None)
+
         instance = super().update(instance, validated_data)
-        instance.hashtags.clear()
-        if hashtags_data:
+
+        if keywords is not None:
+            instance.keywords.clear()
+            for keyword in keywords:
+                name = keyword.get("name")
+                if name:
+                    key, _ = Keyword.objects.get_or_create(name=name)
+                    instance.keywords.add(key)
+
+        if hashtags_data is not None:
+            instance.hashtags.clear()
             for hashtag_data in hashtags_data:
                 hashtag_name = hashtag_data.get("name")
                 if hashtag_name:
@@ -105,11 +183,20 @@ class ServiceSerializer(serializers.ModelSerializer):
                     instance.hashtags.add(hashtag)
 
         # Check if 'promotion' is provided in the data
-        if promotion_ids:
+        if promotion_ids is not None:
             instance.promotions.clear()
             for promotion_id in promotion_ids:
                 promotion = Promotion.objects.get(id=promotion_id)
                 instance.promotions.add(promotion)
+
+        if staff_ids is not None:
+            instance.staff.clear()
+            for staff_data in staff_ids:
+                staff = Staff.objects.get(id=staff_data)
+                instance.staff.add(staff)
+        else:
+            if instance.staff.exists():
+                instance.staff.clear()
 
         return instance
 
@@ -194,3 +281,77 @@ class SearchMerchantSerializer(serializers.ModelSerializer):
         # Get the 4 most recently created services
         services = obj.services.order_by("-created_at")[:4]
         return ServicesSerializer(services, many=True).data
+
+
+class CollectionItemSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = CollectionItem
+        fields = ("id", "collection", "product", "service", "order")
+
+
+class CollectionSerializer(serializers.ModelSerializer):
+    product = serializers.ListField(write_only=True)
+    service = serializers.ListField(write_only=True)
+    merchant_id = serializers.IntegerField(write_only=True)
+    collectionitem_set = CollectionItemSerializer(many=True, read_only=True)
+
+    class Meta:
+        model = Collection
+        fields = (
+            "id",
+            "name",
+            "order",
+            "product",
+            "service",
+            "merchant",
+            "deleted_at",
+            "created_at",
+            "updated_at",
+            "merchant_id",
+            "collectionitem_set",
+        )
+
+    def create(self, validated_data):
+        product_data = validated_data.pop("product", [])
+        service_data = validated_data.pop("service", [])
+        merchant_id = validated_data.get("merchant_id")
+
+        if merchant_id and Collection.objects.filter(merchant_id=merchant_id).exists():
+            max_order = Collection.objects.filter(merchant_id=merchant_id).aggregate(Max("order"))["order__max"]
+            validated_data["order"] = max_order + 1 if max_order is not None else 1
+        else:
+            validated_data["order"] = 1
+
+        collection = Collection.objects.create(**validated_data)
+
+        for product_item in product_data:
+            CollectionItem.objects.create(
+                collection=collection, product_id=product_item["id"], order=product_item["order"]
+            )
+
+        for service_item in service_data:
+            CollectionItem.objects.create(
+                collection=collection, service_id=service_item["id"], order=service_item["order"]
+            )
+
+        return collection
+
+    def update(self, instance, validated_data):
+        product_data = validated_data.pop("product", [])
+        service_data = validated_data.pop("service", [])
+
+        instance.name = validated_data.get("name", instance.name)
+
+        instance.save()
+        instance.collectionitem_set.all().delete()
+        for product_item in product_data:
+            CollectionItem.objects.create(
+                collection=instance, product_id=product_item["id"], order=product_item["order"]
+            )
+
+        for service_item in service_data:
+            CollectionItem.objects.create(
+                collection=instance, service_id=service_item["id"], order=service_item["order"]
+            )
+
+        return instance

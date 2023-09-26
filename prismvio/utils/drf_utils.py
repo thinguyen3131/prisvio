@@ -54,8 +54,8 @@ def search(params=None, **kwargs):
     pagination_class.offset = offset
 
     list_or, list_and, exclude = build_query_filters(params, field_mapping)
+    queryset = custom_queryset if custom_queryset is not None else model.objects.all()
 
-    queryset = custom_queryset if custom_queryset else model.objects.all()
     q_object = Q()
     for query in list_or:
         q_object.add(Q(**query), Q.OR)

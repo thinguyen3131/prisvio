@@ -5,20 +5,11 @@ from prismvio.staff.enums import InviteStatusEnum, LinkStatusEnum
 from prismvio.staff.models import Staff
 from prismvio.users.models import User
 
-# from bookings.tasks import create_staff_booking_event_task
-
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
         fields = ("id", "phone_number", "email", "country_code")
-
-
-class UserDetailSerializer(serializers.Serializer):
-    class Meta:
-        model = User
-        fields = "__all__"
-        read_only_fields = fields
 
 
 class LinkToStaffSerializer(serializers.ModelSerializer):
@@ -142,7 +133,7 @@ class StaffSerializer(serializers.ModelSerializer):
             service_ids = validated_data.pop("service_ids")
             staff = super().create(validated_data)
             if service_ids:
-                staff.service.set(service_ids)
+                staff.services.set(service_ids)
             return staff
         else:
             return super().create(validated_data)
@@ -152,7 +143,7 @@ class StaffSerializer(serializers.ModelSerializer):
         if "service_ids" in validated_data:
             service_ids = validated_data.pop("service_ids")
             staff = super().update(instance, validated_data)
-            staff.service.set(service_ids)
+            staff.services.set(service_ids)
             return staff
         else:
             return super().update(instance, validated_data)

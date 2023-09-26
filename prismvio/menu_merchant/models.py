@@ -16,6 +16,7 @@ class ServicesProductsManager(models.Manager):
             "category",
         )
 
+
 class Keyword(models.Model):
     name = models.CharField(max_length=255)
     created_at = models.DateTimeField(auto_now_add=True)
@@ -145,7 +146,7 @@ class Service(models.Model):
         if self.name:
             return self.name
         return f"Service ID=[{self.id}]"
-    
+
     def normalizer_name(self):
         if self.name:
             normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)

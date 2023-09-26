@@ -6,9 +6,14 @@ from rest_framework.response import Response
 from prismvio.menu_merchant.models import Service
 from prismvio.merchant.api.serializers import MerchantSerializer
 from prismvio.merchant.models import Merchant
-from prismvio.search.api.serialzers import MerchantQueryParamsSerializer, SearchMerchantSerializer, SearchServiceSerializer, ServiceQueryParamsSerializer
+from prismvio.search.api.serialzers import (
+    MerchantQueryParamsSerializer,
+    SearchMerchantSerializer,
+    SearchServiceSerializer,
+    ServiceQueryParamsSerializer,
+)
 from prismvio.search.documents.merchant import MerchantSearch, MerchantSearchRequest
-from prismvio.search.documents.service import ServiceSearchRequest, ServiceSearch
+from prismvio.search.documents.service import ServiceSearch, ServiceSearchRequest
 
 
 class SearchBaseView(GenericAPIView):

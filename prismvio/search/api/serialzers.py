@@ -56,6 +56,7 @@ class BaseQueryParamsSerializer(serializers.Serializer):
     offset = serializers.IntegerField(min_value=0, required=False)
     limit = serializers.IntegerField(min_value=10, max_value=50, required=False)
 
+
 class MerchantQueryParamsSerializer(BaseQueryParamsSerializer):
     country_id = serializers.IntegerField(min_value=1, required=False)
     province_id = serializers.IntegerField(min_value=1, required=False)
@@ -73,6 +74,7 @@ class MerchantQueryParamsSerializer(BaseQueryParamsSerializer):
 
     def validate(self, attr):
         return attr
+
 
 class SearchMerchantSerializer(SearchMerchantSerializer):
     timezone = TimeZoneSerializerField(use_pytz=True, read_only=True)
@@ -92,12 +94,14 @@ class SearchMerchantSerializer(SearchMerchantSerializer):
 
         return None
 
+
 class ServiceQueryParamsSerializer(BaseQueryParamsSerializer):
     country_id = serializers.IntegerField(min_value=1, required=False)
     province_id = serializers.IntegerField(min_value=1, required=False)
     district_id = serializers.IntegerField(min_value=1, required=False)
     ward_id = serializers.IntegerField(min_value=1, required=False)
     # category_ids = IdsQueryParam(required=False, allow_null=False, allow_empty=True)
+
 
 class SearchServiceSerializer(serializers.ModelSerializer):
     distance = serializers.SerializerMethodField()

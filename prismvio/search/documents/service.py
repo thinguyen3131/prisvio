@@ -1,12 +1,13 @@
 from django.conf import settings
 from elasticsearch_dsl import Q, analyzer
+from pydantic import BaseModel
+
 from prismvio.core.dsl import fields
-from prismvio.core.dsl.search import Search
 from prismvio.core.dsl.documents import Document
 from prismvio.core.dsl.registries import registry
+from prismvio.core.dsl.search import Search
 from prismvio.menu_merchant.models import Category, Hashtag, Keyword, Service
 from prismvio.merchant.models import Merchant
-from pydantic import BaseModel
 
 html_strip = analyzer(
     "html_strip",
@@ -14,6 +15,7 @@ html_strip = analyzer(
     filter=["lowercase", "stop", "snowball"],
     char_filter=["html_strip"],
 )
+
 
 class ServiceSearchRequest(BaseModel):
     search_text: str
@@ -28,7 +30,6 @@ class ServiceSearchRequest(BaseModel):
     distance: int | None = None
     offset: int = 0
     limit: int = 20
-
 
 
 @registry.register_document
@@ -54,12 +55,12 @@ class ServicesDocument(Document):
         )
     )
     category = fields.ObjectField(
-            properties={
-                "id": fields.IntegerField(),
-                "name_vi": fields.TextField(),
-                "name_en": fields.TextField(),
-            }
-        )
+        properties={
+            "id": fields.IntegerField(),
+            "name_vi": fields.TextField(),
+            "name_en": fields.TextField(),
+        }
+    )
 
     merchant_id = fields.IntegerField(attr="merchant_id")
     merchant = fields.ObjectField(
@@ -125,6 +126,7 @@ class ServicesDocument(Document):
         data["hashtag_ids"] = self.get_obj_ids(data, "hashtags")
         data["keyword_ids"] = self.get_obj_ids(data, "keywords")
         return data
+
 
 class ServiceSearch(Search):
     doc_types = [ServicesDocument]

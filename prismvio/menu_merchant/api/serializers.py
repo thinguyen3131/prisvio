@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from prismvio.menu_merchant.models import Category, Hashtag, Products, Promotion, Services
+from prismvio.menu_merchant.models import Category, Hashtag, Product, Promotion, Service
 from prismvio.merchant.models import Merchant
 
 
@@ -21,13 +21,13 @@ class ProductSerializer(serializers.ModelSerializer):
     promotion_ids = serializers.ListField(child=serializers.IntegerField(), required=False, allow_null=True)
 
     class Meta:
-        model = Products
+        model = Product
         fields = "__all__"
 
     def create(self, validated_data):
         hashtags_data = validated_data.pop("hashtags", [])
         promotion_ids = validated_data.pop("promotion_ids", [])
-        product = Products.objects.create(**validated_data)
+        product = Product.objects.create(**validated_data)
 
         if hashtags_data:
             for hashtag_data in hashtags_data:
@@ -70,13 +70,13 @@ class ServiceSerializer(serializers.ModelSerializer):
     promotion_ids = serializers.ListField(child=serializers.IntegerField(), required=False, allow_null=True)
 
     class Meta:
-        model = Services
+        model = Service
         fields = "__all__"
 
     def create(self, validated_data):
         hashtags_data = validated_data.pop("hashtags", [])
         promotion_ids = validated_data.pop("promotion_ids", [])
-        service = Services.objects.create(**validated_data)
+        service = Service.objects.create(**validated_data)
 
         if hashtags_data:
             for hashtag_data in hashtags_data:
@@ -128,13 +128,13 @@ class MerchantSerializer(serializers.ModelSerializer):
 
 class ProductsSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Products
+        model = Product
         fields = "__all__"
 
 
 class ServicesSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Services
+        model = Service
         fields = "__all__"
 
 
@@ -192,5 +192,5 @@ class SearchMerchantSerializer(serializers.ModelSerializer):
 
     def get_latest_services(self, obj):
         # Get the 4 most recently created services
-        services = obj.service.order_by('-created_at')[:4]
+        services = obj.services.order_by('-created_at')[:4]
         return ServicesSerializer(services, many=True).data

@@ -78,12 +78,12 @@ class WardListAPIView(generics.ListAPIView):
 
 def export_to_csv(request):
     response = HttpResponse(content_type="text/csv")
-    response["Content-Disposition"] = 'attachment; filename="Country.csv"'
+    response["Content-Disposition"] = 'attachment; filename="District.csv"'
 
     writer = csv.writer(response)
-    writer.writerow(["code", "full_name_vi", "full_name_en", "zip_code", "created_at", "updated_at"])  # header
+    writer.writerow(["code", "name_vi", "name_en", "province", "country", "zip_code"])  # header
 
-    for obj in Country.objects.all():
-        writer.writerow([obj.code, obj.full_name_vi, obj.full_name_en, obj.zip_code, obj.created_at, obj.updated_at])
+    for obj in District.objects.all():
+        writer.writerow([obj.code, obj.name_vi, obj.name_en, obj.province.id, obj.country.id, obj.zip_code])
 
     return response

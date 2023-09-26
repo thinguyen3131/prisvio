@@ -6,6 +6,16 @@ from prismvio.merchant.models import Merchant
 from prismvio.staff.models import Staff
 
 
+class ServicesProductsManager(models.Manager):
+    def get_with_related_data(self):
+        return self.prefetch_related(
+            "hashtags",
+            "keyword",
+        ).select_related(
+            "merchant",
+            "category",
+        )
+
 class Keyword(models.Model):
     name = models.CharField(max_length=255)
     created_at = models.DateTimeField(auto_now_add=True)
@@ -66,8 +76,8 @@ class Promotion(models.Model):
     images = models.JSONField(default=list, null=True, blank=True)
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
     merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, blank=True, related_name="promotion")
-    products = models.ManyToManyField("Products", blank=True, related_name="promotions")
-    services = models.ManyToManyField("Services", blank=True, related_name="promotions")
+    products = models.ManyToManyField("Product", blank=True, related_name="promotions")
+    services = models.ManyToManyField("Service", blank=True, related_name="promotions")
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
     all_day = models.BooleanField(default=False)
     is_happy_hour = models.BooleanField(default=False)
@@ -79,7 +89,7 @@ class Promotion(models.Model):
         return self.name
 
 
-class Products(models.Model):
+class Product(models.Model):
     name = models.CharField(max_length=255, null=False)
     hashtags = models.ManyToManyField(Hashtag, related_name="products", blank=True)
     quantity = models.IntegerField()
@@ -90,13 +100,14 @@ class Products(models.Model):
     images = models.JSONField(default=list, null=True, blank=True)
     merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
     category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, blank=True, related_name="products")
-    keyword = models.ManyToManyField(Keyword, blank=True, related_name="products")
+    keywords = models.ManyToManyField(Keyword, blank=True, related_name="products")
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
     hidden = models.BooleanField(default=False)
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    objects = ServicesProductsManager()
 
     def __str__(self):
         if self.name:
@@ -104,11 +115,11 @@ class Products(models.Model):
         return f"Product ID=[{self.id}]"
 
 
-class Services(models.Model):
+class Service(models.Model):
     name = models.CharField(max_length=255, null=False)
-    category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, related_name="service")
-    keyword = models.ManyToManyField(Keyword, blank=True, related_name="service")
-    hashtags = models.ManyToManyField(Hashtag, related_name="service", blank=True)
+    category = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, related_name="services")
+    keywords = models.ManyToManyField(Keyword, blank=True, related_name="services")
+    hashtags = models.ManyToManyField(Hashtag, related_name="services", blank=True)
     description = models.TextField(default=None, null=True, blank=True)
     time = models.FloatField()
     time_date = models.CharField(max_length=255, null=True, default=None)
@@ -122,17 +133,24 @@ class Services(models.Model):
     hidden = models.BooleanField(default=False)
     flexible_time = models.BooleanField(default=False)
     deleted_at = models.DateTimeField(null=True, blank=True, default=None)
-    staff = models.ManyToManyField(Staff, blank=True, related_name="service")
+    staff = models.ManyToManyField(Staff, blank=True, related_name="services")
     owner = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, blank=True, on_delete=models.SET_NULL)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
-    merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, related_name="service")
+    merchant = models.ForeignKey(Merchant, on_delete=models.CASCADE, null=True, related_name="services")
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    objects = ServicesProductsManager()
 
     def __str__(self):
         if self.name:
             return self.name
         return f"Service ID=[{self.id}]"
+    
+    def normalizer_name(self):
+        if self.name:
+            normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)
+            return normalizer
+        return None
 
 
 class Collection(models.Model):
@@ -158,6 +176,6 @@ class Collection(models.Model):
 
 class CollectionItem(models.Model):
     collection = models.ForeignKey(Collection, on_delete=models.CASCADE)
-    product = models.ForeignKey(Products, on_delete=models.CASCADE, null=True, blank=True)
-    service = models.ForeignKey(Services, on_delete=models.CASCADE, null=True, blank=True)
+    product = models.ForeignKey(Product, on_delete=models.CASCADE, null=True, blank=True)
+    service = models.ForeignKey(Service, on_delete=models.CASCADE, null=True, blank=True)
     order = models.PositiveIntegerField()  # Thứ tự hiển thị

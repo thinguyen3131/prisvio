@@ -19,7 +19,7 @@ from prismvio.menu_merchant.api.serializers import (  # get category for merchan
     ServiceSerializer,
     ServicesSerializer,
 )
-from prismvio.menu_merchant.models import Category, Hashtag, Products, Promotion, Services
+from prismvio.menu_merchant.models import Category, Hashtag, Product, Promotion, Service
 from prismvio.merchant.models import Merchant
 from prismvio.utils.drf_utils import search
 
@@ -54,8 +54,8 @@ class PromotionListCreateView(generics.ListCreateAPIView):
         all_day = request.data.get("all_day", False)
 
         if all_day:
-            products = Products.objects.filter(hidden=False, deleted_at=False)
-            services = Services.objects.filter(hidden=False, deleted_at=False)
+            products = Product.objects.filter(hidden=False, deleted_at=False)
+            services = Service.objects.filter(hidden=False, deleted_at=False)
 
             promotion_serializer = self.get_serializer(data=request.data)
             promotion_serializer.is_valid(raise_exception=True)
@@ -77,12 +77,12 @@ class PromotionListCreateView(generics.ListCreateAPIView):
 
         if not promotion.all_day:
             for product_id in products:
-                product = Products.objects.filter(id=product_id, hidden=False, deleted_at=False).first()
+                product = Product.objects.filter(id=product_id, hidden=False, deleted_at=False).first()
                 if product:
                     promotion.products.add(product)
 
             for service_id in services:
-                service = Services.objects.filter(id=service_id, hidden=False, deleted_at=False).first()
+                service = Service.objects.filter(id=service_id, hidden=False, deleted_at=False).first()
                 if service:
                     promotion.services.add(service)
 
@@ -99,25 +99,25 @@ class PromotionRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
 
 
 class ProductListCreateView(generics.ListCreateAPIView):
-    queryset = Products.objects.all()
+    queryset = Product.objects.all()
     serializer_class = ProductSerializer
     permission_classes = [IsGetPermission]
 
 
 class ProductRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Products.objects.all()
+    queryset = Product.objects.all()
     serializer_class = ProductSerializer
     permission_classes = [IsGetPermission]
 
 
 class ServiceListCreateView(generics.ListCreateAPIView):
-    queryset = Services.objects.all()
+    queryset = Service.objects.all()
     serializer_class = ServiceSerializer
     permission_classes = [IsGetPermission]
 
 
 class ServiceRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Services.objects.all()
+    queryset = Service.objects.all()
     serializer_class = ServiceSerializer
     permission_classes = [IsGetPermission]
 
@@ -177,14 +177,14 @@ class ProductsListAPIView(generics.ListAPIView):
     serializer_class = ProductsSerializer
 
     def get_queryset(self):
-        return Products.objects.filter(category__id=self.request.query_params.get("category_id"))
+        return Product.objects.filter(category__id=self.request.query_params.get("category_id"))
 
 
 class ServicesListAPIView(generics.ListAPIView):
     serializer_class = ServicesSerializer
 
     def get_queryset(self):
-        return Services.objects.filter(category__id=self.request.query_params.get("category_id"))
+        return Service.objects.filter(category__id=self.request.query_params.get("category_id"))
 
 
 class GetCategoryData(APIView):

@@ -11,7 +11,6 @@ from prismvio.menu_merchant.models import (
     Promotion,
     Service,
 )
-
 from prismvio.merchant.models import Merchant
 from prismvio.staff.models import Staff
 

@@ -21,7 +21,6 @@ from prismvio.menu_merchant.api.serializers import (
     ServicesSerializer,
 )
 from prismvio.menu_merchant.models import Category, Collection, Hashtag, Product, Promotion, Service
-
 from prismvio.merchant.models import Merchant
 from prismvio.utils.drf_utils import search
 
@@ -59,8 +58,8 @@ class PromotionListCreateView(generics.ListCreateAPIView):
         all_day = request.data.get("all_day", False)
 
         if all_day:
-            products = Product.objects.filter(hidden=False, deleted_at=False)
-            services = Service.objects.filter(hidden=False, deleted_at=False)
+            products = Product.objects.filter(hidden=False, deleted_at__isnull=True)
+            services = Service.objects.filter(hidden=False, deleted_at__isnull=True)
 
             promotion_serializer = self.get_serializer(data=request.data)
             promotion_serializer.is_valid(raise_exception=True)
@@ -82,12 +81,12 @@ class PromotionListCreateView(generics.ListCreateAPIView):
 
         if not promotion.all_day:
             for product_id in products:
-                product = Product.objects.filter(id=product_id, hidden=False, deleted_at=False).first()
+                product = Product.objects.filter(id=product_id, hidden=False, deleted_at__isnull=True).first()
                 if product:
                     promotion.products.add(product)
 
             for service_id in services:
-                service = Service.objects.filter(id=service_id, hidden=False, deleted_at=False).first()
+                service = Service.objects.filter(id=service_id, hidden=False, deleted_at__isnull=True).first()
                 if service:
                     promotion.services.add(service)
 

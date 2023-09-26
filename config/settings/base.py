@@ -84,6 +84,7 @@ THIRD_PARTY_APPS = [
     "rest_framework_simplejwt",
     "rest_framework_simplejwt.token_blacklist",
     "social_django",
+    "fcm_django",
 ]
 
 LOCAL_APPS = [
@@ -94,8 +95,10 @@ LOCAL_APPS = [
     "prismvio.menu_merchant",
     "prismvio.location",
     "prismvio.social_login",
+    "prismvio.bookings",
+    "prismvio.notifications",
     # search should get end
-    "prismvio.search",
+    # "prismvio.search",
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS

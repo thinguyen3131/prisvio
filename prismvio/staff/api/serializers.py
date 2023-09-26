@@ -133,7 +133,7 @@ class StaffSerializer(serializers.ModelSerializer):
             service_ids = validated_data.pop("service_ids")
             staff = super().create(validated_data)
             if service_ids:
-                staff.service.set(service_ids)
+                staff.services.set(service_ids)
             return staff
         else:
             return super().create(validated_data)
@@ -143,7 +143,7 @@ class StaffSerializer(serializers.ModelSerializer):
         if "service_ids" in validated_data:
             service_ids = validated_data.pop("service_ids")
             staff = super().update(instance, validated_data)
-            staff.service.set(service_ids)
+            staff.services.set(service_ids)
             return staff
         else:
             return super().update(instance, validated_data)

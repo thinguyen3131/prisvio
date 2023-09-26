@@ -43,7 +43,6 @@ elasticsearch-dsl==8.9.0  # https://github.com/elastic/elasticsearch-dsl-py
 elastic-transport==8.4.0  # https://github.com/elastic/elastic-transport-python
 pydantic==2.3.0   # https://docs.pydantic.dev/latest/
 # FCM
-# fcm-django==2.0.0
 Faker==19.6.1
 fcm-django==2.0.0
 

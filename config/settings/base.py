@@ -442,3 +442,10 @@ SOCIAL_AUTH_GOOGLE_OAUTH2_REDIRECT_URI = env(
     "SOCIAL_AUTH_GOOGLE_OAUTH2_REDIRECT_URI",
     default="http://localhost:19753/redirect/google/",
 )
+
+
+# Google signed url
+GCS_PUBLIC_BUCKET_NAME = env("GCS_PUBLIC_BUCKET_NAME", default="")
+GCS_PRIVATE_BUCKET_NAME = env("GCS_PRIVATE_BUCKET_NAME", default="")
+GCS_SERVICE_ACCOUNT_EMAIL = env("GCS_SERVICE_ACCOUNT_EMAIL", default="")
+GCS_STORAGE_DOMAIN = env("GCS_STORAGE_DOMAIN", default="")

@@ -4,7 +4,7 @@ from rest_framework import serializers
 from timezone_field.rest_framework import TimeZoneSerializerField
 
 from prismvio.menu_merchant.api.serializers import SearchMerchantSerializer
-from prismvio.menu_merchant.models import Category, Service
+from prismvio.menu_merchant.models import Category, Product, Service
 from prismvio.merchant.models import Merchant
 from prismvio.utils import haversine
 
@@ -112,6 +112,33 @@ class SearchServiceSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
     def get_distance(self, obj: Service):
+        user_position = self.context.get("position")
+        if user_position and obj.latitude and obj.longitude:
+            latitude = user_position.get("latitude")
+            longitude = user_position.get("longitude")
+            if latitude and longitude:
+                return haversine(latitude, longitude, obj.latitude, obj.longitude)
+
+        return None
+
+
+class ProductQueryParamsSerializer(BaseQueryParamsSerializer):
+    country_id = serializers.IntegerField(min_value=1, required=False)
+    province_id = serializers.IntegerField(min_value=1, required=False)
+    district_id = serializers.IntegerField(min_value=1, required=False)
+    ward_id = serializers.IntegerField(min_value=1, required=False)
+    # category_ids = IdsQueryParam(required=False, allow_null=False, allow_empty=True)
+
+
+class SearchProductSerializer(serializers.ModelSerializer):
+    distance = serializers.SerializerMethodField()
+    # merchant = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Product
+        fields = "__all__"
+
+    def get_distance(self, obj: Product):
         user_position = self.context.get("position")
         if user_position and obj.latitude and obj.longitude:
             latitude = user_position.get("latitude")

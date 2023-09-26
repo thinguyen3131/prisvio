@@ -115,6 +115,12 @@ class Product(models.Model):
             return self.name
         return f"Product ID=[{self.id}]"
 
+    def normalizer_name(self):
+        if self.name:
+            normalizer = slugify(self.name.strip(), word_boundary=True, separator=" ", lowercase=True)
+            return normalizer
+        return None
+
 
 class Service(models.Model):
     name = models.CharField(max_length=255, null=False)

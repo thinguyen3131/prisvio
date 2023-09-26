@@ -15,4 +15,5 @@ urlpatterns = [
     path("me/password/", views.MyPasswordView.as_view(), name="user-me-password"),
     path("exists/", views.UserExistsAPIView.as_view(), name="users-exists"),
     path("deactivate/", views.DeactivateAPIView.as_view(), name="deactivate-user"),
+    path("privacy-setting/<int:pk>/", views.PrivacySettingAPIView.as_view(), name="privacy-setting"),
 ]

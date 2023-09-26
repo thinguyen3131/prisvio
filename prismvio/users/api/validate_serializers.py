@@ -29,7 +29,7 @@ class VerificationIdSerializer(serializers.Serializer):
     verification_id = serializers.CharField(required=False, write_only=True, allow_blank=True, allow_null=True)
     otp = serializers.CharField(write_only=True, required=False)
 
-    def check_verification_id(self, signature, email, otp):
+    def check_verification_id(self, signature, email, otp, otp_action=OTPAction.ID_VERIFICATION.value):
         if not signature:
             raise exceptions.ValidationError(
                 "The verification ID is not valid 111111",
@@ -42,14 +42,14 @@ class VerificationIdSerializer(serializers.Serializer):
             signature=signature,
             otp_type=OTPType.EMAIL.value,
             email=email,
-            otp_action=OTPAction.ID_VERIFICATION.value,
+            otp_action=otp_action,
             is_verified=False,
             last_send__gte=past_time,
             is_used=False,
         ).last()
         if not otp_obj:
             raise exceptions.ValidationError(
-                "The verification ID is not valid 222",
+                "The verification ID is not valid.",
                 "invalid_verification_id",
             )
 
@@ -186,9 +186,11 @@ class UserValidationSerializer(
         phone_verified = None
         email_verified = None
         if "phone_verified" in attrs:
-            phone_verified = int(attrs.get("phone_verified", 0))
+            phone_verified = int(attrs.pop("phone_verified", 0))
+            attrs["phone_verified"] = True if phone_verified else False
         if "email_verified" in attrs:
-            email_verified = int(attrs.get("email_verified", 0))
+            email_verified = int(attrs.pop("email_verified", 0))
+            attrs["email_verified"] = True if email_verified else False
         queryset = User.objects.filter()
 
         if self.instance:
@@ -228,14 +230,15 @@ class UserValidationSerializer(
                     }
                 )
 
-        if not email and not phone_number:
+        if not email and not phone_number and not username:
             raise serializers.ValidationError(
                 {
-                    CODE.USER.MISSING_EMAIL_OR_PHONE: _("You must enter at least one of email or phone number."),
+                    CODE.USER.MISSING_EMAIL_OR_PHONE: _(
+                        "You must enter at least one of email or phone number or username."
+                    ),
                 }
             )
-
-        if email_verified is not None and phone_verified is not None:
+        if email_verified == 0 and phone_verified == 0:
             raise serializers.ValidationError(
                 {
                     CODE.USER.MISSING_FIELD_VERIFIED: _(
@@ -243,11 +246,6 @@ class UserValidationSerializer(
                     ),
                 }
             )
-        # TODO update logic
-        if phone_verified is not None:
-            attrs["phone_verified"] = True if phone_verified else False
-        if email_verified is not None:
-            attrs["email_verified"] = True if email_verified else False
 
         if phone_number:
             country_code = get_country_code_from_phone_number(phone_number)

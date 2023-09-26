@@ -15,6 +15,7 @@ from prismvio.location.models import Country, District, Province, Ward
 from prismvio.menu_merchant.models import Category
 from prismvio.merchant.models import Merchant
 from prismvio.users.api.validate_serializers import UserValidationSerializer, VerificationIdSerializer
+from prismvio.users.enums import OTPAction
 from prismvio.users_auth.exceptions import LoginFailException
 from prismvio.utils.exceptions import CODE
 
@@ -299,7 +300,7 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
         otp = validated_data.get("otp")
         password = validated_data.get("password")
 
-        otp_obj = self.check_verification_id(signature, email, otp)
+        otp_obj = self.check_verification_id(signature, email, otp, OTPAction.PASSWORD_RESET.value)
         try:
             user = User.objects.get(
                 email=email,

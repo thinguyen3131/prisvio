@@ -10,7 +10,6 @@ from prismvio.staff.api.views import (
     StaffDetailAPIView,
     StaffListCreateAPIView,
     UnlinkStaffAPIView,
-    UserListAPIView,
 )
 
 if settings.DEBUG:
@@ -23,7 +22,6 @@ else:
 urlpatterns = [
     path("", StaffListCreateAPIView.as_view(), name="staffs-list-create"),
     path("invite/", InviteStaffAPI.as_view(), name="staffs-invite"),
-    path("users/", UserListAPIView.as_view(), name="staffs-users"),
     path("<int:pk>/", StaffDetailAPIView.as_view(), name="staffs-detail"),
     path("<int:pk>/link/", LinkToStaffAPIView.as_view(), name="link-to-staff"),
     path("<int:pk>/unlink/", UnlinkStaffAPIView.as_view(), name="merchant-unlink"),

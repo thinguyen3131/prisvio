@@ -8,6 +8,7 @@ from django.utils.translation import gettext as _
 from rest_framework import exceptions, serializers
 
 from prismvio.core.configs import CURRENCY
+from prismvio.location.models import Country, District, Province, Ward
 from prismvio.menu_merchant.models import Category
 from prismvio.users.api.validate_serializers import UserValidationSerializer
 
@@ -38,6 +39,30 @@ def validate_password(password):
             "Password must contain at least one special character such as @, #, $, %, ..."
         )
     return password
+
+
+class CountrySerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Country
+        fields = ("id", "full_name_vi", "full_name_en")
+
+
+class WardSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Ward
+        fields = ("id", "code", "zip_code", "name_vi", "name_en")
+
+
+class DistrictSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = District
+        fields = ("id", "code", "zip_code", "name_vi", "name_en")
+
+
+class ProvinceSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Province
+        fields = ("id", "code", "zip_code", "name_vi", "name_en")
 
 
 class CategorySerializer(serializers.ModelSerializer):
@@ -83,6 +108,22 @@ class MeDetailSerializer(UserValidationSerializer):
     category_ids = serializers.ListField(
         child=serializers.IntegerField(), required=False, allow_null=True, write_only=True
     )
+    country = CountrySerializer(read_only=True)
+    province = ProvinceSerializer(read_only=True)
+    district = DistrictSerializer(read_only=True)
+    ward = WardSerializer(read_only=True)
+    country_id = serializers.PrimaryKeyRelatedField(
+        write_only=True, source="country", required=False, queryset=Country.objects.all()
+    )
+    province_id = serializers.PrimaryKeyRelatedField(
+        write_only=True, source="province", required=False, queryset=Province.objects.all()
+    )
+    district_id = serializers.PrimaryKeyRelatedField(
+        write_only=True, source="district", required=False, queryset=District.objects.all()
+    )
+    ward_id = serializers.PrimaryKeyRelatedField(
+        write_only=True, source="ward", required=False, queryset=Ward.objects.all()
+    )
 
     class Meta:
         model = User
@@ -121,6 +162,14 @@ class MeDetailSerializer(UserValidationSerializer):
             "verification_id",
             "id_token",
             "is_active",
+            "country_id",
+            "province_id",
+            "district_id",
+            "ward_id",
+            "country",
+            "province",
+            "district",
+            "ward",
         )
         read_only_fields = ("verified_email_at", "verified_phone_number_at")
 

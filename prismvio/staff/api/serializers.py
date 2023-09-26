@@ -5,20 +5,11 @@ from prismvio.staff.enums import InviteStatusEnum, LinkStatusEnum
 from prismvio.staff.models import Staff
 from prismvio.users.models import User
 
-# from bookings.tasks import create_staff_booking_event_task
-
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
         fields = ("id", "phone_number", "email", "country_code")
-
-
-class UserDetailSerializer(serializers.Serializer):
-    class Meta:
-        model = User
-        fields = "__all__"
-        read_only_fields = fields
 
 
 class LinkToStaffSerializer(serializers.ModelSerializer):

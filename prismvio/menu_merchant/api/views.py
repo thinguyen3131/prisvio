@@ -149,7 +149,9 @@ class ServiceListCreateView(generics.ListCreateAPIView):
         if merchant_id:
             where &= Q(merchant_id=merchant_id)
         queryset = Services.objects.select_related("merchant").filter(where)
-        return search(queryset=queryset, query_params=query_params, model=Services, exclude_fields=["updated_at"])
+        return search(
+            queryset=queryset, query_params=query_params, model=Services, exclude_fields=["updated_at", "merchant"]
+        )
 
     def perform_create(self, serializer):
         serializer.save(owner=self.request.user)

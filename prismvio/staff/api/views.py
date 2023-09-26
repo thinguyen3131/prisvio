@@ -2,7 +2,7 @@ from datetime import datetime
 
 from django.db.models import Q
 from rest_framework import status
-from rest_framework.generics import ListAPIView, ListCreateAPIView, RetrieveUpdateDestroyAPIView, UpdateAPIView
+from rest_framework.generics import ListCreateAPIView, RetrieveUpdateDestroyAPIView, UpdateAPIView
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from rest_framework.views import APIView
@@ -13,32 +13,13 @@ from prismvio.staff.api.serializers import (
     StaffAcceptedInviteSerializer,
     StaffSerializer,
     UnlinkStaffSerializer,
-    UserDetailSerializer,
 )
 from prismvio.staff.constants import STAFF_SORT_FIELDS
 from prismvio.staff.enums import InviteStatusEnum, LinkStatusEnum
 from prismvio.staff.exceptions import MerchantIDNotNullException, StaffDoesNotExists
 from prismvio.staff.models import Staff
 from prismvio.users.api.serializers import EmailPhoneLookupSerializer
-from prismvio.users.models import User
 from prismvio.users.tasks import invite_new_user
-from prismvio.utils.drf_utils import handle_whitespace
-
-
-class UserListAPIView(ListAPIView):
-    serializer_class = UserDetailSerializer
-
-    def get_queryset(self):
-        email = self.request.GET.get("email")
-        phone_number = self.request.GET.get("phone_number")
-        where = Q()
-        if email:
-            email = handle_whitespace(email, "+")
-            where &= Q(email=email)
-        if phone_number:
-            phone_number = handle_whitespace(phone_number, "+")
-            where &= Q(phone_number=phone_number)
-        return User.objects.filter(where)
 
 
 class StaffListCreateAPIView(ListCreateAPIView):

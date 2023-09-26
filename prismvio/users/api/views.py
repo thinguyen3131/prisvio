@@ -6,6 +6,8 @@ from django.conf import settings
 from django.contrib.auth import get_user_model
 from django.http import JsonResponse
 from django.utils import timezone
+from rest_framework import exceptions, status
+from rest_framework.generics import RetrieveUpdateAPIView, UpdateAPIView
 from rest_framework import exceptions, generics
 from rest_framework.response import Response
 from rest_framework.status import (
@@ -18,15 +20,18 @@ from rest_framework.views import APIView
 from rest_framework_simplejwt.exceptions import TokenError
 from rest_framework_simplejwt.tokens import RefreshToken
 
+from prismvio.core.permissions import IsBusinessAdminOrAdmin
 from prismvio.users.api.serializers import (
     DeactivateUserActiveStatusSerializer,
     MeDetailSerializer,
+    PrivacySettingSerializer,
     SendEmailVerificationCodeSerializer,
     SubUserSerializer,
     UpdatePasswordSerializer,
 )
 from prismvio.users.enums import IntervalLockTime, OTPAction, OTPType
 from prismvio.users.models.otp import OneTimePassword
+from prismvio.users.models.user import PrivacySetting
 from prismvio.users.otp import LimitedError, require_new_otp
 from prismvio.users.tasks import send_email_verification_otp_by_email_template
 
@@ -188,6 +193,55 @@ class DeactivateAPIView(APIView):
         )
 
 
+
+class PrivacySettingAPIView(APIView):
+    permission_classes = [IsBusinessAdminOrAdmin]
+
+    def get_object(self, pk):
+        try:
+            return PrivacySetting.objects.get(user_id=pk)
+        except PrivacySetting.DoesNotExist:
+            return None
+
+    def get(self, request, pk, format=None):
+        privacy_setting = self.get_object(user_id=pk)
+        if privacy_setting is not None:
+            serializer = PrivacySettingSerializer(privacy_setting)
+            return Response(serializer.data)
+        return Response(status=status.HTTP_404_NOT_FOUND)
+
+    def post(self, request, format=None):
+        user = request.user
+
+        if PrivacySetting.objects.filter(user=user).exists():
+            return Response(
+                {"detail": "PrivacySetting already exists for this user"}, status=status.HTTP_400_BAD_REQUEST
+            )
+
+        serializer = PrivacySettingSerializer(data={**request.data, "user": user.id})
+        if serializer.is_valid():
+            serializer.save()
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    def put(self, request, pk, format=None):
+        privacy_setting = self.get_object(pk)
+        if privacy_setting is not None:
+            serializer = PrivacySettingSerializer(privacy_setting, data=request.data)
+            if serializer.is_valid():
+                serializer.save()
+                return Response(serializer.data)
+            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+        return Response(status=status.HTTP_404_NOT_FOUND)
+
+    def delete(self, request, pk, format=None):
+        privacy_setting = self.get_object(pk)
+        if privacy_setting is not None:
+            privacy_setting.delete()
+            return Response(status=status.HTTP_204_NO_CONTENT)
+        return Response(status=status.HTTP_404_NOT_FOUND)
+
 class SubUserCreateAPIView(generics.CreateAPIView):
     serializer_class = SubUserSerializer
 
@@ -206,3 +260,4 @@ class SendOTPEmailPasswordResetView(EmailVerificationCodeBaseView):
 
     def post(self, request):
         return super().post(request)
+

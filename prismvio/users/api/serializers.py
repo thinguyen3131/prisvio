@@ -11,6 +11,7 @@ from prismvio.core.configs import CURRENCY
 from prismvio.location.models import Country, District, Province, Ward
 from prismvio.menu_merchant.models import Category
 from prismvio.users.api.validate_serializers import UserValidationSerializer
+from prismvio.users.models.user import PrivacySetting
 
 User = get_user_model()
 
@@ -241,6 +242,13 @@ class UpdatePasswordSerializer(serializers.Serializer):
 
 class DeactivateUserActiveStatusSerializer(serializers.Serializer):
     refresh_token = serializers.CharField(required=True)
+
+
+
+class PrivacySettingSerializer(serializers.Serializer):
+    class Meta:
+        model = PrivacySetting
+        fields = "__all__"
 
 
 class SubUserSerializer(serializers.ModelSerializer):

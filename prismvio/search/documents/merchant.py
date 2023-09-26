@@ -28,7 +28,7 @@ class MerchantSearchRequest(BaseModel):
     province_id: int | None = None
     district_id: int | None = None
     ward_id: int | None = None
-    user_id: int | None = None
+    owner_id: int | None = None
     category_ids: list[int] | None = []
     distance: int | None = None
     offset: int = 0
@@ -109,7 +109,7 @@ class MerchantDocument(Document):
     province_id = fields.IntegerField(attr="province_id")
     district_id = fields.IntegerField(attr="district_id")
     ward_id = fields.IntegerField(attr="ward_id")
-    user_id = fields.IntegerField(attr="user_id")
+    owner_id = fields.IntegerField(attr="owner_id")
 
     hashtag_ids = fields.ListField(fields.IntegerField())
     category_ids = fields.ListField(fields.IntegerField())
@@ -197,7 +197,7 @@ class MerchantSearch(Search):
                     "province_id",
                     "district_id",
                     "ward_id",
-                    "user_id",
+                    "owner_id",
                 ],
             ),
         ]

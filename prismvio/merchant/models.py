@@ -76,6 +76,7 @@ class Merchant(models.Model):
     total_available_slots_unit = models.CharField(max_length=45, null=True, blank=True)
     total_bookings = models.IntegerField(default=0, null=True, blank=True)
     opening_date = models.DateTimeField(null=True, blank=True)
+    avatar = models.JSONField(default=dict, null=True, blank=True, help_text="Avatar of merchant vio app")
     deleted_at = models.DateTimeField(null=True, blank=True)
     deleted_date = models.DateTimeField(
         null=True,
@@ -83,7 +84,6 @@ class Merchant(models.Model):
     )
     created_at = models.DateTimeField(auto_now_add=True, blank=True, null=True)
     updated_at = models.DateTimeField(auto_now=True, blank=True, null=True)
-    avatar = models.JSONField(default=dict, null=True, blank=True, help_text="Avatar of merchant vio app")
     banner = models.JSONField(default=dict, null=True, blank=True, help_text="Banner")
 
     objects = MerchantManager()

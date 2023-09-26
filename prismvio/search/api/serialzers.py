@@ -4,7 +4,7 @@ from rest_framework import serializers
 from timezone_field.rest_framework import TimeZoneSerializerField
 
 from prismvio.menu_merchant.api.serializers import SearchMerchantSerializer
-from prismvio.menu_merchant.models import Category
+from prismvio.menu_merchant.models import Category, Service
 from prismvio.merchant.models import Merchant
 from prismvio.utils import haversine
 
@@ -44,7 +44,7 @@ class IdsQueryParam(serializers.ListField):
         return result
 
 
-class MerchantQueryParamsSerializer(serializers.Serializer):
+class BaseQueryParamsSerializer(serializers.Serializer):
     search_text = serializers.CharField(required=True)
     latitude = serializers.FloatField(
         required=False, default=settings.DEFAULT_LATITUDE, validators=[validate_latitude]
@@ -52,15 +52,18 @@ class MerchantQueryParamsSerializer(serializers.Serializer):
     longitude = serializers.FloatField(
         required=False, default=settings.DEFAULT_LONGITUDE, validators=[validate_longitude]
     )
+    distance = serializers.IntegerField(min_value=0, max_value=100, required=False)
+    offset = serializers.IntegerField(min_value=0, required=False)
+    limit = serializers.IntegerField(min_value=10, max_value=50, required=False)
+
+
+class MerchantQueryParamsSerializer(BaseQueryParamsSerializer):
     country_id = serializers.IntegerField(min_value=1, required=False)
     province_id = serializers.IntegerField(min_value=1, required=False)
     district_id = serializers.IntegerField(min_value=1, required=False)
     ward_id = serializers.IntegerField(min_value=1, required=False)
-    user_id = serializers.IntegerField(min_value=1, required=False)
+    owner_id = serializers.IntegerField(min_value=1, required=False)
     category_ids = IdsQueryParam(required=False, allow_null=False, allow_empty=True)
-    distance = serializers.IntegerField(min_value=0, max_value=100, required=False)
-    offset = serializers.IntegerField(min_value=0, required=False)
-    limit = serializers.IntegerField(min_value=10, max_value=50, required=False)
 
     def validate_category_ids(self, category_ids):
         for category_id in category_ids:
@@ -82,6 +85,33 @@ class SearchMerchantSerializer(SearchMerchantSerializer):
         fields = "__all__"
 
     def get_distance(self, obj: Merchant):
+        user_position = self.context.get("position")
+        if user_position and obj.latitude and obj.longitude:
+            latitude = user_position.get("latitude")
+            longitude = user_position.get("longitude")
+            if latitude and longitude:
+                return haversine(latitude, longitude, obj.latitude, obj.longitude)
+
+        return None
+
+
+class ServiceQueryParamsSerializer(BaseQueryParamsSerializer):
+    country_id = serializers.IntegerField(min_value=1, required=False)
+    province_id = serializers.IntegerField(min_value=1, required=False)
+    district_id = serializers.IntegerField(min_value=1, required=False)
+    ward_id = serializers.IntegerField(min_value=1, required=False)
+    # category_ids = IdsQueryParam(required=False, allow_null=False, allow_empty=True)
+
+
+class SearchServiceSerializer(serializers.ModelSerializer):
+    distance = serializers.SerializerMethodField()
+    # merchant = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Service
+        fields = "__all__"
+
+    def get_distance(self, obj: Service):
         user_position = self.context.get("position")
         if user_position and obj.latitude and obj.longitude:
             latitude = user_position.get("latitude")

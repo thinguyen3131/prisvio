@@ -7,10 +7,11 @@ from prismvio.menu_merchant.models import (
     CollectionItem,
     Hashtag,
     Keyword,
-    Products,
+    Product,
     Promotion,
-    Services,
+    Service,
 )
+
 from prismvio.merchant.models import Merchant
 from prismvio.staff.models import Staff
 
@@ -39,7 +40,7 @@ class ProductSerializer(serializers.ModelSerializer):
     promotion_ids = serializers.ListField(child=serializers.IntegerField(), required=False, allow_null=True)
 
     class Meta:
-        model = Products
+        model = Product
         fields = "__all__"
 
     def validate_original_price(self, value):
@@ -61,7 +62,7 @@ class ProductSerializer(serializers.ModelSerializer):
         hashtags_data = validated_data.pop("hashtags", [])
         keywords = validated_data.pop("keywords", [])
         promotion_ids = validated_data.pop("promotion_ids", [])
-        product = Products.objects.create(**validated_data)
+        product = Product.objects.create(**validated_data)
 
         if keywords:
             for keyword in keywords:
@@ -122,7 +123,7 @@ class ServiceSerializer(serializers.ModelSerializer):
     staff_ids = serializers.ListField(child=serializers.IntegerField(), required=False, allow_null=True)
 
     class Meta:
-        model = Services
+        model = Service
         fields = "__all__"
 
     def create(self, validated_data):
@@ -130,7 +131,8 @@ class ServiceSerializer(serializers.ModelSerializer):
         keywords = validated_data.pop("keywords", [])
         promotion_ids = validated_data.pop("promotion_ids", [])
         staff_ids = validated_data.pop("staff_ids", [])
-        service = Services.objects.create(**validated_data)
+
+        service = Service.objects.create(**validated_data)
 
         if keywords:
             for keyword in keywords:
@@ -214,13 +216,13 @@ class MerchantSerializer(serializers.ModelSerializer):
 
 class ProductsSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Products
+        model = Product
         fields = "__all__"
 
 
 class ServicesSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Services
+        model = Service
         fields = "__all__"
 
 
@@ -278,7 +280,7 @@ class SearchMerchantSerializer(serializers.ModelSerializer):
 
     def get_latest_services(self, obj):
         # Get the 4 most recently created services
-        services = obj.service.order_by("-created_at")[:4]
+        services = obj.services.order_by("-created_at")[:4]
         return ServicesSerializer(services, many=True).data
 
 

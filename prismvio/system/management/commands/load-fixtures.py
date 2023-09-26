@@ -15,7 +15,7 @@ class Command(BaseCommand):
         # call_command("loaddata", "create_district.json")
         # call_command("loaddata", "create_ward.json")
         # call_command("loaddata", "create_user.json")
-        call_command("loaddata", "create_merchant.json")
+        # call_command("loaddata", "create_merchant.json")
         call_command("loaddata", "create_service.json")
         call_command("loaddata", "create_product.json")
         call_command("loaddata", "create_promotion.json")

@@ -3,10 +3,12 @@ from typing import Any
 from rest_framework.generics import GenericAPIView
 from rest_framework.response import Response
 
+from prismvio.menu_merchant.models import Service
 from prismvio.merchant.api.serializers import MerchantSerializer
 from prismvio.merchant.models import Merchant
-from prismvio.search.api.serialzers import MerchantQueryParamsSerializer, SearchMerchantSerializer
+from prismvio.search.api.serialzers import MerchantQueryParamsSerializer, SearchMerchantSerializer, SearchServiceSerializer, ServiceQueryParamsSerializer
 from prismvio.search.documents.merchant import MerchantSearch, MerchantSearchRequest
+from prismvio.search.documents.service import ServiceSearchRequest, ServiceSearch
 
 
 class SearchBaseView(GenericAPIView):
@@ -87,3 +89,13 @@ class MerchantSearchView(SearchBaseView):
     query_params_serializer_class = MerchantQueryParamsSerializer
     search_request_class = MerchantSearchRequest
     search_class = MerchantSearch
+
+
+class ServiceSearchView(SearchBaseView):
+    permission_classes = []
+    queryset = Service.objects.filter()
+    serializer_class = SearchServiceSerializer
+
+    query_params_serializer_class = ServiceQueryParamsSerializer
+    search_request_class = ServiceSearchRequest
+    search_class = ServiceSearch

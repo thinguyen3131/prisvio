@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 # Register your models here.
-from prismvio.menu_merchant.models import Category, Hashtag, Products, Promotion, Services
+from prismvio.menu_merchant.models import Category, Hashtag, Product, Promotion, Service
 
 
 @admin.register(Category)
@@ -19,11 +19,11 @@ class PromotionAdmin(admin.ModelAdmin):
     pass
 
 
-@admin.register(Products)
+@admin.register(Product)
 class ProductsAdmin(admin.ModelAdmin):
     pass
 
 
-@admin.register(Services)
+@admin.register(Service)
 class ServicesAdmin(admin.ModelAdmin):
     pass

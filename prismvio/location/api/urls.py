@@ -7,5 +7,5 @@ urlpatterns = [
     path("locations/provinces/", views.ProvinceListAPIView.as_view(), name="list-provinces"),
     path("locations/districts/", views.DistrictListAPIView.as_view(), name="list-districts"),
     path("locations/wards/", views.WardListAPIView.as_view(), name="list-wards"),
-    path("export-csv/", views.export_to_csv, name="export_to_csv"),
+    # path("export-csv/", views.export_to_csv, name="export_to_csv"),
 ]

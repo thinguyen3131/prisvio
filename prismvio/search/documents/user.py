@@ -1,22 +1,20 @@
-from django.contrib.auth import get_user_model
+from django.conf import settings
+from elasticsearch_dsl import Q, analyzer
 from pydantic import BaseModel
-from django.db.models import Q
 
+from prismvio.core.dsl import fields
 from prismvio.core.dsl.documents import Document
 from prismvio.core.dsl.registries import registry
 from prismvio.core.dsl.search import Search
 from django.contrib.auth import get_user_model
 from prismvio.users.models.user import PrivacySetting
 from elasticsearch_dsl.query import Nested
-from prismvio.core.dsl import fields
 
 User = get_user_model()
-
 
 class UserSearchRequest(BaseModel):
     search_text: str
     friend_ids: list[int] | None = None
-
 
 @registry.register_document
 class UsersDocument(Document):

@@ -1,4 +1,4 @@
-name: CI
+name: test
 
 # Enable Buildkit and let compose use it to speed up image building
 env:
@@ -7,12 +7,12 @@ env:
 
 on:
   pull_request:
-    branches: ['master', 'main', 'develop']
+    branches: ['main', 'develop']
     paths-ignore: ['docs/**']
 
-  push:
-    branches: ['master', 'main', 'develop']
-    paths-ignore: ['docs/**']
+  # push:
+  #   branches: ['master', 'main', 'develop']
+  #   paths-ignore: ['docs/**']
 
 concurrency:
   group: ${{ github.head_ref || github.run_id }}

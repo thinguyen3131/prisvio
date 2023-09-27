@@ -4,9 +4,13 @@ set -o errexit
 set -o pipefail
 set -o nounset
 
-
-python /app/manage.py collectstatic --noinput
-python /app/manage.py migrate
-python /app/manage.py seed_email_template
-
-exec /usr/local/bin/gunicorn config.asgi --bind 0.0.0.0:8000 --chdir=/app -k uvicorn.workers.UvicornWorker
+if [[ $1 == "migrate" ]]; then
+  python /app/manage.py migrate
+elif [[ $1 == "app" ]]; then
+  python /app/manage.py collectstatic --noinput
+  exec /usr/local/bin/gunicorn config.asgi --bind 0.0.0.0:8000 --chdir=/app -k uvicorn.workers.UvicornWorker
+else
+  python /app/manage.py migrate
+  python /app/manage.py collectstatic --noinput
+  exec /usr/local/bin/gunicorn config.asgi --bind 0.0.0.0:8000 --chdir=/app -k uvicorn.workers.UvicornWorker
+fi

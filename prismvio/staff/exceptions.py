@@ -6,6 +6,6 @@ class StaffDoesNotExists(exceptions.APIException):
     default_detail = "Staff does not exists."
 
 
-class MerchantIDNotNullException(exceptions.APIException):
+class MerchantIDAndUserIDNullException(exceptions.APIException):
     status_code = status.HTTP_500_INTERNAL_SERVER_ERROR
-    default_detail = "The merchant id is not null."
+    default_detail = "The merchant_id and user_id are not null."

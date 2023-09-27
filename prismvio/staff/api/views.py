@@ -1,3 +1,4 @@
+from copy import deepcopy
 from datetime import datetime
 
 from django.db.models import Q
@@ -14,12 +15,12 @@ from prismvio.staff.api.serializers import (
     StaffSerializer,
     UnlinkStaffSerializer,
 )
-from prismvio.staff.constants import STAFF_SORT_FIELDS
 from prismvio.staff.enums import InviteStatusEnum, LinkStatusEnum
-from prismvio.staff.exceptions import MerchantIDNotNullException, StaffDoesNotExists
+from prismvio.staff.exceptions import MerchantIDAndUserIDNullException, StaffDoesNotExists
 from prismvio.staff.models import Staff
 from prismvio.users.api.serializers import EmailPhoneLookupSerializer
 from prismvio.users.tasks import invite_new_user
+from prismvio.utils.drf_utils import search
 
 
 class StaffListCreateAPIView(ListCreateAPIView):
@@ -34,24 +35,26 @@ class StaffListCreateAPIView(ListCreateAPIView):
         return super().get_permissions()
 
     def get_queryset(self):
-        merchant_id = self.request.GET.get("merchant_id", "")
-        updated_at = self.request.GET.get("updated_at")
-        sort_by = self.request.GET.get("sort_by")
-        order = self.request.GET.get("order", "asc")
-        if not merchant_id:
-            raise MerchantIDNotNullException()
-        where = Q(merchant=merchant_id)
+        query_params = deepcopy(self.request.query_params)
+        merchant_id = query_params.get("merchant_id", None)
+        user_id = query_params.get("user_id", None)
+        updated_at = query_params.get("updated_at")
+        if not merchant_id and not user_id:
+            raise MerchantIDAndUserIDNullException()
+        where = Q()
+        if merchant_id:
+            where &= Q(merchant=merchant_id)
+        if user_id:
+            where &= Q(user=user_id)
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
-
-        queryset = Staff.objects.select_related("merchant").filter(where)
-
-        if sort_by and sort_by in STAFF_SORT_FIELDS:
-            order_by = sort_by
-            if order == "desc":
-                order_by = f"-{sort_by}"
-            queryset = queryset.order_by(order_by)
-        return queryset
+        queryset = Staff.objects.select_related("user").select_related("merchant").filter(where)
+        return search(
+            queryset=queryset,
+            query_params=query_params,
+            model=Staff,
+            exclude_fields=["updated_at", "merchant", "user"],
+        )
 
 
 class StaffDetailAPIView(RetrieveUpdateDestroyAPIView):

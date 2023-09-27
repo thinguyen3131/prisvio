@@ -246,6 +246,7 @@ class DeactivateUserActiveStatusSerializer(serializers.Serializer):
 
 
 class PrivacySettingSerializer(serializers.ModelSerializer):
+
     class Meta:
         model = PrivacySetting
         fields = "__all__"

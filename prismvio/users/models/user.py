@@ -141,7 +141,9 @@ class User(AbstractUser):
         self.is_active = True
         self.save()
         # todo: add celery task here to process post-activate
-
+    
+    def friend_ids(self):
+        return self.friends.all().values_list('friend_id', flat=True).distinct()
 
 class PrivacySetting(models.Model):
     ONLY_ME = "OM"
@@ -190,3 +192,11 @@ class Friendship(models.Model):
 
     def __str__(self):
         return f"{self.sender.username} -> {self.receiver.username}: {self.get_status_display()}"
+
+
+class Friend(models.Model):
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, related_name='friends', on_delete=models.CASCADE)
+    friend = models.ForeignKey(settings.AUTH_USER_MODEL, related_name='user_friends', on_delete=models.CASCADE)
+
+    class Meta:
+        unique_together = ('user', 'friend')

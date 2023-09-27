@@ -113,13 +113,13 @@ class ServicesDocument(Document):
 
     def get_instances_from_related(self, related_instance):
         if isinstance(related_instance, Hashtag):
-            return related_instance.service.get_with_related_data().all()
+            return related_instance.services.get_with_related_data().all()
         elif isinstance(related_instance, Keyword):
-            return related_instance.service.get_with_related_data().all()
+            return related_instance.services.get_with_related_data().all()
         elif isinstance(related_instance, Category):
-            return related_instance.service.get_with_related_data().all()
+            return related_instance.services.get_with_related_data().all()
         elif isinstance(related_instance, Merchant):
-            return related_instance.service.get_with_related_data().all()
+            return related_instance.services.get_with_related_data().all()
 
     def prepare(self, instance):
         data = super().prepare(instance)

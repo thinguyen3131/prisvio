@@ -18,7 +18,7 @@ from rest_framework.views import APIView
 from rest_framework_simplejwt.exceptions import TokenError
 from rest_framework_simplejwt.tokens import RefreshToken
 
-from prismvio.core.permissions import IsBusinessAdminOrAdmin
+from prismvio.core.permissions import IsBusinessAdminOrAdmin, IsGetPermission
 from prismvio.users.api.serializers import (
     DeactivateUserActiveStatusSerializer,
     MeDetailSerializer,
@@ -192,49 +192,42 @@ class DeactivateAPIView(APIView):
 
 
 class PrivacySettingAPIView(APIView):
-    permission_classes = [IsBusinessAdminOrAdmin]
+    permission_classes = [IsGetPermission]
 
-    def get_object(self, pk):
+    def get_object(self, user_id):
         try:
-            return PrivacySetting.objects.get(user_id=pk)
+            return PrivacySetting.objects.get(user_id=user_id)
         except PrivacySetting.DoesNotExist:
             return None
-
-    def get(self, request, pk, format=None):
-        privacy_setting = self.get_object(user_id=pk)
-        if privacy_setting is not None:
+    
+    def get(self, request, user_id, format=None):
+        privacy_setting = self.get_object(user_id)
+        if privacy_setting:
             serializer = PrivacySettingSerializer(privacy_setting)
             return Response(serializer.data)
         return Response(status=status.HTTP_404_NOT_FOUND)
-
+    
     def post(self, request, format=None):
-        user = request.user
-
-        if PrivacySetting.objects.filter(user=user).exists():
-            return Response(
-                {"detail": "PrivacySetting already exists for this user"}, status=status.HTTP_400_BAD_REQUEST
-            )
-
-        serializer = PrivacySettingSerializer(data={**request.data, "user": user.id})
+        print(request.data)
+        serializer = PrivacySettingSerializer(data=request.data)
         if serializer.is_valid():
             serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
-
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-
-    def put(self, request, pk, format=None):
-        privacy_setting = self.get_object(pk)
-        if privacy_setting is not None:
+    
+    def put(self, request, user_id, format=None):
+        privacy_setting = self.get_object(user_id)
+        if privacy_setting:
             serializer = PrivacySettingSerializer(privacy_setting, data=request.data)
             if serializer.is_valid():
                 serializer.save()
                 return Response(serializer.data)
             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
         return Response(status=status.HTTP_404_NOT_FOUND)
-
-    def delete(self, request, pk, format=None):
-        privacy_setting = self.get_object(pk)
-        if privacy_setting is not None:
+    
+    def delete(self, request, user_id, format=None):
+        privacy_setting = self.get_object(user_id)
+        if privacy_setting:
             privacy_setting.delete()
             return Response(status=status.HTTP_204_NO_CONTENT)
         return Response(status=status.HTTP_404_NOT_FOUND)

@@ -175,6 +175,7 @@ python manage.py search_index --rebuild --use-alias --use-alias-keep-index [--mo
 export ELASTICSEARCH_DSL_AUTOSYNC=False
 python manage.py seed_dummy_data
 python manage.py search_index --rebuild --parallel
+python manage.py search_index --rebuild --models users.User
 ```
 
 ### Register Elasticsearch DSL document

@@ -1,0 +1,185 @@
+name: docker-build-deploy
+
+on:
+  push:
+    branches:
+      - develop
+      - staging
+    tags:
+      - v*.*.*
+
+env:
+  IMAGE_NAME: prisvio
+  GIT_BRANCH: ${{ github.ref_name }}
+
+jobs:
+  prepare-env-vars:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v1
+
+      - name: Get git SHA
+        run: |
+          export GIT_HASH_TAG=$(git rev-parse --short "$GITHUB_SHA")
+          echo "GIT_HASH_TAG=$GIT_HASH_TAG" >> $GITHUB_ENV
+          
+      - name: Prepare ENVs (dev)
+        if: github.ref == 'refs/heads/develop'
+        run: |
+          echo "ENV=dev" >> $GITHUB_ENV
+          echo "ARGO_ENV=dev-gcp-sg" >> $GITHUB_ENV
+          echo "LATEST_TAG=develop-latest" >> $GITHUB_ENV
+          echo "LATEST_BUILD_STAGE_TAG=develop-build-latest" >> $GITHUB_ENV
+          echo "BUILD_TAG=$GIT_HASH_TAG" >> $GITHUB_ENV
+          echo "BUILD_SHA_TAG=$GIT_HASH_TAG" >> $GITHUB_ENV
+
+      - name: Prepare ENVs (staging)
+        if: github.ref == 'refs/heads/staging'
+        run: |
+          echo "ENV=staging" >> $GITHUB_ENV
+          echo "ARGO_ENV=staging-gcp-sg" >> $GITHUB_ENV
+          echo "LATEST_TAG=staging-latest" >> $GITHUB_ENV
+          echo "LATEST_BUILD_STAGE_TAG=staging-build-latest" >> $GITHUB_ENV
+          echo "BUILD_TAG=$GIT_HASH_TAG" >> $GITHUB_ENV
+          echo "BUILD_SHA_TAG=$GIT_HASH_TAG" >> $GITHUB_ENV
+
+      - name: Prepare ENVs (prod)
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: |
+          echo "ENV=prod" >> $GITHUB_ENV
+          echo "ARGO_ENV=prod-gcp-sg" >> $GITHUB_ENV
+          echo "LATEST_TAG=prod-latest" >> $GITHUB_ENV
+          echo "LATEST_BUILD_STAGE_TAG=prod-build-latest" >> $GITHUB_ENV
+          echo "BUILD_TAG=$GIT_BRANCH" >> $GITHUB_ENV
+          echo "BUILD_SHA_TAG=$GIT_HASH_TAG" >> $GITHUB_ENV
+
+      - name: Export ENVs
+        id: export-envs
+        run: |
+          echo "ENV=$ENV" >> $GITHUB_OUTPUT
+          echo "ARGO_ENV=$ARGO_ENV" >> $GITHUB_OUTPUT
+          echo "LATEST_TAG=$LATEST_TAG" >> $GITHUB_OUTPUT
+          echo "LATEST_BUILD_STAGE_TAG=$LATEST_BUILD_STAGE_TAG" >> $GITHUB_OUTPUT
+          echo "BUILD_TAG=$BUILD_TAG" >> $GITHUB_OUTPUT
+          echo "BUILD_SHA_TAG=$BUILD_SHA_TAG" >> $GITHUB_OUTPUT
+
+    outputs:
+      ENV: ${{ steps.export-envs.outputs.ENV }}
+      ARGO_ENV: ${{ steps.export-envs.outputs.ARGO_ENV }}
+      LATEST_TAG: ${{ steps.export-envs.outputs.LATEST_TAG }}
+      LATEST_BUILD_STAGE_TAG: ${{ steps.export-envs.outputs.LATEST_BUILD_STAGE_TAG }}
+      BUILD_TAG: ${{ steps.export-envs.outputs.BUILD_TAG }}
+      BUILD_SHA_TAG: ${{ steps.export-envs.outputs.BUILD_SHA_TAG }}
+
+  build-push-docker:
+    needs: [prepare-env-vars]
+    runs-on: ubuntu-22.04
+
+    permissions:
+      id-token: write
+      contents: read
+
+    env:
+      ENV: ${{ needs.prepare-env-vars.outputs.ENV }}
+      LATEST_TAG: ${{ needs.prepare-env-vars.outputs.LATEST_TAG }}
+      LATEST_BUILD_STAGE_TAG: ${{ needs.prepare-env-vars.outputs.LATEST_BUILD_STAGE_TAG }}
+      BUILD_TAG: ${{ needs.prepare-env-vars.outputs.BUILD_TAG }}
+      BUILD_SHA_TAG: ${{ needs.prepare-env-vars.outputs.BUILD_SHA_TAG }}
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - id: auth_gcp
+        name: Authenticate with Google Cloud
+        uses: google-github-actions/auth@v1
+        with:
+          token_format: access_token
+          workload_identity_provider: ${{ secrets.GHA_GCP_WORKLOAD_IDP }}
+          service_account: ${{ secrets.GHA_GCP_GAR_SA }}
+          access_token_lifetime: 3600s
+
+      - name: Login to Google Artifact Registry
+        uses: docker/login-action@v1
+        with:
+          registry: asia-southeast1-docker.pkg.dev
+          username: oauth2accesstoken
+          password: ${{ steps.auth_gcp.outputs.access_token }}
+
+      - name: Build, tag, and push build stage image to Google Artifact Registry
+        id: build-push-buildstage-registry
+        env:
+          DOCKER_REGISTRY: "asia-southeast1-docker.pkg.dev/vio-devops/vio"
+        run: |
+          # Docker build
+          docker pull $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_BUILD_STAGE_TAG || true
+          docker build --target python --cache-from $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_BUILD_STAGE_TAG -t $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_BUILD_STAGE_TAG -f compose/production/django/Dockerfile .
+          # Push images
+          docker push $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_BUILD_STAGE_TAG
+
+      - name: Build, tag, and push final image to Google Artifact Registry
+        id: build-push-finalimage-registry
+        env:
+          DOCKER_REGISTRY: "asia-southeast1-docker.pkg.dev/vio-devops/vio"
+        run: |
+          # Docker build
+          docker pull $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_TAG || true
+          docker build --target python-run-stage --cache-from $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_BUILD_STAGE_TAG --cache-from $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_TAG -t $DOCKER_REGISTRY/$IMAGE_NAME:$BUILD_SHA_TAG -f compose/production/django/Dockerfile .
+          # Tag latest branch build
+          docker tag $DOCKER_REGISTRY/$IMAGE_NAME:$BUILD_SHA_TAG $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_TAG
+          # Tag versioned build
+          docker tag $DOCKER_REGISTRY/$IMAGE_NAME:$BUILD_SHA_TAG $DOCKER_REGISTRY/$IMAGE_NAME:$BUILD_TAG
+          # Push images
+          docker push $DOCKER_REGISTRY/$IMAGE_NAME:$LATEST_TAG
+          docker push $DOCKER_REGISTRY/$IMAGE_NAME:$BUILD_TAG
+          docker push $DOCKER_REGISTRY/$IMAGE_NAME:$BUILD_SHA_TAG
+
+  deploy:
+    runs-on: ubuntu-22.04
+    needs: [build-push-docker, prepare-env-vars]
+
+    env:
+      BUILD_TAG: ${{ needs.prepare-env-vars.outputs.BUILD_TAG }}
+      ARGO_ENV: ${{ needs.prepare-env-vars.outputs.ARGO_ENV }}
+
+    steps:
+      - name: Clone vio-ops repository
+        uses: actions/checkout@v3
+        with:
+          repository: PrismTech-Vio/vio-ops
+          path: '.'
+          ref: 'master'
+          ssh-key: "${{ secrets.GHA_APPS_ARGO_DEPLOY_KEY }}"
+
+      - name: Deploy
+        run: |
+          git config --global user.email "ci@prismtech.vn"
+          git config --global user.name "PrismTech CI"
+
+          echo "Updating prisvio argo app with tag $BUILD_TAG"
+          yq '.image.tag = strenv(BUILD_TAG)' -i apps/vio/prisvio/values.$ARGO_ENV.yaml
+
+          max_iteration=5
+          for i in $(seq 1 $max_iteration)
+          do
+            echo "Pushing devops-argocd commit"
+            git commit -am "Deploy prisvio with SHA or tag ${BUILD_TAG}"
+            git pull --rebase
+            git push origin master
+            result=$?
+            if [[ $result -eq 0 ]]
+            then
+              break
+            else
+              echo "Failed to push. Retrying"
+              sleep 1
+            fi
+          done
+
+          if [[ $result -ne 0 ]]
+          then
+            echo "Failed to push. Exiting"
+            exit 1
+          fi

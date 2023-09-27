@@ -48,7 +48,7 @@ class StaffListCreateAPIView(ListCreateAPIView):
             where &= Q(user=user_id)
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
-        queryset = Staff.objects.select_related("merchant").select_related("merchant").filter(where)
+        queryset = Staff.objects.select_related("user").select_related("merchant").filter(where)
         return search(
             queryset=queryset,
             query_params=query_params,

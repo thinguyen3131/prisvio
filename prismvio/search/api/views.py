@@ -2,10 +2,12 @@ from typing import Any
 
 from rest_framework.generics import GenericAPIView
 from rest_framework.response import Response
+from rest_framework import status
 
 from prismvio.menu_merchant.models import Product, Service
 from prismvio.merchant.api.serializers import MerchantSerializer
 from prismvio.merchant.models import Merchant
+from prismvio.users.models.user import Friend
 from prismvio.search.api.serialzers import (
     MerchantQueryParamsSerializer,
     ProductQueryParamsSerializer,
@@ -13,10 +15,15 @@ from prismvio.search.api.serialzers import (
     SearchProductSerializer,
     SearchServiceSerializer,
     ServiceQueryParamsSerializer,
+    SearchUserSerializer,
+    UserQueryParamsSerializer,
 )
 from prismvio.search.documents.merchant import MerchantSearch, MerchantSearchRequest
 from prismvio.search.documents.product import ProductSearch, ProductSearchRequest
 from prismvio.search.documents.service import ServiceSearch, ServiceSearchRequest
+from prismvio.search.documents.user import UserSearch, UserSearchRequest
+from django.contrib.auth import get_user_model
+User = get_user_model()
 
 
 class SearchBaseView(GenericAPIView):
@@ -68,16 +75,11 @@ class SearchBaseView(GenericAPIView):
         return self.search_class
 
     def get(self, request):
-        query_params_serializer_class = self.get_query_params_serializer_class()
         search_class = self.get_search_class()
-        search_request_class = self.get_search_request_class()
-
-        request_params_serializer = query_params_serializer_class(data=request.query_params)
-        request_params_serializer.is_valid(raise_exception=True)
 
         search_instance = search_class()
         queryset = self.get_queryset()
-        search_request = search_request_class.model_validate(request_params_serializer.validated_data)
+        search_request = self.get_search_request_data(request)
         result, total = search_instance.custom_search(queryset, search_request)
         serializer = self.get_serializer(result, many=True)
 
@@ -87,6 +89,14 @@ class SearchBaseView(GenericAPIView):
                 "items": serializer.data,
             }
         )
+    
+    def get_search_request_data(self, request):
+        query_params_serializer_class = self.get_query_params_serializer_class()
+        search_request_class = self.get_search_request_class()
+        request_params_serializer = query_params_serializer_class(data=request.query_params)
+        request_params_serializer.is_valid(raise_exception=True)
+        search_request = search_request_class.model_validate(request_params_serializer.validated_data)
+        return search_request
 
 
 class MerchantSearchView(SearchBaseView):
@@ -117,3 +127,20 @@ class ProductSearchView(SearchBaseView):
     query_params_serializer_class = ProductQueryParamsSerializer
     search_request_class = ProductSearchRequest
     search_class = ProductSearch
+
+
+class UserSearchView(SearchBaseView):
+    permission_classes = []
+    queryset = User.objects.filter()
+    serializer_class = SearchUserSerializer
+
+    query_params_serializer_class = UserQueryParamsSerializer
+    search_request_class = UserSearchRequest
+    search_class = UserSearch
+
+    def get_search_request_data(self, request):
+        data = super(UserSearchView, self).get_search_request_data(request)
+        print(request.user)
+        if request.user.is_authenticated:
+            data.friend_ids = list(Friend.objects.values_list('friend_id', flat=True).distinct())
+        return data 

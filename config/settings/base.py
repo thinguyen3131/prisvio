@@ -225,15 +225,7 @@ CSRF_COOKIE_HTTPONLY = True
 # https://docs.djangoproject.com/en/dev/ref/settings/#x-frame-options
 X_FRAME_OPTIONS = "DENY"
 
-# EMAIL
-# ------------------------------------------------------------------------------
-# https://docs.djangoproject.com/en/dev/ref/settings/#email-backend
-EMAIL_BACKEND = env(
-    "DJANGO_EMAIL_BACKEND",
-    default="django.core.mail.backends.smtp.EmailBackend",
-)
-# https://docs.djangoproject.com/en/dev/ref/settings/#email-timeout
-EMAIL_TIMEOUT = 5
+
 
 # ADMIN
 # ------------------------------------------------------------------------------
@@ -422,8 +414,16 @@ BASE_HOST = env("BASE_HOST", default="api.prismtech.vn")
 BASE_HOST_PROTOCOL = env("BASE_HOST_PROTOCOL", default="https")
 BASE_URL = f"{BASE_HOST_PROTOCOL}://{BASE_HOST}"
 
-# email settings
-EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+
+# EMAIL
+# ------------------------------------------------------------------------------
+# https://docs.djangoproject.com/en/dev/ref/settings/#email-backend
+EMAIL_BACKEND = env(
+    "DJANGO_EMAIL_BACKEND",
+    default="django.core.mail.backends.smtp.EmailBackend",
+)
+# https://docs.djangoproject.com/en/dev/ref/settings/#email-timeout
+EMAIL_TIMEOUT = 5
 EMAIL_HOST = env("EMAIL_HOST", default="smtp.gmail.com")
 EMAIL_USE_TLS = False
 EMAIL_PORT = env("EMAIL_PORT", default="465")

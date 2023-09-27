@@ -7,7 +7,8 @@ from prismvio.menu_merchant.api.serializers import SearchMerchantSerializer
 from prismvio.menu_merchant.models import Category, Product, Service
 from prismvio.merchant.models import Merchant
 from prismvio.utils import haversine
-
+from django.contrib.auth import get_user_model
+User = get_user_model()
 
 def validate_latitude(value):
     """
@@ -147,3 +148,12 @@ class SearchProductSerializer(serializers.ModelSerializer):
                 return haversine(latitude, longitude, obj.latitude, obj.longitude)
 
         return None
+
+
+class UserQueryParamsSerializer(serializers.Serializer):
+    search_text = serializers.CharField(required=True)
+
+class SearchUserSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ['id', 'username', 'email', 'phone_number']

@@ -10,7 +10,7 @@ class ServicesProductsManager(models.Manager):
     def get_with_related_data(self):
         return self.prefetch_related(
             "hashtags",
-            "keyword",
+            "keywords",
         ).select_related(
             "merchant",
             "category",

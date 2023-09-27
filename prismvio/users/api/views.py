@@ -6,9 +6,7 @@ from django.conf import settings
 from django.contrib.auth import get_user_model
 from django.http import JsonResponse
 from django.utils import timezone
-from rest_framework import exceptions, status
-from rest_framework.generics import RetrieveUpdateAPIView, UpdateAPIView
-from rest_framework import exceptions, generics
+from rest_framework import exceptions, generics, status
 from rest_framework.response import Response
 from rest_framework.status import (
     HTTP_200_OK,
@@ -193,7 +191,6 @@ class DeactivateAPIView(APIView):
         )
 
 
-
 class PrivacySettingAPIView(APIView):
     permission_classes = [IsBusinessAdminOrAdmin]
 
@@ -242,6 +239,7 @@ class PrivacySettingAPIView(APIView):
             return Response(status=status.HTTP_204_NO_CONTENT)
         return Response(status=status.HTTP_404_NOT_FOUND)
 
+
 class SubUserCreateAPIView(generics.CreateAPIView):
     serializer_class = SubUserSerializer
 
@@ -260,4 +258,3 @@ class SendOTPEmailPasswordResetView(EmailVerificationCodeBaseView):
 
     def post(self, request):
         return super().post(request)
-

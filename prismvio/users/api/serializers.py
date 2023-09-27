@@ -244,7 +244,6 @@ class DeactivateUserActiveStatusSerializer(serializers.Serializer):
     refresh_token = serializers.CharField(required=True)
 
 
-
 class PrivacySettingSerializer(serializers.Serializer):
     class Meta:
         model = PrivacySetting

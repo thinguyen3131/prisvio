@@ -111,11 +111,14 @@ class ProductListCreateView(generics.ListCreateAPIView):
         query_params = deepcopy(self.request.query_params)
         updated_at = query_params.get("updated_at")
         merchant_id = query_params.get("merchant_id")
+        skip_deleted_at = int(query_params.get("skip_deleted_at", 0))
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
         if merchant_id:
             where &= Q(merchant_id=merchant_id)
+        if skip_deleted_at:
+            where &= Q(deleted_at__isnull=True)
         queryset = Product.objects.select_related("merchant").filter(where)
         return search(queryset=queryset, query_params=query_params, model=Product, exclude_fields=["updated_at"])
 
@@ -143,11 +146,14 @@ class ServiceListCreateView(generics.ListCreateAPIView):
         query_params = deepcopy(self.request.query_params)
         updated_at = query_params.get("updated_at")
         merchant_id = query_params.get("merchant_id")
+        skip_deleted_at = int(query_params.get("skip_deleted_at", 0))
         where = Q()
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
         if merchant_id:
             where &= Q(merchant_id=merchant_id)
+        if skip_deleted_at:
+            where &= Q(deleted_at__isnull=True)
         queryset = Service.objects.select_related("merchant").filter(where)
         return search(
             queryset=queryset, query_params=query_params, model=Service, exclude_fields=["updated_at", "merchant"]

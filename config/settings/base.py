@@ -97,6 +97,7 @@ LOCAL_APPS = [
     "prismvio.social_login",
     "prismvio.bookings",
     "prismvio.notifications",
+    "prismvio.events",
     # search should get end
     "prismvio.search",
 ]
@@ -224,7 +225,6 @@ SESSION_COOKIE_HTTPONLY = True
 CSRF_COOKIE_HTTPONLY = True
 # https://docs.djangoproject.com/en/dev/ref/settings/#x-frame-options
 X_FRAME_OPTIONS = "DENY"
-
 
 
 # ADMIN

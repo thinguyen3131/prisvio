@@ -1,28 +1,28 @@
 from typing import Any
 
+from django.contrib.auth import get_user_model
 from rest_framework.generics import GenericAPIView
 from rest_framework.response import Response
-from rest_framework import status
 
 from prismvio.menu_merchant.models import Product, Service
 from prismvio.merchant.api.serializers import MerchantSerializer
 from prismvio.merchant.models import Merchant
-from prismvio.users.models.user import Friend
 from prismvio.search.api.serialzers import (
     MerchantQueryParamsSerializer,
     ProductQueryParamsSerializer,
     SearchMerchantSerializer,
     SearchProductSerializer,
     SearchServiceSerializer,
-    ServiceQueryParamsSerializer,
     SearchUserSerializer,
+    ServiceQueryParamsSerializer,
     UserQueryParamsSerializer,
 )
 from prismvio.search.documents.merchant import MerchantSearch, MerchantSearchRequest
 from prismvio.search.documents.product import ProductSearch, ProductSearchRequest
 from prismvio.search.documents.service import ServiceSearch, ServiceSearchRequest
 from prismvio.search.documents.user import UserSearch, UserSearchRequest
-from django.contrib.auth import get_user_model
+from prismvio.users.models.user import Friend
+
 User = get_user_model()
 
 
@@ -89,7 +89,7 @@ class SearchBaseView(GenericAPIView):
                 "items": serializer.data,
             }
         )
-    
+
     def get_search_request_data(self, request):
         query_params_serializer_class = self.get_query_params_serializer_class()
         search_request_class = self.get_search_request_class()
@@ -139,8 +139,8 @@ class UserSearchView(SearchBaseView):
     search_class = UserSearch
 
     def get_search_request_data(self, request):
-        data = super(UserSearchView, self).get_search_request_data(request)
+        data = super().get_search_request_data(request)
         print(request.user)
         if request.user.is_authenticated:
-            data.friend_ids = list(Friend.objects.values_list('friend_id', flat=True).distinct())
-        return data 
+            data.friend_ids = list(Friend.objects.values_list("friend_id", flat=True).distinct())
+        return data

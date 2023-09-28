@@ -24,7 +24,7 @@ jobs:
         run: |
           export GIT_HASH_TAG=$(git rev-parse --short "$GITHUB_SHA")
           echo "GIT_HASH_TAG=$GIT_HASH_TAG" >> $GITHUB_ENV
-          
+
       - name: Prepare ENVs (dev)
         if: github.ref == 'refs/heads/develop'
         run: |
@@ -87,7 +87,7 @@ jobs:
       LATEST_BUILD_STAGE_TAG: ${{ needs.prepare-env-vars.outputs.LATEST_BUILD_STAGE_TAG }}
       BUILD_TAG: ${{ needs.prepare-env-vars.outputs.BUILD_TAG }}
       BUILD_SHA_TAG: ${{ needs.prepare-env-vars.outputs.BUILD_SHA_TAG }}
-    
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4

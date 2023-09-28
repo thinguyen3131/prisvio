@@ -18,7 +18,7 @@ from rest_framework.views import APIView
 from rest_framework_simplejwt.exceptions import TokenError
 from rest_framework_simplejwt.tokens import RefreshToken
 
-from prismvio.core.permissions import IsBusinessAdminOrAdmin, IsGetPermission
+from prismvio.core.permissions import IsGetPermission
 from prismvio.users.api.serializers import (
     DeactivateUserActiveStatusSerializer,
     MeDetailSerializer,
@@ -199,14 +199,14 @@ class PrivacySettingAPIView(APIView):
             return PrivacySetting.objects.get(user_id=user_id)
         except PrivacySetting.DoesNotExist:
             return None
-    
+
     def get(self, request, user_id, format=None):
         privacy_setting = self.get_object(user_id)
         if privacy_setting:
             serializer = PrivacySettingSerializer(privacy_setting)
             return Response(serializer.data)
         return Response(status=status.HTTP_404_NOT_FOUND)
-    
+
     def post(self, request, format=None):
         print(request.data)
         serializer = PrivacySettingSerializer(data=request.data)
@@ -214,7 +214,7 @@ class PrivacySettingAPIView(APIView):
             serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-    
+
     def put(self, request, user_id, format=None):
         privacy_setting = self.get_object(user_id)
         if privacy_setting:
@@ -224,7 +224,7 @@ class PrivacySettingAPIView(APIView):
                 return Response(serializer.data)
             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
         return Response(status=status.HTTP_404_NOT_FOUND)
-    
+
     def delete(self, request, user_id, format=None):
         privacy_setting = self.get_object(user_id)
         if privacy_setting:

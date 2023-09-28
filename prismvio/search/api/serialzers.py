@@ -1,4 +1,5 @@
 from django.conf import settings
+from django.contrib.auth import get_user_model
 from django.core.exceptions import ValidationError
 from rest_framework import serializers
 from timezone_field.rest_framework import TimeZoneSerializerField
@@ -7,8 +8,9 @@ from prismvio.menu_merchant.api.serializers import SearchMerchantSerializer
 from prismvio.menu_merchant.models import Category, Product, Service
 from prismvio.merchant.models import Merchant
 from prismvio.utils import haversine
-from django.contrib.auth import get_user_model
+
 User = get_user_model()
+
 
 def validate_latitude(value):
     """
@@ -153,7 +155,8 @@ class SearchProductSerializer(serializers.ModelSerializer):
 class UserQueryParamsSerializer(serializers.Serializer):
     search_text = serializers.CharField(required=True)
 
+
 class SearchUserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ['id', 'username', 'email', 'phone_number']
+        fields = ["id", "username", "email", "phone_number"]

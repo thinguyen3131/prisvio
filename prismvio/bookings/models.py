@@ -50,6 +50,7 @@ class Booking(models.Model):
     )
     sent_notify = models.IntegerField(default=0)
     user_info = JSONField(default=dict, null=True, blank=True)
+    merchant_info = JSONField(default=dict, null=True, blank=True)
 
 
 class BookingService(models.Model):

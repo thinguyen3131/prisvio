@@ -93,7 +93,7 @@ class LoginSerializer(serializers.Serializer):
             else:
                 raise LoginFailException()
         except User.DoesNotExist:
-            raise ()
+            raise LoginFailException()
 
 
 class PrismTokenRefreshSerializer(TokenRefreshSerializer):

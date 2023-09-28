@@ -1,6 +1,7 @@
 from django.db import transaction
 from rest_framework import serializers
 
+from prismvio.bookings.tasks import create_staff_booking_event_task
 from prismvio.staff.enums import InviteStatusEnum, LinkStatusEnum
 from prismvio.staff.models import Staff
 from prismvio.users.models import User
@@ -41,7 +42,7 @@ class StaffAcceptedInviteSerializer(serializers.ModelSerializer):
         ):
             validated_data["invite_status"] = InviteStatusEnum.ACCEPTED.value
             validated_data["link_status"] = LinkStatusEnum.LINKED.value
-            # create_staff_booking_event_task.delay(staff_id=instance.pk, user_id=instance.user.pk)
+            create_staff_booking_event_task.delay(staff_id=instance.pk, user_id=instance.user.pk)
             # TODO send notification or email
             return super().update(instance, validated_data)
         return instance

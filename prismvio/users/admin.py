@@ -2,6 +2,7 @@ from django.contrib import admin
 from django.contrib.auth import admin as auth_admin
 from django.contrib.auth import get_user_model
 from django.utils.translation import gettext_lazy as _
+
 from prismvio.users.models.user import PrivacySetting
 
 User = get_user_model()
@@ -23,11 +24,11 @@ class UserAdmin(auth_admin.UserAdmin):
                     "user_permissions",
                 ),
             },
-        )#,
-        #(_("Important dates"), {"fields": ("last_login", "date_joined")}),
+        )  # ,
+        # (_("Important dates"), {"fields": ("last_login", "date_joined")}),
     )
-    list_display = ["id","email","phone_number", "full_name", "is_superuser"]
-    search_fields = ["id","email","phone_number", "full_name"]
+    list_display = ["id", "email", "phone_number", "full_name", "is_superuser"]
+    search_fields = ["id", "email", "phone_number", "full_name"]
     ordering = ["id"]
     add_fieldsets = (
         (
@@ -43,7 +44,7 @@ class UserAdmin(auth_admin.UserAdmin):
 
 @admin.register(PrivacySetting)
 class PrivacySettingAdmin(admin.ModelAdmin):
-    list_display = ['user','username_privacy','email_privacy','phone_number_privacy']
+    list_display = ["user", "username_privacy", "email_privacy", "phone_number_privacy"]
     # list_filter = ['user']
-    search_fields = ['user','username_privacy','email_privacy','phone_number_privacy']
+    search_fields = ["user", "username_privacy", "email_privacy", "phone_number_privacy"]
     list_per_page = 20

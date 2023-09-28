@@ -97,15 +97,7 @@ class IsGetPermission(permissions.BasePermission):
             return True
 
         # Check for ownership.
-        print("===========================================================")
-        print(request.user.phone_number)
-        # print(request.user.is_authenticated)
-        print(obj.owner.phone_number)
-        print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         is_authenticated = bool(request.user and request.user.is_authenticated)
-        # print("=======================obj.owner====================================")
-        # print(is_authenticated)
-        # print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         if is_authenticated and obj.owner and obj.owner == request.user:
             return True
         return False

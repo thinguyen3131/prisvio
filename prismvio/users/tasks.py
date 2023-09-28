@@ -32,14 +32,6 @@ def send_email_verification_otp_by_email_template(
         logger.error("Task send_email_verification_otp_by_email_template error: otp")
         return
     email_templates = EmailTemplate.objects.filter(code="000C")
-    print("================================================================")
-    # print(settings.EMAIL_PORT)
-    # print(settings.EMAIL_HOST_USER)
-    # print(settings.EMAIL_HOST_PASSWORD)
-    # print(settings.EMAIL_USE_TLS)
-    # print(settings.EMAIL_USE_SSL)
-    print(settings.BASE_URL)
-    print("****************************************************************")
     timeout = str(round(timeout / 60))
     if email_templates.exists() is True:
         email_template = email_templates.last()

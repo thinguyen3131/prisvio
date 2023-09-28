@@ -124,7 +124,7 @@ LOGGING = {
     "root": {"level": env("LOGGING_ROOT_LEVEL", default="INFO"), "handlers": ["console"]},
     "loggers": {
         "django": {
-            "handlers": ["intercept"],
+            "handlers": ["console"],
             "level": env("LOGGERS_DJANGO_LEVEL", default="INFO"),
             "propagate": False,
         },

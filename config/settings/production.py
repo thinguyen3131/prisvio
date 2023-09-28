@@ -121,10 +121,15 @@ LOGGING = {
             "formatter": "verbose",
         }
     },
-    "root": {"level": env("LOGGING_ROOT_LEVEL", default="ERROR"), "handlers": ["console"]},
+    "root": {"level": env("LOGGING_ROOT_LEVEL", default="INFO"), "handlers": ["console"]},
     "loggers": {
+        "django": {
+            "handlers": ["intercept"],
+            "level": env("LOGGERS_DJANGO_LEVEL", default="INFO"),
+            "propagate": False,
+        },
         "django.db.backends": {
-            "level": "ERROR",
+            "level": env("LOGGERS_DJANGO_DB_BACKENDS_LEVEL", default="INFO"),
             "handlers": ["console"],
             "propagate": False,
         },

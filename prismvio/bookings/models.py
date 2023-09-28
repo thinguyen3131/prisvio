@@ -64,12 +64,15 @@ class BookingService(models.Model):
     price = models.FloatField(null=True, blank=True, default=None)
     quantity = models.IntegerField(null=True, blank=True, default=None)
     note = models.TextField(null=True, blank=True, default=None)
-    # merchant_event = models.ForeignKey("events.Event", related_name='merchant_events', null=True, blank=True,
-    #                                    on_delete=models.SET_NULL)
-    # booked_user_event = models.ForeignKey("events.Event", related_name='booked_user_events', null=True, blank=True,
-    #                                       on_delete=models.SET_NULL)
-    # staff_event = models.ForeignKey("events.Event", related_name='staff_events', null=True, blank=True,
-    #                                 on_delete=models.SET_NULL)
+    merchant_event = models.ForeignKey(
+        "events.Event", related_name="merchant_events", null=True, blank=True, on_delete=models.SET_NULL
+    )
+    booked_user_event = models.ForeignKey(
+        "events.Event", related_name="booked_user_events", null=True, blank=True, on_delete=models.SET_NULL
+    )
+    staff_event = models.ForeignKey(
+        "events.Event", related_name="staff_events", null=True, blank=True, on_delete=models.SET_NULL
+    )
     is_anyone = models.BooleanField(default=False)
     service_info = JSONField(default=dict, null=True, blank=True)
     staff_info = JSONField(default=dict, null=True, blank=True)

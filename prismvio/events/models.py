@@ -10,3 +10,5 @@ class Event(models.Model):
     latitude = models.DecimalField(max_digits=22, decimal_places=16, null=True, blank=True)
     longitude = models.DecimalField(max_digits=22, decimal_places=16, null=True, blank=True)
     event_data = models.JSONField(default=dict, null=True, blank=True)
+    merchant_id = models.IntegerField(blank=True, null=True)
+    staff_id = models.IntegerField(blank=True, null=True)

@@ -170,13 +170,13 @@ class UserCreateSerializer(UserValidationSerializer):
             "username",
         )
         extra_kwargs = {
-            "password": {"write_only": True},
+            "password": {"write_only": True, "required": True},
         }
         read_only_fields = ("verified_email_at", "verified_phone_number_at")
 
     def validate_password(self, raw_password):
         django_validate_password(raw_password)
-        return raw_password
+        return make_password(raw_password)
 
     def validate(self, attrs):
         return self.validate_identity_info(attrs)
@@ -200,7 +200,6 @@ class UserCreateSerializer(UserValidationSerializer):
             self.check_id_token(id_token, phone_number)
             validated_data["verified_phone_number_at"] = timezone.now()
 
-        validated_data["password"] = make_password(validated_data["password"])
         user = self.Meta.model(**validated_data)
         user.first_time_login = True
         user.save()

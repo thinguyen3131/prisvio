@@ -8,6 +8,7 @@ from prismvio.users_auth.api.views import (
     PhonePasswordResetView,
     PrismTokenRefreshView,
     SignupAPIView,
+    ValidateEmailVerificationCode,
 )
 
 if settings.DEBUG:
@@ -21,4 +22,5 @@ urlpatterns = [
     path("signup/", SignupAPIView.as_view(), name="signup"),
     path("phone/password/reset/", PhonePasswordResetView.as_view(), name="phone-password-reset"),
     path("email/password/reset/", EmailPasswordResetView.as_view(), name="email-password-reset"),
+    path("email/validate/otp/", ValidateEmailVerificationCode.as_view(), name="validate-email-otp"),
 ]

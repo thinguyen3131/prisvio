@@ -287,7 +287,7 @@ class SubUserSerializer(serializers.ModelSerializer):
         parent = validated_data.get("parent_id")
         data = {
             "username": username,
-            "password": password,
+            "password": make_password(password),
             "full_name": username,
             "gender": parent.gender,
             "parent_id": parent.pk,

@@ -36,29 +36,37 @@ def google_login(request):
     if user.is_registered:
         return Response(
             {
-                "id": user.id,
-                "user_avatar": user.avatar,
-                "parent_id": user.parent.id if user.parent else "",
-                "banner": user.banner,
-                "full_name": f"{user.last_name} {user.first_name}",
+                "user" :{
+                    "id": user.id,
+                    "avatar": user.avatar,
+                    "parent_id": user.parent.id if user.parent else "",
+                    "banner": user.banner,
+                    "full_name": f"{user.last_name} {user.first_name}",
+                    "is_registered": user.is_registered,
+                    "profile_type": user.profile_type,
+                },
+                
                 "refresh": str(refresh),
                 "access": str(refresh.access_token),
-                "is_registered": user.is_registered,
-                "profile_type": user.profile_type,
+                
             }
         )
     else:
         return Response(
             {
-                "id": user.id,
-                "user_avatar": user.avatar,
-                "parent_id": user.parent.id if user.parent else "",
-                "banner": user.banner,
-                "full_name": f"{user.last_name} {user.first_name}",
+                "user" :{
+                    "id": user.id,
+                    "avatar": user.avatar,
+                    "parent_id": user.parent.id if user.parent else "",
+                    "banner": user.banner,
+                    "full_name": f"{user.last_name} {user.first_name}",
+                    "is_registered": user.is_registered,
+                    "profile_type": user.profile_type,
+                },
+                
                 "refresh": str(refresh),
                 "access": str(refresh.access_token),
-                "is_registered": user.is_registered,
-                "profile_type": user.profile_type,
+                
             }
         )
 

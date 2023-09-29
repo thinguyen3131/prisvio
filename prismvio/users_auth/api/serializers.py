@@ -61,7 +61,7 @@ class CategorySerializer(serializers.ModelSerializer):
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ("id", "first_name", "middle_name", "last_name", "full_name")
+        fields = ("id", "first_name", "middle_name", "last_name", "full_name", "avatar", "banner", "parent_id", "profile_type")
 
 
 class LoginSerializer(serializers.Serializer):
@@ -75,6 +75,7 @@ class LoginSerializer(serializers.Serializer):
         phone_number = attrs.get("phone_number")
         username = attrs.get("username")
         password = attrs.get("password")
+
         user = None
         try:
             if email:

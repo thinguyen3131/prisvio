@@ -18,6 +18,7 @@ from prismvio.users.api.validate_serializers import UserValidationSerializer, Ve
 from prismvio.users.enums import OTPAction
 from prismvio.users_auth.exceptions import LoginFailException
 from prismvio.utils.exceptions import CODE
+from django.contrib.auth import authenticate
 
 User = get_user_model()
 
@@ -89,11 +90,11 @@ class LoginSerializer(serializers.Serializer):
         user = None
         try:
             if email:
-                user = User.objects.get(email=email)
+                user = User.objects.get(email=email, is_active=True)
             elif phone_number:
-                user = User.objects.get(phone_number=phone_number)
+                user = User.objects.get(phone_number=phone_number, is_active=True)
             elif username:
-                user = User.objects.get(username=username)
+                user = User.objects.get(username=username, is_active=True)
             if user and user.check_password(password):
                 refresh = RefreshToken.for_user(user)
                 return {

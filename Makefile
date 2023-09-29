@@ -56,5 +56,4 @@ celery:
 	celery -A config.celery_app worker --loglevel=INFO
 
 load-data:
-	python manage.py 
-	
+	python manage.py

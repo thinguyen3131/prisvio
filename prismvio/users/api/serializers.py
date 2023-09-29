@@ -271,8 +271,8 @@ class SubUserSerializer(serializers.ModelSerializer):
         try:
             django_validate_password(value)
         except Exception:
-            raise serializers.ValidationError(_("Invalid new password"))
-        return make_password(value)
+            raise serializers.ValidationError(_("Invalid password"))
+        return value
 
     def validate_parent_id(self, value):
         try:
@@ -287,7 +287,7 @@ class SubUserSerializer(serializers.ModelSerializer):
         parent = validated_data.get("parent_id")
         data = {
             "username": username,
-            "password": password,
+            "password": make_password(password),
             "full_name": username,
             "gender": parent.gender,
             "parent_id": parent.pk,

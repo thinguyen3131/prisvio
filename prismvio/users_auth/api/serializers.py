@@ -163,7 +163,6 @@ class UserCreateSerializer(UserValidationSerializer):
             "phone_verified",
             "category_ids",
             "verification_id",
-            "otp",
             "id_token",
             "verified_email_at",
             "verified_phone_number_at",
@@ -189,11 +188,10 @@ class UserCreateSerializer(UserValidationSerializer):
         email_verified = validated_data.get("email_verified")
         phone_verified = validated_data.get("phone_verified")
         category_ids = validated_data.pop("category_ids", [])
-        otp = validated_data.pop("otp", None)
 
         otp_obj = None
         if email and email_verified:
-            otp_obj = self.check_verification_id(signature, email, otp)
+            otp_obj = self.check_verification_id(signature, email)
             validated_data["verified_email_at"] = timezone.now()
 
         if phone_number and phone_verified:
@@ -278,7 +276,6 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
     email = serializers.EmailField(required=True)
     verification_id = serializers.CharField(required=True)
     password = serializers.CharField(required=True)
-    otp = serializers.CharField(write_only=True, required=True)
 
     class Meta:
         model = User
@@ -286,7 +283,6 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
             "email",
             "password",
             "verification_id",
-            "otp",
         )
 
     def validate_password(self, raw_password):
@@ -296,10 +292,9 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
     def create(self, validated_data):
         signature = validated_data.get("verification_id")
         email = validated_data.get("email")
-        otp = validated_data.get("otp")
         password = validated_data.get("password")
 
-        otp_obj = self.check_verification_id(signature, email, otp, OTPAction.PASSWORD_RESET.value)
+        otp_obj = self.check_verification_id(signature, email, OTPAction.PASSWORD_RESET.value)
         try:
             user = User.objects.get(
                 email=email,

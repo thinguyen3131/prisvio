@@ -12,7 +12,6 @@ from rest_framework import exceptions, serializers
 from prismvio.core.firebase import get_firebase_admin_service
 from prismvio.users.enums import IntervalLockTime, OTPAction, OTPType
 from prismvio.users.models.otp import OneTimePassword
-from prismvio.users.otp import LimitedError, get_otp_instance, is_valid_otp_instance
 from prismvio.utils.exceptions import CODE
 from prismvio.utils.phonenumber import get_country_code_from_phone_number, validate_phone_number
 
@@ -27,9 +26,8 @@ def raise_throttled(wait=None, detail=None):
 
 class VerificationIdSerializer(serializers.Serializer):
     verification_id = serializers.CharField(required=False, write_only=True, allow_blank=True, allow_null=True)
-    otp = serializers.CharField(write_only=True, required=False)
 
-    def check_verification_id(self, signature, email, otp, otp_action=OTPAction.ID_VERIFICATION.value):
+    def check_verification_id(self, signature, email, otp_action=OTPAction.ID_VERIFICATION.value):
         if not signature:
             raise exceptions.ValidationError(
                 "The verification ID is not valid 111111",
@@ -43,7 +41,7 @@ class VerificationIdSerializer(serializers.Serializer):
             otp_type=OTPType.EMAIL.value,
             email=email,
             otp_action=otp_action,
-            is_verified=False,
+            is_verified=True,
             last_send__gte=past_time,
             is_used=False,
         ).last()
@@ -52,23 +50,6 @@ class VerificationIdSerializer(serializers.Serializer):
                 "The verification ID is not valid.",
                 "invalid_verification_id",
             )
-
-        instance = get_otp_instance(
-            signature=signature,
-            otp_type=OTPType.EMAIL.value,
-        )
-        if not instance or instance.email != email:
-            raise exceptions.NotFound("Expired OTP", "OTP_NOT_FOUND")
-        try:
-            interval = int(settings.EMAIL_VERIFICATION_CODE_TIMEOUT)
-            if not is_valid_otp_instance(instance, otp, interval):
-                raise exceptions.ParseError("Invalid OTP.", "otp_invalid")
-        except LimitedError:
-            raise_throttled(IntervalLockTime.CHECK)
-        if otp_obj:
-            otp_obj.is_used = True
-            otp_obj.is_verified = True
-            otp_obj.save()
         return otp_obj
 
 

@@ -253,7 +253,7 @@ class PrivacySettingSerializer(serializers.ModelSerializer):
 class SubUserSerializer(serializers.ModelSerializer):
     username = serializers.CharField(required=True, max_length=100)
     parent_id = serializers.IntegerField(required=True)
-    password = serializers.CharField(required=True)
+    password = serializers.CharField(required=True, write_only=True)
 
     class Meta:
         model = User
@@ -267,7 +267,7 @@ class SubUserSerializer(serializers.ModelSerializer):
         except User.DoesNotExist:
             return value
 
-    def validate_new_password(self, value):
+    def validate_password(self, value):
         try:
             django_validate_password(value)
         except Exception:

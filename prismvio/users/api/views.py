@@ -4,6 +4,7 @@ from datetime import timedelta
 import jwt
 from django.conf import settings
 from django.contrib.auth import get_user_model
+from django.contrib.auth.hashers import make_password
 from django.http import JsonResponse
 from django.utils import timezone
 from rest_framework import exceptions, generics, status
@@ -135,7 +136,7 @@ class MyPasswordView(generics.UpdateAPIView):
         serializer = self.get_serializer(data=request.data)
 
         serializer.is_valid(raise_exception=True)
-        user.set_password(serializer.data.get("new_password"))
+        user.password = make_password(serializer.data.get("new_password"))
         user.save()
 
         return Response(status=HTTP_204_NO_CONTENT)

@@ -231,7 +231,7 @@ class PhonePasswordResetSerializer(serializers.ModelSerializer):
 
     def validate_password(self, raw_password):
         django_validate_password(raw_password)
-        return raw_password
+        return make_password(raw_password)
 
     def create(self, validated_data):
         password = validated_data.get("password")
@@ -257,8 +257,7 @@ class PhonePasswordResetSerializer(serializers.ModelSerializer):
             user = User.objects.get(
                 phone_number=phone_number,
             )
-            raw_password = password
-            user.set_password(raw_password)
+            user.password = password
             user.verified_phone_number_at = timezone.now()
             user.save()
             return user
@@ -287,7 +286,7 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
 
     def validate_password(self, raw_password):
         django_validate_password(raw_password)
-        return raw_password
+        return make_password(raw_password)
 
     def create(self, validated_data):
         signature = validated_data.get("verification_id")
@@ -302,7 +301,7 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
         except User.DoesNotExist:
             raise exceptions.NotFound("User not found", "user_not_found")
 
-        user.set_password(password)
+        user.password = password
         user.verified_email_at = timezone.now()
         user.save()
 

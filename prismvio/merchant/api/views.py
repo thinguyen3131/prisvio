@@ -14,11 +14,18 @@ from .serializers import MerchantPreviewSerializer, MerchantSerializer
 
 
 class MerchantListCreateView(generics.ListCreateAPIView):
+    queryset = Merchant.objects.all()
     serializer_class = MerchantSerializer
     permission_classes = [MerchantPermission]
 
     def get_queryset(self):
+        user_id = self.request.GET.get("user_id", None)
+        queryset = self.queryset
+
+        if user_id:
+            queryset = self.queryset.filter(owner=user_id)
         queryset = search(
+            queryset=queryset,
             query_params=self.request.query_params,
             model=Merchant,
         )

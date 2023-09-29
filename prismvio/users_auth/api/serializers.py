@@ -320,3 +320,9 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
             "success": True,
             "phone_number": instance.email,
         }
+
+
+class ValidateEmailVerificationCodeSerializer(serializers.Serializer):
+    verification_id = serializers.CharField(required=True)
+    code = serializers.CharField(required=True)
+    email = serializers.EmailField(max_length=255, required=True)

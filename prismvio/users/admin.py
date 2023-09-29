@@ -11,7 +11,7 @@ User = get_user_model()
 @admin.register(User)
 class UserAdmin(auth_admin.UserAdmin):
     fieldsets = (
-        (None, {"fields": ("email","phone_number", "password")}),
+        (None, {"fields": ("email", "phone_number", "password")}),
         (_("Personal info"), {"fields": ("full_name",)}),
         (
             _("Permissions"),

@@ -18,6 +18,7 @@ from prismvio.users.api.validate_serializers import UserValidationSerializer, Ve
 from prismvio.users.enums import OTPAction
 from prismvio.users_auth.exceptions import LoginFailException
 from prismvio.utils.exceptions import CODE
+from django.contrib.auth import authenticate
 
 User = get_user_model()
 
@@ -61,7 +62,17 @@ class CategorySerializer(serializers.ModelSerializer):
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ("id", "first_name", "middle_name", "last_name", "full_name", "avatar", "banner", "parent_id", "profile_type")
+        fields = (
+            "id",
+            "first_name",
+            "middle_name",
+            "last_name",
+            "full_name",
+            "avatar",
+            "banner",
+            "parent_id",
+            "profile_type",
+        )
 
 
 class LoginSerializer(serializers.Serializer):
@@ -79,11 +90,11 @@ class LoginSerializer(serializers.Serializer):
         user = None
         try:
             if email:
-                user = User.objects.get(email=email)
+                user = User.objects.get(email=email, is_active=True)
             elif phone_number:
-                user = User.objects.get(phone_number=phone_number)
+                user = User.objects.get(phone_number=phone_number, is_active=True)
             elif username:
-                user = User.objects.get(username=username)
+                user = User.objects.get(username=username, is_active=True)
             if user and user.check_password(password):
                 refresh = RefreshToken.for_user(user)
                 return {
@@ -232,7 +243,7 @@ class PhonePasswordResetSerializer(serializers.ModelSerializer):
 
     def validate_password(self, raw_password):
         django_validate_password(raw_password)
-        return raw_password
+        return make_password(raw_password)
 
     def create(self, validated_data):
         password = validated_data.get("password")
@@ -258,8 +269,7 @@ class PhonePasswordResetSerializer(serializers.ModelSerializer):
             user = User.objects.get(
                 phone_number=phone_number,
             )
-            raw_password = password
-            user.set_password(raw_password)
+            user.password = password
             user.verified_phone_number_at = timezone.now()
             user.save()
             return user
@@ -288,7 +298,7 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
 
     def validate_password(self, raw_password):
         django_validate_password(raw_password)
-        return raw_password
+        return make_password(raw_password)
 
     def create(self, validated_data):
         signature = validated_data.get("verification_id")
@@ -303,7 +313,7 @@ class EmailPasswordResetSerializer(serializers.ModelSerializer, VerificationIdSe
         except User.DoesNotExist:
             raise exceptions.NotFound("User not found", "user_not_found")
 
-        user.set_password(password)
+        user.password = password
         user.verified_email_at = timezone.now()
         user.save()
 

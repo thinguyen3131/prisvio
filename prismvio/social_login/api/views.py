@@ -36,7 +36,7 @@ def google_login(request):
     if user.is_registered:
         return Response(
             {
-                "user" :{
+                "user": {
                     "id": user.id,
                     "avatar": user.avatar,
                     "parent_id": user.parent.id if user.parent else "",
@@ -45,16 +45,14 @@ def google_login(request):
                     "is_registered": user.is_registered,
                     "profile_type": user.profile_type,
                 },
-                
                 "refresh": str(refresh),
                 "access": str(refresh.access_token),
-                
             }
         )
     else:
         return Response(
             {
-                "user" :{
+                "user": {
                     "id": user.id,
                     "avatar": user.avatar,
                     "parent_id": user.parent.id if user.parent else "",
@@ -63,10 +61,8 @@ def google_login(request):
                     "is_registered": user.is_registered,
                     "profile_type": user.profile_type,
                 },
-                
                 "refresh": str(refresh),
                 "access": str(refresh.access_token),
-                
             }
         )
 

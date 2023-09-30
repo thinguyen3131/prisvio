@@ -40,8 +40,8 @@ class Merchant(models.Model):
         max_length=20, choices=MerchantCurrency.choices, default=MerchantCurrency.VND.value, blank=True, null=True
     )
     uid = models.CharField(max_length=64, null=True, blank=True, unique=True)
-    latitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
-    longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
+    latitude = models.DecimalField(max_digits=12, decimal_places=9, null=True, blank=True)
+    longitude = models.DecimalField(max_digits=12, decimal_places=9, null=True, blank=True)
     address = models.CharField(max_length=255, blank=True, null=True)
     is_active = models.BooleanField(default=True)
     hashtags = models.ManyToManyField("menu_merchant.Hashtag", blank=True, related_name="merchants")

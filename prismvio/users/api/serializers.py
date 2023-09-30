@@ -149,7 +149,6 @@ class MeDetailSerializer(UserValidationSerializer):
             "categories",
             "category_ids",
             "address",
-            "full_address",
             "latitude",
             "longitude",
             "country_code",

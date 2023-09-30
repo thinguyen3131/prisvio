@@ -2,9 +2,15 @@ from rest_framework import serializers
 from timezone_field.rest_framework import TimeZoneSerializerField
 
 from prismvio.location.models import Country, District, Province, Ward
-from prismvio.menu_merchant.models import Category, Keyword
+from prismvio.menu_merchant.models import Category, Hashtag, Keyword
 from prismvio.merchant.exceptions import MerchantAlreadyExistsException
 from prismvio.merchant.models import ExclusionDate, Merchant, TimeslotCollectionMerchant
+
+
+class HashtagSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Hashtag
+        fields = "__all__"
 
 
 class KeywordSerializer(serializers.ModelSerializer):
@@ -45,6 +51,7 @@ class ProvinceSerializer(serializers.ModelSerializer):
 
 class MerchantSerializer(serializers.ModelSerializer):
     keywords = KeywordSerializer(many=True, required=False)
+    hashtags = HashtagSerializer(many=True, required=False, allow_null=True)
     timezone = TimeZoneSerializerField(use_pytz=True)
     categories = CategorySerializer(many=True, read_only=True)
     category_ids = serializers.ListField(
@@ -61,6 +68,7 @@ class MerchantSerializer(serializers.ModelSerializer):
         if user.merchants.exists():
             raise MerchantAlreadyExistsException()
         category_ids = validated_data.pop("category_ids", [])
+        hashtags = validated_data.pop("hashtags", [])
         keywords = validated_data.pop("keywords", [])
         merchant = Merchant.objects.create(**validated_data)
         if keywords:
@@ -70,6 +78,13 @@ class MerchantSerializer(serializers.ModelSerializer):
                     key, _ = Keyword.objects.get_or_create(name=name)
                     merchant.keywords.add(key)
 
+        if hashtags:
+            for tag in hashtags:
+                name = tag.get("name")
+                if name:
+                    key, _ = Hashtag.objects.get_or_create(name=name)
+                    merchant.hashtags.add(key)
+
         if category_ids:
             merchant.categories.set(category_ids)
         return merchant
@@ -77,6 +92,7 @@ class MerchantSerializer(serializers.ModelSerializer):
     def update(self, instance, validated_data):
         category_ids = validated_data.pop("category_ids", None)
         keywords = validated_data.pop("keywords", None)
+        hashtags = validated_data.pop("hashtags", None)
         instance = super().update(instance, validated_data)
         if category_ids is not None:
             instance.categories.set(category_ids)
@@ -88,6 +104,14 @@ class MerchantSerializer(serializers.ModelSerializer):
                 if name:
                     key, _ = Keyword.objects.get_or_create(name=name)
                     instance.keywords.add(key)
+
+        if hashtags is not None:
+            instance.hashtags.clear()
+            for tag in hashtags:
+                name = tag.get("name")
+                if name:
+                    key, _ = Hashtag.objects.get_or_create(name=name)
+                    instance.hashtags.add(key)
         return instance
 
 

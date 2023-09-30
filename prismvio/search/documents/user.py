@@ -7,7 +7,7 @@ from prismvio.core.dsl import fields
 from prismvio.core.dsl.documents import Document
 from prismvio.core.dsl.registries import registry
 from prismvio.core.dsl.search import Search
-from prismvio.users.models.user import PrivacySetting
+from prismvio.users.models.user import PrivacySetting, Friend
 
 User = get_user_model()
 
@@ -42,10 +42,12 @@ class UsersDocument(Document):
         fields = [
             "id",
         ]
-        related_models = [PrivacySetting]
+        related_models = [PrivacySetting, Friend]
 
     def get_instances_from_related(self, related_instance):
         if isinstance(related_instance, PrivacySetting):
+            return related_instance.user
+        if isinstance(related_instance, Friend):
             return related_instance.user
 
     def get_queryset(self):

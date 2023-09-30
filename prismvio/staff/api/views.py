@@ -77,7 +77,7 @@ class StaffDetailAPIView(RetrieveUpdateDestroyAPIView):
     def perform_destroy(self, instance):
         instance.deleted_at = datetime.now()
         instance.updated_at = datetime.now()
-        instance.service.clear()
+        instance.services.clear()
         instance.save()
 
 

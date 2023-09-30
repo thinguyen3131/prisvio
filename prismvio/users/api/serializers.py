@@ -178,7 +178,6 @@ class MeDetailSerializer(UserValidationSerializer):
 
     def update(self, instance, validated_data):
         email = validated_data.get("email", None)
-        otp = validated_data.get("otp", None)
         signature = validated_data.pop("verification_id", None)
         phone_number = validated_data.get("phone_number", None)
         id_token = validated_data.pop("id_token", None)
@@ -187,7 +186,7 @@ class MeDetailSerializer(UserValidationSerializer):
         category_ids = validated_data.pop("category_ids", None)
         otp_obj = None
         if email and instance.email != email and email_verified is True:
-            otp_obj = self.check_verification_id(signature, email, otp)
+            otp_obj = self.check_verification_id(signature, email)
             validated_data["verified_email_at"] = timezone.now()
 
         if phone_number and instance.phone_number != phone_number and phone_verified is True:

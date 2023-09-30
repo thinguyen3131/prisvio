@@ -44,17 +44,17 @@ urlpatterns += [
     # DRF auth token
     path("auth-token/", obtain_auth_token),
     path("api/schema/", SpectacularAPIView.as_view(), name="api-schema"),
-    path(
-        "api/docs/",
-        SpectacularSwaggerView.as_view(url_name="api-schema"),
-        name="api-docs",
-    ),
 ]
 
 if settings.DEBUG:
     # This allows the error pages to be debugged during development, just visit
     # these url in browser to see how these error pages look like.
     urlpatterns += [
+        path(
+            "api/docs/",
+            SpectacularSwaggerView.as_view(url_name="api-schema"),
+            name="api-docs",
+        ),
         path(
             "400/",
             default_views.bad_request,

@@ -300,7 +300,7 @@ CELERY_TASK_SEND_SENT_EVENT = True
 # django-rest-framework - https://www.django-rest-framework.org/api-guide/settings/
 REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
-        "rest_framework.authentication.SessionAuthentication",
+        # "rest_framework.authentication.SessionAuthentication",
         "rest_framework_simplejwt.authentication.JWTAuthentication",
     ),
     "DEFAULT_RENDERER_CLASSES": ("rest_framework.renderers.JSONRenderer",),
@@ -455,3 +455,10 @@ GCS_PUBLIC_BUCKET_NAME = env("GCS_PUBLIC_BUCKET_NAME", default="")
 GCS_PRIVATE_BUCKET_NAME = env("GCS_PRIVATE_BUCKET_NAME", default="")
 GCS_SERVICE_ACCOUNT_EMAIL = env("GCS_SERVICE_ACCOUNT_EMAIL", default="")
 GCS_STORAGE_DOMAIN = env("GCS_STORAGE_DOMAIN", default="")
+
+
+# Swagger
+SPECTACULAR_SETTINGS = {
+    "SERVE_PERMISSIONS": ["rest_framework.permissions.AllowAny"],
+    "SERVE_AUTHENTICATION": [],
+}

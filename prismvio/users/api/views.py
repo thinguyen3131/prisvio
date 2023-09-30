@@ -125,6 +125,7 @@ class MyProfileView(generics.RetrieveUpdateAPIView):
 
 
 class MyPasswordView(generics.UpdateAPIView):
+    permission_classes = [IsGetPermission]
     serializer_class = UpdatePasswordSerializer
     http_method_names = ["put"]
 

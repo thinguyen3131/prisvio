@@ -83,9 +83,8 @@ class User(AbstractUser):
     bio = models.TextField(null=True, blank=True)
 
     address = models.CharField(max_length=255, null=True, blank=True)
-    full_address = models.CharField(max_length=255, null=True, blank=True)
-    latitude = models.DecimalField(max_digits=22, decimal_places=16, null=True, blank=True)
-    longitude = models.DecimalField(max_digits=22, decimal_places=16, null=True, blank=True)
+    latitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
+    longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
 
     currency = models.CharField(
         max_length=20,

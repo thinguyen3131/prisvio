@@ -18,7 +18,6 @@ from prismvio.users.api.validate_serializers import UserValidationSerializer, Ve
 from prismvio.users.enums import OTPAction
 from prismvio.users_auth.exceptions import LoginFailException
 from prismvio.utils.exceptions import CODE
-from django.contrib.auth import authenticate
 
 User = get_user_model()
 

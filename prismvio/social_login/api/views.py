@@ -1,5 +1,3 @@
-import re
-
 from django.conf import settings
 from django.contrib.auth import login
 from rest_framework import status
@@ -24,11 +22,16 @@ def google_login(request):
         user = backend.do_auth(request.data.get("access_token"))
         login(request, user)
     except Exception as e:
-        check_email = str(e).split()
-        string = check_email[9]
-        regex = r"\w+@\w+\.\w+"
-        emails = re.findall(regex, string)
-        return Response({"is_registered": False, "error": emails}, status=status.HTTP_505_HTTP_VERSION_NOT_SUPPORTED)
+        # print("============================================================")
+        # print(e)
+        # # check_email = str(e).split()
+        # print("============================================================")
+        # print(check_email)
+        # print("============================================================")
+        # string = check_email[9]
+        # regex = r"\w+@\w+\.\w+"
+        # emails = re.findall(regex, string)
+        return Response({"is_registered": False, "error": e}, status=status.HTTP_505_HTTP_VERSION_NOT_SUPPORTED)
     refresh = RefreshToken.for_user(user)
     user.email_verified = True
     user.save()

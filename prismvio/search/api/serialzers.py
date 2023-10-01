@@ -159,4 +159,4 @@ class UserQueryParamsSerializer(serializers.Serializer):
 class SearchUserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ["id", "username", "email", "phone_number"]
+        fields = ["id", "username", "email", "phone_number","full_name","avatar"]

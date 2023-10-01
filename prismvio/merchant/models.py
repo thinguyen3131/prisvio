@@ -86,6 +86,7 @@ class Merchant(models.Model):
     updated_at = models.DateTimeField(auto_now=True, blank=True, null=True)
     banner = models.JSONField(default=dict, null=True, blank=True, help_text="Banner")
     allow_staff_connect_user = models.BooleanField(default=False)
+    note_placeholder = models.TextField(null=True, blank=True, help_text="Booking note for your client")
 
     objects = MerchantManager()
 

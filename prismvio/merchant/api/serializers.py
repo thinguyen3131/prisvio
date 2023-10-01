@@ -58,9 +58,61 @@ class MerchantSerializer(serializers.ModelSerializer):
         child=serializers.IntegerField(), required=False, allow_null=True, write_only=True
     )
 
+    country = CountrySerializer(read_only=True)
+    province = ProvinceSerializer(read_only=True)
+    district = DistrictSerializer(read_only=True)
+    ward = WardSerializer(read_only=True)
+
+    country_id = serializers.PrimaryKeyRelatedField(
+        write_only=True, source="country", required=False, queryset=Country.objects.all()
+    )
+    province_id = serializers.PrimaryKeyRelatedField(
+        write_only=True, source="province", required=False, queryset=Province.objects.all()
+    )
+    district_id = serializers.PrimaryKeyRelatedField(
+        write_only=True, source="district", required=False, queryset=District.objects.all()
+    )
+    ward_id = serializers.PrimaryKeyRelatedField(
+        write_only=True, source="ward", required=False, queryset=Ward.objects.all()
+    )
+
     class Meta:
         model = Merchant
-        fields = "__all__"
+        fields = (
+            "id",
+            "name",
+            "description",
+            "timezone",
+            "email",
+            "phone_number",
+            "timezone",
+            "note_placeholder",
+            "website",
+            "is_active",
+            "uid",
+            "latitude",
+            "longitude",
+            "address",
+            "country_id",
+            "opening_date",
+            "country",
+            "province",
+            "district",
+            "ward",
+            "province_id",
+            "district_id",
+            "ward_id",
+            "avatar",
+            "banner",
+            "allow_staff_connect_user",
+            "hashtags",
+            "created_at",
+            "updated_at",
+            "category_ids",
+            "categories",
+            "keywords",
+        )
+        read_only_fields = ("id", "created_at", "updated_at", "categories")
 
     def create(self, validated_data):
         request = self.context.get("request")

@@ -11,7 +11,6 @@ from prismvio.utils.drf_utils import search
 
 class BookingListCreateView(generics.ListCreateAPIView):
     serializer_class = BookingSerializer
-    permission_classes = ()
 
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)

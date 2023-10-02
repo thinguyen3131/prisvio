@@ -6,7 +6,9 @@ from django.http import JsonResponse
 from django.urls import include, path
 from django.views import defaults as default_views
 from drf_spectacular.views import SpectacularAPIView, SpectacularSwaggerView
+from fcm_django.api.rest_framework import FCMDeviceAuthorizedViewSet
 from rest_framework.authtoken.views import obtain_auth_token
+from rest_framework.routers import DefaultRouter
 
 
 def index(_):
@@ -29,6 +31,9 @@ if settings.DEBUG:
     # Static file serving when using Gunicorn + Uvicorn for local web socket development
     urlpatterns += staticfiles_urlpatterns()
 
+router = DefaultRouter()
+router.register(r"devices", FCMDeviceAuthorizedViewSet)
+
 # API URLS
 urlpatterns += [
     # API base url
@@ -40,6 +45,8 @@ urlpatterns += [
     path("api/location/", include("prismvio.location.api.urls")),
     path("api/social/", include("prismvio.social_login.api.urls")),
     path("api/bookings/", include("prismvio.bookings.api.urls")),
+    path("fcm/", include(router.urls)),
+    path("api/reports/", include("prismvio.reports.api.urls")),
     path("api/search/", include("prismvio.search.api.urls")),  # new
     # DRF auth token
     path("auth-token/", obtain_auth_token),

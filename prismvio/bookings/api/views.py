@@ -14,7 +14,7 @@ class BookingListCreateView(generics.ListCreateAPIView):
 
     def get_queryset(self):
         query_params = deepcopy(self.request.query_params)
-        staff_ids = query_params.getlist("staff_ids", None)
+        staff_ids = query_params.get("staff_ids", None)
         merchant_id = query_params.get("merchant_id", None)
         user_id = query_params.get("user_id", None)
         updated_at = query_params.get("updated_at", None)
@@ -34,6 +34,7 @@ class BookingListCreateView(generics.ListCreateAPIView):
         if end_date:
             where &= Q(end_date__lte=end_date)
         if staff_ids:
+            staff_ids = staff_ids.split(",")
             where &= Q(bookingservice__staff__id__in=staff_ids)
         if service_start_date:
             where &= Q(bookingservice__start_date__gte=service_start_date)

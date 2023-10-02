@@ -37,10 +37,13 @@ class User(AbstractUser):
         },
     }
 
-    class Gender(models.TextChoices):
-        MALE = "Male"
-        FEMALE = "Female"
-        OTHERS = "Others"
+
+    GENDER = (  # ISO / IEC 5218
+        (0, 'Not known'),
+        (1, 'Male'),
+        (2, 'Female'),
+        (9, 'Not applicable'),
+    )
 
     class MaritalStatus(models.TextChoices):
         MARRIED = "MR"
@@ -73,7 +76,7 @@ class User(AbstractUser):
     brand_name = models.CharField(max_length=255, null=True, blank=True)
 
     role = models.CharField(choices=Role.choices, max_length=10, null=True)
-    gender = models.CharField(choices=Gender.choices, max_length=10, null=True)
+    gender = models.SmallIntegerField(choices=GENDER, null=True)
     profile_type = models.PositiveSmallIntegerField(choices=PROFILE_TYPE_CHOICES, default=PERSONAL_PROFILE)
     marital_status = models.CharField(choices=MaritalStatus.choices, max_length=10, null=True)
     language = models.CharField(max_length=2, choices=languages.languages, default="en")

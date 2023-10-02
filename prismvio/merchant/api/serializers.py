@@ -111,6 +111,7 @@ class MerchantSerializer(serializers.ModelSerializer):
             "category_ids",
             "categories",
             "keywords",
+            "currency",
         )
         read_only_fields = ("id", "created_at", "updated_at", "categories")
 

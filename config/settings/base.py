@@ -98,6 +98,7 @@ LOCAL_APPS = [
     "prismvio.bookings",
     "prismvio.notifications",
     "prismvio.events",
+    "prismvio.reports",
     # search should get end
     "prismvio.search",
 ]

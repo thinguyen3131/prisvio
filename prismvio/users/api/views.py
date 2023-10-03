@@ -1,13 +1,13 @@
 import logging
 from datetime import timedelta
 
-from django.db.models.signals import post_save
-from django.db import models
-from django.dispatch import receiver
 import jwt
 from django.conf import settings
 from django.contrib.auth import get_user_model
 from django.contrib.auth.hashers import make_password
+from django.db import models
+from django.db.models.signals import post_save
+from django.dispatch import receiver
 from django.http import JsonResponse
 from django.utils import timezone
 from rest_framework import exceptions, generics, status, viewsets
@@ -25,16 +25,16 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from prismvio.core.permissions import IsGetPermission
 from prismvio.users.api.serializers import (
     DeactivateUserActiveStatusSerializer,
+    FriendshipSerializer,
     MeDetailSerializer,
     PrivacySettingSerializer,
     SendEmailVerificationCodeSerializer,
     SubUserSerializer,
     UpdatePasswordSerializer,
-    FriendshipSerializer,
 )
 from prismvio.users.enums import IntervalLockTime, OTPAction, OTPType
 from prismvio.users.models.otp import OneTimePassword
-from prismvio.users.models.user import PrivacySetting, Friendship, Friend
+from prismvio.users.models.user import Friend, Friendship, PrivacySetting
 from prismvio.users.otp import LimitedError, require_new_otp
 from prismvio.users.tasks import send_email_verification_otp_by_email_template
 
@@ -262,54 +262,58 @@ class SendOTPEmailPasswordResetView(EmailVerificationCodeBaseView):
 class FriendshipViewSet(viewsets.ModelViewSet):
     queryset = Friendship.objects.all()
     serializer_class = FriendshipSerializer
-    
+
     def create(self, request, *args, **kwargs):
         sender = request.user
-        receiver_id = request.data.get('receiver')
-        
+        receiver_id = request.data.get("receiver")
+
         if not receiver_id or Friendship.objects.filter(sender=sender, receiver_id=receiver_id).exists():
-            return Response({'detail': 'Invalid receiver or Friendship already exists'}, status=status.HTTP_400_BAD_REQUEST)
-        
-        serializer = self.get_serializer(data={'sender': sender.id, 'receiver': receiver_id})
+            return Response(
+                {"detail": "Invalid receiver or Friendship already exists"}, status=status.HTTP_400_BAD_REQUEST
+            )
+
+        serializer = self.get_serializer(data={"sender": sender.id, "receiver": receiver_id})
         serializer.is_valid(raise_exception=True)
         self.perform_create(serializer)
         return Response(serializer.data, status=status.HTTP_201_CREATED)
-    
+
     def update(self, request, *args, **kwargs):
         friendship = self.get_object()
-        
+        status = request.data.get("status")
+
         if request.user != friendship.receiver:
-            return Response({'detail': 'Permission denied'}, status=status.HTTP_403_FORBIDDEN)
-        
-        status = request.data.get('status')
+            return Response({"detail": "Permission denied"}, status=status.HTTP_403_FORBIDDEN)
+
+        # status = request.data.get("status")
         if status not in [Friendship.PENDING, Friendship.ACCEPTED, Friendship.DECLINED]:
-            return Response({'detail': 'Invalid status'}, status=status.HTTP_400_BAD_REQUEST)
-        
+            return Response({"detail": "Invalid status"}, status=status.HTTP_400_BAD_REQUEST)
+
         friendship.status = status
         friendship.save()
-        
+
         if status == Friendship.ACCEPTED:
             # Logic to create Friend objects can be handled by the signal as mentioned in the previous response
             pass
-        
+
         serializer = self.get_serializer(friendship)
         return Response(serializer.data)
-    
+
     def destroy(self, request, *args, **kwargs):
         friendship = self.get_object()
 
         if request.user != friendship.sender and request.user != friendship.receiver:
-            return Response({'detail': 'Permission denied'}, status=status.HTTP_403_FORBIDDEN)
+            return Response({"detail": "Permission denied"}, status=status.HTTP_403_FORBIDDEN)
 
         Friend.objects.filter(
-            models.Q(user=friendship.sender, friend=friendship.receiver) | 
-            models.Q(user=friendship.receiver, friend=friendship.sender)
+            models.Q(user=friendship.sender, friend=friendship.receiver)
+            | models.Q(user=friendship.receiver, friend=friendship.sender)
         ).delete()
-        
+
         # Xóa đối tượng Friendship
         friendship.delete()
-        
+
         return Response(status=status.HTTP_204_NO_CONTENT)
+
 
 @receiver(post_save, sender=Friendship)
 def create_friend_objects(sender, instance, **kwargs):

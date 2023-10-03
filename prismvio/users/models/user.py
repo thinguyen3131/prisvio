@@ -37,12 +37,11 @@ class User(AbstractUser):
         },
     }
 
-
     GENDER = (  # ISO / IEC 5218
-        (0, 'Not known'),
-        (1, 'Male'),
-        (2, 'Female'),
-        (9, 'Not applicable'),
+        (0, "Not known"),
+        (1, "Male"),
+        (2, "Female"),
+        (9, "Not applicable"),
     )
 
     class MaritalStatus(models.TextChoices):
@@ -61,8 +60,8 @@ class User(AbstractUser):
     username = models.CharField(unique=True, blank=True, null=True, max_length=150)
     email = models.EmailField(blank=True, null=True, unique=True)
     phone_number = models.CharField(max_length=15, blank=True, null=True, unique=True)
-    country_code = models.CharField(max_length=5, default=settings.DEFAULT_COUNTRY_CODE)   # vn
-    country_phone = models.CharField(max_length=5, default=settings.DEFAULT_COUNTRY_PHONE)  #+84
+    country_code = models.CharField(max_length=5, default=settings.DEFAULT_COUNTRY_CODE)  # vn
+    country_phone = models.CharField(max_length=5, default=settings.DEFAULT_COUNTRY_PHONE)  # +84
     verified_email_at = models.DateTimeField(_("Verified Email"), null=True, blank=True)
     verified_phone_number_at = models.DateTimeField(_("Verified Phone Number"), null=True, blank=True)
     email_verified = models.BooleanField(default=False)
@@ -152,7 +151,7 @@ class User(AbstractUser):
     #         parent_ids.add(user.parent_id)
     #         self.get_all_parents(user.parent, parent_ids)
     #     return parent_ids
-    
+
     # def parent_ids(self):
     #     parent_ids_set = set()
     #     if self.parent:

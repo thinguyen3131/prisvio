@@ -7,7 +7,7 @@ from prismvio.core.dsl import fields
 from prismvio.core.dsl.documents import Document
 from prismvio.core.dsl.registries import registry
 from prismvio.core.dsl.search import Search
-from prismvio.users.models.user import PrivacySetting, Friend
+from prismvio.users.models.user import Friend, PrivacySetting
 
 User = get_user_model()
 
@@ -61,8 +61,12 @@ class UserSearch(Search):
 
     def custom_search(self, queryset, request: UserSearchRequest):
         # must = [self.get_query_string_query(request.search_text)]
+        country_codes = ["+84", "+1", "+49"]
         user_name_condition = Q("term", username=request.search_text)
-        phone_number_condition = Q("term", phone_number=request.search_text)
+        # phone_number_condition = Q("term", phone_number=request.search_text)
+        phone_number_conditions = [
+            Q("term", phone_number=f"{country_code}{request.search_text}") for country_code in country_codes
+        ]
         email_condition = Q("term", email=request.search_text)
 
         privacy_conditions_user_name = Nested(
@@ -74,10 +78,14 @@ class UserSearch(Search):
         privacy_conditions_phone_number = Nested(
             path="privacy_settings", query=Q("term", privacy_settings__phone_number_privacy=PrivacySetting.EVERYONE)
         )
+        combined_phone_number_condition = phone_number_conditions[0]
+        for condition in phone_number_conditions[1:]:
+            combined_phone_number_condition |= condition
+
         combined_queries = (
             (user_name_condition & privacy_conditions_user_name)
             | (email_condition & privacy_conditions_email)
-            | (phone_number_condition & privacy_conditions_phone_number)
+            | (combined_phone_number_condition & privacy_conditions_phone_number)
         )
 
         if request.friend_ids:
@@ -95,7 +103,7 @@ class UserSearch(Search):
             friends_conditions = (
                 (friend_id_conditions & friends_username_conditions & user_name_condition)
                 | (friend_id_conditions & friends_email_conditions & email_condition)
-                | (friend_id_conditions & friends_phone_number_conditions & phone_number_condition)
+                | (friend_id_conditions & friends_phone_number_conditions & combined_phone_number_condition)
             )
 
             combined_queries |= friends_conditions

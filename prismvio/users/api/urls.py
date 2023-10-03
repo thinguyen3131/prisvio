@@ -1,8 +1,9 @@
 from django.conf import settings
-from django.urls import path, include
+from django.urls import include, path
 from rest_framework.routers import DefaultRouter, SimpleRouter
 
 from prismvio.users.api import views
+
 from .views import FriendshipViewSet
 
 if settings.DEBUG:
@@ -10,7 +11,7 @@ if settings.DEBUG:
 else:
     router = SimpleRouter()
 
-router.register(r'friendships', FriendshipViewSet)
+router.register(r"friendships", FriendshipViewSet)
 
 urlpatterns = [
     path("send_email_otp/", views.SendValidateEmailVerificationCode.as_view(), name="send-email-otp"),
@@ -26,5 +27,5 @@ urlpatterns = [
         "privacy-settings/<int:user_id>/", views.PrivacySettingAPIView.as_view(), name="privacy-setting-crud"
     ),  # GET, PUT, DELETE for specific user's PrivacySetting
     path("subuser/", views.SubUserCreateAPIView.as_view(), name="create-subuser"),
-    path('', include(router.urls)),
+    path("", include(router.urls)),
 ]

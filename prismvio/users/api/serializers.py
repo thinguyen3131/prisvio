@@ -11,8 +11,7 @@ from prismvio.core.configs import CURRENCY
 from prismvio.location.models import Country, District, Province, Ward
 from prismvio.menu_merchant.models import Category
 from prismvio.users.api.validate_serializers import UserValidationSerializer
-from prismvio.users.models.user import PrivacySetting, Friendship
-
+from prismvio.users.models.user import Friendship, PrivacySetting
 
 User = get_user_model()
 
@@ -297,6 +296,4 @@ class SubUserSerializer(serializers.ModelSerializer):
 class FriendshipSerializer(serializers.ModelSerializer):
     class Meta:
         model = Friendship
-        fields = ['id', 'sender', 'receiver', 'status', 'created_at', 'updated_at']
-
-
+        fields = ["id", "sender", "receiver", "status", "created_at", "updated_at"]

@@ -7,7 +7,7 @@ from prismvio.core.dsl import fields
 from prismvio.core.dsl.documents import Document
 from prismvio.core.dsl.registries import registry
 from prismvio.core.dsl.search import Search
-from prismvio.users.models.user import PrivacySetting, Friend
+from prismvio.users.models.user import Friend, PrivacySetting
 
 User = get_user_model()
 

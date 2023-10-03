@@ -27,6 +27,7 @@ from prismvio.users.api.serializers import (
     MeDetailSerializer,
     PrivacySettingSerializer,
     SendEmailVerificationCodeSerializer,
+    SubUserCountSerializer,
     SubUserSerializer,
     UpdatePasswordSerializer,
 )
@@ -310,3 +311,21 @@ class FriendshipViewSet(viewsets.ModelViewSet):
         friendship.delete()
 
         return Response(status=status.HTTP_204_NO_CONTENT)
+
+
+class UserCloneListView(APIView):
+    queryset = User.objects.all()
+    serializer_class = SubUserCountSerializer
+
+    def get(self, request):
+        user_id = request.user.id
+        level = 0
+
+        if user_id:
+            level = User.objects.filter(parent_id=user_id).count()
+            return Response(
+                {
+                    "count": level,
+                },
+                status=HTTP_200_OK,
+            )

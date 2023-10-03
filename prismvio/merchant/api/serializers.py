@@ -82,6 +82,7 @@ class MerchantSerializer(serializers.ModelSerializer):
             "id",
             "name",
             "description",
+            "description_html",
             "timezone",
             "email",
             "phone_number",

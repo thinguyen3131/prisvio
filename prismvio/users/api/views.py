@@ -6,8 +6,6 @@ from django.conf import settings
 from django.contrib.auth import get_user_model
 from django.contrib.auth.hashers import make_password
 from django.db import models
-from django.db.models.signals import post_save
-from django.dispatch import receiver
 from django.http import JsonResponse
 from django.utils import timezone
 from rest_framework import exceptions, generics, status, viewsets
@@ -279,11 +277,11 @@ class FriendshipViewSet(viewsets.ModelViewSet):
 
     def update(self, request, *args, **kwargs):
         friendship = self.get_object()
+        friendship_status = request.data.get("status")
 
         if request.user != friendship.receiver:
             return Response({"detail": "Permission denied"}, status=status.HTTP_403_FORBIDDEN)
 
-        friendship_status = request.data.get("status")
         if friendship_status not in [Friendship.PENDING, Friendship.ACCEPTED, Friendship.DECLINED]:
             return Response({"detail": "Invalid status"}, status=status.HTTP_400_BAD_REQUEST)
 
@@ -312,10 +310,3 @@ class FriendshipViewSet(viewsets.ModelViewSet):
         friendship.delete()
 
         return Response(status=status.HTTP_204_NO_CONTENT)
-
-
-@receiver(post_save, sender=Friendship)
-def create_friend_objects(sender, instance, **kwargs):
-    if instance.status == Friendship.ACCEPTED:
-        Friend.objects.create(user=instance.sender, friend=instance.receiver)
-        Friend.objects.create(user=instance.receiver, friend=instance.sender)

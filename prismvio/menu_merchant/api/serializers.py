@@ -355,3 +355,41 @@ class CollectionSerializer(serializers.ModelSerializer):
             )
 
         return instance
+
+
+class CollectionItemLimitSerializer(serializers.ModelSerializer):
+    product = ProductsSerializer(read_only=True)
+    service = ServicesSerializer(read_only=True)
+
+    class Meta:
+        model = CollectionItem
+        fields = ("id", "collection", "product", "service", "order")
+
+
+class CollectionLimitSerializer(serializers.ModelSerializer):
+    total_item = serializers.IntegerField()
+    merchant_id = serializers.IntegerField(write_only=True)
+    collection_items = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Collection
+        fields = (
+            "id",
+            "name",
+            "order",
+            "merchant",
+            "deleted_at",
+            "created_at",
+            "updated_at",
+            "merchant_id",
+            "total_item",
+            "collection_items",
+        )
+
+    # TODO refactor this method
+    def get_collection_items(self, obj):
+        limit = self.context.get("limit", None)
+        items = CollectionItem.objects.filter(collection=obj).order_by("order")
+        if limit > 0:
+            items = items[:limit]
+        return CollectionItemLimitSerializer(items, many=True).data

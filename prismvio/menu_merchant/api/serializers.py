@@ -1,4 +1,4 @@
-from django.db.models import Max
+from django.db.models import Max, Q
 from rest_framework import serializers
 
 from prismvio.menu_merchant.models import (
@@ -389,7 +389,15 @@ class CollectionLimitSerializer(serializers.ModelSerializer):
     # TODO refactor this method
     def get_collection_items(self, obj):
         limit = self.context.get("limit", None)
-        items = CollectionItem.objects.filter(collection=obj).order_by("order")
+        exclude_where = Q(product__deleted_at__isnull=False).add(Q(product__hidden=True), Q.OR)
+        exclude_where |= Q(service__deleted_at__isnull=False).add(Q(service__hidden=True), Q.OR)
+        # exclude_where = Q(product__hidden=True)
+        items = (
+            CollectionItem.objects.select_related("product", "service")
+            .filter(collection=obj)
+            .order_by("order")
+            .exclude(exclude_where)
+        )
         if limit > 0:
             items = items[:limit]
         return CollectionItemLimitSerializer(items, many=True).data

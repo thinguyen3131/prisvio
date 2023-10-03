@@ -297,3 +297,9 @@ class FriendshipSerializer(serializers.ModelSerializer):
     class Meta:
         model = Friendship
         fields = ["id", "sender", "receiver", "status", "created_at", "updated_at"]
+
+
+class SubUserCountSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = "__all__"

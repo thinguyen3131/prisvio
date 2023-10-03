@@ -27,5 +27,6 @@ urlpatterns = [
         "privacy-settings/<int:user_id>/", views.PrivacySettingAPIView.as_view(), name="privacy-setting-crud"
     ),  # GET, PUT, DELETE for specific user's PrivacySetting
     path("subuser/", views.SubUserCreateAPIView.as_view(), name="create-subuser"),
+    path("count_sub_users/", views.UserCloneListView.as_view(), name="count_sub_users"),
     path("", include(router.urls)),
 ]

@@ -389,14 +389,14 @@ class CollectionLimitSerializer(serializers.ModelSerializer):
     # TODO refactor this method
     def get_collection_items(self, obj):
         limit = self.context.get("limit", None)
-        exclude_where = Q(product__deleted_at__isnull=False).add(Q(product__hidden=True), Q.OR)
-        exclude_where |= Q(service__deleted_at__isnull=False).add(Q(service__hidden=True), Q.OR)
+        where = Q(product__deleted_at__isnull=True).add(Q(product__hidden=False), Q.AND)
+        where |= Q(service__deleted_at__isnull=True).add(Q(service__hidden=True), Q.AND)
         # exclude_where = Q(product__hidden=True)
         items = (
             CollectionItem.objects.select_related("product", "service")
             .filter(collection=obj)
+            .filter(where)
             .order_by("order")
-            .exclude(exclude_where)
         )
         if limit > 0:
             items = items[:limit]

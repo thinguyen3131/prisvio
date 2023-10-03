@@ -1,7 +1,7 @@
 from copy import deepcopy
 from datetime import datetime
 
-from django.db.models import F, Q
+from django.db.models import Count, F, Q
 from geopy.distance import geodesic
 from rest_framework import generics, status
 from rest_framework.permissions import AllowAny
@@ -11,6 +11,7 @@ from rest_framework.views import APIView
 from prismvio.core.permissions import IsGetPermission
 from prismvio.menu_merchant.api.serializers import (
     CategorySerializer,
+    CollectionLimitSerializer,
     CollectionSerializer,
     HashtagSerializer,
     MerchantSerializer,
@@ -375,3 +376,31 @@ class CollectionDetailView(APIView):
         collection.updated_at = datetime.now()
         collection.save()
         return Response(status=status.HTTP_200_OK)
+
+
+class CollectionLimitListView(APIView):
+    permission_classes = ()
+
+    def get(self, request, *args, **kwargs):
+        merchant_id = request.query_params.get("merchant_id")
+        updated_at = request.query_params.get("updated_at")
+        limit = request.query_params.get("limit", None)
+        context = {}
+        if limit:
+            context = {"limit": int(limit)}
+
+        if merchant_id is None:
+            return Response({"error": "merchant_id parameter is required."}, status=status.HTTP_400_BAD_REQUEST)
+
+        where = Q(merchant_id=merchant_id)
+        if updated_at:
+            where &= Q(updated_at__gt=updated_at)
+
+        collections = Collection.objects.filter(where).annotate(total_item=Count("collectionitem")).order_by("order")
+        collection_serializer = CollectionLimitSerializer(collections, many=True, context=context)
+
+        data = {
+            "collections": collection_serializer.data,
+        }
+
+        return Response(data, status=status.HTTP_200_OK)

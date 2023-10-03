@@ -277,19 +277,18 @@ class FriendshipViewSet(viewsets.ModelViewSet):
 
     def update(self, request, *args, **kwargs):
         friendship = self.get_object()
-        status = request.data.get("status")
+        friendship_status = request.data.get("status")
 
         if request.user != friendship.receiver:
             return Response({"detail": "Permission denied"}, status=status.HTTP_403_FORBIDDEN)
 
-        # status = request.data.get("status")
-        if status not in [Friendship.PENDING, Friendship.ACCEPTED, Friendship.DECLINED]:
+        if friendship_status not in [Friendship.PENDING, Friendship.ACCEPTED, Friendship.DECLINED]:
             return Response({"detail": "Invalid status"}, status=status.HTTP_400_BAD_REQUEST)
 
-        friendship.status = status
+        friendship.status = friendship_status
         friendship.save()
 
-        if status == Friendship.ACCEPTED:
+        if friendship_status == Friendship.ACCEPTED:
             # Logic to create Friend objects can be handled by the signal as mentioned in the previous response
             pass
 

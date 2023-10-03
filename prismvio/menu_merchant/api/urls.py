@@ -6,6 +6,7 @@ from prismvio.menu_merchant.api.views import (
     CategoryListCreateView,
     CategoryRetrieveUpdateDestroyView,
     CollectionDetailView,
+    CollectionLimitListView,
     CollectionListView,
     CollectionSortView,
     CollectionUpdateView,
@@ -46,4 +47,5 @@ urlpatterns = [
     path("collections/sort/", CollectionSortView.as_view(), name="collection-sort"),
     path("collections/", CollectionListView.as_view(), name="collection-list"),
     path("collections/<int:collection_id>/", CollectionDetailView.as_view(), name="collection-detail"),
+    path("collections/items/", CollectionLimitListView.as_view(), name="a"),
 ]

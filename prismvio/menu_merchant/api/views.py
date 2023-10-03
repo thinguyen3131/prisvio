@@ -384,6 +384,7 @@ class CollectionLimitListView(APIView):
     def get(self, request, *args, **kwargs):
         merchant_id = request.query_params.get("merchant_id")
         updated_at = request.query_params.get("updated_at")
+        collection_id = request.query_params.get("collection_id")
         limit = request.query_params.get("limit", None)
         context = {}
         if limit:
@@ -393,6 +394,8 @@ class CollectionLimitListView(APIView):
             return Response({"error": "merchant_id parameter is required."}, status=status.HTTP_400_BAD_REQUEST)
 
         where = Q(merchant_id=merchant_id)
+        if collection_id:
+            where &= Q(id=collection_id)
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
 

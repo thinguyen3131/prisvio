@@ -36,6 +36,7 @@ from prismvio.users.models.otp import OneTimePassword
 from prismvio.users.models.user import Friend, Friendship, PrivacySetting
 from prismvio.users.otp import LimitedError, require_new_otp
 from prismvio.users.tasks import send_email_verification_otp_by_email_template
+from django.shortcuts import get_object_or_404
 
 User = get_user_model()
 
@@ -317,15 +318,34 @@ class UserCloneListView(APIView):
     queryset = User.objects.all()
     serializer_class = SubUserCountSerializer
 
-    def get(self, request):
-        user_id = request.user.id
-        level = 0
+    def get_object(self, user_id):
+        return get_object_or_404(self.get_queryset(), id=user_id)
 
-        if user_id:
-            level = User.objects.filter(parent_id=user_id).count()
+    def get(self,request, user_id=None, *args, **kwargs):
+        try:
+            user_id = user_id or request.query_params.get('id')
+            level = 0
+
+            if user_id:
+                level = User.objects.filter(parent_id=user_id).count()
+                return Response(
+                    {
+                        "count": level,
+                    },
+                    status=HTTP_200_OK,
+                )
+            else:
+                return Response(
+                    {
+                        "count": "Not Id",
+                    },
+                    status=HTTP_200_OK,
+                )
+        except:
             return Response(
-                {
-                    "count": level,
-                },
-                status=HTTP_200_OK,
-            )
+                    {
+                        "count": "Not Id",
+                    },
+                    status=HTTP_200_OK,
+                )
+

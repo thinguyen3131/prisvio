@@ -399,7 +399,18 @@ class CollectionLimitListView(APIView):
         if updated_at:
             where &= Q(updated_at__gt=updated_at)
 
-        collections = Collection.objects.filter(where).annotate(total_item=Count("collectionitem")).order_by("order")
+        exclude_where = Q(collectionitem__product__deleted_at__isnull=True).add(
+            Q(collectionitem__product__hidden=False), Q.AND
+        )
+        exclude_where |= Q(collectionitem__service__deleted_at__isnull=True).add(
+            Q(collectionitem__service__hidden=False), Q.AND
+        )
+
+        collections = (
+            Collection.objects.filter(where)
+            .annotate(total_item=Count("collectionitem", filter=exclude_where))
+            .order_by("order")
+        )
         collection_serializer = CollectionLimitSerializer(collections, many=True, context=context)
 
         data = {

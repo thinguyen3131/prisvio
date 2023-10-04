@@ -153,11 +153,14 @@ class UserExistsAPIView(APIView):
     def post(self, request):
         email = request.data.get("email", None)
         phone_number = request.data.get("phone_number", None)
+        username = request.data.get("username", None)
         is_existed = False
         if email:
             is_existed = User.objects.filter(email=email).exists()
         if phone_number:
             is_existed = User.objects.filter(phone_number=phone_number).exists()
+        if username:
+            is_existed = User.objects.filter(username=username).exists()
         return Response({"is_existed": is_existed}, status=HTTP_200_OK)
 
 

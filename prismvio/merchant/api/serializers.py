@@ -113,6 +113,9 @@ class MerchantSerializer(serializers.ModelSerializer):
             "categories",
             "keywords",
             "currency",
+            "total_available_slot",
+            "total_available_slots_unit",
+            "is_staffs_visible",
         )
         read_only_fields = ("id", "created_at", "updated_at", "categories")
 

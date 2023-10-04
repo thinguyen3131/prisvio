@@ -390,7 +390,7 @@ class CollectionLimitSerializer(serializers.ModelSerializer):
     def get_collection_items(self, obj):
         limit = self.context.get("limit", None)
         where = Q(product__deleted_at__isnull=True).add(Q(product__hidden=False), Q.AND)
-        where |= Q(service__deleted_at__isnull=True).add(Q(service__hidden=True), Q.AND)
+        where |= Q(service__deleted_at__isnull=True).add(Q(service__hidden=False), Q.AND)
         # exclude_where = Q(product__hidden=True)
         items = (
             CollectionItem.objects.select_related("product", "service")
